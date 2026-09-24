@@ -2,6 +2,7 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-09-24** — Phoenix Wright: Dual Destinies VR — une adaptation en réalité virtuelle pour Meta Quest prévue en 2027. ([revue du jour](../2026/09/2026-09-24.md))
 - **2026-09-24** — Control Resonant et Silent Hill: Townfall sortent le 24 septembre — deux grosses sorties le même jour. ([revue du jour](../2026/09/2026-09-24.md))
 - **2026-09-24** — Rayman Legends Retold le 3 décembre — nouveaux niveaux, nouveau royaume et Rayman Origins inclus. ([revue du jour](../2026/09/2026-09-24.md))
 - **2026-09-24** — Bungie et Destiny 2 / Marathon — retour du contenu retiré et refonte de Marathon. ([revue du jour](../2026/09/2026-09-24.md))
