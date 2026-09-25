@@ -9,4 +9,5 @@ Archive quotidienne de l'actualité jeu vidéo, rédigée en français à partir
 
 ## Revues
 
+- [2026-09-25](2026/09/2026-09-25.md) — Précommandes de GTA 6 largement sur PS5, Xbox conteste · Rumeur : PS6 finalisée pour novembre 2027, avec une version portable · Convention collective chez King (Candy Crush), la grève est évitée
 - [2026-09-24](2026/09/2026-09-24.md) — Restructuration de Xbox (268 postes, Halo chez Activision, Obsidian chez Bethesda, Ninja Theory menacé) · Undead Labs indépendant puis licenciements · Bungie promet de rendre le contenu de Destiny 2 et de refondre Marathon
