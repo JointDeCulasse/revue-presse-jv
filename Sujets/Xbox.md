@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-09-26** — Satya Nadella approuve la restructuration de Xbox — objectif de croissance dès le prochain exercice, sur PC comme sur console. ([revue du jour](../2026/09/2026-09-26.md))
+- **2026-09-26** — Rare continue plusieurs projets non annoncés — Activision, sa nouvelle tutelle, décidera de leur avenir. ([revue du jour](../2026/09/2026-09-26.md))
 - **2026-09-25** — GTA 6 : Xbox conteste le déséquilibre des précommandes — Matthew Ball parle de records et d'une part conforme au parc de consoles. ([revue du jour](../2026/09/2026-09-25.md))
 - **2026-09-25** — Suite : World's Edge aurait perdu un projet, Bethesda rassure — un jeu annulé chez Activision ; Jill Braff ne change pas la feuille de route de Bethesda. ([revue du jour](../2026/09/2026-09-25.md))
 - **2026-09-25** — Starfield 2 peu probable — Kurt Kuhlmann estime que le premier jeu n'a pas eu assez de succès. ([revue du jour](../2026/09/2026-09-25.md))

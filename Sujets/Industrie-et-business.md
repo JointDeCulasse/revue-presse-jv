@@ -2,6 +2,10 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-09-26** — Satya Nadella approuve la restructuration de Xbox — il salue la « rationalisation » d'Asha Sharma et vise un retour à la croissance. ([revue du jour](../2026/09/2026-09-26.md))
+- **2026-09-26** — Fin des disques PlayStation en 2028 : Nippon Ichi négocie — NIS veut garder ses éditions physiques, Sony sonde éditeurs et joueurs. ([revue du jour](../2026/09/2026-09-26.md))
+- **2026-09-26** — Le jeu PC a plus que triplé au Japon en quatre ans — plus de 300 milliards de yens en 2025, 12 % du marché. ([revue du jour](../2026/09/2026-09-26.md))
+- **2026-09-26** — Castlevania fête ses 40 ans — le jeu NES offert sur mobile jusqu'au 24 octobre et compilations en promotion. ([revue du jour](../2026/09/2026-09-26.md))
 - **2026-09-25** — GTA 6 : précommandes largement en faveur de la PS5 — Matthew Ball (Microsoft) affirme que la part de Xbox correspond à sa part de marché. ([revue du jour](../2026/09/2026-09-25.md))
 - **2026-09-25** — Nintendo obtient 4,5 M$ contre un modérateur de r/SwitchPirates — condamnation par défaut et fermeture des sites de distribution. ([revue du jour](../2026/09/2026-09-25.md))
 - **2026-09-25** — Coffret GTA 6 à 400 $ — 11 produits dérivés en précommande chez Rockstar, sans le jeu. ([revue du jour](../2026/09/2026-09-25.md))

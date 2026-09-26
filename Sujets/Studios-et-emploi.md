@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-09-26** — Rare sous la tutelle d'Activision — ses projets non annoncés seront évalués par sa nouvelle hiérarchie. ([revue du jour](../2026/09/2026-09-26.md))
+- **2026-09-26** — Ignisphere Studios, fondé par un ancien de Vanillaware — Takafumi Noda annonce Dawngazer, action-RPG 2D prévu en 2028. ([revue du jour](../2026/09/2026-09-26.md))
 - **2026-09-25** — Candy Crush : convention collective chez King — cinq syndicats suédois obtiennent un accord qui évite la grève du 25 septembre. ([revue du jour](../2026/09/2026-09-25.md))
 - **2026-09-25** — Suite : World's Edge aurait perdu un projet — un jeu (peut-être Age of Empires 5) annulé avec le passage chez Activision ; Bethesda ne change pas sa feuille de route. ([revue du jour](../2026/09/2026-09-25.md))
 - **2026-09-25** — Natalie Francis à la tête de Massive Entertainment — l'ex-Avalanche dirigera le studio de The Division à partir du 1er octobre. ([revue du jour](../2026/09/2026-09-25.md))

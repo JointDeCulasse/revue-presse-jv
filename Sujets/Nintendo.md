@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-09-26** — Fire Emblem: Fortune's Weave analysé par Digital Foundry — 30 fps stables, 1440p reconstruit en mode TV, pas de 60 fps. ([revue du jour](../2026/09/2026-09-26.md))
+- **2026-09-26** — Hell Is Us sur Switch 2 repoussé au 27 octobre — deuxième report de la version Switch 2 du jeu de Nacon. ([revue du jour](../2026/09/2026-09-26.md))
 - **2026-09-25** — Un spin-off de Zelda par Ubisoft Milan refusé par Nintendo — le projet « Goliath » centré sur Ganondorf a été rejeté fin 2023. ([revue du jour](../2026/09/2026-09-25.md))
 - **2026-09-25** — Nintendo obtient 4,5 M$ contre un modérateur de r/SwitchPirates — nouvelle victoire contre le piratage de la Switch. ([revue du jour](../2026/09/2026-09-25.md))
 - **2026-09-25** — RuneScape: Dragonwilds trop flou sur Switch 2 — Jagex promet des correctifs et un passage à l'Unreal Engine 5.8. ([revue du jour](../2026/09/2026-09-25.md))

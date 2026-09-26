@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-09-26** — GTA 6 en couverture de Game Informer le 29 septembre — 14 pages, douze nouvelles captures, météo et faune détaillées. ([revue du jour](../2026/09/2026-09-26.md))
+- **2026-09-26** — Hell Is Us sur Switch 2 repoussé au 27 octobre — pour des raisons de logistique, avec la mise à jour anniversaire le même jour. ([revue du jour](../2026/09/2026-09-26.md))
+- **2026-09-26** — Dawngazer annoncé pour 2028 — action-RPG 2D d'Ignisphere Studios sur PS5, Switch 2 et PC. ([revue du jour](../2026/09/2026-09-26.md))
 - **2026-09-25** — Armed Fantasia annulé — l'équipe d'Akifumi Kaneko arrête après plusieurs refontes du gameplay. ([revue du jour](../2026/09/2026-09-25.md))
 - **2026-09-25** — Star Wars: Galactic Racer le 6 octobre — jeu de course arcade avec éléments de roguelike par des anciens de Burnout. ([revue du jour](../2026/09/2026-09-25.md))
 - **2026-09-25** — Suite : calendrier de Marathon — PvE et deathmatch en décembre, nouvelle zone et refonte en mars 2027. ([revue du jour](../2026/09/2026-09-25.md))
