@@ -9,6 +9,7 @@ Archive quotidienne de l'actualité jeu vidéo, rédigée en français à partir
 
 ## Revues
 
+- [2026-09-27](2026/09/2026-09-27.md) — Minecraft Live : The Sift, première nouvelle dimension depuis 14 ans · Physint : Xbox paierait bien moins que 400 M$ · Le UK Games Expo interdit les jeux générés par IA
 - [2026-09-26](2026/09/2026-09-26.md) — Satya Nadella approuve la restructuration de Xbox et vise la croissance · Fin des disques PlayStation en 2028 : Nippon Ichi négocie avec Sony · Ace Combat 8 acclamé par la critique (88 sur Metacritic)
 - [2026-09-25](2026/09/2026-09-25.md) — Précommandes de GTA 6 largement sur PS5, Xbox conteste · Rumeur : PS6 finalisée pour novembre 2027, avec une version portable · Convention collective chez King (Candy Crush), la grève est évitée
 - [2026-09-24](2026/09/2026-09-24.md) — Restructuration de Xbox (268 postes, Halo chez Activision, Obsidian chez Bethesda, Ninja Theory menacé) · Undead Labs indépendant puis licenciements · Bungie promet de rendre le contenu de Destiny 2 et de refondre Marathon

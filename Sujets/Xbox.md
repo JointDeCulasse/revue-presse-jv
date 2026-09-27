@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-09-27** — Physint : Xbox paierait une « fraction » des 400 M$ — selon Bloomberg, Microsoft paie nettement moins que le chiffre avancé. ([revue du jour](../2026/09/2026-09-27.md))
+- **2026-09-27** — Minecraft Live : nouvelle dimension The Sift — d'abord dans Dungeons II le 29 septembre, puis dans Minecraft en 2027 ; 300 000 nouveaux joueurs par jour. ([revue du jour](../2026/09/2026-09-27.md))
 - **2026-09-26** — Satya Nadella approuve la restructuration de Xbox — objectif de croissance dès le prochain exercice, sur PC comme sur console. ([revue du jour](../2026/09/2026-09-26.md))
 - **2026-09-26** — Rare continue plusieurs projets non annoncés — Activision, sa nouvelle tutelle, décidera de leur avenir. ([revue du jour](../2026/09/2026-09-26.md))
 - **2026-09-25** — GTA 6 : Xbox conteste le déséquilibre des précommandes — Matthew Ball parle de records et d'une part conforme au parc de consoles. ([revue du jour](../2026/09/2026-09-25.md))

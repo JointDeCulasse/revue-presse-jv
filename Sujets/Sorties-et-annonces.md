@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-09-27** — Minecraft Live : The Sift, Dungeons II et grottes de glace — première nouvelle dimension depuis plus de 14 ans, dans Minecraft en 2027. ([revue du jour](../2026/09/2026-09-27.md))
+- **2026-09-27** — The Last of Us, saison 3 : trois nouveaux acteurs — John Goodman, Laura Bailey et Ian Alexander, pour une diffusion en 2027. ([revue du jour](../2026/09/2026-09-27.md))
 - **2026-09-26** — GTA 6 en couverture de Game Informer le 29 septembre — 14 pages, douze nouvelles captures, météo et faune détaillées. ([revue du jour](../2026/09/2026-09-26.md))
 - **2026-09-26** — Hell Is Us sur Switch 2 repoussé au 27 octobre — pour des raisons de logistique, avec la mise à jour anniversaire le même jour. ([revue du jour](../2026/09/2026-09-26.md))
 - **2026-09-26** — Dawngazer annoncé pour 2028 — action-RPG 2D d'Ignisphere Studios sur PS5, Switch 2 et PC. ([revue du jour](../2026/09/2026-09-26.md))
