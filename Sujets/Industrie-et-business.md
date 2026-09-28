@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-09-28** — Le film Resident Evil passe les 100 M$ aux États-Unis — 23,3 M$ au deuxième week-end, deuxième derrière la ressortie d'Avengers: Endgame. ([revue du jour](../2026/09/2026-09-28.md))
+- **2026-09-28** — Une recompilation de Knuckles' Chaotix « vibe-codée » avec l'IA fait réagir — bugs audio et grand écran, les fans critiquent l'usage de l'IA. ([revue du jour](../2026/09/2026-09-28.md))
 - **2026-09-27** — Physint : Xbox paierait une « fraction » des 400 M$ — le chiffre correspondrait au budget demandé à Sony, qui a lâché le projet. ([revue du jour](../2026/09/2026-09-27.md))
 - **2026-09-27** — Le UK Games Expo interdit les jeux générés par IA — seuls les usages secondaires (retouches, accessibilité) restent tolérés. ([revue du jour](../2026/09/2026-09-27.md))
 - **2026-09-26** — Satya Nadella approuve la restructuration de Xbox — il salue la « rationalisation » d'Asha Sharma et vise un retour à la croissance. ([revue du jour](../2026/09/2026-09-26.md))

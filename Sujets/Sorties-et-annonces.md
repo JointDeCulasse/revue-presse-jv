@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-09-28** — Gears of War: E-Day : accès anticipé le 1er octobre, sortie le 6 — environ 100 Go, sur Xbox Series et PC, dans le Game Pass dès la sortie. ([revue du jour](../2026/09/2026-09-28.md))
+- **2026-09-28** — Suite : The Witcher 3 Remastered, une mise à jour de 45 Go demain — gratuite, elle remplace le jeu existant (50 Go sur Switch 2). ([revue du jour](../2026/09/2026-09-28.md))
 - **2026-09-27** — Minecraft Live : The Sift, Dungeons II et grottes de glace — première nouvelle dimension depuis plus de 14 ans, dans Minecraft en 2027. ([revue du jour](../2026/09/2026-09-27.md))
 - **2026-09-27** — The Last of Us, saison 3 : trois nouveaux acteurs — John Goodman, Laura Bailey et Ian Alexander, pour une diffusion en 2027. ([revue du jour](../2026/09/2026-09-27.md))
 - **2026-09-26** — GTA 6 en couverture de Game Informer le 29 septembre — 14 pages, douze nouvelles captures, météo et faune détaillées. ([revue du jour](../2026/09/2026-09-26.md))
