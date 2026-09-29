@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-09-29** — Minecraft Dungeons II : avis partagés — 76 sur Metacritic, suite plus riche mais jugée superficielle par IGN. ([revue du jour](../2026/09/2026-09-29.md))
+- **2026-09-29** — Pourquoi Skyrim n'a jamais eu son « New Vegas » — selon Kurt Kuhlmann, Todd Howard protège de près la licence Elder Scrolls. ([revue du jour](../2026/09/2026-09-29.md))
 - **2026-09-28** — Gears of War: E-Day : accès anticipé le 1er octobre, sortie le 6 — premier Gears principal depuis sept ans, dans le Game Pass dès la sortie. ([revue du jour](../2026/09/2026-09-28.md))
 - **2026-09-27** — Physint : Xbox paierait une « fraction » des 400 M$ — selon Bloomberg, Microsoft paie nettement moins que le chiffre avancé. ([revue du jour](../2026/09/2026-09-27.md))
 - **2026-09-27** — Minecraft Live : nouvelle dimension The Sift — d'abord dans Dungeons II le 29 septembre, puis dans Minecraft en 2027 ; 300 000 nouveaux joueurs par jour. ([revue du jour](../2026/09/2026-09-27.md))

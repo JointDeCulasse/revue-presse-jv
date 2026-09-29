@@ -2,6 +2,11 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-09-29** — Naughty Dog : Intergalactic dévoilé en 2027, nouveaux projets The Last of Us — silence radio jusqu'à fin 2026, plusieurs projets TLOU à un stade très précoce. ([revue du jour](../2026/09/2026-09-29.md))
+- **2026-09-29** — God of War Laufey : éditions détaillées, précommandes ouvertes — sortie le 16 février 2027 sur PS5, Digital Deluxe avec équipement, artbook et BO. ([revue du jour](../2026/09/2026-09-29.md))
+- **2026-09-29** — Sony quitte le CES après 60 ans de présence — le groupe se recentre sur le divertissement après la vente de Bravia à TCL. ([revue du jour](../2026/09/2026-09-29.md))
+- **2026-09-29** — Wolverine : bon lancement aux États-Unis, faible au Japon — 7e sur PS5 en joueurs actifs aux USA, seulement 20 039 exemplaires physiques au Japon. ([revue du jour](../2026/09/2026-09-29.md))
+- **2026-09-29** — PS5 Pro au Japon : 60 heures de jeu exigées — Sony réserve ses stocks aux vrais joueurs pour contrer la revente, tirage au sort si besoin. ([revue du jour](../2026/09/2026-09-29.md))
 - **2026-09-28** — Sony brevette une manette qui accepte les paiements sans contact — carte ou téléphone posé près de la manette pour acheter jeux et contenus. ([revue du jour](../2026/09/2026-09-28.md))
 - **2026-09-28** — Synduality: Echo of Ada va devenir un jeu hors ligne — Bandai Namco arrête le contenu en octobre et ferme les serveurs en mai 2027. ([revue du jour](../2026/09/2026-09-28.md))
 - **2026-09-27** — The Last of Us, saison 3 : John Goodman, Laura Bailey et Ian Alexander au casting — les voix d'Abby et Lev jouent de nouveaux rôles. ([revue du jour](../2026/09/2026-09-27.md))

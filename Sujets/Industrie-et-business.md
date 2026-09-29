@@ -2,6 +2,12 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-09-29** — Sony quitte le CES après 60 ans de présence — le groupe se recentre sur le divertissement après la vente de Bravia à TCL. ([revue du jour](../2026/09/2026-09-29.md))
+- **2026-09-29** — « Motherbrain » : Ubisoft dépose une marque pour son programme d'IA générative — outils d'IA pour créer jeux et contenus interactifs. ([revue du jour](../2026/09/2026-09-29.md))
+- **2026-09-29** — NIS America veut des sorties mondiales simultanées — Kenzo Saruhashi veut réduire l'écart entre sorties japonaises et occidentales. ([revue du jour](../2026/09/2026-09-29.md))
+- **2026-09-29** — Suite : Discord, la nouvelle vérification d'âge démarre mal — mauvais classements d'âge et tweet ironique qui met le feu aux poudres. ([revue du jour](../2026/09/2026-09-29.md))
+- **2026-09-29** — Wolverine : bon lancement aux États-Unis, faible au Japon — environ 3 millions d'exemplaires estimés, 20 039 exemplaires physiques au Japon. ([revue du jour](../2026/09/2026-09-29.md))
+- **2026-09-29** — Royaume-Uni : EA Sports FC 27 et Silent Hill: Townfall en tête — Fire Emblem: Fortune's Weave recule à la 8e place. ([revue du jour](../2026/09/2026-09-29.md))
 - **2026-09-28** — Le film Resident Evil passe les 100 M$ aux États-Unis — 23,3 M$ au deuxième week-end, deuxième derrière la ressortie d'Avengers: Endgame. ([revue du jour](../2026/09/2026-09-28.md))
 - **2026-09-28** — Une recompilation de Knuckles' Chaotix « vibe-codée » avec l'IA fait réagir — bugs audio et grand écran, les fans critiquent l'usage de l'IA. ([revue du jour](../2026/09/2026-09-28.md))
 - **2026-09-27** — Physint : Xbox paierait une « fraction » des 400 M$ — le chiffre correspondrait au budget demandé à Sony, qui a lâché le projet. ([revue du jour](../2026/09/2026-09-27.md))

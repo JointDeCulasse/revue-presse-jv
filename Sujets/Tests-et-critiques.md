@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-09-29** — The Witcher 3 Remastered salué par la critique — nombreux 9/10, un vrai remaster modernisé ; sur Switch 2, c'est une version à part. ([revue du jour](../2026/09/2026-09-29.md))
+- **2026-09-29** — Minecraft Dungeons II : avis partagés — 76 sur Metacritic, de 9/10 (Destructoid) à 6/10 (IGN). ([revue du jour](../2026/09/2026-09-29.md))
 - **2026-09-26** — Ace Combat 8: Wings of Theve — 88 sur Metacritic, combats aériens et mise en scène salués, trop de QTE. ([revue du jour](../2026/09/2026-09-26.md))
 - **2026-09-26** — Fire Emblem: Fortune's Weave (analyse technique) — Digital Foundry note 30 fps stables et regrette l'absence de 60 fps. ([revue du jour](../2026/09/2026-09-26.md))
 - **2026-09-24** — Control Resonant — 84 sur Metacritic (PS5), univers salué mais combat au corps-à-corps qui divise. ([revue du jour](../2026/09/2026-09-24.md))

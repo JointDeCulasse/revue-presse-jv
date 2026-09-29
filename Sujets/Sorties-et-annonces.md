@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-09-29** — Naughty Dog : Intergalactic dévoilé en 2027, nouveaux projets The Last of Us — plusieurs projets pour élargir l'univers au-delà des deux jeux. ([revue du jour](../2026/09/2026-09-29.md))
+- **2026-09-29** — God of War Laufey : précommandes ouvertes — sortie le 16 février 2027 sur PS5, avec Faye en héroïne. ([revue du jour](../2026/09/2026-09-29.md))
+- **2026-09-29** — Fortnite x Five Nights at Freddy's — skins FNAF le 1er octobre pour Fortnitemares ; tweet le plus aimé de l'histoire du compte. ([revue du jour](../2026/09/2026-09-29.md))
 - **2026-09-28** — Gears of War: E-Day : accès anticipé le 1er octobre, sortie le 6 — environ 100 Go, sur Xbox Series et PC, dans le Game Pass dès la sortie. ([revue du jour](../2026/09/2026-09-28.md))
 - **2026-09-28** — Suite : The Witcher 3 Remastered, une mise à jour de 45 Go demain — gratuite, elle remplace le jeu existant (50 Go sur Switch 2). ([revue du jour](../2026/09/2026-09-28.md))
 - **2026-09-27** — Minecraft Live : The Sift, Dungeons II et grottes de glace — première nouvelle dimension depuis plus de 14 ans, dans Minecraft en 2027. ([revue du jour](../2026/09/2026-09-27.md))

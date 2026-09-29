@@ -2,6 +2,7 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-09-29** — PS5 Pro au Japon : 60 heures de jeu exigées pour limiter la revente — inscriptions jusqu'au 7 octobre, 137 980 yens. ([revue du jour](../2026/09/2026-09-29.md))
 - **2026-09-28** — Sony brevette une manette qui accepte les paiements sans contact — carte ou téléphone posé près de la manette pour acheter jeux et contenus. ([revue du jour](../2026/09/2026-09-28.md))
 - **2026-09-25** — Rumeur : PS6 finalisée pour novembre 2027 — environ 40 téraflops, deux fois la PS5, et une version portable Canis selon KeplerL2. ([revue du jour](../2026/09/2026-09-25.md))
 - **2026-09-25** — Lunettes VR Meta à 1 300 $ — 100 g, sortie au printemps 2027, avec Tetris Effect: Mixed Realities et Beat Saber: Flux. ([revue du jour](../2026/09/2026-09-25.md))

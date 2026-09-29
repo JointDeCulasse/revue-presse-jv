@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-09-29** — Japon : Fire Emblem: Fortune's Weave dépasse 127 000 exemplaires — la Switch 2 écrase le marché avec 34 341 consoles vendues dans la semaine. ([revue du jour](../2026/09/2026-09-29.md))
+- **2026-09-29** — The Witcher 3 Remastered sur Switch 2 — version à part de 48,5 Go, gratuite pour les possesseurs de la version Switch. ([revue du jour](../2026/09/2026-09-29.md))
 - **2026-09-27** — Zelda: Ocarina of Time sur Switch 2 : longue séquence sur Ganondorf — nouveaux doublages et comparaison avec les versions N64 et 3DS. ([revue du jour](../2026/09/2026-09-27.md))
 - **2026-09-26** — Fire Emblem: Fortune's Weave analysé par Digital Foundry — 30 fps stables, 1440p reconstruit en mode TV, pas de 60 fps. ([revue du jour](../2026/09/2026-09-26.md))
 - **2026-09-26** — Hell Is Us sur Switch 2 repoussé au 27 octobre — deuxième report de la version Switch 2 du jeu de Nacon. ([revue du jour](../2026/09/2026-09-26.md))
