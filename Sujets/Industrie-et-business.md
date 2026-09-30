@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-09-30** — Steam : l'onglet Promotions et événements confié à un algorithme — dix fois plus de jeux affichés par jour selon les tests de Valve. ([revue du jour](../2026/09/2026-09-30.md))
+- **2026-09-30** — Take-Two fait annuler un portage non officiel de GTA 5 sur Switch — le moddeur Mojso renonce après une mise en demeure. ([revue du jour](../2026/09/2026-09-30.md))
 - **2026-09-29** — Sony quitte le CES après 60 ans de présence — le groupe se recentre sur le divertissement après la vente de Bravia à TCL. ([revue du jour](../2026/09/2026-09-29.md))
 - **2026-09-29** — « Motherbrain » : Ubisoft dépose une marque pour son programme d'IA générative — outils d'IA pour créer jeux et contenus interactifs. ([revue du jour](../2026/09/2026-09-29.md))
 - **2026-09-29** — NIS America veut des sorties mondiales simultanées — Kenzo Saruhashi veut réduire l'écart entre sorties japonaises et occidentales. ([revue du jour](../2026/09/2026-09-29.md))

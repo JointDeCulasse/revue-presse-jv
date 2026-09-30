@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-09-30** — Xbox Disc to Digital ouvert à tous — plus de 1 500 jeux convertibles, Sega rejoint Ubisoft, Square Enix et Bandai Namco absents. ([revue du jour](../2026/09/2026-09-30.md))
+- **2026-09-30** — Suite : les succès « Mythic » en test — l'équivalent du Platine arrive chez les Xbox Insiders, attribué rétroactivement. ([revue du jour](../2026/09/2026-09-30.md))
 - **2026-09-29** — Minecraft Dungeons II : avis partagés — 76 sur Metacritic, suite plus riche mais jugée superficielle par IGN. ([revue du jour](../2026/09/2026-09-29.md))
 - **2026-09-29** — Pourquoi Skyrim n'a jamais eu son « New Vegas » — selon Kurt Kuhlmann, Todd Howard protège de près la licence Elder Scrolls. ([revue du jour](../2026/09/2026-09-29.md))
 - **2026-09-28** — Gears of War: E-Day : accès anticipé le 1er octobre, sortie le 6 — premier Gears principal depuis sept ans, dans le Game Pass dès la sortie. ([revue du jour](../2026/09/2026-09-28.md))

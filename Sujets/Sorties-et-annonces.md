@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-09-30** — GTA 6 : une carte deux fois plus grande que celle de GTA 5 — six régions floridiennes, ouragans dynamiques et plus de 170 espèces animales selon Game Informer. ([revue du jour](../2026/09/2026-09-30.md))
+- **2026-09-30** — Call of Duty: Modern Warfare 4 : configuration PC et mode « Collateral » — 90 images/s visées sur PC, un nouveau mode à une seule vie par manche. ([revue du jour](../2026/09/2026-09-30.md))
+- **2026-09-30** — Monster Hunter Wilds sur Switch 2 le 4 décembre — Capcom a refait ressources et effets pour tenir 30 images/s en portable. ([revue du jour](../2026/09/2026-09-30.md))
 - **2026-09-29** — Naughty Dog : Intergalactic dévoilé en 2027, nouveaux projets The Last of Us — plusieurs projets pour élargir l'univers au-delà des deux jeux. ([revue du jour](../2026/09/2026-09-29.md))
 - **2026-09-29** — God of War Laufey : précommandes ouvertes — sortie le 16 février 2027 sur PS5, avec Faye en héroïne. ([revue du jour](../2026/09/2026-09-29.md))
 - **2026-09-29** — Fortnite x Five Nights at Freddy's — skins FNAF le 1er octobre pour Fortnitemares ; tweet le plus aimé de l'histoire du compte. ([revue du jour](../2026/09/2026-09-29.md))

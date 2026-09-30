@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-09-30** — Xbox Disc to Digital ouvert à tous — plus de 1 500 jeux sur disque convertibles en licences numériques. ([revue du jour](../2026/09/2026-09-30.md))
+- **2026-09-30** — Un jailbreak PS5 fonctionne jusqu'au firmware de juillet 2026 — « Relapse » débloque les PS5 et PS5 Pro non mises à jour en moins d'une minute. ([revue du jour](../2026/09/2026-09-30.md))
+- **2026-09-30** — Les consoles portables C64 et ZX Spectrum repoussées de six mois — Blaze Entertainment décale leur sortie au 22 avril 2027. ([revue du jour](../2026/09/2026-09-30.md))
 - **2026-09-29** — PS5 Pro au Japon : 60 heures de jeu exigées pour limiter la revente — inscriptions jusqu'au 7 octobre, 137 980 yens. ([revue du jour](../2026/09/2026-09-29.md))
 - **2026-09-28** — Sony brevette une manette qui accepte les paiements sans contact — carte ou téléphone posé près de la manette pour acheter jeux et contenus. ([revue du jour](../2026/09/2026-09-28.md))
 - **2026-09-25** — Rumeur : PS6 finalisée pour novembre 2027 — environ 40 téraflops, deux fois la PS5, et une version portable Canis selon KeplerL2. ([revue du jour](../2026/09/2026-09-25.md))

@@ -2,6 +2,11 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-09-30** — Monster Hunter Wilds sur Switch 2 le 4 décembre — un portage « parfois sans fin » selon Capcom, 30 images/s en portable. ([revue du jour](../2026/09/2026-09-30.md))
+- **2026-09-30** — Zelda: Ocarina of Time sur Switch 2 : ce qui change — doublage, saut, caméra libre et vraie nage pour le remake du 5 novembre. ([revue du jour](../2026/09/2026-09-30.md))
+- **2026-09-30** — Star Fox : la mise à jour 1.2.0 ajoute l'écran partagé à quatre — trois arènes en plus et la bande originale dans Nintendo Music. ([revue du jour](../2026/09/2026-09-30.md))
+- **2026-09-30** — Pokémon HOME compatible avec Rouge Feu et Vert Feuille le 7 octobre — transfert à sens unique vers HOME. ([revue du jour](../2026/09/2026-09-30.md))
+- **2026-09-30** — Concerts des 40 ans de Zelda : billetterie ouverte en Europe — Londres, Stockholm, Édimbourg, Glasgow, dates françaises à venir. ([revue du jour](../2026/09/2026-09-30.md))
 - **2026-09-29** — Japon : Fire Emblem: Fortune's Weave dépasse 127 000 exemplaires — la Switch 2 écrase le marché avec 34 341 consoles vendues dans la semaine. ([revue du jour](../2026/09/2026-09-29.md))
 - **2026-09-29** — The Witcher 3 Remastered sur Switch 2 — version à part de 48,5 Go, gratuite pour les possesseurs de la version Switch. ([revue du jour](../2026/09/2026-09-29.md))
 - **2026-09-27** — Zelda: Ocarina of Time sur Switch 2 : longue séquence sur Ganondorf — nouveaux doublages et comparaison avec les versions N64 et 3DS. ([revue du jour](../2026/09/2026-09-27.md))

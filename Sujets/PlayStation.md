@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-09-30** — GTA 6 : une carte deux fois plus grande que celle de GTA 5 — Rockstar détaille Leonida dans Game Informer avant la sortie du 19 novembre. ([revue du jour](../2026/09/2026-09-30.md))
+- **2026-09-30** — Un jailbreak PS5 fonctionne jusqu'au firmware de juillet 2026 — la faille « Relapse » touche la plupart des consoles encore en rayon. ([revue du jour](../2026/09/2026-09-30.md))
+- **2026-09-30** — Rumeur : Shaun Escayg travaillerait sur un nouvel Uncharted — selon NateTheHate, le directeur créatif de Naughty Dog n'est pas sur The Last of Us. ([revue du jour](../2026/09/2026-09-30.md))
 - **2026-09-29** — Naughty Dog : Intergalactic dévoilé en 2027, nouveaux projets The Last of Us — silence radio jusqu'à fin 2026, plusieurs projets TLOU à un stade très précoce. ([revue du jour](../2026/09/2026-09-29.md))
 - **2026-09-29** — God of War Laufey : éditions détaillées, précommandes ouvertes — sortie le 16 février 2027 sur PS5, Digital Deluxe avec équipement, artbook et BO. ([revue du jour](../2026/09/2026-09-29.md))
 - **2026-09-29** — Sony quitte le CES après 60 ans de présence — le groupe se recentre sur le divertissement après la vente de Bravia à TCL. ([revue du jour](../2026/09/2026-09-29.md))
