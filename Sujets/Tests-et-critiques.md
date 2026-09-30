@@ -2,6 +2,7 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-09-30** — Toem 2 sort sous les applaudissements — 86 sur Metacritic, charme et nouveautés salués, durée et formule familière critiquées. ([revue du jour](../2026/09/2026-09-30.md))
 - **2026-09-30** — The Witcher 3 Remastered, jeu le mieux noté de 2026 — 94 sur Metacritic, devant l'original (92), et plus de 120 000 joueurs simultanés sur Steam. ([revue du jour](../2026/09/2026-09-30.md))
 - **2026-09-30** — Ace Combat 8 : un bonus de précommande fait plonger les avis Steam — acclamé par la critique, le jeu tombe à « moyennes » sur Steam. ([revue du jour](../2026/09/2026-09-30.md))
 - **2026-09-29** — The Witcher 3 Remastered salué par la critique — nombreux 9/10, un vrai remaster modernisé ; sur Switch 2, c'est une version à part. ([revue du jour](../2026/09/2026-09-29.md))

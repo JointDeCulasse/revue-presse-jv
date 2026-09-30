@@ -2,6 +2,7 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-09-30** — Dressmaker, le jeu de couture devenu tube surprise de Steam — plus de 35 000 joueurs simultanés et des évaluations « extrêmement positives ». ([revue du jour](../2026/09/2026-09-30.md))
 - **2026-09-30** — Steam : l'onglet Promotions et événements confié à un algorithme — Valve abandonne la sélection manuelle d'ici début 2027. ([revue du jour](../2026/09/2026-09-30.md))
 - **2026-09-30** — The Witcher 3 Remastered, record sur Steam — plus de 120 000 joueurs simultanés, du jamais vu pour le jeu. ([revue du jour](../2026/09/2026-09-30.md))
 - **2026-09-30** — Ace Combat 8 : un bonus de précommande fait plonger les avis Steam — Ace Combat Zero exige d'installer les 150 Go du jeu. ([revue du jour](../2026/09/2026-09-30.md))

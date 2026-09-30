@@ -2,6 +2,7 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-09-30** — TMNT: Splintered Fate dépasse 1,5 million de ventes — le roguelike lancé sur Switch continue sa carrière, avec une édition physique Switch 2. ([revue du jour](../2026/09/2026-09-30.md))
 - **2026-09-30** — Monster Hunter Wilds sur Switch 2 le 4 décembre — un portage « parfois sans fin » selon Capcom, 30 images/s en portable. ([revue du jour](../2026/09/2026-09-30.md))
 - **2026-09-30** — Zelda: Ocarina of Time sur Switch 2 : ce qui change — doublage, saut, caméra libre et vraie nage pour le remake du 5 novembre. ([revue du jour](../2026/09/2026-09-30.md))
 - **2026-09-30** — Star Fox : la mise à jour 1.2.0 ajoute l'écran partagé à quatre — trois arènes en plus et la bande originale dans Nintendo Music. ([revue du jour](../2026/09/2026-09-30.md))

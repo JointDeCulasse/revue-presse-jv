@@ -4,7 +4,7 @@ Archive quotidienne de l'actualité jeu vidéo, rédigée en français à partir
 
 **Structure**
 - `AAAA/MM/AAAA-MM-JJ.md` : la revue du jour (l'essentiel en 3 points, les actus par catégorie, les dates à surveiller).
-- `Sujets/<thème>.md` : un fil par thème, qui reprend les actus au fil des jours (Industrie, Studios & emploi, Sorties, Hardware, PC, Nintendo, PlayStation, Xbox, Mobile, Esport, Tests).
+- `Sujets/<thème>.md` : un fil par thème, qui reprend les actus au fil des jours (Industrie, Studios & emploi, Sorties, Hardware, PC, Nintendo, PlayStation, Xbox, Mobile, Esport, Tests, Indie, France).
 - Ce fichier : l'index des revues, la plus récente en haut.
 
 ## Revues
