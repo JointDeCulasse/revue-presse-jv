@@ -9,6 +9,7 @@ Archive quotidienne de l'actualité jeu vidéo, rédigée en français à partir
 
 ## Revues
 
+- [2026-10-01](2026/10/2026-10-01.md) — Asha Sharma : « Xbox n'est pas à vendre » · Grasshopper Manufacture redevient indépendant de NetEase · Le chef présumé de ShinyHunters, qui avait piraté Rockstar, arrêté à Amsterdam
 - [2026-09-30](2026/09/2026-09-30.md) — GTA 6 : une carte deux fois plus grande que celle de GTA 5 · The Witcher 3 Remastered, jeu le mieux noté de 2026 et record sur Steam · Xbox Disc to Digital ouvert à tous et succès « Mythic » en test
 - [2026-09-29](2026/09/2026-09-29.md) — Naughty Dog : Intergalactic dévoilé en 2027, nouveaux projets The Last of Us · Sony quitte le CES après 60 ans · The Witcher 3 Remastered sort avec d'excellentes critiques
 - [2026-09-28](2026/09/2026-09-28.md) — Sony brevette une manette à paiement sans contact · Gears of War: E-Day en accès anticipé le 1er octobre · SwizzY et Pixie champions du monde de Fortnite

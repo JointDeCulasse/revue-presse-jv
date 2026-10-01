@@ -2,6 +2,11 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-01** — « Xbox n'est pas à vendre » — Asha Sharma dément les rumeurs de cession après les informations sur une filialisation. ([revue du jour](../2026/10/2026-10-01.md))
+- **2026-10-01** — Un hacker présumé de Rockstar arrêté à Amsterdam — le FBI présente ce Néerlandais de 24 ans comme le chef de ShinyHunters. ([revue du jour](../2026/10/2026-10-01.md))
+- **2026-10-01** — Jeux premium PC et consoles : +5 % au premier semestre — 13,8 milliards de dollars selon Sensor Tower, Steam passe devant PlayStation au T2. ([revue du jour](../2026/10/2026-10-01.md))
+- **2026-10-01** — EU Kids Act — le projet européen impose la « sécurité dès la conception » aux jeux en ligne pour protéger les mineurs. ([revue du jour](../2026/10/2026-10-01.md))
+- **2026-10-01** — Japon : 85,8 % des développeurs utilisent l'IA générative — enquête de la CESA, contre 51 % un an plus tôt. ([revue du jour](../2026/10/2026-10-01.md))
 - **2026-09-30** — Ubisoft : assemblée générale sans surprise — résolutions adoptées à une large majorité, dont des stock-options pour les salariés. ([revue du jour](../2026/09/2026-09-30.md))
 - **2026-09-30** — Steam : l'onglet Promotions et événements confié à un algorithme — dix fois plus de jeux affichés par jour selon les tests de Valve. ([revue du jour](../2026/09/2026-09-30.md))
 - **2026-09-30** — Take-Two fait annuler un portage non officiel de GTA 5 sur Switch — le moddeur Mojso renonce après une mise en demeure. ([revue du jour](../2026/09/2026-09-30.md))

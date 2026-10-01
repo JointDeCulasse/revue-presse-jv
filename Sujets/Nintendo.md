@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-01** — Mario Kart Tour a fermé ses portes — les serveurs du jeu mobile se sont éteints le 29 septembre, sans version hors ligne. ([revue du jour](../2026/10/2026-10-01.md))
+- **2026-10-01** — Une carte Pikachu vendue 8,4 millions de dollars — une envolée inexpliquée pour une carte issue d'un concours de 2015. ([revue du jour](../2026/10/2026-10-01.md))
 - **2026-09-30** — TMNT: Splintered Fate dépasse 1,5 million de ventes — le roguelike lancé sur Switch continue sa carrière, avec une édition physique Switch 2. ([revue du jour](../2026/09/2026-09-30.md))
 - **2026-09-30** — Monster Hunter Wilds sur Switch 2 le 4 décembre — un portage « parfois sans fin » selon Capcom, 30 images/s en portable. ([revue du jour](../2026/09/2026-09-30.md))
 - **2026-09-30** — Zelda: Ocarina of Time sur Switch 2 : ce qui change — doublage, saut, caméra libre et vraie nage pour le remake du 5 novembre. ([revue du jour](../2026/09/2026-09-30.md))

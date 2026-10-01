@@ -2,6 +2,7 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-01** — Shuhei Yoshida : faire durer la génération actuelle — selon lui, Sony et Nintendo n'ont pas intérêt à presser l'arrivée de nouvelles consoles. ([revue du jour](../2026/10/2026-10-01.md))
 - **2026-09-30** — Xbox Disc to Digital ouvert à tous — plus de 1 500 jeux sur disque convertibles en licences numériques. ([revue du jour](../2026/09/2026-09-30.md))
 - **2026-09-30** — Un jailbreak PS5 fonctionne jusqu'au firmware de juillet 2026 — « Relapse » débloque les PS5 et PS5 Pro non mises à jour en moins d'une minute. ([revue du jour](../2026/09/2026-09-30.md))
 - **2026-09-30** — Les consoles portables C64 et ZX Spectrum repoussées de six mois — Blaze Entertainment décale leur sortie au 22 avril 2027. ([revue du jour](../2026/09/2026-09-30.md))

@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-01** — Suite : un nouvel Uncharted, sans Nathan Drake en héros ? — selon MP1st, Shaun Escayg le dirigerait, Cassie Drake en héroïne pressentie, sur PS6. ([revue du jour](../2026/10/2026-10-01.md))
+- **2026-10-01** — God of War Laufey démarre fort en précommandes — deuxième dans 44 boutiques PlayStation, derrière GTA 6. ([revue du jour](../2026/10/2026-10-01.md))
+- **2026-10-01** — PlayStation Plus d'octobre — F1 25, Hunt: Showdown 1896 et Earth Defense Force: World Brothers 2 à partir du 6 octobre. ([revue du jour](../2026/10/2026-10-01.md))
 - **2026-09-30** — GTA 6 : une carte deux fois plus grande que celle de GTA 5 — Rockstar détaille Leonida dans Game Informer avant la sortie du 19 novembre. ([revue du jour](../2026/09/2026-09-30.md))
 - **2026-09-30** — Un jailbreak PS5 fonctionne jusqu'au firmware de juillet 2026 — la faille « Relapse » touche la plupart des consoles encore en rayon. ([revue du jour](../2026/09/2026-09-30.md))
 - **2026-09-30** — Rumeur : Shaun Escayg travaillerait sur un nouvel Uncharted — selon NateTheHate, le directeur créatif de Naughty Dog n'est pas sur The Last of Us. ([revue du jour](../2026/09/2026-09-30.md))

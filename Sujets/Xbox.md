@@ -2,6 +2,10 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-01** — « Xbox n'est pas à vendre » — Asha Sharma dément dans le New York Times les rumeurs de cession de la division jeu vidéo de Microsoft. ([revue du jour](../2026/10/2026-10-01.md))
+- **2026-10-01** — Le cloud gaming de Xbox perd du terrain — fin de l'appli sur les vieilles TV Samsung, streaming plafonné et manette cloud au point mort. ([revue du jour](../2026/10/2026-10-01.md))
+- **2026-10-01** — Suite : Halo chez Activision — Frank O'Connor appelle à réembaucher les licenciés, Halo Studios dément une « liste noire » de créateurs. ([revue du jour](../2026/10/2026-10-01.md))
+- **2026-10-01** — Gears of War: E-Day en accès anticipé — environ 120 000 précommandes Steam, un analyste regrette l'annulation de la version PS5. ([revue du jour](../2026/10/2026-10-01.md))
 - **2026-09-30** — Xbox Disc to Digital ouvert à tous — plus de 1 500 jeux convertibles, Sega rejoint Ubisoft, Square Enix et Bandai Namco absents. ([revue du jour](../2026/09/2026-09-30.md))
 - **2026-09-30** — Suite : les succès « Mythic » en test — l'équivalent du Platine arrive chez les Xbox Insiders, attribué rétroactivement. ([revue du jour](../2026/09/2026-09-30.md))
 - **2026-09-29** — Minecraft Dungeons II : avis partagés — 76 sur Metacritic, suite plus riche mais jugée superficielle par IGN. ([revue du jour](../2026/09/2026-09-29.md))

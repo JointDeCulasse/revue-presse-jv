@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-01** — Grasshopper Manufacture redevient indépendant — le studio de Suda 51 quitte NetEase, qui poursuit son retrait hors de Chine. ([revue du jour](../2026/10/2026-10-01.md))
+- **2026-10-01** — Arc Raiders : le succès a épuisé Embark — le studio a abandonné les mises à jour mensuelles pour préserver ses équipes. ([revue du jour](../2026/10/2026-10-01.md))
+- **2026-10-01** — Suite : Halo chez Activision — Frank O'Connor appelle à embaucher les développeurs licenciés de Halo Studios et Bungie. ([revue du jour](../2026/10/2026-10-01.md))
 - **2026-09-30** — L'ancien patron de Dying Light prend la tête de Broken Mirror Games — Tymon Smektala quitte Techland pour le label horrifique de Bloober Team. ([revue du jour](../2026/09/2026-09-30.md))
 - **2026-09-26** — Rare sous la tutelle d'Activision — ses projets non annoncés seront évalués par sa nouvelle hiérarchie. ([revue du jour](../2026/09/2026-09-26.md))
 - **2026-09-26** — Ignisphere Studios, fondé par un ancien de Vanillaware — Takafumi Noda annonce Dawngazer, action-RPG 2D prévu en 2028. ([revue du jour](../2026/09/2026-09-26.md))

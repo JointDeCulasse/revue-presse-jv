@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-01** — Suite : un nouvel Uncharted en préparation (rumeur) — il démarrerait après Intergalactic et viserait la PS6. ([revue du jour](../2026/10/2026-10-01.md))
+- **2026-10-01** — Songs of Glimmerwick est sorti — l'école de sorcellerie musicale d'Eastshade Studios arrive sur PC après huit ans de développement. ([revue du jour](../2026/10/2026-10-01.md))
 - **2026-09-30** — GTA 6 : une carte deux fois plus grande que celle de GTA 5 — six régions floridiennes, ouragans dynamiques et plus de 170 espèces animales selon Game Informer. ([revue du jour](../2026/09/2026-09-30.md))
 - **2026-09-30** — Call of Duty: Modern Warfare 4 : configuration PC et mode « Collateral » — 90 images/s visées sur PC, un nouveau mode à une seule vie par manche. ([revue du jour](../2026/09/2026-09-30.md))
 - **2026-09-30** — Monster Hunter Wilds sur Switch 2 le 4 décembre — Capcom a refait ressources et effets pour tenir 30 images/s en portable. ([revue du jour](../2026/09/2026-09-30.md))
