@@ -2,6 +2,10 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-02** — The Coalition redoute des licenciements après Gears — Selon Eurogamer, l'équipe craint des départs forcés avant le versement des primes fin octobre. ([revue du jour](../2026/10/2026-10-02.md))
+- **2026-10-02** — Krafton annule PUBG: Black Budget — Le jeu d'extraction est abandonné après un an d'alpha fermée. ([revue du jour](../2026/10/2026-10-02.md))
+- **2026-10-02** — Nerial (Reigns, Card Shark) ferme ses portes — Le studio détenu par Devolver ferme, ses fondateurs repartent en indépendants. ([revue du jour](../2026/10/2026-10-02.md))
+- **2026-10-02** — Suite : Ubisoft regroupe Tom Clancy sous la bannière Massive Entertainment — Les équipes de Montréal, Paris, Malmö et Toronto réunies sous la direction de Christoph Hartmann. ([revue du jour](../2026/10/2026-10-02.md))
 - **2026-10-01** — Grasshopper Manufacture redevient indépendant — le studio de Suda 51 quitte NetEase, qui poursuit son retrait hors de Chine. ([revue du jour](../2026/10/2026-10-01.md))
 - **2026-10-01** — Arc Raiders : le succès a épuisé Embark — le studio a abandonné les mises à jour mensuelles pour préserver ses équipes. ([revue du jour](../2026/10/2026-10-01.md))
 - **2026-10-01** — Suite : Halo chez Activision — Frank O'Connor appelle à embaucher les développeurs licenciés de Halo Studios et Bungie. ([revue du jour](../2026/10/2026-10-01.md))

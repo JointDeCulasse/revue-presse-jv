@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-02** — Krafton annule PUBG: Black Budget — Le jeu d'extraction présenté sur Steam il y a moins d'un an est abandonné. ([revue du jour](../2026/10/2026-10-02.md))
+- **2026-10-02** — La flambée de la mémoire vive va durer, prévient Micron — Prix de la RAM multipliés par cinq en un an, tension prévue jusqu'en 2028. ([revue du jour](../2026/10/2026-10-02.md))
 - **2026-10-01** — Gears of War: E-Day : des précommandes Steam jugées faibles — environ 120 000 exemplaires, soit près de 7 millions de dollars, selon Alinea Analytics. ([revue du jour](../2026/10/2026-10-01.md))
 - **2026-09-30** — Dressmaker, le jeu de couture devenu tube surprise de Steam — plus de 35 000 joueurs simultanés et des évaluations « extrêmement positives ». ([revue du jour](../2026/09/2026-09-30.md))
 - **2026-09-30** — Steam : l'onglet Promotions et événements confié à un algorithme — Valve abandonne la sélection manuelle d'ici début 2027. ([revue du jour](../2026/09/2026-09-30.md))

@@ -2,6 +2,11 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-02** — Kena: Scars of Kosmora repoussé à 2027 — La suite de Kena: Bridge of Spirits ne sortira pas en 2026. ([revue du jour](../2026/10/2026-10-02.md))
+- **2026-10-02** — 007 First Light : un DLC gratuit avec New Game+ et mode photo — L'extension Extended Operations sera incluse dans la version Switch 2 de mars 2027. ([revue du jour](../2026/10/2026-10-02.md))
+- **2026-10-02** — Resident Evil : Capcom prépare la jonction entre remakes et épisodes récents — Jun Takeuchi évoque un futur « crossover » entre les deux lignées. ([revue du jour](../2026/10/2026-10-02.md))
+- **2026-10-02** — Le remaster de Croc 2 sortira le 29 octobre — Argonaut confirme la date sur PS5 et PS4. ([revue du jour](../2026/10/2026-10-02.md))
+- **2026-10-02** — Galaxies Game Showcase le 15 octobre — Plus de 40 éditeurs, dont Team17 et Focus, à la deuxième édition de la vitrine. ([revue du jour](../2026/10/2026-10-02.md))
 - **2026-10-01** — Suite : un nouvel Uncharted en préparation (rumeur) — il démarrerait après Intergalactic et viserait la PS6. ([revue du jour](../2026/10/2026-10-01.md))
 - **2026-10-01** — Songs of Glimmerwick est sorti — l'école de sorcellerie musicale d'Eastshade Studios arrive sur PC après huit ans de développement. ([revue du jour](../2026/10/2026-10-01.md))
 - **2026-09-30** — GTA 6 : une carte deux fois plus grande que celle de GTA 5 — six régions floridiennes, ouragans dynamiques et plus de 170 espèces animales selon Game Informer. ([revue du jour](../2026/09/2026-09-30.md))

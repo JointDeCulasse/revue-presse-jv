@@ -2,6 +2,10 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-02** — QSSR : upscaling par IA pour la PS5 standard — Wolverine et Ghost of Yōtei inaugurent la technique dérivée du PSSR. ([revue du jour](../2026/10/2026-10-02.md))
+- **2026-10-02** — Suite : un nouvel Ape Escape en préparation ? — Selon NateTheHate, Sony veut relancer ses licences en sommeil. ([revue du jour](../2026/10/2026-10-02.md))
+- **2026-10-02** — Kena: Scars of Kosmora repoussé à 2027 — Ember Lab veut plus de temps pour peaufiner sa suite, prévue sur PS5 et PC. ([revue du jour](../2026/10/2026-10-02.md))
+- **2026-10-02** — Le remaster de Croc 2 sortira le 29 octobre — Sur PS5 et PS4, avec contrôles modernisés et musée de bonus. ([revue du jour](../2026/10/2026-10-02.md))
 - **2026-10-01** — Suite : un nouvel Uncharted, sans Nathan Drake en héros ? — selon MP1st, Shaun Escayg le dirigerait, Cassie Drake en héroïne pressentie, sur PS6. ([revue du jour](../2026/10/2026-10-01.md))
 - **2026-10-01** — God of War Laufey démarre fort en précommandes — deuxième dans 44 boutiques PlayStation, derrière GTA 6. ([revue du jour](../2026/10/2026-10-01.md))
 - **2026-10-01** — PlayStation Plus d'octobre — F1 25, Hunt: Showdown 1896 et Earth Defense Force: World Brothers 2 à partir du 6 octobre. ([revue du jour](../2026/10/2026-10-01.md))

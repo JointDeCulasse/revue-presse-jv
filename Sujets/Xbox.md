@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-02** — Gears of War: E-Day salué par la critique — La campagne obtient 88 sur Metacritic, mais plusieurs éléments classiques de la série manquent au lancement. ([revue du jour](../2026/10/2026-10-02.md))
+- **2026-10-02** — Take-Two signe un nouvel accord d'édition avec Xbox — Un accord de long terme qui couvre « tous les appareils Xbox », y compris sans doute Project Helix. ([revue du jour](../2026/10/2026-10-02.md))
+- **2026-10-02** — The Coalition redoute des licenciements après Gears — Des salariés craignent d'être remerciés avant le versement des primes liées à Metacritic. ([revue du jour](../2026/10/2026-10-02.md))
 - **2026-10-01** — « Xbox n'est pas à vendre » — Asha Sharma dément dans le New York Times les rumeurs de cession de la division jeu vidéo de Microsoft. ([revue du jour](../2026/10/2026-10-01.md))
 - **2026-10-01** — Le cloud gaming de Xbox perd du terrain — fin de l'appli sur les vieilles TV Samsung, streaming plafonné et manette cloud au point mort. ([revue du jour](../2026/10/2026-10-01.md))
 - **2026-10-01** — Suite : Halo chez Activision — Frank O'Connor appelle à réembaucher les licenciés, Halo Studios dément une « liste noire » de créateurs. ([revue du jour](../2026/10/2026-10-01.md))

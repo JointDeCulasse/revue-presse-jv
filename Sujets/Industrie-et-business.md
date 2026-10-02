@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-02** — Take-Two signe un nouvel accord d'édition avec Xbox — L'accord remplace les précédents et couvre GTA 6 comme les futures machines Xbox. ([revue du jour](../2026/10/2026-10-02.md))
+- **2026-10-02** — Suite : Stop Killing Games s'alarme de l'EU Kids Act — Ross Scott dénonce vérification d'identité et interdiction des serveurs privés. ([revue du jour](../2026/10/2026-10-02.md))
 - **2026-10-01** — « Xbox n'est pas à vendre » — Asha Sharma dément les rumeurs de cession après les informations sur une filialisation. ([revue du jour](../2026/10/2026-10-01.md))
 - **2026-10-01** — Un hacker présumé de Rockstar arrêté à Amsterdam — le FBI présente ce Néerlandais de 24 ans comme le chef de ShinyHunters. ([revue du jour](../2026/10/2026-10-01.md))
 - **2026-10-01** — Jeux premium PC et consoles : +5 % au premier semestre — 13,8 milliards de dollars selon Sensor Tower, Steam passe devant PlayStation au T2. ([revue du jour](../2026/10/2026-10-01.md))
