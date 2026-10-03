@@ -9,6 +9,7 @@ Archive quotidienne de l'actualité jeu vidéo, rédigée en français à partir
 
 ## Revues
 
+- [2026-10-03](2026/10/2026-10-03.md) — Paramount et Warner Bros. deviennent Skydance, incertitude pour Warner Bros. Games · Star Wars: Galactic Racer à 88 sur Metacritic · Gears of War: E-Day double le record de la série sur Steam
 - [2026-10-02](2026/10/2026-10-02.md) — Gears of War: E-Day à 88 sur Metacritic, mais The Coalition craint des licenciements · Sony lance le QSSR, upscaling par IA pour la PS5 standard · Krafton annule PUBG: Black Budget
 - [2026-10-01](2026/10/2026-10-01.md) — Asha Sharma : « Xbox n'est pas à vendre » · Grasshopper Manufacture redevient indépendant de NetEase · Le chef présumé de ShinyHunters, qui avait piraté Rockstar, arrêté à Amsterdam
 - [2026-09-30](2026/09/2026-09-30.md) — GTA 6 : une carte deux fois plus grande que celle de GTA 5 · The Witcher 3 Remastered, jeu le mieux noté de 2026 et record sur Steam · Xbox Disc to Digital ouvert à tous et succès « Mythic » en test

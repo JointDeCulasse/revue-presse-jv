@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-03** — GTA 6 classé 18+ et marketing XXL avec le Miami Heat — PEGI 18 et ESRB M, et une soirée « Vice City » en NBA le 18 novembre. ([revue du jour](../2026/10/2026-10-03.md))
+- **2026-10-03** — Evangelion arrive en réalité virtuelle en 2027 — Pixelity prépare Evangelion: Δ Cross Reflections, premier volet d'une trilogie VR. ([revue du jour](../2026/10/2026-10-03.md))
+- **2026-10-03** — Space Marine 2 fête ses deux ans avec une grosse mise à jour gratuite — Mode Siège du Chaos, marteau à une main et feuille de route jusqu'en 2027. ([revue du jour](../2026/10/2026-10-03.md))
 - **2026-10-02** — Kena: Scars of Kosmora repoussé à 2027 — La suite de Kena: Bridge of Spirits ne sortira pas en 2026. ([revue du jour](../2026/10/2026-10-02.md))
 - **2026-10-02** — 007 First Light : un DLC gratuit avec New Game+ et mode photo — L'extension Extended Operations sera incluse dans la version Switch 2 de mars 2027. ([revue du jour](../2026/10/2026-10-02.md))
 - **2026-10-02** — Resident Evil : Capcom prépare la jonction entre remakes et épisodes récents — Jun Takeuchi évoque un futur « crossover » entre les deux lignées. ([revue du jour](../2026/10/2026-10-02.md))

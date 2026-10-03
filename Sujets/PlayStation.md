@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-03** — Une PS5 Slim discrètement révisée — Carte mère, refroidissement et pile CMOS modifiés sur les consoles du pack Wolverine, sans annonce de Sony. ([revue du jour](../2026/10/2026-10-03.md))
+- **2026-10-03** — L'application PlayStation devient plus sociale — Onglet social et widget d'activité des amis sur iOS et Android. ([revue du jour](../2026/10/2026-10-03.md))
+- **2026-10-03** — Ken Kutaragi juge que le jeu vidéo stagne — Le créateur de la PlayStation estime qu'on fabrique les jeux de la même façon depuis la PS1. ([revue du jour](../2026/10/2026-10-03.md))
 - **2026-10-02** — QSSR : upscaling par IA pour la PS5 standard — Wolverine et Ghost of Yōtei inaugurent la technique dérivée du PSSR. ([revue du jour](../2026/10/2026-10-02.md))
 - **2026-10-02** — Suite : un nouvel Ape Escape en préparation ? — Selon NateTheHate, Sony veut relancer ses licences en sommeil. ([revue du jour](../2026/10/2026-10-02.md))
 - **2026-10-02** — Kena: Scars of Kosmora repoussé à 2027 — Ember Lab veut plus de temps pour peaufiner sa suite, prévue sur PS5 et PC. ([revue du jour](../2026/10/2026-10-02.md))

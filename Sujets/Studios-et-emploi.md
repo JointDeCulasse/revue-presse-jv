@@ -2,6 +2,7 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-03** — Paramount et Warner Bros. deviennent Skydance — Warner Bros. Games pourrait être rapproché de Skydance Games, et d'importantes suppressions de postes sont attendues. ([revue du jour](../2026/10/2026-10-03.md))
 - **2026-10-02** — The Coalition redoute des licenciements après Gears — Selon Eurogamer, l'équipe craint des départs forcés avant le versement des primes fin octobre. ([revue du jour](../2026/10/2026-10-02.md))
 - **2026-10-02** — Krafton annule PUBG: Black Budget — Le jeu d'extraction est abandonné après un an d'alpha fermée. ([revue du jour](../2026/10/2026-10-02.md))
 - **2026-10-02** — Nerial (Reigns, Card Shark) ferme ses portes — Le studio détenu par Devolver ferme, ses fondateurs repartent en indépendants. ([revue du jour](../2026/10/2026-10-02.md))

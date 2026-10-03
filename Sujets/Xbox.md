@@ -2,6 +2,7 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-03** — Gears of War: E-Day double le record de la série sur Steam — Pic à 20 374 joueurs simultanés et une utilisation inédite du SSD sur Xbox Series S. ([revue du jour](../2026/10/2026-10-03.md))
 - **2026-10-02** — Gears of War: E-Day salué par la critique — La campagne obtient 88 sur Metacritic, mais plusieurs éléments classiques de la série manquent au lancement. ([revue du jour](../2026/10/2026-10-02.md))
 - **2026-10-02** — Take-Two signe un nouvel accord d'édition avec Xbox — Un accord de long terme qui couvre « tous les appareils Xbox », y compris sans doute Project Helix. ([revue du jour](../2026/10/2026-10-02.md))
 - **2026-10-02** — The Coalition redoute des licenciements après Gears — Des salariés craignent d'être remerciés avant le versement des primes liées à Metacritic. ([revue du jour](../2026/10/2026-10-02.md))

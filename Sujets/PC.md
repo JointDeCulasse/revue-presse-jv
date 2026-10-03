@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-03** — Gears of War: E-Day double le record de la série sur Steam — 20 374 joueurs simultanés en accès anticipé, contre 10 196 pour Gears 5. ([revue du jour](../2026/10/2026-10-03.md))
+- **2026-10-03** — Bethesda fait retirer un Fallout: New York généré par IA — Le créateur du jeu de navigateur a reçu une mise en demeure. ([revue du jour](../2026/10/2026-10-03.md))
 - **2026-10-02** — Krafton annule PUBG: Black Budget — Le jeu d'extraction présenté sur Steam il y a moins d'un an est abandonné. ([revue du jour](../2026/10/2026-10-02.md))
 - **2026-10-02** — La flambée de la mémoire vive va durer, prévient Micron — Prix de la RAM multipliés par cinq en un an, tension prévue jusqu'en 2028. ([revue du jour](../2026/10/2026-10-02.md))
 - **2026-10-01** — Gears of War: E-Day : des précommandes Steam jugées faibles — environ 120 000 exemplaires, soit près de 7 millions de dollars, selon Alinea Analytics. ([revue du jour](../2026/10/2026-10-01.md))

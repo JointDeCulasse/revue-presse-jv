@@ -2,6 +2,7 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-03** — Une PS5 Slim discrètement révisée — Refroidissement proche de la PS5 Pro et pile plus accessible, sans doute pour réduire les coûts en pleine pénurie de mémoire. ([revue du jour](../2026/10/2026-10-03.md))
 - **2026-10-02** — QSSR : upscaling par IA pour la PS5 standard — Digital Foundry note une image plus stable et plus détaillée. ([revue du jour](../2026/10/2026-10-02.md))
 - **2026-10-02** — La flambée de la mémoire vive va durer, prévient Micron — Le fabricant n'attend pas de détente des prix avant 2029. ([revue du jour](../2026/10/2026-10-02.md))
 - **2026-10-01** — Shuhei Yoshida : faire durer la génération actuelle — selon lui, Sony et Nintendo n'ont pas intérêt à presser l'arrivée de nouvelles consoles. ([revue du jour](../2026/10/2026-10-01.md))

@@ -2,6 +2,12 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-03** — Paramount et Warner Bros. deviennent Skydance — La fusion (environ 110 milliards de dollars) sera finalisée le 6 octobre, laissant Warner Bros. Games face à une restructuration probable. ([revue du jour](../2026/10/2026-10-03.md))
+- **2026-10-03** — Warhorse espère que GTA 6 ouvrira la voie aux jeux à 80 dollars — Martin Klima voit dans la hausse du prix unitaire le dernier levier face à l'explosion des coûts. ([revue du jour](../2026/10/2026-10-03.md))
+- **2026-10-03** — Netflix mise sur le cloud gaming pour un monde « post-console » — Ted Sarandos privilégie le jeu sur téléviseur via le cloud et écarte le rachat d'un grand éditeur. ([revue du jour](../2026/10/2026-10-03.md))
+- **2026-10-03** — Bethesda fait retirer un Fallout: New York généré par IA — Une mise en demeure pour atteinte à la marque a fait tomber ce jeu de navigateur viral. ([revue du jour](../2026/10/2026-10-03.md))
+- **2026-10-03** — Ken Kutaragi juge que le jeu vidéo stagne — Le père de la PlayStation appelle les développeurs à retrouver curiosité et goût de l'innovation. ([revue du jour](../2026/10/2026-10-03.md))
+- **2026-10-03** — Devolver Digital a quitté la Bourse — Après une chute de plus de 90 % de son action, l'éditeur indé est redevenu une entreprise privée. ([revue du jour](../2026/10/2026-10-03.md))
 - **2026-10-02** — Take-Two signe un nouvel accord d'édition avec Xbox — L'accord remplace les précédents et couvre GTA 6 comme les futures machines Xbox. ([revue du jour](../2026/10/2026-10-02.md))
 - **2026-10-02** — Suite : Stop Killing Games s'alarme de l'EU Kids Act — Ross Scott dénonce vérification d'identité et interdiction des serveurs privés. ([revue du jour](../2026/10/2026-10-02.md))
 - **2026-10-01** — « Xbox n'est pas à vendre » — Asha Sharma dément les rumeurs de cession après les informations sur une filialisation. ([revue du jour](../2026/10/2026-10-01.md))
