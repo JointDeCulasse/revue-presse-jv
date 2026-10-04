@@ -2,6 +2,7 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-04** — Thrustmaster TGT III, un volant à 700 € pour Gran Turismo 7 — Volant PS5 à entraînement direct conçu avec Kazunori Yamauchi, en vente le 3 décembre. ([revue du jour](../2026/10/2026-10-04.md))
 - **2026-10-03** — Une PS5 Slim discrètement révisée — Refroidissement proche de la PS5 Pro et pile plus accessible, sans doute pour réduire les coûts en pleine pénurie de mémoire. ([revue du jour](../2026/10/2026-10-03.md))
 - **2026-10-02** — QSSR : upscaling par IA pour la PS5 standard — Digital Foundry note une image plus stable et plus détaillée. ([revue du jour](../2026/10/2026-10-02.md))
 - **2026-10-02** — La flambée de la mémoire vive va durer, prévient Micron — Le fabricant n'attend pas de détente des prix avant 2029. ([revue du jour](../2026/10/2026-10-02.md))

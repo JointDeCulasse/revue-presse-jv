@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-04** — Nouveau piratage d'un compte PSN par ingénierie sociale — Le compte de RealRadec a été détourné via le support de Sony, qui n'a toujours pas corrigé la faille. ([revue du jour](../2026/10/2026-10-04.md))
+- **2026-10-04** — Thrustmaster TGT III, un volant à 700 € pour Gran Turismo 7 — Volant PS5 à entraînement direct conçu avec Kazunori Yamauchi, en vente le 3 décembre. ([revue du jour](../2026/10/2026-10-04.md))
 - **2026-10-03** — Une PS5 Slim discrètement révisée — Carte mère, refroidissement et pile CMOS modifiés sur les consoles du pack Wolverine, sans annonce de Sony. ([revue du jour](../2026/10/2026-10-03.md))
 - **2026-10-03** — L'application PlayStation devient plus sociale — Onglet social et widget d'activité des amis sur iOS et Android. ([revue du jour](../2026/10/2026-10-03.md))
 - **2026-10-03** — Ken Kutaragi juge que le jeu vidéo stagne — Le créateur de la PlayStation estime qu'on fabrique les jeux de la même façon depuis la PS1. ([revue du jour](../2026/10/2026-10-03.md))

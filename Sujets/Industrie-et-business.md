@@ -2,6 +2,11 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-04** — Capcom veut faire du RE Engine un « moteur de jeu IA » — L'initiative REX prévoit génération de code et tests automatisés par IA, sans remplacer les artistes selon Capcom. ([revue du jour](../2026/10/2026-10-04.md))
+- **2026-10-04** — Activision fait tomber une décompilation de Modern Warfare 2 par IA — Après Bethesda et Fallout, Activision fait retirer un projet mené avec 17 agents d'IA. ([revue du jour](../2026/10/2026-10-04.md))
+- **2026-10-04** — Les moddeurs se rebiffent contre les copies générées par IA — L'auteur de SFO: Grimhammer III sabote son mod et l'équipe de Banjo: Recompiled dénonce les portages IA. ([revue du jour](../2026/10/2026-10-04.md))
+- **2026-10-04** — Shawn Layden : impossible de gagner de l'argent sur Game Pass — Pour l'ex-patron de PlayStation, seule la plateforme profite du modèle d'abonnement. ([revue du jour](../2026/10/2026-10-04.md))
+- **2026-10-04** — Dan Houser évite volontairement GTA 6 — Le cofondateur de Rockstar ne veut pas être influencé pendant qu'Absurd Ventures prépare deux mondes ouverts. ([revue du jour](../2026/10/2026-10-04.md))
 - **2026-10-03** — Paramount et Warner Bros. deviennent Skydance — La fusion (environ 110 milliards de dollars) sera finalisée le 6 octobre, laissant Warner Bros. Games face à une restructuration probable. ([revue du jour](../2026/10/2026-10-03.md))
 - **2026-10-03** — Warhorse espère que GTA 6 ouvrira la voie aux jeux à 80 dollars — Martin Klima voit dans la hausse du prix unitaire le dernier levier face à l'explosion des coûts. ([revue du jour](../2026/10/2026-10-03.md))
 - **2026-10-03** — Netflix mise sur le cloud gaming pour un monde « post-console » — Ted Sarandos privilégie le jeu sur téléviseur via le cloud et écarte le rachat d'un grand éditeur. ([revue du jour](../2026/10/2026-10-03.md))

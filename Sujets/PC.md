@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-04** — Les moddeurs se rebiffent contre les copies générées par IA — L'auteur de SFO: Grimhammer III sabote son mod et l'équipe de Banjo: Recompiled dénonce les portages IA. ([revue du jour](../2026/10/2026-10-04.md))
+- **2026-10-04** — Valorant : banni à cause d'un processeur d'occasion — Vanguard avait banni le numéro de série du CPU à cause de l'ancien propriétaire ; Riot conteste une partie du récit. ([revue du jour](../2026/10/2026-10-04.md))
+- **2026-10-04** — Steam a déjà publié plus de 20 000 jeux en 2026 — Le record annuel tombera début novembre, porté par l'indé et l'IA générative. ([revue du jour](../2026/10/2026-10-04.md))
 - **2026-10-03** — Gears of War: E-Day double le record de la série sur Steam — 20 374 joueurs simultanés en accès anticipé, contre 10 196 pour Gears 5. ([revue du jour](../2026/10/2026-10-03.md))
 - **2026-10-03** — Bethesda fait retirer un Fallout: New York généré par IA — Le créateur du jeu de navigateur a reçu une mise en demeure. ([revue du jour](../2026/10/2026-10-03.md))
 - **2026-10-02** — Krafton annule PUBG: Black Budget — Le jeu d'extraction présenté sur Steam il y a moins d'un an est abandonné. ([revue du jour](../2026/10/2026-10-02.md))

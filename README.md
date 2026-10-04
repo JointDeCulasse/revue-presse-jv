@@ -9,6 +9,7 @@ Archive quotidienne de l'actualité jeu vidéo, rédigée en français à partir
 
 ## Revues
 
+- [2026-10-04](2026/10/2026-10-04.md) — Jagex annonce RuneScape 4 · Capcom veut faire du RE Engine un « moteur de jeu IA » · Activision et les moddeurs contre les projets générés par IA
 - [2026-10-03](2026/10/2026-10-03.md) — Paramount et Warner Bros. deviennent Skydance, incertitude pour Warner Bros. Games · Star Wars: Galactic Racer à 88 sur Metacritic · Gears of War: E-Day double le record de la série sur Steam
 - [2026-10-02](2026/10/2026-10-02.md) — Gears of War: E-Day à 88 sur Metacritic, mais The Coalition craint des licenciements · Sony lance le QSSR, upscaling par IA pour la PS5 standard · Krafton annule PUBG: Black Budget
 - [2026-10-01](2026/10/2026-10-01.md) — Asha Sharma : « Xbox n'est pas à vendre » · Grasshopper Manufacture redevient indépendant de NetEase · Le chef présumé de ShinyHunters, qui avait piraté Rockstar, arrêté à Amsterdam

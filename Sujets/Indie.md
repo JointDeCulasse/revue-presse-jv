@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-04** — Steam a déjà publié plus de 20 000 jeux en 2026 — Le record annuel tombera début novembre, porté par l'indé et l'IA générative. ([revue du jour](../2026/10/2026-10-04.md))
+- **2026-10-04** — Order of the Sinking Star sort le 8 octobre — Le jeu de réflexion de Jonathan Blow arrive sur PC, PS5 et Switch 2 avec plus de 1 000 énigmes. ([revue du jour](../2026/10/2026-10-04.md))
 - **2026-10-03** — Devolver Digital a quitté la Bourse — L'éditeur est redevenu privé, ses fondateurs détenant 33 % du capital. ([revue du jour](../2026/10/2026-10-03.md))
 - **2026-10-03** — 28 Games Later : une vitrine d'horreur indé riche en annonces — 28 jeux présentés, dont Remothered: Red Nun's Legacy, Tenebris Somnia et Signal Veil. ([revue du jour](../2026/10/2026-10-03.md))
 - **2026-10-03** — Out of Bounds : 16 jeux indé le 6 octobre — La vitrine d'Entalto Publishing se prolonge au SAGA BCN Game Fest de Barcelone. ([revue du jour](../2026/10/2026-10-03.md))

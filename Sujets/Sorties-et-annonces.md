@@ -2,6 +2,10 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-04** — RuneScape 4 officialisé à la RuneFest — Jagex prépare un nouveau MMO sous Unreal Engine, né d'une extension de Dragonwilds et attendu dans plusieurs années. ([revue du jour](../2026/10/2026-10-04.md))
+- **2026-10-04** — Suite : la fiche PEGI de GTA 6 retirée après coup — Le descriptif détaillé (drogue, sexe, violence) a été dépublié, sans remettre en cause le PEGI 18. ([revue du jour](../2026/10/2026-10-04.md))
+- **2026-10-04** — Le DLC de Crimson Desert repoussé au 29 octobre — Pearl Abyss décale de deux semaines Charting the Unknown pour le peaufiner. ([revue du jour](../2026/10/2026-10-04.md))
+- **2026-10-04** — Order of the Sinking Star sort le 8 octobre — Le jeu de réflexion de Jonathan Blow arrive sur PC, PS5 et Switch 2 avec plus de 1 000 énigmes. ([revue du jour](../2026/10/2026-10-04.md))
 - **2026-10-03** — GTA 6 classé 18+ et marketing XXL avec le Miami Heat — PEGI 18 et ESRB M, et une soirée « Vice City » en NBA le 18 novembre. ([revue du jour](../2026/10/2026-10-03.md))
 - **2026-10-03** — Evangelion arrive en réalité virtuelle en 2027 — Pixelity prépare Evangelion: Δ Cross Reflections, premier volet d'une trilogie VR. ([revue du jour](../2026/10/2026-10-03.md))
 - **2026-10-03** — Space Marine 2 fête ses deux ans avec une grosse mise à jour gratuite — Mode Siège du Chaos, marteau à une main et feuille de route jusqu'en 2027. ([revue du jour](../2026/10/2026-10-03.md))
