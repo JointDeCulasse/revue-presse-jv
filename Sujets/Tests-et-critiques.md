@@ -2,6 +2,7 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-05** — The Witcher 3 Remastered sur Switch 2 : « un bond colossal » — Jusqu'à 1080p via DLSS en mode TV, 40 images par seconde visées mais rarement tenues dans les zones chargées. ([revue du jour](../2026/10/2026-10-05.md))
 - **2026-10-04** — Suite : The Witcher 3 Remastered pulvérise son record sur Steam — 123 359 joueurs simultanés le 3 octobre, onze ans après la sortie du jeu. ([revue du jour](../2026/10/2026-10-04.md))
 - **2026-10-03** — Star Wars: Galactic Racer acclamé (88 sur Metacritic) — Le premier jeu de Fuse Games séduit par sa course arcade spectaculaire et sa campagne solo. ([revue du jour](../2026/10/2026-10-03.md))
 - **2026-10-02** — Gears of War: E-Day salué par la critique — 88 sur Metacritic pour la campagne, de 10/10 (Pure Xbox) à 6/10 (The Guardian). ([revue du jour](../2026/10/2026-10-02.md))

@@ -2,6 +2,7 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-05** — The Witcher 3 Remastered sur Switch 2 : « un bond colossal » — Digital Foundry salue le gain visuel mais juge le plafond de 40 images par seconde trop ambitieux. ([revue du jour](../2026/10/2026-10-05.md))
 - **2026-10-04** — 91 % des lecteurs de Nintendo Life sont passés à la Switch 2 — L'enquête montre aussi que GameChat et le mode souris restent peu utilisés. ([revue du jour](../2026/10/2026-10-04.md))
 - **2026-10-02** — 007 First Light : un DLC gratuit avec New Game+ et mode photo — La version Switch 2, prévue en mars 2027, inclura tout le contenu et vise 30 images/s. ([revue du jour](../2026/10/2026-10-02.md))
 - **2026-10-01** — Mario Kart Tour a fermé ses portes — les serveurs du jeu mobile se sont éteints le 29 septembre, sans version hors ligne. ([revue du jour](../2026/10/2026-10-01.md))

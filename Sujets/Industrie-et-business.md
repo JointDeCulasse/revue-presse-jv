@@ -2,6 +2,7 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-05** — Sony ouvrirait ses licences en sommeil à des studios externes — Sly Cooper, Ape Escape et Killzone seraient confiés à des studios externes financés par PlayStation, pour une première vague autour de la PS6. ([revue du jour](../2026/10/2026-10-05.md))
 - **2026-10-04** — Capcom veut faire du RE Engine un « moteur de jeu IA » — L'initiative REX prévoit génération de code et tests automatisés par IA, sans remplacer les artistes selon Capcom. ([revue du jour](../2026/10/2026-10-04.md))
 - **2026-10-04** — Activision fait tomber une décompilation de Modern Warfare 2 par IA — Après Bethesda et Fallout, Activision fait retirer un projet mené avec 17 agents d'IA. ([revue du jour](../2026/10/2026-10-04.md))
 - **2026-10-04** — Les moddeurs se rebiffent contre les copies générées par IA — L'auteur de SFO: Grimhammer III sabote son mod et l'équipe de Banjo: Recompiled dénonce les portages IA. ([revue du jour](../2026/10/2026-10-04.md))

@@ -2,6 +2,7 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-05** — Fable : premières impressions positives à la Xbox FanFest — Pure Xbox salue des combats percutants à 60 images par seconde, avant une sortie en février 2027 sur Xbox Series et PS5. ([revue du jour](../2026/10/2026-10-05.md))
 - **2026-10-04** — Clair Obscur: Expedition 33 quitte le Game Pass le 15 octobre — Le RPG de Sandfall part avec A Plague Tale: Requiem et sept autres jeux. ([revue du jour](../2026/10/2026-10-04.md))
 - **2026-10-04** — Shawn Layden : impossible de gagner de l'argent sur Game Pass — Pour l'ex-patron de PlayStation, seule la plateforme profite du modèle d'abonnement. ([revue du jour](../2026/10/2026-10-04.md))
 - **2026-10-03** — Gears of War: E-Day double le record de la série sur Steam — Pic à 20 374 joueurs simultanés et une utilisation inédite du SSD sur Xbox Series S. ([revue du jour](../2026/10/2026-10-03.md))

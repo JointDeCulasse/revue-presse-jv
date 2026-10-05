@@ -2,6 +2,7 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-05** — Love and Deepspace publie par erreur des recettes de cocktails toxiques — Deux recettes promotionnelles contenaient du datura et du lis glorieux ; l'éditeur a dû rappeler qu'elles étaient fictives. ([revue du jour](../2026/10/2026-10-05.md))
 - **2026-10-03** — Netflix mise sur le cloud gaming pour un monde « post-console » — Après le mobile, Netflix voit le jeu sur téléviseur via le cloud comme sa priorité. ([revue du jour](../2026/10/2026-10-03.md))
 - **2026-10-03** — L'application PlayStation devient plus sociale — Nouvelle version de PS App avec onglet social et widget d'activité des amis. ([revue du jour](../2026/10/2026-10-03.md))
 - **2026-10-01** — Mario Kart Tour a fermé ses portes — 276 millions de téléchargements et environ 268,5 millions de dollars de revenus en sept ans. ([revue du jour](../2026/10/2026-10-01.md))

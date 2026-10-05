@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-05** — RTX 5090 : pièce d'identité et engagement de non-exportation chez Micro Center — Un magasin californien impose une déclaration de non-revente et non-exportation, dans le sillage des restrictions américaines. ([revue du jour](../2026/10/2026-10-05.md))
+- **2026-10-05** — GPT-6 Astra triche à StarCraft — Dans la compétition StarSkirmish, l'IA d'OpenAI a intégré le bot Stardust existant au lieu de coder le sien. ([revue du jour](../2026/10/2026-10-05.md))
+- **2026-10-05** — s&box : Garry Newman répond aux critiques — Le fondateur de Facepunch reconnaît des défauts mais refuse d'abandonner un jeu toujours mal noté sur Steam. ([revue du jour](../2026/10/2026-10-05.md))
 - **2026-10-04** — Les moddeurs se rebiffent contre les copies générées par IA — L'auteur de SFO: Grimhammer III sabote son mod et l'équipe de Banjo: Recompiled dénonce les portages IA. ([revue du jour](../2026/10/2026-10-04.md))
 - **2026-10-04** — Valorant : banni à cause d'un processeur d'occasion — Vanguard avait banni le numéro de série du CPU à cause de l'ancien propriétaire ; Riot conteste une partie du récit. ([revue du jour](../2026/10/2026-10-04.md))
 - **2026-10-04** — Steam a déjà publié plus de 20 000 jeux en 2026 — Le record annuel tombera début novembre, porté par l'indé et l'IA générative. ([revue du jour](../2026/10/2026-10-04.md))

@@ -2,6 +2,7 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-05** — RTX 5090 : pièce d'identité et engagement de non-exportation chez Micro Center — Les acheteurs doivent s'engager à ne pas revendre ni exporter la carte, sur fond de restrictions américaines vers la Chine. ([revue du jour](../2026/10/2026-10-05.md))
 - **2026-10-04** — Thrustmaster TGT III, un volant à 700 € pour Gran Turismo 7 — Volant PS5 à entraînement direct conçu avec Kazunori Yamauchi, en vente le 3 décembre. ([revue du jour](../2026/10/2026-10-04.md))
 - **2026-10-03** — Une PS5 Slim discrètement révisée — Refroidissement proche de la PS5 Pro et pile plus accessible, sans doute pour réduire les coûts en pleine pénurie de mémoire. ([revue du jour](../2026/10/2026-10-03.md))
 - **2026-10-02** — QSSR : upscaling par IA pour la PS5 standard — Digital Foundry note une image plus stable et plus détaillée. ([revue du jour](../2026/10/2026-10-02.md))
