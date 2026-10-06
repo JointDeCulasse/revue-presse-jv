@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-06** — Suite : Ninja Theory commence à licencier, Senua menacé — Après l'échec de deux projets de cession, plusieurs employés du studio de Hellblade annoncent leur départ, et le jeu Senua paraît compromis. ([revue du jour](../2026/10/2026-10-06.md))
+- **2026-10-06** — Suite : Supermassive supprime plus de 70 postes — Le studio d'Until Dawn achève sa troisième vague de licenciements en trois ans, moins de six mois après Directive 8020. ([revue du jour](../2026/10/2026-10-06.md))
 - **2026-10-03** — Paramount et Warner Bros. deviennent Skydance — Warner Bros. Games pourrait être rapproché de Skydance Games, et d'importantes suppressions de postes sont attendues. ([revue du jour](../2026/10/2026-10-03.md))
 - **2026-10-02** — The Coalition redoute des licenciements après Gears — Selon Eurogamer, l'équipe craint des départs forcés avant le versement des primes fin octobre. ([revue du jour](../2026/10/2026-10-02.md))
 - **2026-10-02** — Krafton annule PUBG: Black Budget — Le jeu d'extraction est abandonné après un an d'alpha fermée. ([revue du jour](../2026/10/2026-10-02.md))

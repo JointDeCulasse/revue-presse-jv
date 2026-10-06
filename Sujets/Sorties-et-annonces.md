@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-06** — GTA 6 évite volontairement les références politiques directes — Rockstar écarte Trump et la pandémie pour que sa satire, centrée sur les influenceurs et la cupidité, ne vieillisse pas. ([revue du jour](../2026/10/2026-10-06.md))
+- **2026-10-06** — Kingdom Hearts Collection : bien accueillie, mais moins de platines et 130 Go sur Switch 2 — La compilation sort le 8 octobre sur PS5, Xbox Series et Switch 2 avec des critiques plutôt positives. ([revue du jour](../2026/10/2026-10-06.md))
+- **2026-10-06** — NBA 2K25 retiré de la vente le 30 octobre, serveurs coupés fin décembre — MyCareer, MyTeam et les modes en ligne disparaîtront le 31 décembre. ([revue du jour](../2026/10/2026-10-06.md))
 - **2026-10-05** — Final Fantasy VII Revelation : un seul disque et beaucoup de téléchargement — Le jeu (environ 200 Go, sortie le 8 avril 2027) exigera un téléchargement en plus de son unique disque ; Hamaguchi dit avoir plaidé pour une vraie version physique. ([revue du jour](../2026/10/2026-10-05.md))
 - **2026-10-05** — Persona 4 Revival daté au 18 février 2027 — Sortie sur PS5, Xbox Series (Game Pass) et PC, puis le 20 mai 2027 sur Switch 2. ([revue du jour](../2026/10/2026-10-05.md))
 - **2026-10-05** — Platinum veut continuer Bayonetta malgré le départ de ses créateurs — Atsushi Inaba souhaite développer la série, dont la licence appartient à Sega et Nintendo. ([revue du jour](../2026/10/2026-10-05.md))

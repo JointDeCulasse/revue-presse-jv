@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-06** — Switch 2 : nouveau pack au Japon, plus de 23 millions de consoles vendues — Minecraft Dungeons II démarre deuxième au Royaume-Uni avec 70 % de ses ventes sur Switch 2. ([revue du jour](../2026/10/2026-10-06.md))
+- **2026-10-06** — The New Denpa Men fermera le 7 décembre — Genius Sonority arrête son RPG gratuit sur Switch, toutes les données seront perdues. ([revue du jour](../2026/10/2026-10-06.md))
+- **2026-10-06** — Frostpunk arrive sur Switch et Switch 2 le 19 octobre — Le jeu de survie de 11 bit studios sort en édition de base ou complète, avec une remise au lancement. ([revue du jour](../2026/10/2026-10-06.md))
 - **2026-10-05** — The Witcher 3 Remastered sur Switch 2 : « un bond colossal » — Digital Foundry salue le gain visuel mais juge le plafond de 40 images par seconde trop ambitieux. ([revue du jour](../2026/10/2026-10-05.md))
 - **2026-10-04** — 91 % des lecteurs de Nintendo Life sont passés à la Switch 2 — L'enquête montre aussi que GameChat et le mode souris restent peu utilisés. ([revue du jour](../2026/10/2026-10-04.md))
 - **2026-10-02** — 007 First Light : un DLC gratuit avec New Game+ et mode photo — La version Switch 2, prévue en mars 2027, inclura tout le contenu et vise 30 images/s. ([revue du jour](../2026/10/2026-10-02.md))

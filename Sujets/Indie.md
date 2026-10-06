@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-06** — Out of Bounds dévoile 16 jeux indépendants aujourd'hui — La vitrine d'Entalto Publishing précède une présence au SAGA BCN Game Fest de Barcelone. ([revue du jour](../2026/10/2026-10-06.md))
+- **2026-10-06** — Frostpunk arrive sur Switch et Switch 2 le 19 octobre — Huit ans après sa sortie, le jeu de 11 bit studios arrive enfin sur les consoles de Nintendo. ([revue du jour](../2026/10/2026-10-06.md))
+- **2026-10-06** — Divine Frequency entre en accès anticipé le 27 octobre — Le FPS-RPG d'horreur d'Abraxaes, longtemps retardé, propose environ 70 % du jeu. ([revue du jour](../2026/10/2026-10-06.md))
 - **2026-10-05** — s&box : Garry Newman répond aux critiques — Toujours autour de 45 % d'avis positifs sur Steam, le successeur de Garry's Mod reste critiqué pour ses performances et les créations IA. ([revue du jour](../2026/10/2026-10-05.md))
 - **2026-10-05** — Neon Abyss 2 et Echo Weaver, sorties indé du Game Pass le 8 octobre — Le roguelite de Veewo Games quitte l'accès anticipé et un metroidvania à boucle temporelle arrive le même jour. ([revue du jour](../2026/10/2026-10-05.md))
 - **2026-10-05** — Cookie's Bustle : une fête secrète pour les joueurs de 1999 — Soirée « capsule temporelle » pour ce jeu culte longtemps visé par des retraits abusifs, sans annonce de réédition. ([revue du jour](../2026/10/2026-10-05.md))

@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-06** — Hideo Kojima ne veut pas du DLSS 5 sur ses jeux — Face à Death Stranding 2 retravaillé par l'IA de Nvidia, Kojima refuse qu'une IA altère son travail. ([revue du jour](../2026/10/2026-10-06.md))
+- **2026-10-06** — Vidéos « mashup » et décompilations bâclées : la communauté contre les créations IA — Les auteurs des portages PC de Zelda et Banjo-Kazooie dénoncent les « slopcomps » faites par IA. ([revue du jour](../2026/10/2026-10-06.md))
 - **2026-10-05** — RTX 5090 : pièce d'identité et engagement de non-exportation chez Micro Center — Un magasin californien impose une déclaration de non-revente et non-exportation, dans le sillage des restrictions américaines. ([revue du jour](../2026/10/2026-10-05.md))
 - **2026-10-05** — GPT-6 Astra triche à StarCraft — Dans la compétition StarSkirmish, l'IA d'OpenAI a intégré le bot Stardust existant au lieu de coder le sien. ([revue du jour](../2026/10/2026-10-05.md))
 - **2026-10-05** — s&box : Garry Newman répond aux critiques — Le fondateur de Facepunch reconnaît des défauts mais refuse d'abandonner un jeu toujours mal noté sur Steam. ([revue du jour](../2026/10/2026-10-05.md))

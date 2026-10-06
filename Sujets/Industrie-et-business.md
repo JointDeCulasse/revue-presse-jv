@@ -2,6 +2,10 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-06** — Jagex retire une bande-annonce de RuneScape soupçonnée d'utiliser l'IA — Le studio promet d'enquêter et rappelle qu'il n'utilise pas l'IA générative pour ses contenus créatifs. ([revue du jour](../2026/10/2026-10-06.md))
+- **2026-10-06** — Hideo Kojima ne veut pas du DLSS 5 sur ses jeux — Le créateur de Death Stranding estime qu'une IA ne peut pas comprendre les intentions des artistes. ([revue du jour](../2026/10/2026-10-06.md))
+- **2026-10-06** — Vidéos « mashup » et décompilations bâclées : la communauté contre les créations IA — Joueurs, moddeurs et équipes de décompilation dénoncent les contenus produits à la chaîne par IA. ([revue du jour](../2026/10/2026-10-06.md))
+- **2026-10-06** — Arc Raiders et The Finals adaptés en série et en film — Embark s'associe à un coproducteur de The Backrooms pour porter ses deux jeux de tir à l'écran. ([revue du jour](../2026/10/2026-10-06.md))
 - **2026-10-05** — Sony ouvrirait ses licences en sommeil à des studios externes — Sly Cooper, Ape Escape et Killzone seraient confiés à des studios externes financés par PlayStation, pour une première vague autour de la PS6. ([revue du jour](../2026/10/2026-10-05.md))
 - **2026-10-04** — Capcom veut faire du RE Engine un « moteur de jeu IA » — L'initiative REX prévoit génération de code et tests automatisés par IA, sans remplacer les artistes selon Capcom. ([revue du jour](../2026/10/2026-10-04.md))
 - **2026-10-04** — Activision fait tomber une décompilation de Modern Warfare 2 par IA — Après Bethesda et Fallout, Activision fait retirer un projet mené avec 17 agents d'IA. ([revue du jour](../2026/10/2026-10-04.md))

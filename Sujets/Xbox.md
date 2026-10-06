@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-06** — Suite : Ninja Theory commence à licencier, Senua menacé — Après l'échec de deux projets de cession par Microsoft, les départs commencent au studio de Hellblade. ([revue du jour](../2026/10/2026-10-06.md))
+- **2026-10-06** — Un ancien patron de PlayStation somme Xbox de « choisir sa voie » — Selon lui, Xbox ne peut pas être à la fois une grande plateforme et un grand éditeur multiplateforme. ([revue du jour](../2026/10/2026-10-06.md))
 - **2026-10-05** — Fable : premières impressions positives à la Xbox FanFest — Pure Xbox salue des combats percutants à 60 images par seconde, avant une sortie en février 2027 sur Xbox Series et PS5. ([revue du jour](../2026/10/2026-10-05.md))
 - **2026-10-04** — Clair Obscur: Expedition 33 quitte le Game Pass le 15 octobre — Le RPG de Sandfall part avec A Plague Tale: Requiem et sept autres jeux. ([revue du jour](../2026/10/2026-10-04.md))
 - **2026-10-04** — Shawn Layden : impossible de gagner de l'argent sur Game Pass — Pour l'ex-patron de PlayStation, seule la plateforme profite du modèle d'abonnement. ([revue du jour](../2026/10/2026-10-04.md))

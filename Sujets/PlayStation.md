@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-06** — Gran Turismo 7 : la première partie de la mise à jour Spec IV le 14 octobre — Polyphony date la première partie de sa grosse mise à jour gratuite sur PS5 et PS4. ([revue du jour](../2026/10/2026-10-06.md))
+- **2026-10-06** — Kingdom Hearts Collection : moins de trophées Platine sur PS5 — Les trophées de la compilation sont répartis en trois listes seulement, contre davantage sur PS4. ([revue du jour](../2026/10/2026-10-06.md))
 - **2026-10-05** — Sony ouvrirait Sly Cooper, Ape Escape et Killzone à des studios externes — Selon un informateur, PlayStation financerait de nouveaux jeux confiés à des studios externes, avec une première vague autour du lancement de la PS6. ([revue du jour](../2026/10/2026-10-05.md))
 - **2026-10-04** — Nouveau piratage d'un compte PSN par ingénierie sociale — Le compte de RealRadec a été détourné via le support de Sony, qui n'a toujours pas corrigé la faille. ([revue du jour](../2026/10/2026-10-04.md))
 - **2026-10-04** — Thrustmaster TGT III, un volant à 700 € pour Gran Turismo 7 — Volant PS5 à entraînement direct conçu avec Kazunori Yamauchi, en vente le 3 décembre. ([revue du jour](../2026/10/2026-10-04.md))
