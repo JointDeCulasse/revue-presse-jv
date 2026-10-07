@@ -2,6 +2,11 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-07** — GTA 6 en streaming exclusif sur Xbox Cloud ? Microsoft dément — The Verge annonçait une exclusivité de streaming au lancement ; Matthew Ball parle d'une erreur. ([revue du jour](../2026/10/2026-10-07.md))
+- **2026-10-07** — Asha Sharma : « Xbox renoue avec la croissance », Project Helix sera une famille d'appareils — Opinion positive en hausse de 30 % et machines de nouvelle génération en partie fabriquées par des partenaires. ([revue du jour](../2026/10/2026-10-07.md))
+- **2026-10-07** — Gears of War: E-Day : le SSD de la Series S utilisé comme mémoire d'appoint — The Coalition gagne environ 1 Go de mémoire utile pour tenir 60 images par seconde. ([revue du jour](../2026/10/2026-10-07.md))
+- **2026-10-07** — Forza Horizon 6 : Playground répond à la grogne des joueurs — Le studio dit entendre les critiques sur le contenu post-lancement. ([revue du jour](../2026/10/2026-10-07.md))
+- **2026-10-07** — Suite : le patron d'Undead Labs revient sur les licenciements — Philip Holt dit avoir été « d'une transparence irresponsable » avec ses équipes. ([revue du jour](../2026/10/2026-10-07.md))
 - **2026-10-06** — Suite : Ninja Theory commence à licencier, Senua menacé — Après l'échec de deux projets de cession par Microsoft, les départs commencent au studio de Hellblade. ([revue du jour](../2026/10/2026-10-06.md))
 - **2026-10-06** — Un ancien patron de PlayStation somme Xbox de « choisir sa voie » — Selon lui, Xbox ne peut pas être à la fois une grande plateforme et un grand éditeur multiplateforme. ([revue du jour](../2026/10/2026-10-06.md))
 - **2026-10-05** — Fable : premières impressions positives à la Xbox FanFest — Pure Xbox salue des combats percutants à 60 images par seconde, avant une sortie en février 2027 sur Xbox Series et PS5. ([revue du jour](../2026/10/2026-10-05.md))

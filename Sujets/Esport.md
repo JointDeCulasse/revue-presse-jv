@@ -2,6 +2,7 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-07** — Valorant Champions Shanghai : début des playoffs — NRG-T1 et Paper Rex-LOUD en ouverture, finale le 18 octobre. ([revue du jour](../2026/10/2026-10-07.md))
 - **2026-10-05** — Bilan de l'esport aux Jeux asiatiques : la Chine en tête — Trois titres pour la Chine, deux pour le Japon et la Corée du Sud (dont League of Legends) sur onze épreuves. ([revue du jour](../2026/10/2026-10-05.md))
 - **2026-10-04** — Valorant Champions : Vitality en playoffs, Karmine Corp éliminée — Fin de la phase de groupes à Shanghai, playoffs du 7 au 18 octobre. ([revue du jour](../2026/10/2026-10-04.md))
 - **2026-09-30** — « Try Hard » : Arte raconte la naissance de l'esport français — des LAN des années 2000 à la Coupe du monde du Futuroscope, dès le 22 octobre. ([revue du jour](../2026/09/2026-09-30.md))

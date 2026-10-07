@@ -2,6 +2,10 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-07** — Silver Pines acclamé — Le Metroidvania horrifique de Wych Elm (Yoku's Island Express), édité par Team17, reçoit d'excellentes critiques. ([revue du jour](../2026/10/2026-10-07.md))
+- **2026-10-07** — Hollow Knight s'invite dans Fortnite pour Halloween — Le chevalier de Team Cherry devient un compagnon pendant Fortnitemares. ([revue du jour](../2026/10/2026-10-07.md))
+- **2026-10-07** — Novus Inceptio : première mise à jour depuis 2018 — Son développeur solo revient après un épuisement avec une carte agrandie et des combats refaits. ([revue du jour](../2026/10/2026-10-07.md))
+- **2026-10-07** — Warhammer Survivors daté au 10 novembre — Le jeu d'Auroch Digital et Poncle arrive sur Switch, Switch 2 et PS5. ([revue du jour](../2026/10/2026-10-07.md))
 - **2026-10-06** — Out of Bounds dévoile 16 jeux indépendants aujourd'hui — La vitrine d'Entalto Publishing précède une présence au SAGA BCN Game Fest de Barcelone. ([revue du jour](../2026/10/2026-10-06.md))
 - **2026-10-06** — Frostpunk arrive sur Switch et Switch 2 le 19 octobre — Huit ans après sa sortie, le jeu de 11 bit studios arrive enfin sur les consoles de Nintendo. ([revue du jour](../2026/10/2026-10-06.md))
 - **2026-10-06** — Divine Frequency entre en accès anticipé le 27 octobre — Le FPS-RPG d'horreur d'Abraxaes, longtemps retardé, propose environ 70 % du jeu. ([revue du jour](../2026/10/2026-10-06.md))

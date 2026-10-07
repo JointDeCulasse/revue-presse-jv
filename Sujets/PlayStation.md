@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-07** — Suite : jailbreaks et émulation, la PS5 de plus en plus exposée — Un jailbreak couvre les firmwares 7.00 à 13.60 et l'interface de la PS5 tourne dans un émulateur PC. ([revue du jour](../2026/10/2026-10-07.md))
+- **2026-10-07** — GameStop revend des PS5 Pro d'occasion jusqu'à 1 500 dollars — Soit environ 66 % au-dessus du prix d'une console neuve, sur fond de pénurie. ([revue du jour](../2026/10/2026-10-07.md))
 - **2026-10-06** — Gran Turismo 7 : la première partie de la mise à jour Spec IV le 14 octobre — Polyphony date la première partie de sa grosse mise à jour gratuite sur PS5 et PS4. ([revue du jour](../2026/10/2026-10-06.md))
 - **2026-10-06** — Kingdom Hearts Collection : moins de trophées Platine sur PS5 — Les trophées de la compilation sont répartis en trois listes seulement, contre davantage sur PS4. ([revue du jour](../2026/10/2026-10-06.md))
 - **2026-10-05** — Sony ouvrirait Sly Cooper, Ape Escape et Killzone à des studios externes — Selon un informateur, PlayStation financerait de nouveaux jeux confiés à des studios externes, avec une première vague autour du lancement de la PS6. ([revue du jour](../2026/10/2026-10-05.md))

@@ -2,6 +2,7 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-07** — Hello, Peach! et Hello, Luigi! : deux nouvelles applis pour les tout-petits — Nintendo publie gratuitement deux applications sur Switch et mobile. ([revue du jour](../2026/10/2026-10-07.md))
 - **2026-10-06** — Fuite d'une bande-annonce de Project Comet, le jeu Marvel façon Genshin Impact — L'action-RPG de Scopely à personnages à collectionner est prévu sur PC et mobile. ([revue du jour](../2026/10/2026-10-06.md))
 - **2026-10-05** — Love and Deepspace publie par erreur des recettes de cocktails toxiques — Deux recettes promotionnelles contenaient du datura et du lis glorieux ; l'éditeur a dû rappeler qu'elles étaient fictives. ([revue du jour](../2026/10/2026-10-05.md))
 - **2026-10-03** — Netflix mise sur le cloud gaming pour un monde « post-console » — Après le mobile, Netflix voit le jeu sur téléviseur via le cloud comme sa priorité. ([revue du jour](../2026/10/2026-10-03.md))

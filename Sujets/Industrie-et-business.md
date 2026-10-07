@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-07** — Steam vers un record de 20 milliards de dollars en 2026 — Selon Alinea Analytics, septembre a rapporté 1,6 milliard (+13 %) et le cumul annuel atteint 16,5 milliards. ([revue du jour](../2026/10/2026-10-07.md))
+- **2026-10-07** — Sega se dit « très prudent » avec l'IA générative — L'éditeur l'utilise dans ses opérations, pas pour la création de ses jeux. ([revue du jour](../2026/10/2026-10-07.md))
 - **2026-10-06** — Jagex retire une bande-annonce de RuneScape soupçonnée d'utiliser l'IA — Le studio promet d'enquêter et rappelle qu'il n'utilise pas l'IA générative pour ses contenus créatifs. ([revue du jour](../2026/10/2026-10-06.md))
 - **2026-10-06** — Hideo Kojima ne veut pas du DLSS 5 sur ses jeux — Le créateur de Death Stranding estime qu'une IA ne peut pas comprendre les intentions des artistes. ([revue du jour](../2026/10/2026-10-06.md))
 - **2026-10-06** — Vidéos « mashup » et décompilations bâclées : la communauté contre les créations IA — Joueurs, moddeurs et équipes de décompilation dénoncent les contenus produits à la chaîne par IA. ([revue du jour](../2026/10/2026-10-06.md))

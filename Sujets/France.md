@@ -2,6 +2,7 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-07** — Castlevania: Belmont's Curse confie sa musique au compositeur de Rogue Prince of Persia — ASADI signe la bande originale du jeu d'Evil Empire et Motion Twin, attendu le 15 octobre. ([revue du jour](../2026/10/2026-10-07.md))
 - **2026-10-06** — Ubisoft : Watch Dogs reste en dehors des « creative houses » — Yves Guillemot n'envisage pas d'y intégrer la licence pour le moment ; un director's cut de Legion est prévu début 2027. ([revue du jour](../2026/10/2026-10-06.md))
 - **2026-10-04** — Clair Obscur: Expedition 33 quitte le Game Pass le 15 octobre — Le RPG de Sandfall part avec A Plague Tale: Requiem et sept autres jeux. ([revue du jour](../2026/10/2026-10-04.md))
 - **2026-10-04** — Valorant Champions : Vitality en playoffs, Karmine Corp éliminée — Seule l'équipe de Vitality poursuit l'aventure à Shanghai. ([revue du jour](../2026/10/2026-10-04.md))

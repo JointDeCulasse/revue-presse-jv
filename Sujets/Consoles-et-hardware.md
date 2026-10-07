@@ -2,6 +2,10 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-07** — Asha Sharma : Project Helix sera une famille d'appareils — Certaines machines Xbox de nouvelle génération seront fabriquées par des partenaires. ([revue du jour](../2026/10/2026-10-07.md))
+- **2026-10-07** — Suite : jailbreaks et émulation, la PS5 de plus en plus exposée — Nouveau jailbreak pour les firmwares 7.00 à 13.60 et interface système émulée sur PC. ([revue du jour](../2026/10/2026-10-07.md))
+- **2026-10-07** — GameStop revend des PS5 Pro d'occasion jusqu'à 1 500 dollars — Une note interne fixe la date au 16 octobre, mais les prix sont déjà en ligne. ([revue du jour](../2026/10/2026-10-07.md))
+- **2026-10-07** — Manette Xbox Elite Series 3 : nouvelle fuite — Choix entre sticks à effet Hall et sticks TMR repéré dans Xbox Design Lab. ([revue du jour](../2026/10/2026-10-07.md))
 - **2026-10-05** — RTX 5090 : pièce d'identité et engagement de non-exportation chez Micro Center — Les acheteurs doivent s'engager à ne pas revendre ni exporter la carte, sur fond de restrictions américaines vers la Chine. ([revue du jour](../2026/10/2026-10-05.md))
 - **2026-10-04** — Thrustmaster TGT III, un volant à 700 € pour Gran Turismo 7 — Volant PS5 à entraînement direct conçu avec Kazunori Yamauchi, en vente le 3 décembre. ([revue du jour](../2026/10/2026-10-04.md))
 - **2026-10-03** — Une PS5 Slim discrètement révisée — Refroidissement proche de la PS5 Pro et pile plus accessible, sans doute pour réduire les coûts en pleine pénurie de mémoire. ([revue du jour](../2026/10/2026-10-03.md))

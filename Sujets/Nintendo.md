@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-07** — Toronto accueille le premier « magasin dans le magasin » Nintendo en Amérique du Nord — Ouverture le 17 octobre chez EB Games, 267 Yonge Street. ([revue du jour](../2026/10/2026-10-07.md))
+- **2026-10-07** — Monster Hunter Rise dépasse les 20 millions d'exemplaires — Capcom se concentre désormais sur Monster Hunter Wilds, attendu sur Switch 2 le 4 décembre. ([revue du jour](../2026/10/2026-10-07.md))
+- **2026-10-07** — Hello, Peach! et Hello, Luigi! : deux nouvelles applis pour les tout-petits — Gratuites sur Switch et mobile, elles complètent la gamme « My Mario ». ([revue du jour](../2026/10/2026-10-07.md))
 - **2026-10-06** — Switch 2 : nouveau pack au Japon, plus de 23 millions de consoles vendues — Minecraft Dungeons II démarre deuxième au Royaume-Uni avec 70 % de ses ventes sur Switch 2. ([revue du jour](../2026/10/2026-10-06.md))
 - **2026-10-06** — The New Denpa Men fermera le 7 décembre — Genius Sonority arrête son RPG gratuit sur Switch, toutes les données seront perdues. ([revue du jour](../2026/10/2026-10-06.md))
 - **2026-10-06** — Frostpunk arrive sur Switch et Switch 2 le 19 octobre — Le jeu de survie de 11 bit studios sort en édition de base ou complète, avec une remise au lancement. ([revue du jour](../2026/10/2026-10-06.md))

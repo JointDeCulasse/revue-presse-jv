@@ -2,6 +2,7 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-07** — Suite : le patron d'Undead Labs revient sur les licenciements — Le studio, désormais détenu par ses employés, vise sa survie ; State of Decay 3 reste prévu en 2027. ([revue du jour](../2026/10/2026-10-07.md))
 - **2026-10-06** — Suite : Ninja Theory commence à licencier, Senua menacé — Après l'échec de deux projets de cession, plusieurs employés du studio de Hellblade annoncent leur départ, et le jeu Senua paraît compromis. ([revue du jour](../2026/10/2026-10-06.md))
 - **2026-10-06** — Suite : Supermassive supprime plus de 70 postes — Le studio d'Until Dawn achève sa troisième vague de licenciements en trois ans, moins de six mois après Directive 8020. ([revue du jour](../2026/10/2026-10-06.md))
 - **2026-10-03** — Paramount et Warner Bros. deviennent Skydance — Warner Bros. Games pourrait être rapproché de Skydance Games, et d'importantes suppressions de postes sont attendues. ([revue du jour](../2026/10/2026-10-03.md))

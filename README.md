@@ -9,6 +9,7 @@ Archive quotidienne de l'actualité jeu vidéo, rédigée en français à partir
 
 ## Revues
 
+- [2026-10-07](2026/10/2026-10-07.md) — Xbox dément une exclusivité de streaming pour GTA 6 · Asha Sharma annonce le retour de la croissance et une famille d'appareils Project Helix · La PS5 face aux jailbreaks et à l'émulation de son interface
 - [2026-10-06](2026/10/2026-10-06.md) — Ninja Theory et Supermassive licencient · Jagex et Kojima face à l'IA générative · GTA 6 évite les références politiques directes
 - [2026-10-05](2026/10/2026-10-05.md) — Sony ouvrirait Sly Cooper, Ape Escape et Killzone à des studios externes · Final Fantasy VII Revelation sur un seul disque avec téléchargement obligatoire · Premières impressions positives pour le reboot de Fable
 - [2026-10-04](2026/10/2026-10-04.md) — Jagex annonce RuneScape 4 · Capcom veut faire du RE Engine un « moteur de jeu IA » · Activision et les moddeurs contre les projets générés par IA

@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-07** — Steam vers un record de 20 milliards de dollars en 2026 — Meilleur mois de septembre de l'histoire de la plateforme selon Alinea Analytics. ([revue du jour](../2026/10/2026-10-07.md))
+- **2026-10-07** — Novus Inceptio : première mise à jour depuis 2018 — Le jeu de survie en accès anticipé depuis 11 ans passe à une carte de 64 km². ([revue du jour](../2026/10/2026-10-07.md))
 - **2026-10-06** — Hideo Kojima ne veut pas du DLSS 5 sur ses jeux — Face à Death Stranding 2 retravaillé par l'IA de Nvidia, Kojima refuse qu'une IA altère son travail. ([revue du jour](../2026/10/2026-10-06.md))
 - **2026-10-06** — Vidéos « mashup » et décompilations bâclées : la communauté contre les créations IA — Les auteurs des portages PC de Zelda et Banjo-Kazooie dénoncent les « slopcomps » faites par IA. ([revue du jour](../2026/10/2026-10-06.md))
 - **2026-10-05** — RTX 5090 : pièce d'identité et engagement de non-exportation chez Micro Center — Un magasin californien impose une déclaration de non-revente et non-exportation, dans le sillage des restrictions américaines. ([revue du jour](../2026/10/2026-10-05.md))
