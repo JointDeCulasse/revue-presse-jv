@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-08** — Minecraft Switch 2 en précommande — Sortie le 27 octobre, mise à niveau numérique gratuite jusqu'à fin janvier 2027. ([revue du jour](../2026/10/2026-10-08.md))
+- **2026-10-08** — Dragon's Dogma 2 en excellente forme sur Switch 2 — La version Switch 2 sort avec l'extension Dark Arisen. ([revue du jour](../2026/10/2026-10-08.md))
 - **2026-10-07** — Toronto accueille le premier « magasin dans le magasin » Nintendo en Amérique du Nord — Ouverture le 17 octobre chez EB Games, 267 Yonge Street. ([revue du jour](../2026/10/2026-10-07.md))
 - **2026-10-07** — Monster Hunter Rise dépasse les 20 millions d'exemplaires — Capcom se concentre désormais sur Monster Hunter Wilds, attendu sur Switch 2 le 4 décembre. ([revue du jour](../2026/10/2026-10-07.md))
 - **2026-10-07** — Hello, Peach! et Hello, Luigi! : deux nouvelles applis pour les tout-petits — Gratuites sur Switch et mobile, elles complètent la gamme « My Mario ». ([revue du jour](../2026/10/2026-10-07.md))

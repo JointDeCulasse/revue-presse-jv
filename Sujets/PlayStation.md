@@ -2,6 +2,11 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-08** — Sony céderait 419 brevets VR à Meta — Un transfert qui ressemble à un abandon de la réalité virtuelle par PlayStation. ([revue du jour](../2026/10/2026-10-08.md))
+- **2026-10-08** — Un espace anime dans le menu de la PS5 — Hideaki Nishino annonce un hub Crunchyroll pour le printemps 2027. ([revue du jour](../2026/10/2026-10-08.md))
+- **2026-10-08** — Un nouveau PS Portal en préparation ? — Des documents déposés à la Wi-Fi Alliance évoquent une version révisée. ([revue du jour](../2026/10/2026-10-08.md))
+- **2026-10-08** — Suite : Sony ouvrirait ses licences endormies — Une relance d'Ape Escape s'ajouterait au Killzone attribué à People Can Fly. ([revue du jour](../2026/10/2026-10-08.md))
+- **2026-10-08** — Forza Horizon 6 sur PS5 repoussé à 2027 — billbil-kun conforte l'information de The Verge. ([revue du jour](../2026/10/2026-10-08.md))
 - **2026-10-07** — Suite : jailbreaks et émulation, la PS5 de plus en plus exposée — Un jailbreak couvre les firmwares 7.00 à 13.60 et l'interface de la PS5 tourne dans un émulateur PC. ([revue du jour](../2026/10/2026-10-07.md))
 - **2026-10-07** — GameStop revend des PS5 Pro d'occasion jusqu'à 1 500 dollars — Soit environ 66 % au-dessus du prix d'une console neuve, sur fond de pénurie. ([revue du jour](../2026/10/2026-10-07.md))
 - **2026-10-06** — Gran Turismo 7 : la première partie de la mise à jour Spec IV le 14 octobre — Polyphony date la première partie de sa grosse mise à jour gratuite sur PS5 et PS4. ([revue du jour](../2026/10/2026-10-06.md))

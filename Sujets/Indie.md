@@ -2,6 +2,11 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-08** — Order of the Sinking Star salué — Plus de mille énigmes et 83 de moyenne pour le nouveau Jonathan Blow. ([revue du jour](../2026/10/2026-10-08.md))
+- **2026-10-08** — Thunder Lotus repousse At Fate's End à 2027 — Le jeu du studio de Spiritfarer reste prévu dans le Game Pass. ([revue du jour](../2026/10/2026-10-08.md))
+- **2026-10-08** — Dead of the Brain arrive sur Steam — Le jeu d'horreur PC-98 sort avec la traduction des fans de WINE, grâce à Fakku. ([revue du jour](../2026/10/2026-10-08.md))
+- **2026-10-08** — Dog Online — Un jeu d'animal virtuel façon Neopets doublé d'un RPG rétro, pépite méconnue de 2026. ([revue du jour](../2026/10/2026-10-08.md))
+- **2026-10-08** — Dead of Darkness 2 — Retrofiction Games imagine un Resident Evil 16 bits sur PS5 et PS4. ([revue du jour](../2026/10/2026-10-08.md))
 - **2026-10-07** — Silver Pines acclamé — Le Metroidvania horrifique de Wych Elm (Yoku's Island Express), édité par Team17, reçoit d'excellentes critiques. ([revue du jour](../2026/10/2026-10-07.md))
 - **2026-10-07** — Hollow Knight s'invite dans Fortnite pour Halloween — Le chevalier de Team Cherry devient un compagnon pendant Fortnitemares. ([revue du jour](../2026/10/2026-10-07.md))
 - **2026-10-07** — Novus Inceptio : première mise à jour depuis 2018 — Son développeur solo revient après un épuisement avec une carte agrandie et des combats refaits. ([revue du jour](../2026/10/2026-10-07.md))

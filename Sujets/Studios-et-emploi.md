@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-08** — Bit Reactor rappelle plus de la moitié de ses employés — Le studio de Star Wars Zero Company met fin au chômage technique d'une partie de ses équipes. ([revue du jour](../2026/10/2026-10-08.md))
+- **2026-10-08** — The Coalition élude la question des licenciements — Les équipes de Gears redoutent des coupes après E-Day. ([revue du jour](../2026/10/2026-10-08.md))
 - **2026-10-07** — Suite : le patron d'Undead Labs revient sur les licenciements — Le studio, désormais détenu par ses employés, vise sa survie ; State of Decay 3 reste prévu en 2027. ([revue du jour](../2026/10/2026-10-07.md))
 - **2026-10-06** — Suite : Ninja Theory commence à licencier, Senua menacé — Après l'échec de deux projets de cession, plusieurs employés du studio de Hellblade annoncent leur départ, et le jeu Senua paraît compromis. ([revue du jour](../2026/10/2026-10-06.md))
 - **2026-10-06** — Suite : Supermassive supprime plus de 70 postes — Le studio d'Until Dawn achève sa troisième vague de licenciements en trois ans, moins de six mois après Directive 8020. ([revue du jour](../2026/10/2026-10-06.md))

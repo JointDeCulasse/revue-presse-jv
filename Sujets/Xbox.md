@@ -2,6 +2,10 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-08** — Forza Horizon 6 sur PS5 repoussé à 2027 — La version PS5 viendrait avec la première extension ; Playground promet de mieux communiquer. ([revue du jour](../2026/10/2026-10-08.md))
+- **2026-10-08** — Halo : pas de nouveau jeu avant longtemps — Une petite équipe finit Campaign Evolved avant que la licence passe chez Activision, selon Kotaku. ([revue du jour](../2026/10/2026-10-08.md))
+- **2026-10-08** — The Coalition élude la question des licenciements — Son patron promet un prochain Gears plus rapide. ([revue du jour](../2026/10/2026-10-08.md))
+- **2026-10-08** — Des images du Perfect Dark annulé circulent — Une vidéo de deux minutes du reboot de The Initiative a fuité. ([revue du jour](../2026/10/2026-10-08.md))
 - **2026-10-07** — GTA 6 en streaming exclusif sur Xbox Cloud ? Microsoft dément — The Verge annonçait une exclusivité de streaming au lancement ; Matthew Ball parle d'une erreur. ([revue du jour](../2026/10/2026-10-07.md))
 - **2026-10-07** — Asha Sharma : « Xbox renoue avec la croissance », Project Helix sera une famille d'appareils — Opinion positive en hausse de 30 % et machines de nouvelle génération en partie fabriquées par des partenaires. ([revue du jour](../2026/10/2026-10-07.md))
 - **2026-10-07** — Gears of War: E-Day : le SSD de la Series S utilisé comme mémoire d'appoint — The Coalition gagne environ 1 Go de mémoire utile pour tenir 60 images par seconde. ([revue du jour](../2026/10/2026-10-07.md))

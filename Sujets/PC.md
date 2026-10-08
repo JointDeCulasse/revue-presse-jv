@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-08** — ReSkate rend Skate jouable hors ligne — Le projet open source dépasse les 350 000 téléchargements, en attendant une éventuelle réaction d'EA. ([revue du jour](../2026/10/2026-10-08.md))
+- **2026-10-08** — PC portables RTX Spark : de 2 600 à 7 000 dollars — Des performances attendues proches d'une RTX 5070. ([revue du jour](../2026/10/2026-10-08.md))
+- **2026-10-08** — Denuvo veut faire identifier un pirate — Des assignations visent Discord, Valve et Reddit. ([revue du jour](../2026/10/2026-10-08.md))
 - **2026-10-07** — Steam vers un record de 20 milliards de dollars en 2026 — Meilleur mois de septembre de l'histoire de la plateforme selon Alinea Analytics. ([revue du jour](../2026/10/2026-10-07.md))
 - **2026-10-07** — Novus Inceptio : première mise à jour depuis 2018 — Le jeu de survie en accès anticipé depuis 11 ans passe à une carte de 64 km². ([revue du jour](../2026/10/2026-10-07.md))
 - **2026-10-06** — Hideo Kojima ne veut pas du DLSS 5 sur ses jeux — Face à Death Stranding 2 retravaillé par l'IA de Nvidia, Kojima refuse qu'une IA altère son travail. ([revue du jour](../2026/10/2026-10-06.md))

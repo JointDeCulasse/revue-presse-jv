@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-08** — Order of the Sinking Star salué — Le jeu de réflexion de Jonathan Blow obtient 83 sur OpenCritic. ([revue du jour](../2026/10/2026-10-08.md))
+- **2026-10-08** — Dragon's Dogma 2: Dark Arisen bien accueilli — L'extension et la version Switch 2 reçoivent de bonnes critiques. ([revue du jour](../2026/10/2026-10-08.md))
 - **2026-10-07** — Silver Pines acclamé par la critique — Le Metroidvania de survie rejoint les sorties les mieux notées de ce début d'automne. ([revue du jour](../2026/10/2026-10-07.md))
 - **2026-10-05** — The Witcher 3 Remastered sur Switch 2 : « un bond colossal » — Jusqu'à 1080p via DLSS en mode TV, 40 images par seconde visées mais rarement tenues dans les zones chargées. ([revue du jour](../2026/10/2026-10-05.md))
 - **2026-10-04** — Suite : The Witcher 3 Remastered pulvérise son record sur Steam — 123 359 joueurs simultanés le 3 octobre, onze ans après la sortie du jeu. ([revue du jour](../2026/10/2026-10-04.md))
