@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-09** — GTA 6 dévoile ses premières radios — Six stations, des podcasts à la demande et l'écoute à pied grâce à des écouteurs. ([revue du jour](../2026/10/2026-10-09.md))
+- **2026-10-09** — Final Fantasy VII Revelation au NYCC — Travis Willingham devient la voix anglaise de Sephiroth. ([revue du jour](../2026/10/2026-10-09.md))
 - **2026-10-07** — GTA 6 en streaming exclusif sur Xbox Cloud ? Microsoft dément — Le jeu sortira le 19 novembre sur Xbox, mais ni en streaming exclusif ni sur PC. ([revue du jour](../2026/10/2026-10-07.md))
 - **2026-10-06** — GTA 6 évite volontairement les références politiques directes — Rockstar écarte Trump et la pandémie pour que sa satire, centrée sur les influenceurs et la cupidité, ne vieillisse pas. ([revue du jour](../2026/10/2026-10-06.md))
 - **2026-10-06** — Kingdom Hearts Collection : bien accueillie, mais moins de platines et 130 Go sur Switch 2 — La compilation sort le 8 octobre sur PS5, Xbox Series et Switch 2 avec des critiques plutôt positives. ([revue du jour](../2026/10/2026-10-06.md))

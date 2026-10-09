@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-09** — Microsoft crée Xbox XP — Une division films, séries, produits dérivés et événements confiée à Kayleen Walters ; Maria Angelidou-Smith prend la tête de Mojang. ([revue du jour](../2026/10/2026-10-09.md))
+- **2026-10-09** — Suite : Forza Horizon 6 daté au 26 janvier 2027 sur PS5 — Le report est officiel, la première extension arrive le 21 janvier. ([revue du jour](../2026/10/2026-10-09.md))
+- **2026-10-09** — Xbox veut simplifier la publication des jeux — Le directeur technique Scott Van Vliet promet d'alléger les procédures, notamment pour ID@Xbox. ([revue du jour](../2026/10/2026-10-09.md))
 - **2026-10-08** — Forza Horizon 6 sur PS5 repoussé à 2027 — La version PS5 viendrait avec la première extension ; Playground promet de mieux communiquer. ([revue du jour](../2026/10/2026-10-08.md))
 - **2026-10-08** — Halo : pas de nouveau jeu avant longtemps — Une petite équipe finit Campaign Evolved avant que la licence passe chez Activision, selon Kotaku. ([revue du jour](../2026/10/2026-10-08.md))
 - **2026-10-08** — The Coalition élude la question des licenciements — Son patron promet un prochain Gears plus rapide. ([revue du jour](../2026/10/2026-10-08.md))

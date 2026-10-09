@@ -2,6 +2,11 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-09** — Microsoft crée Xbox XP — Une division pour les adaptations, licences, lieux et partenariats autour des marques Xbox. ([revue du jour](../2026/10/2026-10-09.md))
+- **2026-10-09** — Cyberpunk 2077 adapté au cinéma par Paramount — Un film live-action coproduit par CD Projekt Red, encore à ses débuts. ([revue du jour](../2026/10/2026-10-09.md))
+- **2026-10-09** — Microsoft privé de demandes de visas H-1B — L'administration Trump accuse l'entreprise de remplacer des salariés américains par des travailleurs étrangers. ([revue du jour](../2026/10/2026-10-09.md))
+- **2026-10-09** — Le physique résiste — 51 % des ventes de Wolverine en boîte en Europe, et les Game-Key Cards dopent le marché physique américain. ([revue du jour](../2026/10/2026-10-09.md))
+- **2026-10-09** — Gardens dépasse les 70 millions de dollars levés — Le studio de Chris Bell (Journey) boucle une série B menée par Lightspeed. ([revue du jour](../2026/10/2026-10-09.md))
 - **2026-10-08** — Google lance Playground, Unity y ajoute Unity Spark — Deux outils de création de jeux par requêtes écrites, très critiqués, tandis qu'Astrocade revendique 10 millions d'utilisateurs mensuels. ([revue du jour](../2026/10/2026-10-08.md))
 - **2026-10-08** — Bobby Kotick au conseil de Skydance — L'ancien patron d'Activision Blizzard devient administrateur du groupe issu de la fusion Paramount–Warner Bros. ([revue du jour](../2026/10/2026-10-08.md))
 - **2026-10-08** — Rachat d'EA : des créanciers réclament davantage — Des détenteurs d'obligations contestent les conditions du rachat par effet de levier. ([revue du jour](../2026/10/2026-10-08.md))

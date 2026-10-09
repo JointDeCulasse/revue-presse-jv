@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-09** — Triple-i Initiative : Machinarium 2 et une pluie d'annonces — Amanita dévoile la suite de son jeu de 2009, aux côtés de The Escapists 3, Pony Island 2 et Outward 2. ([revue du jour](../2026/10/2026-10-09.md))
+- **2026-10-09** — Gardens dépasse les 70 millions de dollars levés — Le studio de Chris Bell prépare un jeu de fantasy en monde partagé. ([revue du jour](../2026/10/2026-10-09.md))
+- **2026-10-09** — Clair Obscur s'invite dans Astral Ascent — Trois boss, trois salles et six invocations dans une mise à jour gratuite. ([revue du jour](../2026/10/2026-10-09.md))
 - **2026-10-08** — Order of the Sinking Star salué — Plus de mille énigmes et 83 de moyenne pour le nouveau Jonathan Blow. ([revue du jour](../2026/10/2026-10-08.md))
 - **2026-10-08** — Thunder Lotus repousse At Fate's End à 2027 — Le jeu du studio de Spiritfarer reste prévu dans le Game Pass. ([revue du jour](../2026/10/2026-10-08.md))
 - **2026-10-08** — Dead of the Brain arrive sur Steam — Le jeu d'horreur PC-98 sort avec la traduction des fans de WINE, grâce à Fakku. ([revue du jour](../2026/10/2026-10-08.md))

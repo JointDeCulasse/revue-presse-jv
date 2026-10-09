@@ -2,6 +2,7 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-09** — The Witcher 3 Remastered : mise à jour Switch 2 — Le patch 5.01 promet une image plus nette sur la console de Nintendo. ([revue du jour](../2026/10/2026-10-09.md))
 - **2026-10-08** — Minecraft Switch 2 en précommande — Sortie le 27 octobre, mise à niveau numérique gratuite jusqu'à fin janvier 2027. ([revue du jour](../2026/10/2026-10-08.md))
 - **2026-10-08** — Dragon's Dogma 2 en excellente forme sur Switch 2 — La version Switch 2 sort avec l'extension Dark Arisen. ([revue du jour](../2026/10/2026-10-08.md))
 - **2026-10-07** — Toronto accueille le premier « magasin dans le magasin » Nintendo en Amérique du Nord — Ouverture le 17 octobre chez EB Games, 267 Yonge Street. ([revue du jour](../2026/10/2026-10-07.md))

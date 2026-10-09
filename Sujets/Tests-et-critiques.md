@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-09** — Hellraiser: Revival divise la critique — Fidèle à Clive Barker, mais plombé par son gameplay selon plusieurs tests. ([revue du jour](../2026/10/2026-10-09.md))
+- **2026-10-09** — Castlevania: Belmont's Curse à 32/40 chez Famitsu — Première note pour le jeu d'Evil Empire et Motion Twin. ([revue du jour](../2026/10/2026-10-09.md))
 - **2026-10-08** — Order of the Sinking Star salué — Le jeu de réflexion de Jonathan Blow obtient 83 sur OpenCritic. ([revue du jour](../2026/10/2026-10-08.md))
 - **2026-10-08** — Dragon's Dogma 2: Dark Arisen bien accueilli — L'extension et la version Switch 2 reçoivent de bonnes critiques. ([revue du jour](../2026/10/2026-10-08.md))
 - **2026-10-07** — Silver Pines acclamé par la critique — Le Metroidvania de survie rejoint les sorties les mieux notées de ce début d'automne. ([revue du jour](../2026/10/2026-10-07.md))

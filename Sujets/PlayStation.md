@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-09** — Suite : Forza Horizon 6 daté au 26 janvier 2027 sur PS5 — Playground confirme le report, cinq jours après la première extension. ([revue du jour](../2026/10/2026-10-09.md))
+- **2026-10-09** — 51 % des ventes de Wolverine en boîte en Europe — Le physique pèse 35 % des ventes mondiales, alors que Sony veut arrêter les jeux en boîte en 2028. ([revue du jour](../2026/10/2026-10-09.md))
 - **2026-10-08** — Sony céderait 419 brevets VR à Meta — Un transfert qui ressemble à un abandon de la réalité virtuelle par PlayStation. ([revue du jour](../2026/10/2026-10-08.md))
 - **2026-10-08** — Un espace anime dans le menu de la PS5 — Hideaki Nishino annonce un hub Crunchyroll pour le printemps 2027. ([revue du jour](../2026/10/2026-10-08.md))
 - **2026-10-08** — Un nouveau PS Portal en préparation ? — Des documents déposés à la Wi-Fi Alliance évoquent une version révisée. ([revue du jour](../2026/10/2026-10-08.md))
