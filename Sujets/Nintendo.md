@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-10** — It Takes Two arrive sur Switch 2 le 15 octobre — Mise à niveau gratuite, 1080p/60 i/s en mode TV et cross-play avec PC, Xbox et PlayStation. ([revue du jour](../2026/10/2026-10-10.md))
+- **2026-10-10** — GTA 6 sur Switch 2 ? « À demander à Rockstar » — Devon Pritchard (Nintendo of America) renvoie la question à Take-Two. ([revue du jour](../2026/10/2026-10-10.md))
+- **2026-10-10** — Hell Is Us débarque sur Switch 2 — Le jeu de Rogue Factor édité par Nacon arrive sur l'eShop avec sa mise à jour 1.8. ([revue du jour](../2026/10/2026-10-10.md))
 - **2026-10-09** — The Witcher 3 Remastered : mise à jour Switch 2 — Le patch 5.01 promet une image plus nette sur la console de Nintendo. ([revue du jour](../2026/10/2026-10-09.md))
 - **2026-10-08** — Minecraft Switch 2 en précommande — Sortie le 27 octobre, mise à niveau numérique gratuite jusqu'à fin janvier 2027. ([revue du jour](../2026/10/2026-10-08.md))
 - **2026-10-08** — Dragon's Dogma 2 en excellente forme sur Switch 2 — La version Switch 2 sort avec l'extension Dark Arisen. ([revue du jour](../2026/10/2026-10-08.md))

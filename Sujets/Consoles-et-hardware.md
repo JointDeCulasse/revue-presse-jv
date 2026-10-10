@@ -2,6 +2,7 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-10** — Les livraisons de PC chutent de plus de 20 % — IDC accuse la crise de la mémoire ; Intel ressortirait des processeurs sur un ancien socket compatible DDR4. ([revue du jour](../2026/10/2026-10-10.md))
 - **2026-10-08** — PC portables RTX Spark : de 2 600 à 7 000 dollars — Les premiers portables à puce Arm N1X de Nvidia sortent le 16 octobre. ([revue du jour](../2026/10/2026-10-08.md))
 - **2026-10-08** — Sony céderait 419 brevets VR à Meta — Le PlayStation VR semble abandonné. ([revue du jour](../2026/10/2026-10-08.md))
 - **2026-10-07** — Asha Sharma : Project Helix sera une famille d'appareils — Certaines machines Xbox de nouvelle génération seront fabriquées par des partenaires. ([revue du jour](../2026/10/2026-10-07.md))

@@ -9,6 +9,7 @@ Archive quotidienne de l'actualité jeu vidéo, rédigée en français à partir
 
 ## Revues
 
+- [2026-10-10](2026/10/2026-10-10.md) — Gears of War: E-Day vend peu, le Game Pass en question · Procès Rockstar : une « taupe » dans le Discord syndical · Richard Garriott récupère les droits d'Ultima en 2027
 - [2026-10-09](2026/10/2026-10-09.md) — Microsoft crée Xbox XP pour ses films, séries et produits dérivés · Forza Horizon 6 daté au 26 janvier 2027 sur PS5 · Paramount prépare un film Cyberpunk 2077
 - [2026-10-08](2026/10/2026-10-08.md) — Google et Unity lancent leurs outils de création de jeux par IA · Sony céderait ses brevets VR à Meta et prépare un espace anime sur PS5 · Bobby Kotick fait son retour au conseil de Skydance
 - [2026-10-07](2026/10/2026-10-07.md) — Xbox dément une exclusivité de streaming pour GTA 6 · Asha Sharma annonce le retour de la croissance et une famille d'appareils Project Helix · La PS5 face aux jailbreaks et à l'émulation de son interface

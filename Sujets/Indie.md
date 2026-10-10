@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-10** — Au Japon, des éditeurs indé venus d'ailleurs — Parco Games et Shueisha Games accompagnent une scène indé qui se professionnalise. ([revue du jour](../2026/10/2026-10-10.md))
+- **2026-10-10** — Stage Fright : le studio d'Overcooked mise sur la coopération — Ghost Town Games détaille son jeu à deux attendu en 2027. ([revue du jour](../2026/10/2026-10-10.md))
+- **2026-10-10** — Tape to Tape vise sa version 1.0 et Xbox ce mois-ci — Le hockey roguelite quitte l'accès anticipé. ([revue du jour](../2026/10/2026-10-10.md))
 - **2026-10-09** — Triple-i Initiative : Machinarium 2 et une pluie d'annonces — Amanita dévoile la suite de son jeu de 2009, aux côtés de The Escapists 3, Pony Island 2 et Outward 2. ([revue du jour](../2026/10/2026-10-09.md))
 - **2026-10-09** — Gardens dépasse les 70 millions de dollars levés — Le studio de Chris Bell prépare un jeu de fantasy en monde partagé. ([revue du jour](../2026/10/2026-10-09.md))
 - **2026-10-09** — Clair Obscur s'invite dans Astral Ascent — Trois boss, trois salles et six invocations dans une mise à jour gratuite. ([revue du jour](../2026/10/2026-10-09.md))

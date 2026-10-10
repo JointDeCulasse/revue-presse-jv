@@ -2,6 +2,11 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-10** — Ace Combat 8 dépasse le million en une semaine — Le lancement le plus rapide de la série. ([revue du jour](../2026/10/2026-10-10.md))
+- **2026-10-10** — Star Wars Zero Company passe le million — Ce succès permet à Bit Reactor de rappeler des employés en congé forcé. ([revue du jour](../2026/10/2026-10-10.md))
+- **2026-10-10** — Charlie Cox a enregistré 40 heures de dialogues pour un jeu Sega — L'acteur de Clair Obscur travaille sur un projet Sega non annoncé. ([revue du jour](../2026/10/2026-10-10.md))
+- **2026-10-10** — Tropico 7 daté au 28 janvier 2027 — Sortie sur toutes les plateformes, Switch 2 comprise. ([revue du jour](../2026/10/2026-10-10.md))
+- **2026-10-10** — Sonic Racing: CrossWorlds lance sa deuxième année le 3 novembre — Mises à jour gratuites, collaborations et second Season Pass. ([revue du jour](../2026/10/2026-10-10.md))
 - **2026-10-09** — GTA 6 dévoile ses premières radios — Six stations, des podcasts à la demande et l'écoute à pied grâce à des écouteurs. ([revue du jour](../2026/10/2026-10-09.md))
 - **2026-10-09** — Final Fantasy VII Revelation au NYCC — Travis Willingham devient la voix anglaise de Sephiroth. ([revue du jour](../2026/10/2026-10-09.md))
 - **2026-10-07** — GTA 6 en streaming exclusif sur Xbox Cloud ? Microsoft dément — Le jeu sortira le 19 novembre sur Xbox, mais ni en streaming exclusif ni sur PC. ([revue du jour](../2026/10/2026-10-07.md))

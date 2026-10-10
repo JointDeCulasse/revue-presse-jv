@@ -2,6 +2,7 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-10** — Gears of War: E-Day : des ventes faibles, un Game Pass qui « cannibalise » — Environ 230 000 ventes estimées en une semaine pour 1,7 million de joueurs Game Pass, selon Alinea. ([revue du jour](../2026/10/2026-10-10.md))
 - **2026-10-09** — Microsoft crée Xbox XP — Une division films, séries, produits dérivés et événements confiée à Kayleen Walters ; Maria Angelidou-Smith prend la tête de Mojang. ([revue du jour](../2026/10/2026-10-09.md))
 - **2026-10-09** — Suite : Forza Horizon 6 daté au 26 janvier 2027 sur PS5 — Le report est officiel, la première extension arrive le 21 janvier. ([revue du jour](../2026/10/2026-10-09.md))
 - **2026-10-09** — Xbox veut simplifier la publication des jeux — Le directeur technique Scott Van Vliet promet d'alléger les procédures, notamment pour ID@Xbox. ([revue du jour](../2026/10/2026-10-09.md))

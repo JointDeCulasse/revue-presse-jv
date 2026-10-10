@@ -2,6 +2,10 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-10** — Gears of War: E-Day : des ventes faibles, un Game Pass qui « cannibalise » — Alinea estime environ 230 000 ventes en une semaine contre 1,7 million de joueurs Game Pass. ([revue du jour](../2026/10/2026-10-10.md))
+- **2026-10-10** — Richard Garriott va récupérer les droits d'Ultima — Le créateur reprend en 2027 le copyright cédé à EA en 1992, grâce à la règle des 35 ans. ([revue du jour](../2026/10/2026-10-10.md))
+- **2026-10-10** — Des portages navigateur « vibe-codés » de Halo, Vice City ou Skate 3 — Des décompilations assistées par IA rendent jouables de grands classiques dans un navigateur. ([revue du jour](../2026/10/2026-10-10.md))
+- **2026-10-10** — Crimson Desert : Pearl Abyss accuse les conditions de test — Lybee Park explique l'écart entre le 77 sur Metacritic et plus de 6 millions de ventes. ([revue du jour](../2026/10/2026-10-10.md))
 - **2026-10-09** — Microsoft crée Xbox XP — Une division pour les adaptations, licences, lieux et partenariats autour des marques Xbox. ([revue du jour](../2026/10/2026-10-09.md))
 - **2026-10-09** — Cyberpunk 2077 adapté au cinéma par Paramount — Un film live-action coproduit par CD Projekt Red, encore à ses débuts. ([revue du jour](../2026/10/2026-10-09.md))
 - **2026-10-09** — Microsoft privé de demandes de visas H-1B — L'administration Trump accuse l'entreprise de remplacer des salariés américains par des travailleurs étrangers. ([revue du jour](../2026/10/2026-10-09.md))

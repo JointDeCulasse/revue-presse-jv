@@ -2,6 +2,10 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-10** — Les livraisons de PC chutent de plus de 20 % — IDC compte 62,7 millions d'unités au 3e trimestre, plombées par la crise de la mémoire. ([revue du jour](../2026/10/2026-10-10.md))
+- **2026-10-10** — Valve fournit aux développeurs des données de performance réelles sur Steam Deck — Des mesures issues des consoles des joueurs pour améliorer la compatibilité. ([revue du jour](../2026/10/2026-10-10.md))
+- **2026-10-10** — Leisure Suit Larry disparaît de Steam le 23 octobre — Les deux derniers épisodes suivent les sept premiers, déjà retirés. ([revue du jour](../2026/10/2026-10-10.md))
+- **2026-10-10** — Des portages navigateur « vibe-codés » de Halo, Vice City ou Skate 3 — Des décompilations par IA tournent dans un simple navigateur. ([revue du jour](../2026/10/2026-10-10.md))
 - **2026-10-09** — Un portage PC non officiel de P.T. — Un développeur de 21 ans rend le teaser de Silent Hills jouable sur Windows et Linux. ([revue du jour](../2026/10/2026-10-09.md))
 - **2026-10-08** — ReSkate rend Skate jouable hors ligne — Le projet open source dépasse les 350 000 téléchargements, en attendant une éventuelle réaction d'EA. ([revue du jour](../2026/10/2026-10-08.md))
 - **2026-10-08** — PC portables RTX Spark : de 2 600 à 7 000 dollars — Des performances attendues proches d'une RTX 5070. ([revue du jour](../2026/10/2026-10-08.md))

@@ -2,6 +2,7 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-10** — Hell Is Us débarque sur Switch 2 — Le jeu édité par Nacon arrive sur l'eShop, avec une mise à jour 1.8 qui corrige un bug de sauvegarde. ([revue du jour](../2026/10/2026-10-10.md))
 - **2026-10-09** — Ubisoft fermera Rainbow Six Mobile le 15 janvier 2027 — Sept mois après sa sortie mondiale, un nouvel échec de jeu-service pour l'éditeur. ([revue du jour](../2026/10/2026-10-09.md))
 - **2026-10-09** — Castlevania: Belmont's Curse à 32/40 chez Famitsu — Le jeu d'Evil Empire et Motion Twin sort le 15 octobre. ([revue du jour](../2026/10/2026-10-09.md))
 - **2026-10-09** — Hell Is Us passe les 2 millions de joueurs — Le jeu de Rogue Factor édité par Nacon ajoute dix types d'ennemis. ([revue du jour](../2026/10/2026-10-09.md))
