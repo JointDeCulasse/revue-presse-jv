@@ -2,6 +2,7 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-11** — Sonic Pico Park daté au 12 novembre — Le jeu coopératif de 2 à 8 joueurs arrive sur Switch et Switch 2 avec Silver et Blaze. ([revue du jour](../2026/10/2026-10-11.md))
 - **2026-10-10** — It Takes Two arrive sur Switch 2 le 15 octobre — Mise à niveau gratuite, 1080p/60 i/s en mode TV et cross-play avec PC, Xbox et PlayStation. ([revue du jour](../2026/10/2026-10-10.md))
 - **2026-10-10** — GTA 6 sur Switch 2 ? « À demander à Rockstar » — Devon Pritchard (Nintendo of America) renvoie la question à Take-Two. ([revue du jour](../2026/10/2026-10-10.md))
 - **2026-10-10** — Hell Is Us débarque sur Switch 2 — Le jeu de Rogue Factor édité par Nacon arrive sur l'eShop avec sa mise à jour 1.8. ([revue du jour](../2026/10/2026-10-10.md))

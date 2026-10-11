@@ -2,7 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
-- **2026-10-10** — L'anime Ghost of Tsushima repoussé à 2028 — Crunchyroll décale d'un an Ghost of Tsushima Legends et dévoile de nouveaux noms. ([revue du jour](../2026/10/2026-10-10.md))
+- **2026-10-11** — Des PS5 piratées lisent désormais les disques PS2 — L'émulateur PS5SX2 copie et lance les jeux PS2 sur DVD ; une version PS3 est annoncée. ([revue du jour](../2026/10/2026-10-11.md))
+- **2026-10-11** — BlazBlue: Central Fiction arrive sur PS5 — Portage natif avec rollback netcode et cross-play avec Steam, sans date. ([revue du jour](../2026/10/2026-10-11.md))- **2026-10-10** — L'anime Ghost of Tsushima repoussé à 2028 — Crunchyroll décale d'un an Ghost of Tsushima Legends et dévoile de nouveaux noms. ([revue du jour](../2026/10/2026-10-10.md))
 - **2026-10-09** — Suite : Forza Horizon 6 daté au 26 janvier 2027 sur PS5 — Playground confirme le report, cinq jours après la première extension. ([revue du jour](../2026/10/2026-10-09.md))
 - **2026-10-09** — 51 % des ventes de Wolverine en boîte en Europe — Le physique pèse 35 % des ventes mondiales, alors que Sony veut arrêter les jeux en boîte en 2028. ([revue du jour](../2026/10/2026-10-09.md))
 - **2026-10-08** — Sony céderait 419 brevets VR à Meta — Un transfert qui ressemble à un abandon de la réalité virtuelle par PlayStation. ([revue du jour](../2026/10/2026-10-08.md))

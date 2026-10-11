@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-11** — Squadron 42 a une page Steam et vise le deuxième trimestre 2027 — La campagne solo de Star Citizen affiche 150 Go et une configuration modeste. ([revue du jour](../2026/10/2026-10-11.md))
+- **2026-10-11** — Deadlock dépasse le record de Team Fortress 2 — Le jeu de Valve, toujours en bêta fermée, atteint 262 145 joueurs simultanés avec l'arrivée de Solomon. ([revue du jour](../2026/10/2026-10-11.md))
+- **2026-10-11** — Suite : Skate face au mod hors ligne ReSkate — Plus de 350 000 téléchargements pour ce mod open source créé avec l'IA. ([revue du jour](../2026/10/2026-10-11.md))
 - **2026-10-10** — Les livraisons de PC chutent de plus de 20 % — IDC compte 62,7 millions d'unités au 3e trimestre, plombées par la crise de la mémoire. ([revue du jour](../2026/10/2026-10-10.md))
 - **2026-10-10** — Valve fournit aux développeurs des données de performance réelles sur Steam Deck — Des mesures issues des consoles des joueurs pour améliorer la compatibilité. ([revue du jour](../2026/10/2026-10-10.md))
 - **2026-10-10** — Leisure Suit Larry disparaît de Steam le 23 octobre — Les deux derniers épisodes suivent les sept premiers, déjà retirés. ([revue du jour](../2026/10/2026-10-10.md))

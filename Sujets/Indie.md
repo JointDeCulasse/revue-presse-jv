@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-11** — Une démo dopée à l'IA coûte plus de 1 000 dollars par jour à ses créateurs — Easy Fox s'endette pour maintenir la démo Steam de Teach My Little Sister How To Drive. ([revue du jour](../2026/10/2026-10-11.md))
+- **2026-10-11** — MatPat et Blumhouse adaptent Amanda the Adventurer au cinéma — Premier projet d'un accord pour adapter des jeux d'horreur indépendants. ([revue du jour](../2026/10/2026-10-11.md))
+- **2026-10-11** — Heathen, un Diablo en vue subjective fait en solo — Nouvelle bande-annonce pour l'action-RPG de Christopher Yabsley, prévu en accès anticipé. ([revue du jour](../2026/10/2026-10-11.md))
 - **2026-10-10** — Au Japon, des éditeurs indé venus d'ailleurs — Parco Games et Shueisha Games accompagnent une scène indé qui se professionnalise. ([revue du jour](../2026/10/2026-10-10.md))
 - **2026-10-10** — Stage Fright : le studio d'Overcooked mise sur la coopération — Ghost Town Games détaille son jeu à deux attendu en 2027. ([revue du jour](../2026/10/2026-10-10.md))
 - **2026-10-10** — Tape to Tape vise sa version 1.0 et Xbox ce mois-ci — Le hockey roguelite quitte l'accès anticipé. ([revue du jour](../2026/10/2026-10-10.md))

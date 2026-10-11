@@ -2,6 +2,10 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-11** — Dragon Ball: Sparking! ZERO annonce le cross-play — Feuille de route jusqu'en 2027, avec un mode Tower of Power et un cross-play en bêta après l'été 2027. ([revue du jour](../2026/10/2026-10-11.md))
+- **2026-10-11** — Club Chaos : Sonic Pico Park daté, Sonic de retour dans Fortnite — Sonic Pico Park sort le 12 novembre sur Switch et Switch 2. ([revue du jour](../2026/10/2026-10-11.md))
+- **2026-10-11** — Reina (Tekken 8) rejoint Fatal Fury: City of the Wolves — Personnage invité attendu en décembre sur toutes les plateformes. ([revue du jour](../2026/10/2026-10-11.md))
+- **2026-10-11** — Squadron 42 vise le deuxième trimestre 2027 — La page Steam de la campagne solo de Star Citizen avance une fenêtre de sortie. ([revue du jour](../2026/10/2026-10-11.md))
 - **2026-10-10** — Ace Combat 8 dépasse le million en une semaine — Le lancement le plus rapide de la série. ([revue du jour](../2026/10/2026-10-10.md))
 - **2026-10-10** — Star Wars Zero Company passe le million — Ce succès permet à Bit Reactor de rappeler des employés en congé forcé. ([revue du jour](../2026/10/2026-10-10.md))
 - **2026-10-10** — Charlie Cox a enregistré 40 heures de dialogues pour un jeu Sega — L'acteur de Clair Obscur travaille sur un projet Sega non annoncé. ([revue du jour](../2026/10/2026-10-10.md))

@@ -2,6 +2,11 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-11** — Marché des consoles aux États-Unis : « le plus précaire depuis les années 80 » — Selon Circana, les ventes de Xbox chutent de 33 % et celles de PlayStation de 25 % sur huit mois, avec des prix moyens record. ([revue du jour](../2026/10/2026-10-11.md))
+- **2026-10-11** — Silent Hill : Konami prépare deux nouvelles « vagues » de jeux — Le producteur Motoi Okamoto évoque plusieurs projets après Silent Hill 2 Remake, f et Townfall. ([revue du jour](../2026/10/2026-10-11.md))
+- **2026-10-11** — Suite : le leaker de GTA 6 réclame de l'argent à Take-Two — Cyberleek menace de publier une version complète du jeu si son memecoin atteint 30 millions de dollars. ([revue du jour](../2026/10/2026-10-11.md))
+- **2026-10-11** — Suite : Skate face au mod hors ligne ReSkate — Full Circle tolère la créativité mais pas le déblocage des objets payants, et promet des outils officiels. ([revue du jour](../2026/10/2026-10-11.md))
+- **2026-10-11** — Suite : Gears of War: E-Day et la version PS5 abandonnée — Push Square rappelle qu'une version PS5 quasi finie aurait été annulée, alors que les ventes sont jugées faibles. ([revue du jour](../2026/10/2026-10-11.md))
 - **2026-10-10** — Gears of War: E-Day : des ventes faibles, un Game Pass qui « cannibalise » — Alinea estime environ 230 000 ventes en une semaine contre 1,7 million de joueurs Game Pass. ([revue du jour](../2026/10/2026-10-10.md))
 - **2026-10-10** — Richard Garriott va récupérer les droits d'Ultima — Le créateur reprend en 2027 le copyright cédé à EA en 1992, grâce à la règle des 35 ans. ([revue du jour](../2026/10/2026-10-10.md))
 - **2026-10-10** — Des portages navigateur « vibe-codés » de Halo, Vice City ou Skate 3 — Des décompilations assistées par IA rendent jouables de grands classiques dans un navigateur. ([revue du jour](../2026/10/2026-10-10.md))
