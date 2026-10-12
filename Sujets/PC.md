@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-12** — Wing Commander 3 : EA prépare un remaster pour les 30 ans — Attendu sur Steam, GOG et l'application EA, sans date. ([revue du jour](../2026/10/2026-10-12.md))
+- **2026-10-12** — Un faux Wonder Boy in Monster Land vendu sur Steam — La page de Retro Maniac ne serait que la ROM arcade lancée dans MAME. ([revue du jour](../2026/10/2026-10-12.md))
+- **2026-10-12** — Starfield : un mod pour atterrir sans écran de chargement — Seamless Landing permet de se poser n'importe où sur une planète, eau comprise. ([revue du jour](../2026/10/2026-10-12.md))
 - **2026-10-11** — Squadron 42 a une page Steam et vise le deuxième trimestre 2027 — La campagne solo de Star Citizen affiche 150 Go et une configuration modeste. ([revue du jour](../2026/10/2026-10-11.md))
 - **2026-10-11** — Deadlock dépasse le record de Team Fortress 2 — Le jeu de Valve, toujours en bêta fermée, atteint 262 145 joueurs simultanés avec l'arrivée de Solomon. ([revue du jour](../2026/10/2026-10-11.md))
 - **2026-10-11** — Suite : Skate face au mod hors ligne ReSkate — Plus de 350 000 téléchargements pour ce mod open source créé avec l'IA. ([revue du jour](../2026/10/2026-10-11.md))

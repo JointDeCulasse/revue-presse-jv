@@ -2,6 +2,10 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-12** — Suite : le leaker de GTA 6 exige un disque et des excuses — Cyberleek conditionne la non-publication d'une version complète à une sortie physique et diffuse de nouvelles images. ([revue du jour](../2026/10/2026-10-12.md))
+- **2026-10-12** — Suite : monnaies virtuelles, l'Italie en première ligne de l'action européenne — Dix éditeurs visés pour des packs de monnaie qui laissent des reliquats ; Epic a déjà changé les V-Bucks. ([revue du jour](../2026/10/2026-10-12.md))
+- **2026-10-12** — Golden Joystick Awards 2026 : les nominations sont tombées — Vote ouvert jusqu'au 23 octobre, cérémonie le 11 novembre. ([revue du jour](../2026/10/2026-10-12.md))
+- **2026-10-12** — Un faux Wonder Boy in Monster Land vendu sur Steam — Une ROM arcade dans MAME vendue sans droits apparents, selon PC Gamer. ([revue du jour](../2026/10/2026-10-12.md))
 - **2026-10-11** — Marché des consoles aux États-Unis : « le plus précaire depuis les années 80 » — Selon Circana, les ventes de Xbox chutent de 33 % et celles de PlayStation de 25 % sur huit mois, avec des prix moyens record. ([revue du jour](../2026/10/2026-10-11.md))
 - **2026-10-11** — Silent Hill : Konami prépare deux nouvelles « vagues » de jeux — Le producteur Motoi Okamoto évoque plusieurs projets après Silent Hill 2 Remake, f et Townfall. ([revue du jour](../2026/10/2026-10-11.md))
 - **2026-10-11** — Suite : le leaker de GTA 6 réclame de l'argent à Take-Two — Cyberleek menace de publier une version complète du jeu si son memecoin atteint 30 millions de dollars. ([revue du jour](../2026/10/2026-10-11.md))

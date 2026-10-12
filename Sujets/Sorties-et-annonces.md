@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-12** — Wing Commander 3 : EA prépare un remaster pour les 30 ans — Plus de 600 bandes sources retrouvées pour des cinématiques restaurées, en 60 images par seconde. ([revue du jour](../2026/10/2026-10-12.md))
+- **2026-10-12** — Marvel Tōkon : le roster de la première année est complet — Jane Foster, Venom et Jubilee arrivent entre l'hiver et l'été 2027, après Phoenix Cyclops le 2 novembre. ([revue du jour](../2026/10/2026-10-12.md))
+- **2026-10-12** — Arc Raiders passe en version 2.0 — La mise à jour Frozen Trails répond à plusieurs demandes de la communauté. ([revue du jour](../2026/10/2026-10-12.md))
 - **2026-10-11** — Dragon Ball: Sparking! ZERO annonce le cross-play — Feuille de route jusqu'en 2027, avec un mode Tower of Power et un cross-play en bêta après l'été 2027. ([revue du jour](../2026/10/2026-10-11.md))
 - **2026-10-11** — Club Chaos : Sonic Pico Park daté, Sonic de retour dans Fortnite — Sonic Pico Park sort le 12 novembre sur Switch et Switch 2. ([revue du jour](../2026/10/2026-10-11.md))
 - **2026-10-11** — Reina (Tekken 8) rejoint Fatal Fury: City of the Wolves — Personnage invité attendu en décembre sur toutes les plateformes. ([revue du jour](../2026/10/2026-10-11.md))

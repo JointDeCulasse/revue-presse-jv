@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-12** — Le Discord du mod Calamity piraté pour une arnaque à la crypto — Le serveur de plus de 250 000 membres a été détourné puis vidé par un ancien modérateur. ([revue du jour](../2026/10/2026-10-12.md))
+- **2026-10-12** — Bumper Bout, du flipper en un contre un — Démo sur Steam, sortie le 29 octobre. ([revue du jour](../2026/10/2026-10-12.md))
+- **2026-10-12** — Etre, un jeu d'action dans un esprit extraterrestre — Le studio Lifeforms mêle BD des années 1970-80 et influence de Control. ([revue du jour](../2026/10/2026-10-12.md))
 - **2026-10-11** — Une démo dopée à l'IA coûte plus de 1 000 dollars par jour à ses créateurs — Easy Fox s'endette pour maintenir la démo Steam de Teach My Little Sister How To Drive. ([revue du jour](../2026/10/2026-10-11.md))
 - **2026-10-11** — MatPat et Blumhouse adaptent Amanda the Adventurer au cinéma — Premier projet d'un accord pour adapter des jeux d'horreur indépendants. ([revue du jour](../2026/10/2026-10-11.md))
 - **2026-10-11** — Heathen, un Diablo en vue subjective fait en solo — Nouvelle bande-annonce pour l'action-RPG de Christopher Yabsley, prévu en accès anticipé. ([revue du jour](../2026/10/2026-10-11.md))

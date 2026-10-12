@@ -9,6 +9,7 @@ Archive quotidienne de l'actualité jeu vidéo, rédigée en français à partir
 
 ## Revues
 
+- [2026-10-12](2026/10/2026-10-12.md) — EA annonce un remaster de Wing Commander 3 · Le leaker de GTA 6 exige une version disque et des excuses · EVO France à Nice : DualKevin (SF6) et JeonDDing (Tekken 8) titrés
 - [2026-10-11](2026/10/2026-10-11.md) — Circana : marché des consoles américain au plus fragile depuis les années 80 · Konami prépare deux nouvelles vagues de Silent Hill · Squadron 42 sur Steam, prévu au 2e trimestre 2027
 - [2026-10-10](2026/10/2026-10-10.md) — Gears of War: E-Day vend peu, le Game Pass en question · Procès Rockstar : une « taupe » dans le Discord syndical · Richard Garriott récupère les droits d'Ultima en 2027
 - [2026-10-09](2026/10/2026-10-09.md) — Microsoft crée Xbox XP pour ses films, séries et produits dérivés · Forza Horizon 6 daté au 26 janvier 2027 sur PS5 · Paramount prépare un film Cyberpunk 2077
