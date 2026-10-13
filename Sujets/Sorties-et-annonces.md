@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-13** — Planet Zoo 2 sort ce 13 octobre — Espèces aquatiques et volantes, zoos commerciaux et réserves, sur PC, PS5 et Xbox Series. ([revue du jour](../2026/10/2026-10-13.md))
+- **2026-10-13** — Le beat'em up He-Man daté au 4 février 2027 — Masters of the Universe: Dragon Pearl of Destruction sur PS5, PS4 et Switch. ([revue du jour](../2026/10/2026-10-13.md))
 - **2026-10-12** — Wing Commander 3 : EA prépare un remaster pour les 30 ans — Plus de 600 bandes sources retrouvées pour des cinématiques restaurées, en 60 images par seconde. ([revue du jour](../2026/10/2026-10-12.md))
 - **2026-10-12** — Marvel Tōkon : le roster de la première année est complet — Jane Foster, Venom et Jubilee arrivent entre l'hiver et l'été 2027, après Phoenix Cyclops le 2 novembre. ([revue du jour](../2026/10/2026-10-12.md))
 - **2026-10-12** — Arc Raiders passe en version 2.0 — La mise à jour Frozen Trails répond à plusieurs demandes de la communauté. ([revue du jour](../2026/10/2026-10-12.md))

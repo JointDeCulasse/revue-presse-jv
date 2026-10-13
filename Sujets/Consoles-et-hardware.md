@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-13** — Nvidia aurait cessé de produire la RTX 5090 — Priorité aux cartes pour l'IA ; une RTX 5080 Super de 24 Go serait attendue début 2027. ([revue du jour](../2026/10/2026-10-13.md))
+- **2026-10-13** — Valve publie les plans CAO du Steam Frame — La communauté peut concevoir mods et accessoires pour le casque. ([revue du jour](../2026/10/2026-10-13.md))
 - **2026-10-11** — Marché des consoles aux États-Unis : « le plus précaire depuis les années 80 » — Prix moyens record (529 $ pour une Xbox, 597 $ pour une PS5) et ventes en chute selon Circana. ([revue du jour](../2026/10/2026-10-11.md))
 - **2026-10-10** — Les livraisons de PC chutent de plus de 20 % — IDC accuse la crise de la mémoire ; Intel ressortirait des processeurs sur un ancien socket compatible DDR4. ([revue du jour](../2026/10/2026-10-10.md))
 - **2026-10-08** — PC portables RTX Spark : de 2 600 à 7 000 dollars — Les premiers portables à puce Arm N1X de Nvidia sortent le 16 octobre. ([revue du jour](../2026/10/2026-10-08.md))

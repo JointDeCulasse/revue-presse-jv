@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-13** — No Man's Sky arrive sur iPhone et iPad le 28 octobre — Hello Games propose une version complète de moins de 5 Go, sans multijoueur au lancement. ([revue du jour](../2026/10/2026-10-13.md))
+- **2026-10-13** — Haunted Chocolatier sera plutôt un action-RPG — ConcernedApe met l'accent sur l'aventure, l'équipement et les boss. ([revue du jour](../2026/10/2026-10-13.md))
 - **2026-10-12** — Le Discord du mod Calamity piraté pour une arnaque à la crypto — Le serveur de plus de 250 000 membres a été détourné puis vidé par un ancien modérateur. ([revue du jour](../2026/10/2026-10-12.md))
 - **2026-10-12** — Bumper Bout, du flipper en un contre un — Démo sur Steam, sortie le 29 octobre. ([revue du jour](../2026/10/2026-10-12.md))
 - **2026-10-12** — Etre, un jeu d'action dans un esprit extraterrestre — Le studio Lifeforms mêle BD des années 1970-80 et influence de Control. ([revue du jour](../2026/10/2026-10-12.md))

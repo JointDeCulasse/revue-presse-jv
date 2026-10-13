@@ -2,6 +2,7 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-13** — Valor Mortis divise la critique — 77 sur Metacritic sur PC, 83 sur PS5 : atmosphère et combats salués, technique PC et longueur critiquées. ([revue du jour](../2026/10/2026-10-13.md))
 - **2026-10-09** — Hellraiser: Revival divise la critique — Fidèle à Clive Barker, mais plombé par son gameplay selon plusieurs tests. ([revue du jour](../2026/10/2026-10-09.md))
 - **2026-10-09** — Castlevania: Belmont's Curse à 32/40 chez Famitsu — Première note pour le jeu d'Evil Empire et Motion Twin. ([revue du jour](../2026/10/2026-10-09.md))
 - **2026-10-08** — Order of the Sinking Star salué — Le jeu de réflexion de Jonathan Blow obtient 83 sur OpenCritic. ([revue du jour](../2026/10/2026-10-08.md))

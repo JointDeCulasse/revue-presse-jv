@@ -2,6 +2,12 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-13** — Epic passe en mode « AI first » sur son jeu de tir Disney, qui est repoussé — Selon Bloomberg, le jeu Marvel/Star Wars perd sa date de mars 2027 et sera développé avec code et visuels générés par IA. ([revue du jour](../2026/10/2026-10-13.md))
+- **2026-10-13** — Yuji Horii publie un jeu d'enquête créé en 30 minutes avec l'IA — Le créateur de Dragon Quest partage un jeu d'interrogatoire gratuit réalisé avec Claude. ([revue du jour](../2026/10/2026-10-13.md))
+- **2026-10-13** — VRChat : la communauté proteste contre l'afflux de contenus générés par IA — Les développeurs ouvrent une consultation sur la place de ces contenus. ([revue du jour](../2026/10/2026-10-13.md))
+- **2026-10-13** — Sonic Racing: CrossWorlds : la deuxième année payante fâche les acheteurs de l'édition Deluxe — Le contenu de l'an 2 exige un nouveau Season Pass malgré la promesse de « tous les futurs DLC ». ([revue du jour](../2026/10/2026-10-13.md))
+- **2026-10-13** — Suite : le « memecoin » du leaker de GTA 6 s'effondre — Sa capitalisation chute à 2,2 millions de dollars, loin du seuil de 30 millions promis. ([revue du jour](../2026/10/2026-10-13.md))
+- **2026-10-13** — Vertical Slice, un nouveau média indépendant pour l'industrie — Lancé par Chris Kerr, ancien rédacteur en chef de Game Developer. ([revue du jour](../2026/10/2026-10-13.md))
 - **2026-10-12** — Suite : le leaker de GTA 6 exige un disque et des excuses — Cyberleek conditionne la non-publication d'une version complète à une sortie physique et diffuse de nouvelles images. ([revue du jour](../2026/10/2026-10-12.md))
 - **2026-10-12** — Suite : monnaies virtuelles, l'Italie en première ligne de l'action européenne — Dix éditeurs visés pour des packs de monnaie qui laissent des reliquats ; Epic a déjà changé les V-Bucks. ([revue du jour](../2026/10/2026-10-12.md))
 - **2026-10-12** — Golden Joystick Awards 2026 : les nominations sont tombées — Vote ouvert jusqu'au 23 octobre, cérémonie le 11 novembre. ([revue du jour](../2026/10/2026-10-12.md))

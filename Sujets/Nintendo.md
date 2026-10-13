@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-13** — Nintendo n'a « pas l'intention » d'abandonner le physique — Nintendo Amérique latine défend les cartouches et les cartes « clé de jeu », à rebours de Sony. ([revue du jour](../2026/10/2026-10-13.md))
+- **2026-10-13** — Une démo de Metaphor: ReFantazio sur Switch 2 — Prologue gratuit avec reprise de sauvegarde, avant la sortie du 12 novembre. ([revue du jour](../2026/10/2026-10-13.md))
 - **2026-10-11** — Sonic Pico Park daté au 12 novembre — Le jeu coopératif de 2 à 8 joueurs arrive sur Switch et Switch 2 avec Silver et Blaze. ([revue du jour](../2026/10/2026-10-11.md))
 - **2026-10-10** — It Takes Two arrive sur Switch 2 le 15 octobre — Mise à niveau gratuite, 1080p/60 i/s en mode TV et cross-play avec PC, Xbox et PlayStation. ([revue du jour](../2026/10/2026-10-10.md))
 - **2026-10-10** — GTA 6 sur Switch 2 ? « À demander à Rockstar » — Devon Pritchard (Nintendo of America) renvoie la question à Take-Two. ([revue du jour](../2026/10/2026-10-10.md))

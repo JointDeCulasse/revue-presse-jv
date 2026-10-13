@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-13** — Steam dépasse les 43,5 millions d'utilisateurs simultanés — Nouveau record le 11 octobre, avec aussi 14,5 millions de joueurs en jeu. ([revue du jour](../2026/10/2026-10-13.md))
+- **2026-10-13** — Nvidia aurait cessé de produire la RTX 5090 — Les puces seraient réservées aux cartes RTX Pro pour centres de données d'IA. ([revue du jour](../2026/10/2026-10-13.md))
+- **2026-10-13** — Valve publie les plans CAO du Steam Frame — Les fichiers de conception du casque sont gratuits, ouvrant la voie aux mods matériels. ([revue du jour](../2026/10/2026-10-13.md))
 - **2026-10-12** — Wing Commander 3 : EA prépare un remaster pour les 30 ans — Attendu sur Steam, GOG et l'application EA, sans date. ([revue du jour](../2026/10/2026-10-12.md))
 - **2026-10-12** — Un faux Wonder Boy in Monster Land vendu sur Steam — La page de Retro Maniac ne serait que la ROM arcade lancée dans MAME. ([revue du jour](../2026/10/2026-10-12.md))
 - **2026-10-12** — Starfield : un mod pour atterrir sans écran de chargement — Seamless Landing permet de se poser n'importe où sur une planète, eau comprise. ([revue du jour](../2026/10/2026-10-12.md))

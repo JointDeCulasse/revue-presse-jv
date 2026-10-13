@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-13** — Gears of War: E-Day victime d'une attaque DDoS — Déconnexions dimanche, The Coalition assure que la situation est maîtrisée. ([revue du jour](../2026/10/2026-10-13.md))
+- **2026-10-13** — Xbox Disc to Digital affiche désormais l'historique des licences — On peut vérifier si une licence a été révoquée. ([revue du jour](../2026/10/2026-10-13.md))
 - **2026-10-12** — Forza Horizon 6 aura un disque PS5… qui ne contiendra pas le jeu — Playground confirme une édition physique PS5 qui exigera un téléchargement. ([revue du jour](../2026/10/2026-10-12.md))
 - **2026-10-11** — Suite : Gears of War: E-Day et la version PS5 abandonnée — Microsoft confirme l'exclusivité console Xbox malgré des ventes estimées à 230 000 exemplaires. ([revue du jour](../2026/10/2026-10-11.md))
 - **2026-10-10** — Gears of War: E-Day : des ventes faibles, un Game Pass qui « cannibalise » — Environ 230 000 ventes estimées en une semaine pour 1,7 million de joueurs Game Pass, selon Alinea. ([revue du jour](../2026/10/2026-10-10.md))
