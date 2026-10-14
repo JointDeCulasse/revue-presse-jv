@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-14** — Les portages « vibe-codés » de jeux Nintendo se multiplient — Des portages PC non officiels réalisés avec l'IA, Kotaku s'attend à une riposte de Nintendo. ([revue du jour](../2026/10/2026-10-14.md))
+- **2026-10-14** — Switch Online : trois jeux GBA de plus — Metal Slug Advance, Monster Rancher Advance et l'inédit Kururin Paradise. ([revue du jour](../2026/10/2026-10-14.md))
+- **2026-10-14** — Les remakes de Resident Evil réussissent leur passage sur Switch 2 — Portages natifs salués par Nintendo Life avant la sortie du 16 octobre. ([revue du jour](../2026/10/2026-10-14.md))
 - **2026-10-13** — Nintendo n'a « pas l'intention » d'abandonner le physique — Nintendo Amérique latine défend les cartouches et les cartes « clé de jeu », à rebours de Sony. ([revue du jour](../2026/10/2026-10-13.md))
 - **2026-10-13** — Une démo de Metaphor: ReFantazio sur Switch 2 — Prologue gratuit avec reprise de sauvegarde, avant la sortie du 12 novembre. ([revue du jour](../2026/10/2026-10-13.md))
 - **2026-10-11** — Sonic Pico Park daté au 12 novembre — Le jeu coopératif de 2 à 8 joueurs arrive sur Switch et Switch 2 avec Silver et Blaze. ([revue du jour](../2026/10/2026-10-11.md))

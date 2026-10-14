@@ -2,6 +2,10 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-14** — Castlevania: Belmont's Curse, une critique largement positive — De 7/10 (Push Square) à 10/10 (GameSpot), difficulté et lisibilité des combats critiquées. ([revue du jour](../2026/10/2026-10-14.md))
+- **2026-10-14** — Les remakes de Resident Evil réussissent leur passage sur Switch 2 — RE2, RE3 et RE4 en portages natifs de qualité. ([revue du jour](../2026/10/2026-10-14.md))
+- **2026-10-14** — Planet Zoo 2 convainc sur PS5 — Push Square salue la profondeur et les outils de construction. ([revue du jour](../2026/10/2026-10-14.md))
+- **2026-10-14** — Ratatan, l'héritier de Patapon, tient ses promesses — 8/10 chez Nintendo Life. ([revue du jour](../2026/10/2026-10-14.md))
 - **2026-10-13** — Valor Mortis divise la critique — 77 sur Metacritic sur PC, 83 sur PS5 : atmosphère et combats salués, technique PC et longueur critiquées. ([revue du jour](../2026/10/2026-10-13.md))
 - **2026-10-09** — Hellraiser: Revival divise la critique — Fidèle à Clive Barker, mais plombé par son gameplay selon plusieurs tests. ([revue du jour](../2026/10/2026-10-09.md))
 - **2026-10-09** — Castlevania: Belmont's Curse à 32/40 chez Famitsu — Première note pour le jeu d'Evil Empire et Motion Twin. ([revue du jour](../2026/10/2026-10-09.md))

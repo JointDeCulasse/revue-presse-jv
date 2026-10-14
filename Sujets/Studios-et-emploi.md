@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-14** — Ubisoft veut fermer RedLynx et licencie 70 personnes à Singapour — Le studio de Trials (environ 52 postes) n'a plus de projet ; Ubisoft Singapore perd 70 emplois. ([revue du jour](../2026/10/2026-10-14.md))
+- **2026-10-14** — Levelord, level designer de Duke Nukem 3D et Quake, est mort — Richard Gray, cofondateur de Ritual Entertainment, avait 68 ans. ([revue du jour](../2026/10/2026-10-14.md))
 - **2026-10-13** — Epic passe en mode « AI first » sur son jeu de tir Disney, qui est repoussé — Les développeurs, choqués, doivent abandonner le code écrit à la main au profit d'outils d'IA. ([revue du jour](../2026/10/2026-10-13.md))
 - **2026-10-10** — Procès Rockstar : le DRH interrogé sur une « taupe » syndicale — Un salarié aurait transmis pendant deux ans les échanges du Discord de l'IWGB à la direction. ([revue du jour](../2026/10/2026-10-10.md))
 - **2026-10-10** — Double Fine : l'échec d'une tentative de syndicalisation — La demande déposée en mai a sombré dans les querelles d'éligibilité et les fractures internes. ([revue du jour](../2026/10/2026-10-10.md))

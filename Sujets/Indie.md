@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-14** — Peak, le phénomène de 2025, arrive sur PS5 — Classement ESRB pour le jeu d'Aggro Crab et Landfall, vendu à plus de 10 millions d'exemplaires. ([revue du jour](../2026/10/2026-10-14.md))
+- **2026-10-14** — Ratatan, l'héritier de Patapon, tient ses promesses — Le jeu de Hiroyuki Kotani sort le 15 octobre, 8/10 chez Nintendo Life. ([revue du jour](../2026/10/2026-10-14.md))
+- **2026-10-14** — ID@Xbox Showcase le 20 octobre avec 18 jeux — Nombreuses premières mondiales attendues ; Escape Academy 2 daté au 5 novembre sur PS5. ([revue du jour](../2026/10/2026-10-14.md))
 - **2026-10-13** — No Man's Sky arrive sur iPhone et iPad le 28 octobre — Hello Games propose une version complète de moins de 5 Go, sans multijoueur au lancement. ([revue du jour](../2026/10/2026-10-13.md))
 - **2026-10-13** — Haunted Chocolatier sera plutôt un action-RPG — ConcernedApe met l'accent sur l'aventure, l'équipement et les boss. ([revue du jour](../2026/10/2026-10-13.md))
 - **2026-10-12** — Le Discord du mod Calamity piraté pour une arnaque à la crypto — Le serveur de plus de 250 000 membres a été détourné puis vidé par un ancien modérateur. ([revue du jour](../2026/10/2026-10-12.md))

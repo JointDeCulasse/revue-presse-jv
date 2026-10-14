@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-14** — GTA 6 sur PC dès le premier trimestre 2027 ? — Rumeur GamesBeat ; GTA 5 quitte le PS Plus Extra le 17 novembre. ([revue du jour](../2026/10/2026-10-14.md))
+- **2026-10-14** — Ace Combat Zero deviendra un jeu autonome sur PC — Il ne sera plus lié au lanceur d'Ace Combat 8. ([revue du jour](../2026/10/2026-10-14.md))
+- **2026-10-14** — Warhammer 40,000: Boltgun 2 est sorti — Campagne solo à embranchements, sur Xbox Series et PC. ([revue du jour](../2026/10/2026-10-14.md))
 - **2026-10-13** — Planet Zoo 2 sort ce 13 octobre — Espèces aquatiques et volantes, zoos commerciaux et réserves, sur PC, PS5 et Xbox Series. ([revue du jour](../2026/10/2026-10-13.md))
 - **2026-10-13** — Le beat'em up He-Man daté au 4 février 2027 — Masters of the Universe: Dragon Pearl of Destruction sur PS5, PS4 et Switch. ([revue du jour](../2026/10/2026-10-13.md))
 - **2026-10-12** — Wing Commander 3 : EA prépare un remaster pour les 30 ans — Plus de 600 bandes sources retrouvées pour des cinématiques restaurées, en 60 images par seconde. ([revue du jour](../2026/10/2026-10-12.md))

@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-14** — Castlevania: Belmont's Curse, une critique largement positive pour Evil Empire et Motion Twin — Notes de 7 à 10/10, 17/20 chez jeuxvideo.com, sortie le 15 octobre. ([revue du jour](../2026/10/2026-10-14.md))
+- **2026-10-14** — Ubisoft veut fermer RedLynx et licencie 70 personnes à Singapour — L'éditeur français poursuit sa restructuration avec la fin probable du studio de Trials. ([revue du jour](../2026/10/2026-10-14.md))
 - **2026-10-12** — EVO France 2026 : DualKevin et JeonDDing s'imposent à Nice — Victoires sur Street Fighter 6 et Tekken 8 lors de la deuxième édition niçoise. ([revue du jour](../2026/10/2026-10-12.md))
 - **2026-10-10** — Hell Is Us débarque sur Switch 2 — Le jeu édité par Nacon arrive sur l'eShop, avec une mise à jour 1.8 qui corrige un bug de sauvegarde. ([revue du jour](../2026/10/2026-10-10.md))
 - **2026-10-09** — Ubisoft fermera Rainbow Six Mobile le 15 janvier 2027 — Sept mois après sa sortie mondiale, un nouvel échec de jeu-service pour l'éditeur. ([revue du jour](../2026/10/2026-10-09.md))

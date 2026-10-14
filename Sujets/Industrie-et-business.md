@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-14** — Xbox Labs : Microsoft prend acte de la vague de portages par IA — Asha Sharma crée une équipe dédiée aux décompilations, portages et « remix » de jeux, sans citer l'IA. ([revue du jour](../2026/10/2026-10-14.md))
+- **2026-10-14** — Les portages « vibe-codés » de jeux Nintendo se multiplient — Metroid Prime, Mario Odyssey ou Smash portés sur PC avec l'aide de Claude, via l'émulateur Suyu. ([revue du jour](../2026/10/2026-10-14.md))
+- **2026-10-14** — Legacy Games ferme sa boutique — Fin des ventes au 31 décembre, plus de retéléchargement possible après le 28 février 2027. ([revue du jour](../2026/10/2026-10-14.md))
 - **2026-10-13** — Epic passe en mode « AI first » sur son jeu de tir Disney, qui est repoussé — Selon Bloomberg, le jeu Marvel/Star Wars perd sa date de mars 2027 et sera développé avec code et visuels générés par IA. ([revue du jour](../2026/10/2026-10-13.md))
 - **2026-10-13** — Yuji Horii publie un jeu d'enquête créé en 30 minutes avec l'IA — Le créateur de Dragon Quest partage un jeu d'interrogatoire gratuit réalisé avec Claude. ([revue du jour](../2026/10/2026-10-13.md))
 - **2026-10-13** — VRChat : la communauté proteste contre l'afflux de contenus générés par IA — Les développeurs ouvrent une consultation sur la place de ces contenus. ([revue du jour](../2026/10/2026-10-13.md))

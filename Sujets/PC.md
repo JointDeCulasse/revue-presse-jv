@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-14** — GTA 6 sur PC dès le premier trimestre 2027 ? — Selon GamesBeat, la version PC suivrait la sortie console de quelques mois seulement. ([revue du jour](../2026/10/2026-10-14.md))
+- **2026-10-14** — Ace Combat Zero deviendra un jeu autonome sur PC — Bandai Namco cède aux joueurs ; Ace Combat 8 dépasse le million de ventes. ([revue du jour](../2026/10/2026-10-14.md))
+- **2026-10-14** — Legacy Games ferme sa boutique — Les jeux achetés ne pourront plus être retéléchargés après le 28 février 2027. ([revue du jour](../2026/10/2026-10-14.md))
 - **2026-10-13** — Steam dépasse les 43,5 millions d'utilisateurs simultanés — Nouveau record le 11 octobre, avec aussi 14,5 millions de joueurs en jeu. ([revue du jour](../2026/10/2026-10-13.md))
 - **2026-10-13** — Nvidia aurait cessé de produire la RTX 5090 — Les puces seraient réservées aux cartes RTX Pro pour centres de données d'IA. ([revue du jour](../2026/10/2026-10-13.md))
 - **2026-10-13** — Valve publie les plans CAO du Steam Frame — Les fichiers de conception du casque sont gratuits, ouvrant la voie aux mods matériels. ([revue du jour](../2026/10/2026-10-13.md))

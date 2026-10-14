@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-14** — Xbox Labs : Microsoft prend acte de la vague de portages par IA — Équipe dirigée par Scott Van Vliet ; Sharma prévient qu'Xbox doit aussi créer de nouvelles licences. ([revue du jour](../2026/10/2026-10-14.md))
+- **2026-10-14** — Warhammer 40,000: Boltgun 2 est sorti — La suite du FPS rétro arrive sur Xbox Series et PC. ([revue du jour](../2026/10/2026-10-14.md))
+- **2026-10-14** — ID@Xbox Showcase le 20 octobre avec 18 jeux — Dont The Wolf Among Us Remastered et de nombreuses premières mondiales. ([revue du jour](../2026/10/2026-10-14.md))
 - **2026-10-13** — Gears of War: E-Day victime d'une attaque DDoS — Déconnexions dimanche, The Coalition assure que la situation est maîtrisée. ([revue du jour](../2026/10/2026-10-13.md))
 - **2026-10-13** — Xbox Disc to Digital affiche désormais l'historique des licences — On peut vérifier si une licence a été révoquée. ([revue du jour](../2026/10/2026-10-13.md))
 - **2026-10-12** — Forza Horizon 6 aura un disque PS5… qui ne contiendra pas le jeu — Playground confirme une édition physique PS5 qui exigera un téléchargement. ([revue du jour](../2026/10/2026-10-12.md))
