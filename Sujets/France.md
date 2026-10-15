@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-15** — Acornia: Mirror Worlds, le nouveau Splashteam, se montre — Le studio de Tinykin mêle combats et gestion de pâtisserie, sortie en 2027. ([revue du jour](../2026/10/2026-10-15.md))
+- **2026-10-15** — Castlevania: Belmont's Curse sort aujourd'hui, PC Gamer plus réservé — Le jeu d'Evil Empire et Motion Twin jugé « un peu à côté », bug d'écran noir au-delà de 120 Hz. ([revue du jour](../2026/10/2026-10-15.md))
+- **2026-10-15** — Hell Is Us sur Switch 2 : stimulant mais frustrant — Le jeu de Rogue Factor (Nacon) testé par Nintendo Life. ([revue du jour](../2026/10/2026-10-15.md))
 - **2026-10-14** — Castlevania: Belmont's Curse, une critique largement positive pour Evil Empire et Motion Twin — Notes de 7 à 10/10, 17/20 chez jeuxvideo.com, sortie le 15 octobre. ([revue du jour](../2026/10/2026-10-14.md))
 - **2026-10-14** — Ubisoft veut fermer RedLynx et licencie 70 personnes à Singapour — L'éditeur français poursuit sa restructuration avec la fin probable du studio de Trials. ([revue du jour](../2026/10/2026-10-14.md))
 - **2026-10-12** — EVO France 2026 : DualKevin et JeonDDing s'imposent à Nice — Victoires sur Street Fighter 6 et Tekken 8 lors de la deuxième édition niçoise. ([revue du jour](../2026/10/2026-10-12.md))

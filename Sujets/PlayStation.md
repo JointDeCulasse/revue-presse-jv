@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-15** — PS Plus Extra et Premium : un mois d'octobre salué — Mafia: The Old Country, Horizon Forbidden West, Mycopunk et Dino Crisis 2 dès le 20 octobre. ([revue du jour](../2026/10/2026-10-15.md))
+- **2026-10-15** — Fin des disques PS5 : près de la moitié de la fronde venait de faux comptes — Étude Cyabra ; les jeux Sony retirés du PS Store y sont revenus. ([revue du jour](../2026/10/2026-10-15.md))
+- **2026-10-15** — Une DualSense pour les 30 ans de Gran Turismo — Manette en édition limitée le 10 décembre. ([revue du jour](../2026/10/2026-10-15.md))
 - **2026-10-14** — Des jeux Sony retirés du PlayStation Store après une erreur de prix — Knack 2, Uncharted Collection et God of War III Remastered ont disparu de la boutique. ([revue du jour](../2026/10/2026-10-14.md))
 - **2026-10-14** — Une PS5 noire « Midnight Black », réservée au Japon — Console, manette et lecteur assortis, seule la couleur change. ([revue du jour](../2026/10/2026-10-14.md))
 - **2026-10-14** — Peak arrive sur PS5 — Le jeu d'escalade coopératif aux 10 millions de ventes a été classé par l'ESRB. ([revue du jour](../2026/10/2026-10-14.md))

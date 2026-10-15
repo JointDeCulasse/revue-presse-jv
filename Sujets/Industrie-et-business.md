@@ -2,6 +2,10 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-15** — Les coulisses de GTA 6 selon Bloomberg — Effectifs passés de 2 441 à 4 711 personnes, budget sous 1,5 Md$, prochain jeu Rockstar promis plus rapide. ([revue du jour](../2026/10/2026-10-15.md))
+- **2026-10-15** — Suite : le leaker de GTA 6 arrête ses publications — Son memecoin plafonne vers 5 M$, il brandit un « dead man's switch » contre Take-Two. ([revue du jour](../2026/10/2026-10-15.md))
+- **2026-10-15** — Suite : Epic dévoile un lanceur « vibe-codé » par IA — Plus rapide que Steam selon Epic, largement moqué en ligne. ([revue du jour](../2026/10/2026-10-15.md))
+- **2026-10-15** — Total War: Shogun 2 : l'édition « améliorée » par IA fâche les joueurs — Performances en baisse, bugs et illustrations agrandies par IA générative. ([revue du jour](../2026/10/2026-10-15.md))
 - **2026-10-14** — Xbox Labs : Microsoft prend acte de la vague de portages par IA — Asha Sharma crée une équipe dédiée aux décompilations, portages et « remix » de jeux, sans citer l'IA. ([revue du jour](../2026/10/2026-10-14.md))
 - **2026-10-14** — Les portages « vibe-codés » de jeux Nintendo se multiplient — Metroid Prime, Mario Odyssey ou Smash portés sur PC avec l'aide de Claude, via l'émulateur Suyu. ([revue du jour](../2026/10/2026-10-14.md))
 - **2026-10-14** — Legacy Games ferme sa boutique — Fin des ventes au 31 décembre, plus de retéléchargement possible après le 28 février 2027. ([revue du jour](../2026/10/2026-10-14.md))

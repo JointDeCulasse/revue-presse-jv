@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-15** — Fortnite arrivera sur Linux — Dès qu'Easy Anti-Cheat sera prêt ; Epic discute avec Valve pour le Steam Deck. ([revue du jour](../2026/10/2026-10-15.md))
+- **2026-10-15** — League of Legends Classic fermera en janvier — Riot arrête le mode trois mois après son lancement, faute de joueurs. ([revue du jour](../2026/10/2026-10-15.md))
+- **2026-10-15** — Suite : Epic dévoile un lanceur « vibe-codé » par IA — Préversion pour Windows, Mac et Linux, 46 % plus rapide que Steam selon Epic. ([revue du jour](../2026/10/2026-10-15.md))
 - **2026-10-14** — GTA 6 sur PC dès le premier trimestre 2027 ? — Selon GamesBeat, la version PC suivrait la sortie console de quelques mois seulement. ([revue du jour](../2026/10/2026-10-14.md))
 - **2026-10-14** — Ace Combat Zero deviendra un jeu autonome sur PC — Bandai Namco cède aux joueurs ; Ace Combat 8 dépasse le million de ventes. ([revue du jour](../2026/10/2026-10-14.md))
 - **2026-10-14** — Legacy Games ferme sa boutique — Les jeux achetés ne pourront plus être retéléchargés après le 28 février 2027. ([revue du jour](../2026/10/2026-10-14.md))

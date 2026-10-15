@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-15** — Xbox sonde ses joueurs sur des exclusivités Fallout, Elder Scrolls ou Minecraft — Questionnaire envoyé à des Insiders, Call of Duty absent de la liste. ([revue du jour](../2026/10/2026-10-15.md))
+- **2026-10-15** — Gears of War: E-Day reçoit sa première grosse mise à jour — Corrections pour la campagne, la Horde et le Versus, meilleure stabilité. ([revue du jour](../2026/10/2026-10-15.md))
+- **2026-10-15** — Une manette Xbox « Nano » pour les petites mains — Format compact, 49,99 €, sortie le 4 novembre. ([revue du jour](../2026/10/2026-10-15.md))
 - **2026-10-14** — Xbox Labs : Microsoft prend acte de la vague de portages par IA — Équipe dirigée par Scott Van Vliet ; Sharma prévient qu'Xbox doit aussi créer de nouvelles licences. ([revue du jour](../2026/10/2026-10-14.md))
 - **2026-10-14** — Warhammer 40,000: Boltgun 2 est sorti — La suite du FPS rétro arrive sur Xbox Series et PC. ([revue du jour](../2026/10/2026-10-14.md))
 - **2026-10-14** — ID@Xbox Showcase le 20 octobre avec 18 jeux — Dont The Wolf Among Us Remastered et de nombreuses premières mondiales. ([revue du jour](../2026/10/2026-10-14.md))

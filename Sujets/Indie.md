@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-15** — Garry Newman « honteux » de l'accueil de s&box — Facepunch promet des changements profonds pour le successeur de Garry's Mod. ([revue du jour](../2026/10/2026-10-15.md))
+- **2026-10-15** — Escape Academy 2 et Mycopunk dans les abonnements dès leur sortie — Game Pass pour l'un, PS Plus Extra pour l'autre. ([revue du jour](../2026/10/2026-10-15.md))
+- **2026-10-15** — Acornia: Mirror Worlds, le nouveau Splashteam, se montre — Donjons et pâtisserie, prévu en 2027 chez Dotemu. ([revue du jour](../2026/10/2026-10-15.md))
 - **2026-10-14** — Peak, le phénomène de 2025, arrive sur PS5 — Classement ESRB pour le jeu d'Aggro Crab et Landfall, vendu à plus de 10 millions d'exemplaires. ([revue du jour](../2026/10/2026-10-14.md))
 - **2026-10-14** — Ratatan, l'héritier de Patapon, tient ses promesses — Le jeu de Hiroyuki Kotani sort le 15 octobre, 8/10 chez Nintendo Life. ([revue du jour](../2026/10/2026-10-14.md))
 - **2026-10-14** — ID@Xbox Showcase le 20 octobre avec 18 jeux — Nombreuses premières mondiales attendues ; Escape Academy 2 daté au 5 novembre sur PS5. ([revue du jour](../2026/10/2026-10-14.md))
