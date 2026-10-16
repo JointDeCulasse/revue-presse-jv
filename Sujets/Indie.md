@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-16** — Suite : Peak arrive le 22 octobre sur PS5, Xbox Series et Switch 2 — Jeu croisé et édition physique PS5 à venir. ([revue du jour](../2026/10/2026-10-16.md))
+- **2026-10-16** — Caves of Qud : Diaspora, premier DLC en accès anticipé sur Steam — Extension de Freehold et Kitfox attendue le 9 décembre. ([revue du jour](../2026/10/2026-10-16.md))
+- **2026-10-16** — Big Walk ne sortira pas sur Xbox, au nom du boycott BDS — House House conditionne une version Xbox à la fin du boycott visant Microsoft. ([revue du jour](../2026/10/2026-10-16.md))
 - **2026-10-15** — Garry Newman « honteux » de l'accueil de s&box — Facepunch promet des changements profonds pour le successeur de Garry's Mod. ([revue du jour](../2026/10/2026-10-15.md))
 - **2026-10-15** — Escape Academy 2 et Mycopunk dans les abonnements dès leur sortie — Game Pass pour l'un, PS Plus Extra pour l'autre. ([revue du jour](../2026/10/2026-10-15.md))
 - **2026-10-15** — Acornia: Mirror Worlds, le nouveau Splashteam, se montre — Donjons et pâtisserie, prévu en 2027 chez Dotemu. ([revue du jour](../2026/10/2026-10-15.md))

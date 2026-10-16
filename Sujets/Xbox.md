@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-16** — ROG Xbox Ally X20 : bel écran, prix jugé excessif — OLED plus grand mais mêmes performances que l'Ally X, pour 1 299,99 dollars. ([revue du jour](../2026/10/2026-10-16.md))
+- **2026-10-16** — Big Walk ne sortira pas sur Xbox, au nom du boycott BDS — House House conditionne une version Xbox à la fin du boycott visant Microsoft. ([revue du jour](../2026/10/2026-10-16.md))
 - **2026-10-15** — Xbox sonde ses joueurs sur des exclusivités Fallout, Elder Scrolls ou Minecraft — Questionnaire envoyé à des Insiders, Call of Duty absent de la liste. ([revue du jour](../2026/10/2026-10-15.md))
 - **2026-10-15** — Gears of War: E-Day reçoit sa première grosse mise à jour — Corrections pour la campagne, la Horde et le Versus, meilleure stabilité. ([revue du jour](../2026/10/2026-10-15.md))
 - **2026-10-15** — Une manette Xbox « Nano » pour les petites mains — Format compact, 49,99 €, sortie le 4 novembre. ([revue du jour](../2026/10/2026-10-15.md))

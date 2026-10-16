@@ -2,6 +2,11 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-16** — GTA 6 : la bande-annonce de lancement, sur une musique de Justice — Trailer capturé sur PS5 et jeu éligible de justesse aux Game Awards 2026. ([revue du jour](../2026/10/2026-10-16.md))
+- **2026-10-16** — Cyberpunk 2 a un nom officiel et un directeur — Gabe Amatangelo, artisan de Phantom Liberty, pilote la suite. ([revue du jour](../2026/10/2026-10-16.md))
+- **2026-10-16** — Metro 2039 : la version physique exigera un téléchargement — Connexion requise au premier lancement, sortie le 4 février 2027. ([revue du jour](../2026/10/2026-10-16.md))
+- **2026-10-16** — Suite : Peak arrive le 22 octobre sur PS5, Xbox Series et Switch 2 — Jeu croisé et édition physique PS5 à venir. ([revue du jour](../2026/10/2026-10-16.md))
+- **2026-10-16** — Edge of Memories esquive GTA 6 et glisse au 3 décembre — Le RPG de Midgar Studio (Nacon) quitte le 5 novembre. ([revue du jour](../2026/10/2026-10-16.md))
 - **2026-10-14** — GTA 6 sur PC dès le premier trimestre 2027 ? — Rumeur GamesBeat ; GTA 5 quitte le PS Plus Extra le 17 novembre. ([revue du jour](../2026/10/2026-10-14.md))
 - **2026-10-14** — Ace Combat Zero deviendra un jeu autonome sur PC — Il ne sera plus lié au lanceur d'Ace Combat 8. ([revue du jour](../2026/10/2026-10-14.md))
 - **2026-10-14** — Warhammer 40,000: Boltgun 2 est sorti — Campagne solo à embranchements, sur Xbox Series et PC. ([revue du jour](../2026/10/2026-10-14.md))

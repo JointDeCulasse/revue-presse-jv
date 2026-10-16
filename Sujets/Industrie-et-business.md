@@ -2,6 +2,10 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-16** — Un projet de loi américain sur la propriété des jeux — Ritchie Torres annonce le Power To The Players Act : fin des licences révocables et mode hors ligne obligatoire. ([revue du jour](../2026/10/2026-10-16.md))
+- **2026-10-16** — Activision dénonce une « taxe Call of Duty » — Intention d'achat en baisse pour MW4, 4 500 personnes sur la série et une nouvelle sous-série en préparation. ([revue du jour](../2026/10/2026-10-16.md))
+- **2026-10-16** — Suite : Sega retire de la vente Total War: Shogun 2 Complete Edition — Bugs et illustrations par IA ; l'original revient en vente. ([revue du jour](../2026/10/2026-10-16.md))
+- **2026-10-16** — Control Resonant dépasse le million, record pour Remedy — Un million en trois semaines, plus vite qu'Alan Wake 2. ([revue du jour](../2026/10/2026-10-16.md))
 - **2026-10-15** — Les coulisses de GTA 6 selon Bloomberg — Effectifs passés de 2 441 à 4 711 personnes, budget sous 1,5 Md$, prochain jeu Rockstar promis plus rapide. ([revue du jour](../2026/10/2026-10-15.md))
 - **2026-10-15** — Suite : le leaker de GTA 6 arrête ses publications — Son memecoin plafonne vers 5 M$, il brandit un « dead man's switch » contre Take-Two. ([revue du jour](../2026/10/2026-10-15.md))
 - **2026-10-15** — Suite : Epic dévoile un lanceur « vibe-codé » par IA — Plus rapide que Steam selon Epic, largement moqué en ligne. ([revue du jour](../2026/10/2026-10-15.md))

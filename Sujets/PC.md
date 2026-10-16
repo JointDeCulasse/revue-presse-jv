@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-16** — Steam refond ses succès — Ensembles distincts pour DLC et saisons, comparaison avec trois amis, en bêta. ([revue du jour](../2026/10/2026-10-16.md))
+- **2026-10-16** — Jagex abandonne RuneScape Reignited — Les serveurs « nouveau départ » annulés deux semaines après leur annonce. ([revue du jour](../2026/10/2026-10-16.md))
+- **2026-10-16** — Suite : Sega retire de la vente Total War: Shogun 2 Complete Edition — Bugs et illustrations par IA ; l'original revient en vente. ([revue du jour](../2026/10/2026-10-16.md))
 - **2026-10-15** — Fortnite arrivera sur Linux — Dès qu'Easy Anti-Cheat sera prêt ; Epic discute avec Valve pour le Steam Deck. ([revue du jour](../2026/10/2026-10-15.md))
 - **2026-10-15** — League of Legends Classic fermera en janvier — Riot arrête le mode trois mois après son lancement, faute de joueurs. ([revue du jour](../2026/10/2026-10-15.md))
 - **2026-10-15** — Suite : Epic dévoile un lanceur « vibe-codé » par IA — Préversion pour Windows, Mac et Linux, 46 % plus rapide que Steam selon Epic. ([revue du jour](../2026/10/2026-10-15.md))

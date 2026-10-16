@@ -9,6 +9,7 @@ Archive quotidienne de l'actualité jeu vidéo, rédigée en français à partir
 
 ## Revues
 
+- [2026-10-16](2026/10/2026-10-16.md) — Bande-annonce de lancement de GTA 6 signée Justice, éligible aux Game Awards · Les testeurs de Modern Warfare 4 autorisent une grève · Un projet de loi américain pour que l'achat d'un jeu numérique vaille propriété
 - [2026-10-15](2026/10/2026-10-15.md) — Bloomberg dévoile les coulisses de GTA 6 et Rockstar promet un prochain jeu plus rapide · Epic lance un lanceur « vibe-codé » par IA · Xbox sonde ses joueurs sur des exclusivités Fallout, Elder Scrolls ou Minecraft
 - [2026-10-14](2026/10/2026-10-14.md) — Ubisoft veut fermer RedLynx (Trials) et licencie 70 personnes à Singapour · Asha Sharma crée Xbox Labs face aux portages par IA · GTA 6 sur PC dès le 1er trimestre 2027 selon GamesBeat
 - [2026-10-13](2026/10/2026-10-13.md) — Epic passe en mode « AI first » et repousse son jeu de tir Disney · Steam bat son record avec 43,5 millions d'utilisateurs simultanés · Nvidia aurait cessé de produire la RTX 5090

@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-16** — Edge of Memories esquive GTA 6 et glisse au 3 décembre — Le RPG de Midgar Studio (Nacon) quitte le 5 novembre. ([revue du jour](../2026/10/2026-10-16.md))
+- **2026-10-16** — Humankind 2 se veut une vraie suite — Amplitude détaille biomes, changement climatique et nouveaux modes, sortie PC en 2027. ([revue du jour](../2026/10/2026-10-16.md))
+- **2026-10-16** — À Paris, l'affiche géante de GTA 6 cache ses armes — La bâche des Mercuriales retouchée, contrairement aux fresques américaines. ([revue du jour](../2026/10/2026-10-16.md))
 - **2026-10-15** — Acornia: Mirror Worlds, le nouveau Splashteam, se montre — Le studio de Tinykin mêle combats et gestion de pâtisserie, sortie en 2027. ([revue du jour](../2026/10/2026-10-15.md))
 - **2026-10-15** — Castlevania: Belmont's Curse sort aujourd'hui, PC Gamer plus réservé — Le jeu d'Evil Empire et Motion Twin jugé « un peu à côté », bug d'écran noir au-delà de 120 Hz. ([revue du jour](../2026/10/2026-10-15.md))
 - **2026-10-15** — Hell Is Us sur Switch 2 : stimulant mais frustrant — Le jeu de Rogue Factor (Nacon) testé par Nintendo Life. ([revue du jour](../2026/10/2026-10-15.md))

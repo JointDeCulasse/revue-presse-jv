@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-16** — Switch 2 : Hitman Absolution daté, Kingdom Hearts en tête au Japon — Hitman le 22 octobre ; 23 411 exemplaires pour Kingdom Hearts Collection. ([revue du jour](../2026/10/2026-10-16.md))
+- **2026-10-16** — Nintendo augmente ses tarifs de réparation au Japon — Hausse pour Switch et Switch 2 à partir du 16 novembre. ([revue du jour](../2026/10/2026-10-16.md))
 - **2026-10-15** — Zelda: Ocarina of Time sur Switch 2 : premières impressions enthousiastes — Remake fidèle et modernisé, sortie le 5 novembre. ([revue du jour](../2026/10/2026-10-15.md))
 - **2026-10-15** — Switch 2 : démo de Monster Hunter Wilds et date pour 007 First Light — Démo le 19 octobre, jeu le 4 décembre ; 007 le 18 mars 2027. ([revue du jour](../2026/10/2026-10-15.md))
 - **2026-10-14** — Les portages « vibe-codés » de jeux Nintendo se multiplient — Des portages PC non officiels réalisés avec l'IA, Kotaku s'attend à une riposte de Nintendo. ([revue du jour](../2026/10/2026-10-14.md))
