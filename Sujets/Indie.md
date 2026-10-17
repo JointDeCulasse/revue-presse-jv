@@ -2,6 +2,10 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-17** — Coral Island arrive sur Switch 2 cet hiver — Annonce au MIX Fall Showcase, avec la mise à jour gratuite 1.4. ([revue du jour](../2026/10/2026-10-17.md))
+- **2026-10-17** — Drunken Goddess Reflux renonce à sa démo Steam par peur des copies par IA — Une bêta fermée remplacera la démo, à la veille du Steam Next Fest. ([revue du jour](../2026/10/2026-10-17.md))
+- **2026-10-17** — Vitrine Galaxies : Guns of Eschaton daté au 8 décembre — Stuntman: Hollywood, Spine et d'autres présentés ; Over the Hill recommandé par PC Gamer. ([revue du jour](../2026/10/2026-10-17.md))
+- **2026-10-17** — The Witch's Bakery et Appulse : deux indés français à l'honneur — Un test positif sur Switch 2 et une démo avant la sortie du 26 novembre. ([revue du jour](../2026/10/2026-10-17.md))
 - **2026-10-16** — Suite : Peak arrive le 22 octobre sur PS5, Xbox Series et Switch 2 — Jeu croisé et édition physique PS5 à venir. ([revue du jour](../2026/10/2026-10-16.md))
 - **2026-10-16** — Caves of Qud : Diaspora, premier DLC en accès anticipé sur Steam — Extension de Freehold et Kitfox attendue le 9 décembre. ([revue du jour](../2026/10/2026-10-16.md))
 - **2026-10-16** — Big Walk ne sortira pas sur Xbox, au nom du boycott BDS — House House conditionne une version Xbox à la fin du boycott visant Microsoft. ([revue du jour](../2026/10/2026-10-16.md))

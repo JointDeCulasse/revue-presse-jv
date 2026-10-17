@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-17** — Plus de jeux sur Steam en 2026 que sur toute l'année 2025 — Environ 24 000 sorties attendues, une visibilité toujours plus dure pour les petits studios. ([revue du jour](../2026/10/2026-10-17.md))
+- **2026-10-17** — Drunken Goddess Reflux renonce à sa démo Steam — Par peur des clones générés par IA, les développeurs optent pour une bêta fermée. ([revue du jour](../2026/10/2026-10-17.md))
 - **2026-10-16** — Steam refond ses succès — Ensembles distincts pour DLC et saisons, comparaison avec trois amis, en bêta. ([revue du jour](../2026/10/2026-10-16.md))
 - **2026-10-16** — Jagex abandonne RuneScape Reignited — Les serveurs « nouveau départ » annulés deux semaines après leur annonce. ([revue du jour](../2026/10/2026-10-16.md))
 - **2026-10-16** — Suite : Sega retire de la vente Total War: Shogun 2 Complete Edition — Bugs et illustrations par IA ; l'original revient en vente. ([revue du jour](../2026/10/2026-10-16.md))

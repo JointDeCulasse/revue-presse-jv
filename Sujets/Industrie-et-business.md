@@ -2,6 +2,12 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-17** — CD Projekt : Hadar pas encore en préproduction, un film Cyberpunk avec Paramount — Nowakowski détaille les effectifs de The Witcher 4 et Cyberpunk 2, et le film racontera une histoire inédite. ([revue du jour](../2026/10/2026-10-17.md))
+- **2026-10-17** — Plus de jeux sur Steam en 2026 que sur toute l'année 2025 — Environ 24 000 sorties attendues cette année, et l'IA pourrait encore gonfler le chiffre en 2027. ([revue du jour](../2026/10/2026-10-17.md))
+- **2026-10-17** — Konami ne croit pas à un bouleversement du marché par l'IA — Son rapport financier juge la créativité des développeurs difficile à remplacer. ([revue du jour](../2026/10/2026-10-17.md))
+- **2026-10-17** — Un jeu « vibe-codé » sur le Tenderloin retiré après un tollé — Un fondateur de start-up publie un jeu de tir sur les « zombies » du quartier le plus pauvre de San Francisco, retiré après les critiques. ([revue du jour](../2026/10/2026-10-17.md))
+- **2026-10-17** — Star Wars Zero Company dépasse le million — Un million d'exemplaires en moins de deux mois, l'équipe revient et la mise à jour 1.2 ajoute la mort permanente. ([revue du jour](../2026/10/2026-10-17.md))
+- **2026-10-17** — Des images d'un Assassin's Creed chinois annulé fuitent — Des séquences d'« Assassin's Creed Destiny », projet qu'Ubisoft aurait arrêté, circulent en ligne. ([revue du jour](../2026/10/2026-10-17.md))
 - **2026-10-16** — Un projet de loi américain sur la propriété des jeux — Ritchie Torres annonce le Power To The Players Act : fin des licences révocables et mode hors ligne obligatoire. ([revue du jour](../2026/10/2026-10-16.md))
 - **2026-10-16** — Activision dénonce une « taxe Call of Duty » — Intention d'achat en baisse pour MW4, 4 500 personnes sur la série et une nouvelle sous-série en préparation. ([revue du jour](../2026/10/2026-10-16.md))
 - **2026-10-16** — Suite : Sega retire de la vente Total War: Shogun 2 Complete Edition — Bugs et illustrations par IA ; l'original revient en vente. ([revue du jour](../2026/10/2026-10-16.md))

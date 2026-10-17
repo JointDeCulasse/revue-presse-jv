@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-17** — Des images d'un Assassin's Creed chinois annulé fuitent — Des séquences d'« Assassin's Creed Destiny », qu'Ubisoft aurait arrêté, circulent en ligne. ([revue du jour](../2026/10/2026-10-17.md))
+- **2026-10-17** — The Witch's Bakery et Appulse : deux indés français à l'honneur — Sunny Lab salué sur Switch 2, Appulse sort le 26 novembre sur Steam. ([revue du jour](../2026/10/2026-10-17.md))
 - **2026-10-16** — Edge of Memories esquive GTA 6 et glisse au 3 décembre — Le RPG de Midgar Studio (Nacon) quitte le 5 novembre. ([revue du jour](../2026/10/2026-10-16.md))
 - **2026-10-16** — Humankind 2 se veut une vraie suite — Amplitude détaille biomes, changement climatique et nouveaux modes, sortie PC en 2027. ([revue du jour](../2026/10/2026-10-16.md))
 - **2026-10-16** — À Paris, l'affiche géante de GTA 6 cache ses armes — La bâche des Mercuriales retouchée, contrairement aux fresques américaines. ([revue du jour](../2026/10/2026-10-16.md))

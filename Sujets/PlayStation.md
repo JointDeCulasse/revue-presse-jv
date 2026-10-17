@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-17** — Ken Kutaragi comprend la colère contre la fin des disques — Le père de la PlayStation y voit un problème de « mentalité » et critique la gestion de Sony. ([revue du jour](../2026/10/2026-10-17.md))
+- **2026-10-17** — GTA 6 : Sony déroule son marketing, les joueurs pointent un « downgrade » — « Plays Best on PS5 », Miami transformée en Vice City et une bande-annonce jugée floue par certains. ([revue du jour](../2026/10/2026-10-17.md))
+- **2026-10-17** — No Rest for the Wicked sur PS5 en mars 2027 — La version PS5 arrivera directement en 1.0. ([revue du jour](../2026/10/2026-10-17.md))
 - **2026-10-15** — PS Plus Extra et Premium : un mois d'octobre salué — Mafia: The Old Country, Horizon Forbidden West, Mycopunk et Dino Crisis 2 dès le 20 octobre. ([revue du jour](../2026/10/2026-10-15.md))
 - **2026-10-15** — Fin des disques PS5 : près de la moitié de la fronde venait de faux comptes — Étude Cyabra ; les jeux Sony retirés du PS Store y sont revenus. ([revue du jour](../2026/10/2026-10-15.md))
 - **2026-10-15** — Une DualSense pour les 30 ans de Gran Turismo — Manette en édition limitée le 10 décembre. ([revue du jour](../2026/10/2026-10-15.md))

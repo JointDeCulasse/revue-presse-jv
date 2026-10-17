@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-17** — Switch 2 : Zero Parades daté, The Wolf Among Us Remastered reporté — Le successeur de Disco Elysium arrive le 3 novembre, le remaster de Telltale glisse à une date indéterminée sur Switch. ([revue du jour](../2026/10/2026-10-17.md))
+- **2026-10-17** — Coral Island arrive sur Switch 2 cet hiver — Le jeu de ferme de Stairway Games sort avec la mise à jour 1.4 gratuite. ([revue du jour](../2026/10/2026-10-17.md))
 - **2026-10-16** — Switch 2 : Hitman Absolution daté, Kingdom Hearts en tête au Japon — Hitman le 22 octobre ; 23 411 exemplaires pour Kingdom Hearts Collection. ([revue du jour](../2026/10/2026-10-16.md))
 - **2026-10-16** — Nintendo augmente ses tarifs de réparation au Japon — Hausse pour Switch et Switch 2 à partir du 16 novembre. ([revue du jour](../2026/10/2026-10-16.md))
 - **2026-10-15** — Zelda: Ocarina of Time sur Switch 2 : premières impressions enthousiastes — Remake fidèle et modernisé, sortie le 5 novembre. ([revue du jour](../2026/10/2026-10-15.md))

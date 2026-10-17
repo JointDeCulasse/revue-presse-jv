@@ -2,6 +2,10 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-17** — Modern Warfare 4 : la campagne en accès anticipé convainc — Premiers avis majoritairement positifs, y compris pour la version Switch 2, une semaine avant la sortie du 23 octobre. ([revue du jour](../2026/10/2026-10-17.md))
+- **2026-10-17** — Shrek 2 Remastered dévoilé par une fuite sur le Xbox Store — Aspyr remastérise la version console de 2004, avec coopération à quatre, avant l'ID@Xbox Showcase du 20 octobre. ([revue du jour](../2026/10/2026-10-17.md))
+- **2026-10-17** — No Rest for the Wicked sur PS5 en mars 2027 — Repoussée, la version PS5 arrivera directement en 1.0, deux fois plus grande que l'accès anticipé. ([revue du jour](../2026/10/2026-10-17.md))
+- **2026-10-17** — 1 100 corrections pour The Blood of Dawnwalker — La version 1.1 arrive la semaine prochaine ; Game Freak boucle les gros correctifs de Beast of Reincarnation le 19 octobre. ([revue du jour](../2026/10/2026-10-17.md))
 - **2026-10-16** — GTA 6 : la bande-annonce de lancement, sur une musique de Justice — Trailer capturé sur PS5 et jeu éligible de justesse aux Game Awards 2026. ([revue du jour](../2026/10/2026-10-16.md))
 - **2026-10-16** — Cyberpunk 2 a un nom officiel et un directeur — Gabe Amatangelo, artisan de Phantom Liberty, pilote la suite. ([revue du jour](../2026/10/2026-10-16.md))
 - **2026-10-16** — Metro 2039 : la version physique exigera un téléchargement — Connexion requise au premier lancement, sortie le 4 février 2027. ([revue du jour](../2026/10/2026-10-16.md))
