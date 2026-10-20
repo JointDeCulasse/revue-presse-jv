@@ -9,6 +9,7 @@ Archive quotidienne de l'actualité jeu vidéo, rédigée en français à partir
 
 ## Revues
 
+- [2026-10-20](2026/10/2026-10-20.md) — Liquid Swords, studio de Samson, en faillite · La peur des clones IA fait annuler le test public de ReVamp et fermer decomp.dev · Lucasfilm veut plus de jeux Star Wars, DICE et Bungie sur Battlefront 3
 - [2026-10-17](2026/10/2026-10-17.md) — La campagne de Modern Warfare 4 convainc en accès anticipé · Ken Kutaragi comprend la colère contre la fin des disques PS5 · Aspyr prépare un remaster de Shrek 2
 - [2026-10-16](2026/10/2026-10-16.md) — Bande-annonce de lancement de GTA 6 signée Justice, éligible aux Game Awards · Les testeurs de Modern Warfare 4 autorisent une grève · Un projet de loi américain pour que l'achat d'un jeu numérique vaille propriété
 - [2026-10-15](2026/10/2026-10-15.md) — Bloomberg dévoile les coulisses de GTA 6 et Rockstar promet un prochain jeu plus rapide · Epic lance un lanceur « vibe-codé » par IA · Xbox sonde ses joueurs sur des exclusivités Fallout, Elder Scrolls ou Minecraft

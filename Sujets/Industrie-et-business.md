@@ -2,6 +2,11 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-20** — Star Wars : Lucasfilm ouvre les vannes, Battlefront 3 convoité par DICE et Bungie — Lucasfilm accepte plus de propositions de studios et DICE comme Bungie prépareraient un Battlefront 3. ([revue du jour](../2026/10/2026-10-20.md))
+- **2026-10-20** — IA : decomp.dev ferme, un cadre Xbox supprime son compte X — Le site de décompilation jette l'éponge face aux contributions par IA ; tollé après des propos pro-IA chez Xbox. ([revue du jour](../2026/10/2026-10-20.md))
+- **2026-10-20** — PEGI : les jeux dématérialisés avec loot boxes passent en PEGI 16 — Reclassement en cours en octobre, Zenless Zone Zero déjà concerné. ([revue du jour](../2026/10/2026-10-20.md))
+- **2026-10-20** — Classement britannique : Castlevania: Belmont's Curse démarre 3e — FC 27 reste en tête devant Control Resonant. ([revue du jour](../2026/10/2026-10-20.md))
+- **2026-10-20** — Liquid Swords (Samson) en faillite — Les ventes console de Samson n'ont pas suffi à sauver le studio suédois. ([revue du jour](../2026/10/2026-10-20.md))
 - **2026-10-17** — CD Projekt : Hadar pas encore en préproduction, un film Cyberpunk avec Paramount — Nowakowski détaille les effectifs de The Witcher 4 et Cyberpunk 2, et le film racontera une histoire inédite. ([revue du jour](../2026/10/2026-10-17.md))
 - **2026-10-17** — Plus de jeux sur Steam en 2026 que sur toute l'année 2025 — Environ 24 000 sorties attendues cette année, et l'IA pourrait encore gonfler le chiffre en 2027. ([revue du jour](../2026/10/2026-10-17.md))
 - **2026-10-17** — Konami ne croit pas à un bouleversement du marché par l'IA — Son rapport financier juge la créativité des développeurs difficile à remplacer. ([revue du jour](../2026/10/2026-10-17.md))

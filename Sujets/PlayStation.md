@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-20** — PS6 : la mémoire seule coûterait plus de 680 dollars par console — Selon KeplerL2, la flambée de la RAM pourrait pousser le prix au-delà de 1 000 dollars. ([revue du jour](../2026/10/2026-10-20.md))
+- **2026-10-20** — Saros 2.0 et coopération en ligne pour Directive 8020 — Deux grosses mises à jour gratuites sur PS5. ([revue du jour](../2026/10/2026-10-20.md))
 - **2026-10-17** — Ken Kutaragi comprend la colère contre la fin des disques — Le père de la PlayStation y voit un problème de « mentalité » et critique la gestion de Sony. ([revue du jour](../2026/10/2026-10-17.md))
 - **2026-10-17** — GTA 6 : Sony déroule son marketing, les joueurs pointent un « downgrade » — « Plays Best on PS5 », Miami transformée en Vice City et une bande-annonce jugée floue par certains. ([revue du jour](../2026/10/2026-10-17.md))
 - **2026-10-17** — No Rest for the Wicked sur PS5 en mars 2027 — La version PS5 arrivera directement en 1.0. ([revue du jour](../2026/10/2026-10-17.md))

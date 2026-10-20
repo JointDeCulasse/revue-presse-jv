@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-20** — Des boutiques de jeux vidéo pillées lors des émeutes du 17 octobre — Magasins Micromania et boutiques rétro du boulevard Voltaire touchés ; aide de l'État annoncée. ([revue du jour](../2026/10/2026-10-20.md))
+- **2026-10-20** — Amazon Luna intégré à Prime Video en France, Fortiche signe le retour de K/DA — Cloud gaming ouvert à plus de 9 millions d'abonnés ; nouveau clip League of Legends du studio d'Arcane. ([revue du jour](../2026/10/2026-10-20.md))
 - **2026-10-17** — Des images d'un Assassin's Creed chinois annulé fuitent — Des séquences d'« Assassin's Creed Destiny », qu'Ubisoft aurait arrêté, circulent en ligne. ([revue du jour](../2026/10/2026-10-17.md))
 - **2026-10-17** — The Witch's Bakery et Appulse : deux indés français à l'honneur — Sunny Lab salué sur Switch 2, Appulse sort le 26 novembre sur Steam. ([revue du jour](../2026/10/2026-10-17.md))
 - **2026-10-16** — Edge of Memories esquive GTA 6 et glisse au 3 décembre — Le RPG de Midgar Studio (Nacon) quitte le 5 novembre. ([revue du jour](../2026/10/2026-10-16.md))

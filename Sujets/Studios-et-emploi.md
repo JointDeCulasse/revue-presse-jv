@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-20** — Liquid Swords (Samson) en faillite — Le studio suédois de Christofer Sundberg ferme un mois après la sortie PS5 de Samson, une trentaine de postes perdus. ([revue du jour](../2026/10/2026-10-20.md))
+- **2026-10-20** — Funcom licencie à nouveau et perd son PDG — Nouvelles coupes pour se recentrer sur Dune: Awakening et Conan Exiles ; Rui Casais part fin 2026. ([revue du jour](../2026/10/2026-10-20.md))
+- **2026-10-20** — Wizards of the Coast refuse encore de reconnaître un syndicat — Les équipes D&D et Studio X devront passer par un vote formel. ([revue du jour](../2026/10/2026-10-20.md))
 - **2026-10-17** — Star Wars Zero Company dépasse le million et fait revenir son équipe — Le succès permet le retour d'une grande partie des développeurs de Bit Reactor. ([revue du jour](../2026/10/2026-10-17.md))
 - **2026-10-16** — Les testeurs de Modern Warfare 4 autorisent une grève — Plus de 400 testeurs QA d'Activision sans premier contrat après deux ans de négociations. ([revue du jour](../2026/10/2026-10-16.md))
 - **2026-10-15** — Kotaro Uchikoshi (Zero Escape) fonde Crash Keys — Nouveau studio en quête d'investisseurs ; un premier projet aurait été annulé. ([revue du jour](../2026/10/2026-10-15.md))

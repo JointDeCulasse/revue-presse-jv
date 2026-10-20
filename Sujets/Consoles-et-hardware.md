@@ -2,6 +2,7 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-20** — PS6 : la mémoire seule coûterait plus de 680 dollars par console — La « RAMpocalypse » liée à l'IA menace le prix de la prochaine génération. ([revue du jour](../2026/10/2026-10-20.md))
 - **2026-10-16** — ROG Xbox Ally X20 : bel écran, prix jugé excessif — OLED plus grand mais mêmes performances que l'Ally X, pour 1 299,99 dollars. ([revue du jour](../2026/10/2026-10-16.md))
 - **2026-10-16** — Nintendo augmente ses tarifs de réparation au Japon — Hausse pour Switch et Switch 2 à partir du 16 novembre. ([revue du jour](../2026/10/2026-10-16.md))
 - **2026-10-15** — Une manette Xbox « Nano » pour les petites mains — Compacte, compatible PC, consoles et smartphones, 49,99 € le 4 novembre. ([revue du jour](../2026/10/2026-10-15.md))

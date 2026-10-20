@@ -2,6 +2,7 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-20** — Saros 2.0 et coopération en ligne pour Directive 8020 — Mise à jour « Zenith » avec NG+ et Boss Rush ; coop en ligne à cinq chez Supermassive. ([revue du jour](../2026/10/2026-10-20.md))
 - **2026-10-17** — Modern Warfare 4 : la campagne en accès anticipé convainc — Premiers avis majoritairement positifs, y compris pour la version Switch 2, une semaine avant la sortie du 23 octobre. ([revue du jour](../2026/10/2026-10-17.md))
 - **2026-10-17** — Shrek 2 Remastered dévoilé par une fuite sur le Xbox Store — Aspyr remastérise la version console de 2004, avec coopération à quatre, avant l'ID@Xbox Showcase du 20 octobre. ([revue du jour](../2026/10/2026-10-17.md))
 - **2026-10-17** — No Rest for the Wicked sur PS5 en mars 2027 — Repoussée, la version PS5 arrivera directement en 1.0, deux fois plus grande que l'accès anticipé. ([revue du jour](../2026/10/2026-10-17.md))

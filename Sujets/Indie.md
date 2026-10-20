@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-20** — Digital Sun renonce au test public de ReVamp par peur des clones IA — Le studio de Moonlighter réserve les tests à son Discord. ([revue du jour](../2026/10/2026-10-20.md))
+- **2026-10-20** — Steam Next Fest : plus de 8 000 démos — Festival jusqu'au 26 octobre, avec Tropico 7, Emberville ou Theos: Cities of Myth. ([revue du jour](../2026/10/2026-10-20.md))
+- **2026-10-20** — Penguin Colony retiré de la vente en Israël, Cult of the Lamb sur Switch 2 — Boycott BDS pour l'un, portage avec mise à niveau gratuite pour l'autre. ([revue du jour](../2026/10/2026-10-20.md))
 - **2026-10-17** — Coral Island arrive sur Switch 2 cet hiver — Annonce au MIX Fall Showcase, avec la mise à jour gratuite 1.4. ([revue du jour](../2026/10/2026-10-17.md))
 - **2026-10-17** — Drunken Goddess Reflux renonce à sa démo Steam par peur des copies par IA — Une bêta fermée remplacera la démo, à la veille du Steam Next Fest. ([revue du jour](../2026/10/2026-10-17.md))
 - **2026-10-17** — Vitrine Galaxies : Guns of Eschaton daté au 8 décembre — Stuntman: Hollywood, Spine et d'autres présentés ; Over the Hill recommandé par PC Gamer. ([revue du jour](../2026/10/2026-10-17.md))
