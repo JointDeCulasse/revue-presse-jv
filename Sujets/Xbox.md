@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-21** — Fortune : licenciements jusqu'en janvier, portable en 2027, Helix hors de prix en 2028 — Console portable maison visée pour fin 2027, Helix estimée entre 1 200 et 1 800 dollars sans subvention. ([revue du jour](../2026/10/2026-10-21.md))
+- **2026-10-21** — Game Pass : vers une formule à la carte — Offre modulaire envisagée, croissance plafonnée vers 35 millions d'abonnés ; FSR 4.1 annoncé sur Xbox. ([revue du jour](../2026/10/2026-10-21.md))
+- **2026-10-21** — ID@Xbox Showcase : huit jeux pour le Game Pass — 18 jeux présentés, dont Mouthwashing le 29 octobre et Magenta Down. ([revue du jour](../2026/10/2026-10-21.md))
 - **2026-10-20** — Xbox abandonne les scellés de sécurité sur ses jeux physiques — Nouveau choix d'emballage, recrutement côté physique et prise en charge du moteur Defold. ([revue du jour](../2026/10/2026-10-20.md))
 - **2026-10-20** — Un cadre Xbox supprime son compte X après des propos pro-IA — Brandon Stirrup avait estimé que les studios refusant l'IA ne devraient pas être dans les affaires. ([revue du jour](../2026/10/2026-10-20.md))
 - **2026-10-17** — Shrek 2 Remastered dévoilé par une fuite sur le Xbox Store — Le remaster d'Aspyr devrait être présenté à l'ID@Xbox Showcase du 20 octobre. ([revue du jour](../2026/10/2026-10-17.md))

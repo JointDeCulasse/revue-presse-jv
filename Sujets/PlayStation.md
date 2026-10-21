@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-21** — Sony aurait racheté la licence Kena — Kena: Scars of Kosmora apparaît dans une promo PlayStation ; GTA 5 et RDR2 quittent le PS Plus Extra en novembre. ([revue du jour](../2026/10/2026-10-21.md))
+- **2026-10-21** — Helldivers 2 passe à Easy Anti-Cheat — Plus d'un millier d'avis négatifs sur Steam en une journée. ([revue du jour](../2026/10/2026-10-21.md))
 - **2026-10-20** — PS6 : la mémoire seule coûterait plus de 680 dollars par console — Selon KeplerL2, la flambée de la RAM pourrait pousser le prix au-delà de 1 000 dollars. ([revue du jour](../2026/10/2026-10-20.md))
 - **2026-10-20** — Saros 2.0 et coopération en ligne pour Directive 8020 — Deux grosses mises à jour gratuites sur PS5. ([revue du jour](../2026/10/2026-10-20.md))
 - **2026-10-17** — Ken Kutaragi comprend la colère contre la fin des disques — Le père de la PlayStation y voit un problème de « mentalité » et critique la gestion de Sony. ([revue du jour](../2026/10/2026-10-17.md))

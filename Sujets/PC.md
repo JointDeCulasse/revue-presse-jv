@@ -2,6 +2,7 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-21** — Helldivers 2 passe à Easy Anti-Cheat, les avis négatifs pleuvent — Arrowhead prévient que certains mods risquent de ne plus fonctionner. ([revue du jour](../2026/10/2026-10-21.md))
 - **2026-10-20** — Steam Next Fest : plus de 8 000 démos — Le festival dure jusqu'au 26 octobre, sur fond de hausse des projets « vibe-codés ». ([revue du jour](../2026/10/2026-10-20.md))
 - **2026-10-17** — Plus de jeux sur Steam en 2026 que sur toute l'année 2025 — Environ 24 000 sorties attendues, une visibilité toujours plus dure pour les petits studios. ([revue du jour](../2026/10/2026-10-17.md))
 - **2026-10-17** — Drunken Goddess Reflux renonce à sa démo Steam — Par peur des clones générés par IA, les développeurs optent pour une bêta fermée. ([revue du jour](../2026/10/2026-10-17.md))

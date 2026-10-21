@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-21** — Black Ops 1 et 2 : un ancien développeur réclame sa part — Un ex-level designer de Treyarch plaide pour un partage rétroactif des bénéfices des ressorties. ([revue du jour](../2026/10/2026-10-21.md))
+- **2026-10-21** — Suite : EA Sports FC 27 passe en PEGI 16 à cause des loot boxes — Les packs Ultimate Team font grimper la classification européenne. ([revue du jour](../2026/10/2026-10-21.md))
+- **2026-10-21** — Cygames lance un label de petits jeux, Hitpoint veut adapter des jeux à l'écran — Trois jeux modestes par an chez Cygames ; nouvelle société de production pour les adaptations. ([revue du jour](../2026/10/2026-10-21.md))
 - **2026-10-20** — Star Wars : Lucasfilm ouvre les vannes, Battlefront 3 convoité par DICE et Bungie — Lucasfilm accepte plus de propositions de studios et DICE comme Bungie prépareraient un Battlefront 3. ([revue du jour](../2026/10/2026-10-20.md))
 - **2026-10-20** — IA : decomp.dev ferme, un cadre Xbox supprime son compte X — Le site de décompilation jette l'éponge face aux contributions par IA ; tollé après des propos pro-IA chez Xbox. ([revue du jour](../2026/10/2026-10-20.md))
 - **2026-10-20** — PEGI : les jeux dématérialisés avec loot boxes passent en PEGI 16 — Reclassement en cours en octobre, Zenless Zone Zero déjà concerné. ([revue du jour](../2026/10/2026-10-20.md))

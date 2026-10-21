@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-21** — Don't Nod en procédure de sauvegarde, jusqu'à 85 postes menacés — Trésorerie tombée à 9,9 millions d'euros, recentrage sur une seule ligne de production en France, Montréal maintenu. ([revue du jour](../2026/10/2026-10-21.md))
+- **2026-10-21** — Fortune : licenciements Xbox jusqu'en janvier — 1 868 postes supprimés sur 3 200 prévus, Xbox Game Studios menacé dans sa forme actuelle. ([revue du jour](../2026/10/2026-10-21.md))
+- **2026-10-21** — Suite : le fondateur de Liquid Swords réfléchit à l'IA, Innersloth met en garde contre les mauvais contrats — Christofer Sundberg veut un prochain jeu financé jusqu'au bout. ([revue du jour](../2026/10/2026-10-21.md))
 - **2026-10-20** — Liquid Swords (Samson) en faillite — Le studio suédois de Christofer Sundberg ferme un mois après la sortie PS5 de Samson, une trentaine de postes perdus. ([revue du jour](../2026/10/2026-10-20.md))
 - **2026-10-20** — Funcom licencie à nouveau et perd son PDG — Nouvelles coupes pour se recentrer sur Dune: Awakening et Conan Exiles ; Rui Casais part fin 2026. ([revue du jour](../2026/10/2026-10-20.md))
 - **2026-10-20** — Wizards of the Coast refuse encore de reconnaître un syndicat — Les équipes D&D et Studio X devront passer par un vote formel. ([revue du jour](../2026/10/2026-10-20.md))

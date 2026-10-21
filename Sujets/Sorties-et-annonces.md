@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-21** — EA ressuscite Fight Night — La série de boxe revient après quinze ans, sans titre ni date. ([revue du jour](../2026/10/2026-10-21.md))
+- **2026-10-21** — Suite : Shrek 2 Remastered daté au 10 novembre — Aspyr officialise son remaster sur Xbox Series et PS5. ([revue du jour](../2026/10/2026-10-21.md))
+- **2026-10-21** — Cyberpunk 2077 2.5 et un mode Endgame pour Marvel Rivals — Mise à jour liée à Edgerunners 2 et bataille à 50 joueurs contre Thanos le 24 octobre. ([revue du jour](../2026/10/2026-10-21.md))
 - **2026-10-20** — Saros 2.0 et coopération en ligne pour Directive 8020 — Mise à jour « Zenith » avec NG+ et Boss Rush ; coop en ligne à cinq chez Supermassive. ([revue du jour](../2026/10/2026-10-20.md))
 - **2026-10-17** — Modern Warfare 4 : la campagne en accès anticipé convainc — Premiers avis majoritairement positifs, y compris pour la version Switch 2, une semaine avant la sortie du 23 octobre. ([revue du jour](../2026/10/2026-10-17.md))
 - **2026-10-17** — Shrek 2 Remastered dévoilé par une fuite sur le Xbox Store — Aspyr remastérise la version console de 2004, avec coopération à quatre, avant l'ID@Xbox Showcase du 20 octobre. ([revue du jour](../2026/10/2026-10-17.md))

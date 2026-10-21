@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-21** — Ocarina of Time pèsera 27 Go sur Switch 2 — Sortie le 5 novembre à 69,99 dollars ; Ys VIII annoncé sur Switch 2. ([revue du jour](../2026/10/2026-10-21.md))
+- **2026-10-21** — Riders Republic arrive sur Switch 2 le 9 décembre — Avec un nouveau mode hors connexion. ([revue du jour](../2026/10/2026-10-21.md))
+- **2026-10-21** — Drova II annoncé, Denshattack en boîte — Suite du RPG en pixel art sur Switch 2 en 2027 ; éditions physiques Fangamer. ([revue du jour](../2026/10/2026-10-21.md))
 - **2026-10-20** — Switch 2 Zelda : Nintendo reconnaît avoir sous-estimé la demande — Nouveaux stocks promis avant la sortie du 29 octobre. ([revue du jour](../2026/10/2026-10-20.md))
 - **2026-10-20** — Cult of the Lamb arrive sur Switch 2 — Mise à niveau gratuite pour les possesseurs Switch. ([revue du jour](../2026/10/2026-10-20.md))
 - **2026-10-17** — Switch 2 : Zero Parades daté, The Wolf Among Us Remastered reporté — Le successeur de Disco Elysium arrive le 3 novembre, le remaster de Telltale glisse à une date indéterminée sur Switch. ([revue du jour](../2026/10/2026-10-17.md))

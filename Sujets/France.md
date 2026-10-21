@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-21** — Don't Nod en procédure de sauvegarde, jusqu'à 85 postes menacés — Le tribunal de commerce de Paris ouvre une période d'observation de six mois ; l'activité française sera recentrée sur une seule ligne de production. ([revue du jour](../2026/10/2026-10-21.md))
+- **2026-10-21** — Paris Games Week : le pavillon Game France présente plus de 30 jeux — Le salon ouvre le 22 octobre avec Cairn, Windblown ou Astral Ascent sur le pavillon du CNC. ([revue du jour](../2026/10/2026-10-21.md))
+- **2026-10-21** — Riders Republic arrive sur Switch 2 le 9 décembre — Le jeu d'Ubisoft Annecy gagne aussi un mode hors connexion. ([revue du jour](../2026/10/2026-10-21.md))
 - **2026-10-20** — Des boutiques de jeux vidéo pillées lors des émeutes du 17 octobre — Magasins Micromania et boutiques rétro du boulevard Voltaire touchés ; aide de l'État annoncée. ([revue du jour](../2026/10/2026-10-20.md))
 - **2026-10-20** — Amazon Luna intégré à Prime Video en France, Fortiche signe le retour de K/DA — Cloud gaming ouvert à plus de 9 millions d'abonnés ; nouveau clip League of Legends du studio d'Arcane. ([revue du jour](../2026/10/2026-10-20.md))
 - **2026-10-17** — Des images d'un Assassin's Creed chinois annulé fuitent — Des séquences d'« Assassin's Creed Destiny », qu'Ubisoft aurait arrêté, circulent en ligne. ([revue du jour](../2026/10/2026-10-17.md))
