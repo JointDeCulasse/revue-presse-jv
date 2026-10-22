@@ -2,6 +2,11 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-22** — Football Manager 27 jouable gratuitement avant sa sortie — Essai complet du 29 octobre au 3 novembre, progression conservée. ([revue du jour](../2026/10/2026-10-22.md))
+- **2026-10-22** — Suite : Cyberpunk 2077 2.5 sort aujourd'hui, avec les mods sur console — Nouvelle quête Edgerunners 2 et arrivée dans Xbox Play Anywhere. ([revue du jour](../2026/10/2026-10-22.md))
+- **2026-10-22** — Ordinary Oddness et Les Carnets de l'apothicaire — Nouveau RPG en monde ouvert chez Tencent ; l'adaptation de l'anime sort le 18 mars 2027. ([revue du jour](../2026/10/2026-10-22.md))
+- **2026-10-22** — GTA 6 : premier spot télé et des bières bien réelles — Des étiquettes Pißwasser enregistrées aux États-Unis, sortie le 19 novembre. ([revue du jour](../2026/10/2026-10-22.md))
+- **2026-10-22** — Croteam et Devolver annoncent Serious Sam: The Third Encounter — Suite directe de The Second Encounter, en début de développement sur PC. ([revue du jour](../2026/10/2026-10-22.md))
 - **2026-10-21** — EA ressuscite Fight Night — La série de boxe revient après quinze ans, sans titre ni date. ([revue du jour](../2026/10/2026-10-21.md))
 - **2026-10-21** — Suite : Shrek 2 Remastered daté au 10 novembre — Aspyr officialise son remaster sur Xbox Series et PS5. ([revue du jour](../2026/10/2026-10-21.md))
 - **2026-10-21** — Cyberpunk 2077 2.5 et un mode Endgame pour Marvel Rivals — Mise à jour liée à Edgerunners 2 et bataille à 50 joueurs contre Thanos le 24 octobre. ([revue du jour](../2026/10/2026-10-21.md))

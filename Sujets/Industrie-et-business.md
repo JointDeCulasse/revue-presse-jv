@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-22** — Le « nouveau chapitre » d'EA : moins de jeux, plus gros — EA concentre ses moyens sur Battlefield, Apex, Iron Man, Star Wars et un jeu de football américain. ([revue du jour](../2026/10/2026-10-22.md))
+- **2026-10-22** — Xbox valorisée 100 à 150 milliards par des fonds — Discussions exploratoires sans suite selon The Information ; retour au bureau quatre jours par semaine en février 2027. ([revue du jour](../2026/10/2026-10-22.md))
+- **2026-10-22** — Suite : PEGI 16 pour Pokémon Go, un magasin Pokémon permanent à Londres — Les loot boxes font grimper la classification ; boutique londonienne d'ici 2029. ([revue du jour](../2026/10/2026-10-22.md))
 - **2026-10-21** — Black Ops 1 et 2 : un ancien développeur réclame sa part — Un ex-level designer de Treyarch plaide pour un partage rétroactif des bénéfices des ressorties. ([revue du jour](../2026/10/2026-10-21.md))
 - **2026-10-21** — Suite : EA Sports FC 27 passe en PEGI 16 à cause des loot boxes — Les packs Ultimate Team font grimper la classification européenne. ([revue du jour](../2026/10/2026-10-21.md))
 - **2026-10-21** — Cygames lance un label de petits jeux, Hitpoint veut adapter des jeux à l'écran — Trois jeux modestes par an chez Cygames ; nouvelle société de production pour les adaptations. ([revue du jour](../2026/10/2026-10-21.md))

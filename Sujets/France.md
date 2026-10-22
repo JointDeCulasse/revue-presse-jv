@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-22** — Suite : Don't Nod pourrait manquer de trésorerie dès fin janvier 2027 — Le studio prévient qu'il lui faut un nouveau financement à très court terme. ([revue du jour](../2026/10/2026-10-22.md))
+- **2026-10-22** — Rumeur : Beyond Good & Evil 2 recentré sur le solo — Selon Origami, le jeu d'Ubisoft Montpellier mise sur la narration et un combat à la Spider-Man, avec environ 250 personnes. ([revue du jour](../2026/10/2026-10-22.md))
 - **2026-10-21** — Don't Nod en procédure de sauvegarde, jusqu'à 85 postes menacés — Le tribunal de commerce de Paris ouvre une période d'observation de six mois ; l'activité française sera recentrée sur une seule ligne de production. ([revue du jour](../2026/10/2026-10-21.md))
 - **2026-10-21** — Paris Games Week : le pavillon Game France présente plus de 30 jeux — Le salon ouvre le 22 octobre avec Cairn, Windblown ou Astral Ascent sur le pavillon du CNC. ([revue du jour](../2026/10/2026-10-21.md))
 - **2026-10-21** — Riders Republic arrive sur Switch 2 le 9 décembre — Le jeu d'Ubisoft Annecy gagne aussi un mode hors connexion. ([revue du jour](../2026/10/2026-10-21.md))

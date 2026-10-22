@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-22** — EA ferme BioWare et annule le prochain Mass Effect — Environ 400 postes supprimés chez EA, dont la cinquantaine restante de BioWare, deux mois après le rachat par le PIF. ([revue du jour](../2026/10/2026-10-22.md))
+- **2026-10-22** — Le « nouveau chapitre » d'EA : moins de jeux, plus gros — Battlefield, Apex, Iron Man et Star Wars Jedi 3 maintenus, Battlefront 3 chez DICE et Respawn, Skate réduit, projet Sims en pause. ([revue du jour](../2026/10/2026-10-22.md))
+- **2026-10-22** — Suite : Don't Nod pourrait manquer de trésorerie dès fin janvier 2027 — Sans nouveau financement, les caisses du studio seraient vides fin janvier. ([revue du jour](../2026/10/2026-10-22.md))
 - **2026-10-21** — Don't Nod en procédure de sauvegarde, jusqu'à 85 postes menacés — Trésorerie tombée à 9,9 millions d'euros, recentrage sur une seule ligne de production en France, Montréal maintenu. ([revue du jour](../2026/10/2026-10-21.md))
 - **2026-10-21** — Fortune : licenciements Xbox jusqu'en janvier — 1 868 postes supprimés sur 3 200 prévus, Xbox Game Studios menacé dans sa forme actuelle. ([revue du jour](../2026/10/2026-10-21.md))
 - **2026-10-21** — Suite : le fondateur de Liquid Swords réfléchit à l'IA, Innersloth met en garde contre les mauvais contrats — Christofer Sundberg veut un prochain jeu financé jusqu'au bout. ([revue du jour](../2026/10/2026-10-21.md))

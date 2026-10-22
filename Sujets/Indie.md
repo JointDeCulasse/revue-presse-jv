@@ -2,6 +2,10 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-22** — Croteam et Devolver annoncent Serious Sam: The Third Encounter — Nouvel épisode principal, suite directe de The Second Encounter. ([revue du jour](../2026/10/2026-10-22.md))
+- **2026-10-22** — Valor Mortis rentabilisé en une semaine — One More Level et Lyrical Games ont remboursé le développement en sept jours ; extension en 2027. ([revue du jour](../2026/10/2026-10-22.md))
+- **2026-10-22** — Next Fest : Probably Stolen dans le top 100 de Steam, No, I'm Not a Human sur PS5 — Démo à plus de 34 000 joueurs simultanés ; Mouthwashing sur Switch le 29 octobre. ([revue du jour](../2026/10/2026-10-22.md))
+- **2026-10-22** — IA : Amanita Design dénonce un hommage généré à Machinarium — Nura Studios s'excuse et retire sa vidéo ; SonicFox boude une convention pour une promo IA. ([revue du jour](../2026/10/2026-10-22.md))
 - **2026-10-21** — ID@Xbox Showcase : huit jeux pour le Game Pass, Mouthwashing le 29 octobre — Magenta Down (2 Ton Studios), Croak, Red Kiss et A Game About Digging A Hole Together au programme. ([revue du jour](../2026/10/2026-10-21.md))
 - **2026-10-21** — Suite : le fondateur de Liquid Swords réfléchit à l'IA, Innersloth met en garde contre les mauvais contrats — Un cofondateur d'Innersloth dénonce des accords d'édition désastreux. ([revue du jour](../2026/10/2026-10-21.md))
 - **2026-10-21** — Drova II annoncé, Denshattack en boîte — Just2D et Deck13 préparent la suite pour 2027. ([revue du jour](../2026/10/2026-10-21.md))

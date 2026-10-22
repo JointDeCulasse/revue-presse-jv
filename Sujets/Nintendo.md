@@ -2,6 +2,7 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-22** — Switch Sports Resort mis à jour avant sa sortie, Hitman en boîte — Version 1.1.0 pour les modes en ligne ; édition physique de Hitman: Absolution chez Limited Run. ([revue du jour](../2026/10/2026-10-22.md))
 - **2026-10-21** — Ocarina of Time pèsera 27 Go sur Switch 2 — Sortie le 5 novembre à 69,99 dollars ; Ys VIII annoncé sur Switch 2. ([revue du jour](../2026/10/2026-10-21.md))
 - **2026-10-21** — Riders Republic arrive sur Switch 2 le 9 décembre — Avec un nouveau mode hors connexion. ([revue du jour](../2026/10/2026-10-21.md))
 - **2026-10-21** — Drova II annoncé, Denshattack en boîte — Suite du RPG en pixel art sur Switch 2 en 2027 ; éditions physiques Fangamer. ([revue du jour](../2026/10/2026-10-21.md))

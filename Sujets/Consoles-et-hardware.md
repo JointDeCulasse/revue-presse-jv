@@ -2,6 +2,7 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-22** — PS6 moins chère à fabriquer que la Helix — Selon KeplerL2, la PS6 coûterait environ 200 dollars de moins à produire que la prochaine Xbox. ([revue du jour](../2026/10/2026-10-22.md))
 - **2026-10-21** — Game Pass à la carte et FSR 4.1 sur Xbox — AMD et Xbox annoncent l'upscaling FSR 4.1 pour Xbox Series et ROG Xbox Ally, face au QSSR de la PS5. ([revue du jour](../2026/10/2026-10-21.md))
 - **2026-10-20** — PS6 : la mémoire seule coûterait plus de 680 dollars par console — La « RAMpocalypse » liée à l'IA menace le prix de la prochaine génération. ([revue du jour](../2026/10/2026-10-20.md))
 - **2026-10-16** — ROG Xbox Ally X20 : bel écran, prix jugé excessif — OLED plus grand mais mêmes performances que l'Ally X, pour 1 299,99 dollars. ([revue du jour](../2026/10/2026-10-16.md))

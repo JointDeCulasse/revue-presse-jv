@@ -9,6 +9,7 @@ Archive quotidienne de l'actualité jeu vidéo, rédigée en français à partir
 
 ## Revues
 
+- [2026-10-22](2026/10/2026-10-22.md) — EA ferme BioWare et annule le prochain Mass Effect, 400 postes supprimés · EA recentre son catalogue : Battlefront 3 chez DICE et Respawn, Sims en pause, Skate réduit · Xbox valorisée 100 à 150 milliards par des fonds et cloud gaming payé à l'heure
 - [2026-10-21](2026/10/2026-10-21.md) — Don't Nod en procédure de sauvegarde, jusqu'à 85 postes menacés · Fortune : nouveaux licenciements Xbox, portable en 2027 et Helix à 1 200-1 800 dollars en 2028 · EA ressuscite Fight Night
 - [2026-10-20](2026/10/2026-10-20.md) — Liquid Swords, studio de Samson, en faillite · La peur des clones IA fait annuler le test public de ReVamp et fermer decomp.dev · Lucasfilm veut plus de jeux Star Wars, DICE et Bungie sur Battlefront 3
 - [2026-10-17](2026/10/2026-10-17.md) — La campagne de Modern Warfare 4 convainc en accès anticipé · Ken Kutaragi comprend la colère contre la fin des disques PS5 · Aspyr prépare un remaster de Shrek 2

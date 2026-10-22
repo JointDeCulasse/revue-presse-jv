@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-22** — GOG hors ligne après une faille PHP, test de charge pour WoW: Forever — Quelques heures de maintenance pour GOG ; test gratuit avant la sortie du 4 novembre. ([revue du jour](../2026/10/2026-10-22.md))
+- **2026-10-22** — Next Fest : Probably Stolen dans le top 100 de Steam — 34 230 joueurs simultanés sur la démo, sortie le 28 octobre. ([revue du jour](../2026/10/2026-10-22.md))
 - **2026-10-21** — Helldivers 2 passe à Easy Anti-Cheat, les avis négatifs pleuvent — Arrowhead prévient que certains mods risquent de ne plus fonctionner. ([revue du jour](../2026/10/2026-10-21.md))
 - **2026-10-20** — Steam Next Fest : plus de 8 000 démos — Le festival dure jusqu'au 26 octobre, sur fond de hausse des projets « vibe-codés ». ([revue du jour](../2026/10/2026-10-20.md))
 - **2026-10-17** — Plus de jeux sur Steam en 2026 que sur toute l'année 2025 — Environ 24 000 sorties attendues, une visibilité toujours plus dure pour les petits studios. ([revue du jour](../2026/10/2026-10-17.md))
