@@ -2,6 +2,7 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-23** — Gears of War: E-Day aurait coûté plus de 500 millions de dollars — Estimation d'une source de Kotaku, contestée ; ventes Xbox Series en baisse de 27 % en septembre aux États-Unis. ([revue du jour](../2026/10/2026-10-23.md))
 - **2026-10-22** — Xbox valorisée 100 à 150 milliards par des fonds, retour au bureau quatre jours par semaine — Le CTO assure aussi que le système de Project Helix est construit sur Windows. ([revue du jour](../2026/10/2026-10-22.md))
 - **2026-10-22** — Cloud Playtime : le cloud gaming Xbox payé à l'heure — De 3,99 dollars les 10 heures à 11,99 dollars les 50 heures, sans Game Pass, ouverture prévue en novembre. ([revue du jour](../2026/10/2026-10-22.md))
 - **2026-10-21** — Fortune : licenciements jusqu'en janvier, portable en 2027, Helix hors de prix en 2028 — Console portable maison visée pour fin 2027, Helix estimée entre 1 200 et 1 800 dollars sans subvention. ([revue du jour](../2026/10/2026-10-21.md))

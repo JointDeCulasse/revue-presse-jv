@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-23** — Suite : la bande-annonce de Mass Effect: Universe fuite, le Canada s'invite dans le débat — Bloomberg confirme la vidéo du jeu annulé ; le chef du NPD veut aider les salariés à racheter BioWare. ([revue du jour](../2026/10/2026-10-23.md))
+- **2026-10-23** — Gamepires (Scum) licencie huit mois après son rachat par Splash Damage — Nombre de postes supprimés non communiqué. ([revue du jour](../2026/10/2026-10-23.md))
 - **2026-10-22** — EA ferme BioWare et annule le prochain Mass Effect — Environ 400 postes supprimés chez EA, dont la cinquantaine restante de BioWare, deux mois après le rachat par le PIF. ([revue du jour](../2026/10/2026-10-22.md))
 - **2026-10-22** — Le « nouveau chapitre » d'EA : moins de jeux, plus gros — Battlefield, Apex, Iron Man et Star Wars Jedi 3 maintenus, Battlefront 3 chez DICE et Respawn, Skate réduit, projet Sims en pause. ([revue du jour](../2026/10/2026-10-22.md))
 - **2026-10-22** — Suite : Don't Nod pourrait manquer de trésorerie dès fin janvier 2027 — Sans nouveau financement, les caisses du studio seraient vides fin janvier. ([revue du jour](../2026/10/2026-10-22.md))

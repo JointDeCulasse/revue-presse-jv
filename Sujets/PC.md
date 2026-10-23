@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-23** — Half-Life 3 : un compositeur de Valve prononce « HLX » sur scène — Mike Morasky cite le nom de code à la GameSoundCon, rien d'officiel. ([revue du jour](../2026/10/2026-10-23.md))
+- **2026-10-23** — Epic lance une game jam autour de l'IA — Epic AI MegaJam du 12 au 15 novembre, bourses jusqu'à 50 000 dollars. ([revue du jour](../2026/10/2026-10-23.md))
 - **2026-10-22** — GOG hors ligne après une faille PHP, test de charge pour WoW: Forever — Quelques heures de maintenance pour GOG ; test gratuit avant la sortie du 4 novembre. ([revue du jour](../2026/10/2026-10-22.md))
 - **2026-10-22** — Next Fest : Probably Stolen dans le top 100 de Steam — 34 230 joueurs simultanés sur la démo, sortie le 28 octobre. ([revue du jour](../2026/10/2026-10-22.md))
 - **2026-10-21** — Helldivers 2 passe à Easy Anti-Cheat, les avis négatifs pleuvent — Arrowhead prévient que certains mods risquent de ne plus fonctionner. ([revue du jour](../2026/10/2026-10-21.md))

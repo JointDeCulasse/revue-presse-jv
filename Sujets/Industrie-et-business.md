@@ -2,6 +2,10 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-23** — Ventes US de septembre : Wolverine en tête, la PS5 rebondit, la Xbox au plus bas — Selon Circana, PS5 +22 % en unités, Xbox Series −27 %, Switch 2 −14 %. ([revue du jour](../2026/10/2026-10-23.md))
+- **2026-10-23** — Capcom : plus de 11,7 millions de comptes touchés par une fuite de données — E-mails et adresses IP exposés, pas de données bancaires. ([revue du jour](../2026/10/2026-10-23.md))
+- **2026-10-23** — Suite : les failles PHP font des dégâts durables — Les applis Pokémon reviennent, deux vieux jeux mobiles japonais ferment définitivement. ([revue du jour](../2026/10/2026-10-23.md))
+- **2026-10-23** — Gears of War: E-Day aurait coûté plus de 500 millions de dollars — Chiffre rapporté par Kotaku, contesté et non commenté par Microsoft ; Saber défend le AA. ([revue du jour](../2026/10/2026-10-23.md))
 - **2026-10-22** — Le « nouveau chapitre » d'EA : moins de jeux, plus gros — EA concentre ses moyens sur Battlefield, Apex, Iron Man, Star Wars et un jeu de football américain. ([revue du jour](../2026/10/2026-10-22.md))
 - **2026-10-22** — Xbox valorisée 100 à 150 milliards par des fonds — Discussions exploratoires sans suite selon The Information ; retour au bureau quatre jours par semaine en février 2027. ([revue du jour](../2026/10/2026-10-22.md))
 - **2026-10-22** — Suite : PEGI 16 pour Pokémon Go, un magasin Pokémon permanent à Londres — Les loot boxes font grimper la classification ; boutique londonienne d'ici 2029. ([revue du jour](../2026/10/2026-10-22.md))

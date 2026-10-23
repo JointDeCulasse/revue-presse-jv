@@ -2,6 +2,10 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-23** — Dispatch fête son premier anniversaire avec 5 millions de ventes — Version mobile le 9 décembre et nouveaux modes Storyboard et commentaires. ([revue du jour](../2026/10/2026-10-23.md))
+- **2026-10-23** — Le DLC de Katana Zero est toujours vivant, et grossit — Extension gratuite de la taille d'une suite selon Askiisoft. ([revue du jour](../2026/10/2026-10-23.md))
+- **2026-10-23** — Prix des jeux indé : Silksong à 20 dollars, un mauvais signal selon un analyste — La pression à la baisse sur les prix pèse sur les petits studios. ([revue du jour](../2026/10/2026-10-23.md))
+- **2026-10-23** — Owlchemy Labs passe à la réalité mixte avec Hyper Visor — Titre de lancement du casque XREAL Aura. ([revue du jour](../2026/10/2026-10-23.md))
 - **2026-10-22** — Croteam et Devolver annoncent Serious Sam: The Third Encounter — Nouvel épisode principal, suite directe de The Second Encounter. ([revue du jour](../2026/10/2026-10-22.md))
 - **2026-10-22** — Valor Mortis rentabilisé en une semaine — One More Level et Lyrical Games ont remboursé le développement en sept jours ; extension en 2027. ([revue du jour](../2026/10/2026-10-22.md))
 - **2026-10-22** — Next Fest : Probably Stolen dans le top 100 de Steam, No, I'm Not a Human sur PS5 — Démo à plus de 34 000 joueurs simultanés ; Mouthwashing sur Switch le 29 octobre. ([revue du jour](../2026/10/2026-10-22.md))

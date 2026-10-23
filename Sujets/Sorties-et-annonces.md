@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-23** — Call of Duty: Modern Warfare 4 sort aujourd'hui — Sur PC, PS5, Xbox Series et Switch 2, avec 12 modes multijoueur. ([revue du jour](../2026/10/2026-10-23.md))
+- **2026-10-23** — Phantom Blade Zero : grosse campagne en Chine, éditions physiques en 2027 — Sortie numérique le 29 octobre sur PS5 et PC. ([revue du jour](../2026/10/2026-10-23.md))
+- **2026-10-23** — Shadow of the Tomb Raider surprise sur Switch 2, trois Game Boy au NSO — Aspyr publie l'édition définitive à 39,99 dollars. ([revue du jour](../2026/10/2026-10-23.md))
 - **2026-10-22** — Football Manager 27 jouable gratuitement avant sa sortie — Essai complet du 29 octobre au 3 novembre, progression conservée. ([revue du jour](../2026/10/2026-10-22.md))
 - **2026-10-22** — Suite : Cyberpunk 2077 2.5 sort aujourd'hui, avec les mods sur console — Nouvelle quête Edgerunners 2 et arrivée dans Xbox Play Anywhere. ([revue du jour](../2026/10/2026-10-22.md))
 - **2026-10-22** — Ordinary Oddness et Les Carnets de l'apothicaire — Nouveau RPG en monde ouvert chez Tencent ; l'adaptation de l'anime sort le 18 mars 2027. ([revue du jour](../2026/10/2026-10-22.md))

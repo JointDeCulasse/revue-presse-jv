@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-23** — Paris Games Week : la 15e édition a ouvert ses portes — « Playground Edition » jusqu'au 25 octobre, plus de 300 exposants. ([revue du jour](../2026/10/2026-10-23.md))
+- **2026-10-23** — Des tenues Clair Obscur dans Rayman Legends Retold — Clin d'œil Ubisoft au RPG de Sandfall, sortie le 3 décembre. ([revue du jour](../2026/10/2026-10-23.md))
+- **2026-10-23** — Suite : Beyond Good & Evil 2 toujours en préproduction — Après 18 ans, une partie des équipes craindrait une annulation selon un rapport relayé par VGC. ([revue du jour](../2026/10/2026-10-23.md))
 - **2026-10-22** — Suite : Don't Nod pourrait manquer de trésorerie dès fin janvier 2027 — Le studio prévient qu'il lui faut un nouveau financement à très court terme. ([revue du jour](../2026/10/2026-10-22.md))
 - **2026-10-22** — Rumeur : Beyond Good & Evil 2 recentré sur le solo — Selon Origami, le jeu d'Ubisoft Montpellier mise sur la narration et un combat à la Spider-Man, avec environ 250 personnes. ([revue du jour](../2026/10/2026-10-22.md))
 - **2026-10-21** — Don't Nod en procédure de sauvegarde, jusqu'à 85 postes menacés — Le tribunal de commerce de Paris ouvre une période d'observation de six mois ; l'activité française sera recentrée sur une seule ligne de production. ([revue du jour](../2026/10/2026-10-21.md))
