@@ -2,6 +2,11 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-24** — Kiwi Boing : les anciens de Tower Five reviennent — Le studio AARISE annonce un collectathon 3D pour fin 2027 sur PC. ([revue du jour](../2026/10/2026-10-24.md))
+- **2026-10-24** — Look Outside arrive sur consoles le 30 octobre — Le RPG d'horreur de Devolver sort sur PS5, PS4, Switch 2 et Switch. ([revue du jour](../2026/10/2026-10-24.md))
+- **2026-10-24** — Future? No Thanks! : Molleindustria rembourse après l'usage d'IA — Voix et musiques générées retirées, remboursements proposés. ([revue du jour](../2026/10/2026-10-24.md))
+- **2026-10-24** — New Blood : ne jamais vendre une immersive sim sous ce nom — Dave Oshry préfère l'étiquette RPG et regroupe ses jeux en « trilogie infiltration ». ([revue du jour](../2026/10/2026-10-24.md))
+- **2026-10-24** — Penguin Colony, horreur lovecraftienne recommandée par PC Gamer — Le jeu d'Origame Digital et Fellow Traveller séduit malgré ses défauts. ([revue du jour](../2026/10/2026-10-24.md))
 - **2026-10-23** — Dispatch fête son premier anniversaire avec 5 millions de ventes — Version mobile le 9 décembre et nouveaux modes Storyboard et commentaires. ([revue du jour](../2026/10/2026-10-23.md))
 - **2026-10-23** — Le DLC de Katana Zero est toujours vivant, et grossit — Extension gratuite de la taille d'une suite selon Askiisoft. ([revue du jour](../2026/10/2026-10-23.md))
 - **2026-10-23** — Prix des jeux indé : Silksong à 20 dollars, un mauvais signal selon un analyste — La pression à la baisse sur les prix pèse sur les petits studios. ([revue du jour](../2026/10/2026-10-23.md))

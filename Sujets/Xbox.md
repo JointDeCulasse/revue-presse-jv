@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-24** — Arkane Lyon a jusqu'au 13 novembre pour trouver un repreneur — Microsoft cherche un partenaire pour le studio, dont Marvel's Blade serait en fin de production. ([revue du jour](../2026/10/2026-10-24.md))
+- **2026-10-24** — Helen Chiang quitte son poste de directrice des opérations d'Xbox — Départ trois mois après la création du poste, sans successeur annoncé. ([revue du jour](../2026/10/2026-10-24.md))
+- **2026-10-24** — Netflix aurait offert 500 millions de dollars pour les licences Xbox — Xbox en voulait 800 millions et l'accord serait tombé à l'eau. ([revue du jour](../2026/10/2026-10-24.md))
 - **2026-10-23** — Gears of War: E-Day aurait coûté plus de 500 millions de dollars — Estimation d'une source de Kotaku, contestée ; ventes Xbox Series en baisse de 27 % en septembre aux États-Unis. ([revue du jour](../2026/10/2026-10-23.md))
 - **2026-10-22** — Xbox valorisée 100 à 150 milliards par des fonds, retour au bureau quatre jours par semaine — Le CTO assure aussi que le système de Project Helix est construit sur Windows. ([revue du jour](../2026/10/2026-10-22.md))
 - **2026-10-22** — Cloud Playtime : le cloud gaming Xbox payé à l'heure — De 3,99 dollars les 10 heures à 11,99 dollars les 50 heures, sans Game Pass, ouverture prévue en novembre. ([revue du jour](../2026/10/2026-10-22.md))

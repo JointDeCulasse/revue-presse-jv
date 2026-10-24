@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-24** — Modern Warfare 4 : un multijoueur critiqué et pas de Game Pass avant fin 2027 — Cartes, apparitions et matchmaking critiqués, campagne et DMZ mieux reçues. ([revue du jour](../2026/10/2026-10-24.md))
+- **2026-10-24** — Helldivers 3 seulement s'il est très différent, dit Arrowhead — Une suite ne viendrait que si elle se démarque nettement de Helldivers 2. ([revue du jour](../2026/10/2026-10-24.md))
+- **2026-10-24** — Exodus retouche son héros, Samurai Shodown au cinéma — Jun Aslan modifié après des retours négatifs ; SNK prépare un film. ([revue du jour](../2026/10/2026-10-24.md))
 - **2026-10-23** — Call of Duty: Modern Warfare 4 sort aujourd'hui — Sur PC, PS5, Xbox Series et Switch 2, avec 12 modes multijoueur. ([revue du jour](../2026/10/2026-10-23.md))
 - **2026-10-23** — Phantom Blade Zero : grosse campagne en Chine, éditions physiques en 2027 — Sortie numérique le 29 octobre sur PS5 et PC. ([revue du jour](../2026/10/2026-10-23.md))
 - **2026-10-23** — Shadow of the Tomb Raider surprise sur Switch 2, trois Game Boy au NSO — Aspyr publie l'édition définitive à 39,99 dollars. ([revue du jour](../2026/10/2026-10-23.md))

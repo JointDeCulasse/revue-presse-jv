@@ -2,6 +2,11 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-24** — Netflix aurait offert 500 millions de dollars pour les licences Xbox — Offre retirée selon Puck, Xbox vise désormais des accords plus modestes. ([revue du jour](../2026/10/2026-10-24.md))
+- **2026-10-24** — Suite : Square Enix aussi visé, les entreprises japonaises sous pression — Comptes FFXIV piratés avec des identifiants volés ailleurs, après la fuite Capcom. ([revue du jour](../2026/10/2026-10-24.md))
+- **2026-10-24** — Shogun 2 Complete Edition : Creative Assembly charge le sous-traitant — Le studio reconnaît l'échec du remaster et nie utiliser l'IA générative. ([revue du jour](../2026/10/2026-10-24.md))
+- **2026-10-24** — Capcom fait retirer les données de Street Fighter 6 d'Ultimate Frame Data — Les hitboxes doivent disparaître du site d'ici le 30 octobre. ([revue du jour](../2026/10/2026-10-24.md))
+- **2026-10-24** — GameMaker rend son runtime GMRT gratuit en 2027 — Publication gratuite sur PC, mobile et navigateur dès le 1er janvier. ([revue du jour](../2026/10/2026-10-24.md))
 - **2026-10-23** — Ventes US de septembre : Wolverine en tête, la PS5 rebondit, la Xbox au plus bas — Selon Circana, PS5 +22 % en unités, Xbox Series −27 %, Switch 2 −14 %. ([revue du jour](../2026/10/2026-10-23.md))
 - **2026-10-23** — Capcom : plus de 11,7 millions de comptes touchés par une fuite de données — E-mails et adresses IP exposés, pas de données bancaires. ([revue du jour](../2026/10/2026-10-23.md))
 - **2026-10-23** — Suite : les failles PHP font des dégâts durables — Les applis Pokémon reviennent, deux vieux jeux mobiles japonais ferment définitivement. ([revue du jour](../2026/10/2026-10-23.md))
