@@ -2,6 +2,7 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-25** — Suite : Helen Chiang aurait été renvoyée, nouveaux détails sur l'échec avec Netflix — Selon une source d'Eurogamer, la COO aurait été licenciée pour violations des règles ; Kotaku pointe le rôle d'Asha Sharma dans l'accord raté. ([revue du jour](../2026/10/2026-10-25.md))
 - **2026-10-24** — Arkane Lyon a jusqu'au 13 novembre pour trouver un repreneur — Microsoft cherche un partenaire pour le studio, dont Marvel's Blade serait en fin de production. ([revue du jour](../2026/10/2026-10-24.md))
 - **2026-10-24** — Helen Chiang quitte son poste de directrice des opérations d'Xbox — Départ trois mois après la création du poste, sans successeur annoncé. ([revue du jour](../2026/10/2026-10-24.md))
 - **2026-10-24** — Netflix aurait offert 500 millions de dollars pour les licences Xbox — Xbox en voulait 800 millions et l'accord serait tombé à l'eau. ([revue du jour](../2026/10/2026-10-24.md))

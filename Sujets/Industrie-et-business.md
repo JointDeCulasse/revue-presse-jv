@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-25** — Tomb Raider fête ses 30 ans — Anniversaire décliné toute l'année, avec Legacy of Atlantis comme point d'orgue. ([revue du jour](../2026/10/2026-10-25.md))
+- **2026-10-25** — Le syndicat des acteurs japonais veut encadrer les voix d'IA — Consentement à chaque étape et interdiction de copier la voix d'un acteur décédé sans accord préalable. ([revue du jour](../2026/10/2026-10-25.md))
+- **2026-10-25** — Suite : Helen Chiang aurait été renvoyée, nouveaux détails sur l'échec avec Netflix — Asha Sharma aurait surestimé la valeur des licences Xbox face à Netflix. ([revue du jour](../2026/10/2026-10-25.md))
 - **2026-10-24** — Netflix aurait offert 500 millions de dollars pour les licences Xbox — Offre retirée selon Puck, Xbox vise désormais des accords plus modestes. ([revue du jour](../2026/10/2026-10-24.md))
 - **2026-10-24** — Suite : Square Enix aussi visé, les entreprises japonaises sous pression — Comptes FFXIV piratés avec des identifiants volés ailleurs, après la fuite Capcom. ([revue du jour](../2026/10/2026-10-24.md))
 - **2026-10-24** — Shogun 2 Complete Edition : Creative Assembly charge le sous-traitant — Le studio reconnaît l'échec du remaster et nie utiliser l'IA générative. ([revue du jour](../2026/10/2026-10-24.md))

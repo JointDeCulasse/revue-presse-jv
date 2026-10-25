@@ -2,6 +2,7 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-25** — Pokémon : un chercheur de Game Freak publie sur la simulation de l'eau — Pokémon TCG Pocket ajoute le 29 octobre une mécanique historique du jeu de cartes. ([revue du jour](../2026/10/2026-10-25.md))
 - **2026-10-23** — Suite : les failles PHP font des dégâts durables — Deux des plus anciens jeux mobiles japonais fermés définitivement, applis Pokémon rétablies. ([revue du jour](../2026/10/2026-10-23.md))
 - **2026-10-22** — Suite : PEGI 16 pour Pokémon Go — Le jeu mobile est reclassé à cause de ses loot boxes, comme EA Sports FC. ([revue du jour](../2026/10/2026-10-22.md))
 - **2026-10-13** — No Man's Sky arrive sur iPhone et iPad le 28 octobre — Toutes les mises à jour incluses, iPhone 11 minimum, version d'essai gratuite. ([revue du jour](../2026/10/2026-10-13.md))

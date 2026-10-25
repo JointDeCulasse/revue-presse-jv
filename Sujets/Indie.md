@@ -2,6 +2,10 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-25** — Mouse: P.I. For Hire s'invite dans Super Meat Boy 3D — Nouveau crossover entre jeux indépendants. ([revue du jour](../2026/10/2026-10-25.md))
+- **2026-10-25** — Peak triple de taille avec 208 cartes — Les versions consoles passent de 30 à 208 cartes en rotation. ([revue du jour](../2026/10/2026-10-25.md))
+- **2026-10-25** — Un jeu Knightmare officiel et gratuit, avec le casting d'origine — Point-and-click dessiné à la main prévu en 2027 sur PC. ([revue du jour](../2026/10/2026-10-25.md))
+- **2026-10-25** — Steam Next Fest : Probably Stolen domine avant la clôture — Démo la plus jouée du festival, sortie le 28 octobre. ([revue du jour](../2026/10/2026-10-25.md))
 - **2026-10-24** — Kiwi Boing : les anciens de Tower Five reviennent — Le studio AARISE annonce un collectathon 3D pour fin 2027 sur PC. ([revue du jour](../2026/10/2026-10-24.md))
 - **2026-10-24** — Look Outside arrive sur consoles le 30 octobre — Le RPG d'horreur de Devolver sort sur PS5, PS4, Switch 2 et Switch. ([revue du jour](../2026/10/2026-10-24.md))
 - **2026-10-24** — Future? No Thanks! : Molleindustria rembourse après l'usage d'IA — Voix et musiques générées retirées, remboursements proposés. ([revue du jour](../2026/10/2026-10-24.md))

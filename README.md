@@ -9,6 +9,7 @@ Archive quotidienne de l'actualité jeu vidéo, rédigée en français à partir
 
 ## Revues
 
+- [2026-10-25](2026/10/2026-10-25.md) — Helen Chiang aurait été renvoyée d'Xbox, nouveaux détails sur l'échec Netflix · D'anciens de BioWare dévoilent les ambitions de Mass Effect: Universe · Eiji Aonuma fait chevalier des Arts et des Lettres à Paris
 - [2026-10-24](2026/10/2026-10-24.md) — Arkane Lyon a jusqu'au 13 novembre pour trouver un repreneur · Départ de la COO d'Xbox Helen Chiang et accord Netflix à 500 millions avorté · Multijoueur de MW4 critiqué, pas de Game Pass avant fin 2027
 - [2026-10-23](2026/10/2026-10-23.md) — Fuite authentique de la bande-annonce de Mass Effect: Universe, le Canada propose un rachat de BioWare par ses salariés · Ventes US de septembre : Wolverine en tête, PS5 +22 %, Xbox −27 % · Fuite de 11,7 millions de comptes Capcom et premier jailbreak de la Switch 2
 - [2026-10-22](2026/10/2026-10-22.md) — EA ferme BioWare et annule le prochain Mass Effect, 400 postes supprimés · EA recentre son catalogue : Battlefront 3 chez DICE et Respawn, Sims en pause, Skate réduit · Xbox valorisée 100 à 150 milliards par des fonds et cloud gaming payé à l'heure

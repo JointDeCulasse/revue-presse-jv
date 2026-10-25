@@ -2,6 +2,7 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-25** — Rockstar a renoncé à son jeu d'espionnage faute d'y arriver — Agent, annoncé en 2009, n'a jamais trouvé sa forme selon Dan Houser. ([revue du jour](../2026/10/2026-10-25.md))
 - **2026-10-24** — Modern Warfare 4 : un multijoueur critiqué et pas de Game Pass avant fin 2027 — Cartes, apparitions et matchmaking critiqués, campagne et DMZ mieux reçues. ([revue du jour](../2026/10/2026-10-24.md))
 - **2026-10-24** — Helldivers 3 seulement s'il est très différent, dit Arrowhead — Une suite ne viendrait que si elle se démarque nettement de Helldivers 2. ([revue du jour](../2026/10/2026-10-24.md))
 - **2026-10-24** — Exodus retouche son héros, Samurai Shodown au cinéma — Jun Aslan modifié après des retours négatifs ; SNK prépare un film. ([revue du jour](../2026/10/2026-10-24.md))
