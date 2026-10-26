@@ -2,6 +2,10 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-26** — Les jeux indépendants portent l'explosion des succès surprises — 76 lancements « breakout » en un an contre 55, dont 20 des 21 supplémentaires viennent de l'indé. ([revue du jour](../2026/10/2026-10-26.md))
+- **2026-10-26** — The Killing Stone en 1.0, son créateur raconte 7 600 heures de Path of Exile — Jordan Thomas (Question) revient sur sa carrière. ([revue du jour](../2026/10/2026-10-26.md))
+- **2026-10-26** — Suite : le Steam Next Fest se termine, Probably Stolen toujours en tête — Pic d'environ 40 000 joueurs devant Worst Class Ever. ([revue du jour](../2026/10/2026-10-26.md))
+- **2026-10-26** — Darkest Dungeon II en édition Switch 2 — Mise à niveau à 2,99 dollars, 60 images par seconde. ([revue du jour](../2026/10/2026-10-26.md))
 - **2026-10-25** — Mouse: P.I. For Hire s'invite dans Super Meat Boy 3D — Nouveau crossover entre jeux indépendants. ([revue du jour](../2026/10/2026-10-25.md))
 - **2026-10-25** — Peak triple de taille avec 208 cartes — Les versions consoles passent de 30 à 208 cartes en rotation. ([revue du jour](../2026/10/2026-10-25.md))
 - **2026-10-25** — Un jeu Knightmare officiel et gratuit, avec le casting d'origine — Point-and-click dessiné à la main prévu en 2027 sur PC. ([revue du jour](../2026/10/2026-10-25.md))

@@ -2,6 +2,7 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-26** — Tim Sweeney repart en guerre contre les mentions IA de Steam — Le patron d'Epic compare l'obligation à un essai politique. ([revue du jour](../2026/10/2026-10-26.md))
 - **2026-10-25** — World of Warcraft: Forever termine sa bêta — Lancement le 4 novembre, inquiétudes sur l'équilibrage du jeu de haut niveau. ([revue du jour](../2026/10/2026-10-25.md))
 - **2026-10-25** — Claude moins efficace pour la rétro-ingénierie de jeux ? — Des utilisateurs signalent un garde-fou lors des demandes de recompilation, Anthropic n'a rien annoncé. ([revue du jour](../2026/10/2026-10-25.md))
 - **2026-10-23** — Half-Life 3 : un compositeur de Valve prononce « HLX » sur scène — Mike Morasky cite le nom de code à la GameSoundCon, rien d'officiel. ([revue du jour](../2026/10/2026-10-23.md))

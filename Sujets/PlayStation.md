@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-26** — Phantom Blade Zero : la critique conquise par ses combats — 88 sur Metacritic et 91 sur OpenCritic avant la sortie du 29 octobre. ([revue du jour](../2026/10/2026-10-26.md))
+- **2026-10-26** — Shenmue 3 Enhanced repoussé à début 2027 sur PS5 — ININ Games demande plus de temps pour le développement. ([revue du jour](../2026/10/2026-10-26.md))
+- **2026-10-26** — PS5 : la lutte anti-jailbreak agace les joueurs — Des jeux physiques récents exigent le dernier firmware. ([revue du jour](../2026/10/2026-10-26.md))
 - **2026-10-23** — Ventes US de septembre : Wolverine en tête, la PS5 rebondit — Meilleur lancement PlayStation Studios depuis Helldivers 2, PS5 +22 % en unités. ([revue du jour](../2026/10/2026-10-23.md))
 - **2026-10-23** — Phantom Blade Zero : grosse campagne en Chine — Sony pousse l'exclusivité console de S-GAME avant sa sortie le 29 octobre. ([revue du jour](../2026/10/2026-10-23.md))
 - **2026-10-22** — PS6 moins chère à fabriquer que la Helix, nouveau casque Pulse le 19 novembre — Rumeur d'un écart de 200 dollars ; cloud PS Plus en Corée et faille PS5 corrigée. ([revue du jour](../2026/10/2026-10-22.md))

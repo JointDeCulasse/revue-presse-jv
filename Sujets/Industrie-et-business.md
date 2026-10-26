@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-26** — Le film Elden Ring coûtera environ 200 millions de dollars — Record absolu pour A24 selon le Wall Street Journal. ([revue du jour](../2026/10/2026-10-26.md))
+- **2026-10-26** — Mort d'Eric Bauza, voix de Bugs Bunny et Daffy Duck — Le comédien est mort subitement à 46 ans. ([revue du jour](../2026/10/2026-10-26.md))
 - **2026-10-25** — Tomb Raider fête ses 30 ans — Anniversaire décliné toute l'année, avec Legacy of Atlantis comme point d'orgue. ([revue du jour](../2026/10/2026-10-25.md))
 - **2026-10-25** — Le syndicat des acteurs japonais veut encadrer les voix d'IA — Consentement à chaque étape et interdiction de copier la voix d'un acteur décédé sans accord préalable. ([revue du jour](../2026/10/2026-10-25.md))
 - **2026-10-25** — Suite : Helen Chiang aurait été renvoyée, nouveaux détails sur l'échec avec Netflix — Asha Sharma aurait surestimé la valeur des licences Xbox face à Netflix. ([revue du jour](../2026/10/2026-10-25.md))

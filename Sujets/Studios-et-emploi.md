@@ -2,6 +2,7 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-26** — Suite : BioWare, les deux Shepard prennent la parole, la pétition dépasse 180 000 signatures — Jennifer Hale et Mark Meer mettent en cause les propriétaires du studio. ([revue du jour](../2026/10/2026-10-26.md))
 - **2026-10-25** — Rockstar a renoncé à son jeu d'espionnage faute d'y arriver — Dan Houser raconte l'échec de plusieurs équipes sur Agent. ([revue du jour](../2026/10/2026-10-25.md))
 - **2026-10-25** — Suite : ce que devait être Mass Effect: Universe — Chronologies générées à partir des choix de la trilogie, guerre froide galactique et missions façon Hitman. ([revue du jour](../2026/10/2026-10-25.md))
 - **2026-10-24** — Suite : l'onde de choc BioWare continue — Collaboration Mass Effect retirée de Battlefield 6, nouvelle fuite sur Universe et hommage de Larian. ([revue du jour](../2026/10/2026-10-24.md))

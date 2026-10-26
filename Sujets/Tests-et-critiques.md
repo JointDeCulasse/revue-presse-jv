@@ -2,6 +2,7 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-26** — Phantom Blade Zero : la critique conquise par ses combats — 88 sur Metacritic et 91 sur OpenCritic, scénario jugé faible. ([revue du jour](../2026/10/2026-10-26.md))
 - **2026-10-24** — Penguin Colony, horreur lovecraftienne recommandée par PC Gamer — Ambiance et surprises l'emportent sur des déplacements frustrants. ([revue du jour](../2026/10/2026-10-24.md))
 - **2026-10-23** — Call of Duty: Modern Warfare 4 sort aujourd'hui — Campagne d'environ six heures bien reçue (8/10 chez IGN), version Switch 2 saluée par Nintendo Life. ([revue du jour](../2026/10/2026-10-23.md))
 - **2026-10-17** — Ready or Not, Enshrouded 1.0 : les tests de la semaine — Kotaku teste Ready or Not, ActuGaming salue l'accessibilité d'Enshrouded, Boltgun 2 séduit en préversion. ([revue du jour](../2026/10/2026-10-17.md))

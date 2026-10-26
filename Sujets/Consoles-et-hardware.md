@@ -2,6 +2,7 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-26** — PS5 : la lutte anti-jailbreak agace les joueurs — Sony multiplie les mises à jour système, certains disques exigent le dernier firmware. ([revue du jour](../2026/10/2026-10-26.md))
 - **2026-10-23** — La Switch 2 déverrouillée par une faille logicielle — Jailbreak ns2jb ; Nintendo retire SmileBASIC 4 de l'eShop. ([revue du jour](../2026/10/2026-10-23.md))
 - **2026-10-23** — Atari abandonne la VCS, Sony sort du Blu-ray UHD — Application homebrew pour la VCS ; Sony cesse son dernier lecteur UHD. ([revue du jour](../2026/10/2026-10-23.md))
 - **2026-10-22** — PS6 moins chère à fabriquer que la Helix — Selon KeplerL2, la PS6 coûterait environ 200 dollars de moins à produire que la prochaine Xbox. ([revue du jour](../2026/10/2026-10-22.md))

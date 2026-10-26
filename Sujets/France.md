@@ -2,6 +2,7 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-26** — Paris Games Week 2026 : plus de 160 000 visiteurs, stabilité et dates 2027 — Fréquentation au niveau de 2025, prochaine édition du 28 au 31 octobre 2027. ([revue du jour](../2026/10/2026-10-26.md))
 - **2026-10-25** — Flight Simulator 2024 : l'A380 d'iniBuilds en attente pour PS5 — Version transmise à Microsoft et Asobo pour validation. ([revue du jour](../2026/10/2026-10-25.md))
 - **2026-10-25** — Eiji Aonuma fait chevalier des Arts et des Lettres — Médaille remise le 23 octobre au ministère de la Culture par Catherine Pégard. ([revue du jour](../2026/10/2026-10-25.md))
 - **2026-10-24** — Arkane Lyon a jusqu'au 13 novembre pour trouver un repreneur — Selon Le Monde, le studio de Dishonored risque la fermeture alors que Marvel's Blade serait presque fini. ([revue du jour](../2026/10/2026-10-24.md))
