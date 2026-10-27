@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-27** — Licenciements chez Sucker Punch malgré le succès de Ghost of Yōtei — Au moins 24 à 26 postes supprimés sur environ 230. ([revue du jour](../2026/10/2026-10-27.md))
+- **2026-10-27** — Auroch Digital (Boltgun) supprime environ un quart de ses postes — Restructuration liée au marché, le suivi des jeux Warhammer continue. ([revue du jour](../2026/10/2026-10-27.md))
+- **2026-10-27** — Suite : Mass Effect, un panneau à Times Square et la musique perdue d'Austin Wintory — Pétition au-delà de 220 000 signatures, hommage de CD Projekt à BioWare. ([revue du jour](../2026/10/2026-10-27.md))
 - **2026-10-26** — Suite : BioWare, les deux Shepard prennent la parole, la pétition dépasse 180 000 signatures — Jennifer Hale et Mark Meer mettent en cause les propriétaires du studio. ([revue du jour](../2026/10/2026-10-26.md))
 - **2026-10-25** — Rockstar a renoncé à son jeu d'espionnage faute d'y arriver — Dan Houser raconte l'échec de plusieurs équipes sur Agent. ([revue du jour](../2026/10/2026-10-25.md))
 - **2026-10-25** — Suite : ce que devait être Mass Effect: Universe — Chronologies générées à partir des choix de la trilogie, guerre froide galactique et missions façon Hitman. ([revue du jour](../2026/10/2026-10-25.md))

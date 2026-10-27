@@ -9,6 +9,7 @@ Archive quotidienne de l'actualité jeu vidéo, rédigée en français à partir
 
 ## Revues
 
+- [2026-10-27](2026/10/2026-10-27.md) — Microsoft propose un départ volontaire à 60 000 salariés, Xbox concernée · Licenciements chez Sucker Punch (Ghost of Yōtei) et Auroch Digital · Arkane Lyon obtient un sursis jusqu'au 13 décembre
 - [2026-10-26](2026/10/2026-10-26.md) — Phantom Blade Zero acclamé par la critique (88 sur Metacritic) · Le film Elden Ring d'A24 coûterait environ 200 millions de dollars · La Paris Games Week revendique plus de 160 000 visiteurs, stable sur un an
 - [2026-10-25](2026/10/2026-10-25.md) — Helen Chiang aurait été renvoyée d'Xbox, nouveaux détails sur l'échec Netflix · D'anciens de BioWare dévoilent les ambitions de Mass Effect: Universe · Eiji Aonuma fait chevalier des Arts et des Lettres à Paris
 - [2026-10-24](2026/10/2026-10-24.md) — Arkane Lyon a jusqu'au 13 novembre pour trouver un repreneur · Départ de la COO d'Xbox Helen Chiang et accord Netflix à 500 millions avorté · Multijoueur de MW4 critiqué, pas de Game Pass avant fin 2027

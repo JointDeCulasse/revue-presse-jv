@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-27** — Until Dawn 2 visé pour le 28 janvier sur PS5 — Sony présente le casting de la suite développée par Firesprite. ([revue du jour](../2026/10/2026-10-27.md))
+- **2026-10-27** — Rumeur : le remake de Silent Hill viserait 2027 — Selon MP1st, Bloober Team viserait 2027 pour le remake du premier épisode. ([revue du jour](../2026/10/2026-10-27.md))
+- **2026-10-27** — Virtua Fighter Crossroads et Assassin's Creed donnent rendez-vous le 29 octobre — SEGA et Ubisoft promettent des nouvelles le même jour. ([revue du jour](../2026/10/2026-10-27.md))
 - **2026-10-25** — Rockstar a renoncé à son jeu d'espionnage faute d'y arriver — Agent, annoncé en 2009, n'a jamais trouvé sa forme selon Dan Houser. ([revue du jour](../2026/10/2026-10-25.md))
 - **2026-10-24** — Modern Warfare 4 : un multijoueur critiqué et pas de Game Pass avant fin 2027 — Cartes, apparitions et matchmaking critiqués, campagne et DMZ mieux reçues. ([revue du jour](../2026/10/2026-10-24.md))
 - **2026-10-24** — Helldivers 3 seulement s'il est très différent, dit Arrowhead — Une suite ne viendrait que si elle se démarque nettement de Helldivers 2. ([revue du jour](../2026/10/2026-10-24.md))

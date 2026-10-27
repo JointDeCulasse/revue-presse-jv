@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-27** — Microsoft offre un départ volontaire à 60 000 salariés — Près de 27 % des effectifs éligibles, départs au 31 décembre, Xbox semble concernée. ([revue du jour](../2026/10/2026-10-27.md))
+- **2026-10-27** — Skydance impose le retour au bureau cinq jours par semaine — Une façon de réduire les effectifs sans parler de licenciements après la fusion. ([revue du jour](../2026/10/2026-10-27.md))
 - **2026-10-26** — Le film Elden Ring coûtera environ 200 millions de dollars — Record absolu pour A24 selon le Wall Street Journal. ([revue du jour](../2026/10/2026-10-26.md))
 - **2026-10-26** — Mort d'Eric Bauza, voix de Bugs Bunny et Daffy Duck — Le comédien est mort subitement à 46 ans. ([revue du jour](../2026/10/2026-10-26.md))
 - **2026-10-25** — Tomb Raider fête ses 30 ans — Anniversaire décliné toute l'année, avec Legacy of Atlantis comme point d'orgue. ([revue du jour](../2026/10/2026-10-25.md))

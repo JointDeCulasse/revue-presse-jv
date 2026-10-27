@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-27** — Steam Next Fest : Valve publie le top 50 des démos — Worst Class Ever en tête, sept jeux incrémentaux et quatre titres déclarant de l'IA. ([revue du jour](../2026/10/2026-10-27.md))
+- **2026-10-27** — Emberville repoussé à 2027, la veille de sa sortie — Accès anticipé décalé au 7 janvier pour intégrer les retours du Next Fest. ([revue du jour](../2026/10/2026-10-27.md))
+- **2026-10-27** — Playable Archive, mini-jeu d'horreur gratuit du créateur de The Mortuary Assistant — Un found footage gratuit sur PC, issu d'un projet abandonné. ([revue du jour](../2026/10/2026-10-27.md))
 - **2026-10-26** — Les jeux indépendants portent l'explosion des succès surprises — 76 lancements « breakout » en un an contre 55, dont 20 des 21 supplémentaires viennent de l'indé. ([revue du jour](../2026/10/2026-10-26.md))
 - **2026-10-26** — The Killing Stone en 1.0, son créateur raconte 7 600 heures de Path of Exile — Jordan Thomas (Question) revient sur sa carrière. ([revue du jour](../2026/10/2026-10-26.md))
 - **2026-10-26** — Suite : le Steam Next Fest se termine, Probably Stolen toujours en tête — Pic d'environ 40 000 joueurs devant Worst Class Ever. ([revue du jour](../2026/10/2026-10-26.md))

@@ -2,6 +2,10 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-27** — Licenciements chez Sucker Punch malgré le succès de Ghost of Yōtei — Au moins 24 à 26 postes supprimés, alors que le jeu s'est vendu à 5,4 millions d'exemplaires. ([revue du jour](../2026/10/2026-10-27.md))
+- **2026-10-27** — Until Dawn 2 visé pour le 28 janvier sur PS5 — Sony présente le casting de la suite développée par Firesprite. ([revue du jour](../2026/10/2026-10-27.md))
+- **2026-10-27** — Suite : jailbreak PS5, des jeux Steam tournent sur la console et GTA 6 à l'abri — Le lanceur Playden fait tourner Portal ou Left 4 Dead 2 sur PS5 déverrouillée. ([revue du jour](../2026/10/2026-10-27.md))
+- **2026-10-27** — Wolverine a bien porté les ventes de PS5 en septembre — Mat Piscatella publie un graphique à l'appui. ([revue du jour](../2026/10/2026-10-27.md))
 - **2026-10-26** — Phantom Blade Zero : la critique conquise par ses combats — 88 sur Metacritic et 91 sur OpenCritic avant la sortie du 29 octobre. ([revue du jour](../2026/10/2026-10-26.md))
 - **2026-10-26** — Shenmue 3 Enhanced repoussé à début 2027 sur PS5 — ININ Games demande plus de temps pour le développement. ([revue du jour](../2026/10/2026-10-26.md))
 - **2026-10-26** — PS5 : la lutte anti-jailbreak agace les joueurs — Des jeux physiques récents exigent le dernier firmware. ([revue du jour](../2026/10/2026-10-26.md))

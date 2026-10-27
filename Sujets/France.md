@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-27** — Arkane Lyon gagne un mois de sursis — À la demande des syndicats, la consultation est prolongée jusqu'au 13 décembre. ([revue du jour](../2026/10/2026-10-27.md))
+- **2026-10-27** — Le SELL dresse le portrait du joueur français en 2026 — Près de 39 millions de joueurs selon la nouvelle étude annuelle. ([revue du jour](../2026/10/2026-10-27.md))
 - **2026-10-26** — Paris Games Week 2026 : plus de 160 000 visiteurs, stabilité et dates 2027 — Fréquentation au niveau de 2025, prochaine édition du 28 au 31 octobre 2027. ([revue du jour](../2026/10/2026-10-26.md))
 - **2026-10-25** — Flight Simulator 2024 : l'A380 d'iniBuilds en attente pour PS5 — Version transmise à Microsoft et Asobo pour validation. ([revue du jour](../2026/10/2026-10-25.md))
 - **2026-10-25** — Eiji Aonuma fait chevalier des Arts et des Lettres — Médaille remise le 23 octobre au ministère de la Culture par Catherine Pégard. ([revue du jour](../2026/10/2026-10-25.md))

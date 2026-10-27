@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-27** — Microsoft offre un départ volontaire à 60 000 salariés — Près de 27 % des effectifs éligibles, départs au 31 décembre, Xbox semble concernée. ([revue du jour](../2026/10/2026-10-27.md))
+- **2026-10-27** — Arkane Lyon gagne un mois de sursis — Consultation prolongée jusqu'au 13 décembre pour trouver un partenaire. ([revue du jour](../2026/10/2026-10-27.md))
+- **2026-10-27** — Forza Horizon 6 nommé au Golden Joystick du jeu de l'année — Halo et Gears of War: E-Day absents ; Active Matter dépasse 500 000 ventes. ([revue du jour](../2026/10/2026-10-27.md))
 - **2026-10-26** — Six jeux Game Pass pour finir octobre — Dont Final Fantasy VII Remake Intergrade et Mouthwashing le 29 octobre. ([revue du jour](../2026/10/2026-10-26.md))
 - **2026-10-25** — Suite : Helen Chiang aurait été renvoyée, nouveaux détails sur l'échec avec Netflix — Selon une source d'Eurogamer, la COO aurait été licenciée pour violations des règles ; Kotaku pointe le rôle d'Asha Sharma dans l'accord raté. ([revue du jour](../2026/10/2026-10-25.md))
 - **2026-10-24** — Arkane Lyon a jusqu'au 13 novembre pour trouver un repreneur — Microsoft cherche un partenaire pour le studio, dont Marvel's Blade serait en fin de production. ([revue du jour](../2026/10/2026-10-24.md))
