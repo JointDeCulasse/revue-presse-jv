@@ -9,6 +9,7 @@ Archive quotidienne de l'actualité jeu vidéo, rédigée en français à partir
 
 ## Revues
 
+- [2026-10-28](2026/10/2026-10-28.md) — Vote syndical chez Rockstar du 12 au 26 novembre, en plein lancement de GTA 6 (210 Go sur PS5) · Cyberattaque contre Warhorse et Street Fighter V retiré pour une faille PHP · Capcom à 92,4 % de ventes numériques, RE Requiem à 8,51 millions
 - [2026-10-27](2026/10/2026-10-27.md) — Microsoft propose un départ volontaire à 60 000 salariés, Xbox concernée · Licenciements chez Sucker Punch (Ghost of Yōtei) et Auroch Digital · Arkane Lyon obtient un sursis jusqu'au 13 décembre
 - [2026-10-26](2026/10/2026-10-26.md) — Phantom Blade Zero acclamé par la critique (88 sur Metacritic) · Le film Elden Ring d'A24 coûterait environ 200 millions de dollars · La Paris Games Week revendique plus de 160 000 visiteurs, stable sur un an
 - [2026-10-25](2026/10/2026-10-25.md) — Helen Chiang aurait été renvoyée d'Xbox, nouveaux détails sur l'échec Netflix · D'anciens de BioWare dévoilent les ambitions de Mass Effect: Universe · Eiji Aonuma fait chevalier des Arts et des Lettres à Paris

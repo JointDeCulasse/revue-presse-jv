@@ -2,6 +2,10 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-28** — Rockstar : un vote syndical en plein lancement de GTA 6 — Les salariés voteront du 12 au 26 novembre sur la reconnaissance du syndicat IWGB. ([revue du jour](../2026/10/2026-10-28.md))
+- **2026-10-28** — Capcom : 92,4 % de ventes dématérialisées et une année 2026 solide — Resident Evil Requiem à 8,51 millions, Pragmata à 2,73 millions, Onimusha à 1,78 million. ([revue du jour](../2026/10/2026-10-28.md))
+- **2026-10-28** — Epic va autoriser l'entraînement d'IA sur les créations Unreal et MetaHuman — Les studios pourront l'interdire pour leur propre jeu. ([revue du jour](../2026/10/2026-10-28.md))
+- **2026-10-28** — Valse des dirigeants chez Hasbro et Atari — Dan Ayoub prend Wizards of the Coast et Hasbro Digital Games, Matt Hall (Crossy Road) le mobile chez Atari. ([revue du jour](../2026/10/2026-10-28.md))
 - **2026-10-27** — Microsoft offre un départ volontaire à 60 000 salariés — Près de 27 % des effectifs éligibles, départs au 31 décembre, Xbox semble concernée. ([revue du jour](../2026/10/2026-10-27.md))
 - **2026-10-27** — Skydance impose le retour au bureau cinq jours par semaine — Une façon de réduire les effectifs sans parler de licenciements après la fusion. ([revue du jour](../2026/10/2026-10-27.md))
 - **2026-10-26** — Le film Elden Ring coûtera environ 200 millions de dollars — Record absolu pour A24 selon le Wall Street Journal. ([revue du jour](../2026/10/2026-10-26.md))

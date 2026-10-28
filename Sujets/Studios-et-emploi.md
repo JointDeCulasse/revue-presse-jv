@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-28** — Rockstar : un vote syndical en plein lancement de GTA 6 — Scrutin du 12 au 26 novembre, en parallèle du procès sur les licenciements de 2025. ([revue du jour](../2026/10/2026-10-28.md))
+- **2026-10-28** — Warhorse Studios victime d'une cyberattaque — Accès non autorisé aux systèmes et données du studio de Kingdom Come, impact encore inconnu. ([revue du jour](../2026/10/2026-10-28.md))
+- **2026-10-28** — Suite : Mass Effect, des panneaux devant EA et aux Game Awards — Les fans financent de nouveaux panneaux, Sam Hulick réorchestre la bande-annonce pour le N7 Day. ([revue du jour](../2026/10/2026-10-28.md))
 - **2026-10-27** — Licenciements chez Sucker Punch malgré le succès de Ghost of Yōtei — Au moins 24 à 26 postes supprimés sur environ 230. ([revue du jour](../2026/10/2026-10-27.md))
 - **2026-10-27** — Auroch Digital (Boltgun) supprime environ un quart de ses postes — Restructuration liée au marché, le suivi des jeux Warhammer continue. ([revue du jour](../2026/10/2026-10-27.md))
 - **2026-10-27** — Suite : Mass Effect, un panneau à Times Square et la musique perdue d'Austin Wintory — Pétition au-delà de 220 000 signatures, hommage de CD Projekt à BioWare. ([revue du jour](../2026/10/2026-10-27.md))

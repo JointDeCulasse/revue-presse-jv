@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-28** — Xbox s'attaque aux jeux publiés en triple pour les succès — Les versions identiques devront désormais être liées entre elles. ([revue du jour](../2026/10/2026-10-28.md))
+- **2026-10-28** — Modern Warfare 4 : Asha Sharma jubile, les tests Xbox manquent — Deux tests Xbox sur Metacritic contre plus de 30 sur PS5 et PC. ([revue du jour](../2026/10/2026-10-28.md))
 - **2026-10-27** — Microsoft offre un départ volontaire à 60 000 salariés — Près de 27 % des effectifs éligibles, départs au 31 décembre, Xbox semble concernée. ([revue du jour](../2026/10/2026-10-27.md))
 - **2026-10-27** — Arkane Lyon gagne un mois de sursis — Consultation prolongée jusqu'au 13 décembre pour trouver un partenaire. ([revue du jour](../2026/10/2026-10-27.md))
 - **2026-10-27** — Forza Horizon 6 nommé au Golden Joystick du jeu de l'année — Halo et Gears of War: E-Day absents ; Active Matter dépasse 500 000 ventes. ([revue du jour](../2026/10/2026-10-27.md))

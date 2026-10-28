@@ -2,6 +2,10 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-28** — Street Fighter V retiré des boutiques à cause d'une faille PHP — Serveurs coupés sur Steam et PS4, jeu toujours jouable hors ligne. ([revue du jour](../2026/10/2026-10-28.md))
+- **2026-10-28** — Les messages de grands serveurs Discord bientôt visibles dans les moteurs de recherche — À partir de mi-décembre pour les serveurs de plus de 1 000 membres, avec option de refus. ([revue du jour](../2026/10/2026-10-28.md))
+- **2026-10-28** — Arc Raiders pourrait garder un mode PvE — Embark étudie un retour permanent du mode testé temporairement. ([revue du jour](../2026/10/2026-10-28.md))
+- **2026-10-28** — Epic va autoriser l'entraînement d'IA sur les créations Unreal et MetaHuman — Changement de licence annoncé par Tim Sweeney, sans date d'effet. ([revue du jour](../2026/10/2026-10-28.md))
 - **2026-10-27** — Steam Next Fest : Valve publie le top 50 des démos — Worst Class Ever en tête parmi plus de 8 000 démos. ([revue du jour](../2026/10/2026-10-27.md))
 - **2026-10-27** — Playable Archive, mini-jeu d'horreur gratuit du créateur de The Mortuary Assistant — Disponible gratuitement sur PC chez DreadXP. ([revue du jour](../2026/10/2026-10-27.md))
 - **2026-10-26** — Tim Sweeney repart en guerre contre les mentions IA de Steam — Le patron d'Epic compare l'obligation à un essai politique. ([revue du jour](../2026/10/2026-10-26.md))

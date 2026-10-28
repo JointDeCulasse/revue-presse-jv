@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-28** — GTA 6 pèserait 210 Go sur PS5 — Préchargement le 12 novembre, chiffre non confirmé par Rockstar. ([revue du jour](../2026/10/2026-10-28.md))
+- **2026-10-28** — Des classiques Capcom classés en Corée, Conan Exiles Enhanced gratuit — Rééditions rétro probables et refonte graphique PS5 début 2027. ([revue du jour](../2026/10/2026-10-28.md))
 - **2026-10-27** — Licenciements chez Sucker Punch malgré le succès de Ghost of Yōtei — Au moins 24 à 26 postes supprimés, alors que le jeu s'est vendu à 5,4 millions d'exemplaires. ([revue du jour](../2026/10/2026-10-27.md))
 - **2026-10-27** — Until Dawn 2 visé pour le 28 janvier sur PS5 — Sony présente le casting de la suite développée par Firesprite. ([revue du jour](../2026/10/2026-10-27.md))
 - **2026-10-27** — Suite : jailbreak PS5, des jeux Steam tournent sur la console et GTA 6 à l'abri — Le lanceur Playden fait tourner Portal ou Left 4 Dead 2 sur PS5 déverrouillée. ([revue du jour](../2026/10/2026-10-27.md))

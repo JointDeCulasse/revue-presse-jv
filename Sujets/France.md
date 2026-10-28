@@ -2,6 +2,7 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-28** — Le CNC débloque 1,5 million d'euros pour les DLC et le live-ops — Appel à projets en plus du fonds annuel de 5 millions, dossiers avant le 14 décembre. ([revue du jour](../2026/10/2026-10-28.md))
 - **2026-10-27** — Arkane Lyon gagne un mois de sursis — À la demande des syndicats, la consultation est prolongée jusqu'au 13 décembre. ([revue du jour](../2026/10/2026-10-27.md))
 - **2026-10-27** — Le SELL dresse le portrait du joueur français en 2026 — Près de 39 millions de joueurs selon la nouvelle étude annuelle. ([revue du jour](../2026/10/2026-10-27.md))
 - **2026-10-26** — Paris Games Week 2026 : plus de 160 000 visiteurs, stabilité et dates 2027 — Fréquentation au niveau de 2025, prochaine édition du 28 au 31 octobre 2027. ([revue du jour](../2026/10/2026-10-26.md))

@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-28** — Un Indie World ce 28 octobre — Présentation d'environ 15 minutes, sans annonce Nintendo maison. ([revue du jour](../2026/10/2026-10-28.md))
+- **2026-10-28** — Silver Pines, un metroidvania lynchien salué — Push Square loue son ambiance inspirée de Twin Peaks et Silent Hill. ([revue du jour](../2026/10/2026-10-28.md))
+- **2026-10-28** — Nitrome ressort Bad Ice-Cream, Dungeon Inn passe en 1.0 — Remaster et nouvel épisode sur Switch et PC, gestion de donjon à 91 % d'avis positifs. ([revue du jour](../2026/10/2026-10-28.md))
 - **2026-10-27** — Steam Next Fest : Valve publie le top 50 des démos — Worst Class Ever en tête, sept jeux incrémentaux et quatre titres déclarant de l'IA. ([revue du jour](../2026/10/2026-10-27.md))
 - **2026-10-27** — Emberville repoussé à 2027, la veille de sa sortie — Accès anticipé décalé au 7 janvier pour intégrer les retours du Next Fest. ([revue du jour](../2026/10/2026-10-27.md))
 - **2026-10-27** — Playable Archive, mini-jeu d'horreur gratuit du créateur de The Mortuary Assistant — Un found footage gratuit sur PC, issu d'un projet abandonné. ([revue du jour](../2026/10/2026-10-27.md))

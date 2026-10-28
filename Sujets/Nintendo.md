@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-28** — Un Indie World ce 28 octobre — Quinze minutes de jeux indépendants pour Switch et Switch 2 à 15 h. ([revue du jour](../2026/10/2026-10-28.md))
+- **2026-10-28** — Pocketpair aimerait porter Palworld sur Switch 2 — Malgré le procès intenté par Nintendo. ([revue du jour](../2026/10/2026-10-28.md))
+- **2026-10-28** — Cyberpunk 2077 : la mise à jour Edgerunners 2 instable sur Switch 2 — Plantages, bugs de chargement et problèmes de sauvegarde signalés. ([revue du jour](../2026/10/2026-10-28.md))
 - **2026-10-27** — Pokémon Unite fermera ses serveurs le 23 mars 2027 — Fin du MOBA gratuit sur Switch comme sur mobile. ([revue du jour](../2026/10/2026-10-27.md))
 - **2026-10-26** — Darkest Dungeon II en édition Switch 2, Tomb Raider fête ses 30 ans — 60 images par seconde et souris Joy-Con 2 ; Legacy of Atlantis sur Switch 2 en février 2027. ([revue du jour](../2026/10/2026-10-26.md))
 - **2026-10-25** — Eiji Aonuma fait chevalier des Arts et des Lettres — Le producteur des Zelda décoré à Paris par la ministre Catherine Pégard. ([revue du jour](../2026/10/2026-10-25.md))
