@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-29** — Suite : Mass Effect, un drapeau retiré pour ne pas froisser EA — BFM Tech révèle une autocensure dans une démo, Greg Zeschuk accable le rachat d'EA. ([revue du jour](../2026/10/2026-10-29.md))
+- **2026-10-29** — Suite : Auroch Digital confirme sa restructuration — Environ un quart des effectifs de Bristol seraient concernés. ([revue du jour](../2026/10/2026-10-29.md))
 - **2026-10-28** — Rockstar : un vote syndical en plein lancement de GTA 6 — Scrutin du 12 au 26 novembre, en parallèle du procès sur les licenciements de 2025. ([revue du jour](../2026/10/2026-10-28.md))
 - **2026-10-28** — Warhorse Studios victime d'une cyberattaque — Accès non autorisé aux systèmes et données du studio de Kingdom Come, impact encore inconnu. ([revue du jour](../2026/10/2026-10-28.md))
 - **2026-10-28** — Suite : Mass Effect, des panneaux devant EA et aux Game Awards — Les fans financent de nouveaux panneaux, Sam Hulick réorchestre la bande-annonce pour le N7 Day. ([revue du jour](../2026/10/2026-10-28.md))

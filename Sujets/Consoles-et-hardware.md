@@ -2,6 +2,7 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-29** — Sony relance les accessoires transparents avec la Prism Collection — DualSense à 84,99 € et coques PS5 à 74,99 €, précommandes le 10 novembre. ([revue du jour](../2026/10/2026-10-29.md))
 - **2026-10-27** — Suite : jailbreak PS5, des jeux Steam tournent sur la console et GTA 6 à l'abri — Une faille de l'hyperviseur signalée à Sony devrait empêcher le piratage de GTA 6. ([revue du jour](../2026/10/2026-10-27.md))
 - **2026-10-26** — PS5 : la lutte anti-jailbreak agace les joueurs — Sony multiplie les mises à jour système, certains disques exigent le dernier firmware. ([revue du jour](../2026/10/2026-10-26.md))
 - **2026-10-23** — La Switch 2 déverrouillée par une faille logicielle — Jailbreak ns2jb ; Nintendo retire SmileBASIC 4 de l'eShop. ([revue du jour](../2026/10/2026-10-23.md))

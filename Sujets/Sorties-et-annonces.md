@@ -2,6 +2,7 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-29** — Indie World : 23 jeux, Witchbrook enfin daté — Witchbrook le 28 janvier 2027, Super Battle Golf le 25 mars, Spirit Crossing le 16 novembre. ([revue du jour](../2026/10/2026-10-29.md))
 - **2026-10-27** — Until Dawn 2 visé pour le 28 janvier sur PS5 — Sony présente le casting de la suite développée par Firesprite. ([revue du jour](../2026/10/2026-10-27.md))
 - **2026-10-27** — Rumeur : le remake de Silent Hill viserait 2027 — Selon MP1st, Bloober Team viserait 2027 pour le remake du premier épisode. ([revue du jour](../2026/10/2026-10-27.md))
 - **2026-10-27** — Virtua Fighter Crossroads et Assassin's Creed donnent rendez-vous le 29 octobre — SEGA et Ubisoft promettent des nouvelles le même jour. ([revue du jour](../2026/10/2026-10-27.md))

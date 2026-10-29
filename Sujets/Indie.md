@@ -2,6 +2,11 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-29** — Indie World : 23 jeux, Witchbrook enfin daté — Witchbrook sort le 28 janvier 2027, R.E.P.O. arrive sur Switch 2 en 2027. ([revue du jour](../2026/10/2026-10-29.md))
+- **2026-10-29** — Haunted Paws copié par un jeu IA sur l'eShop — Un clone non autorisé apparaît juste après l'Indie World. ([revue du jour](../2026/10/2026-10-29.md))
+- **2026-10-29** — Athanasia, un immersive sim à dinosaures salué — Sept heures de jeu en accès anticipé pour moins de 15 dollars ; Frog Sqwad sort sur PS5. ([revue du jour](../2026/10/2026-10-29.md))
+- **2026-10-29** — Valve refuse de filtrer les jeux faits avec l'IA — Réponse de Valve aux développeurs noyés par les clones IA du Next Fest. ([revue du jour](../2026/10/2026-10-29.md))
+- **2026-10-29** — Suite : Auroch Digital confirme sa restructuration — Licenciements malgré 96 % d'avis positifs pour Boltgun 2. ([revue du jour](../2026/10/2026-10-29.md))
 - **2026-10-28** — Un Indie World ce 28 octobre — Présentation d'environ 15 minutes, sans annonce Nintendo maison. ([revue du jour](../2026/10/2026-10-28.md))
 - **2026-10-28** — Silver Pines, un metroidvania lynchien salué — Push Square loue son ambiance inspirée de Twin Peaks et Silent Hill. ([revue du jour](../2026/10/2026-10-28.md))
 - **2026-10-28** — Nitrome ressort Bad Ice-Cream, Dungeon Inn passe en 1.0 — Remaster et nouvel épisode sur Switch et PC, gestion de donjon à 91 % d'avis positifs. ([revue du jour](../2026/10/2026-10-28.md))

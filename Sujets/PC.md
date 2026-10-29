@@ -2,6 +2,10 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-29** — Valve refuse de filtrer les jeux faits avec l'IA — Valve dit mobiliser de nombreux employés sur la visibilité après les plaintes sur les clones IA du Next Fest. ([revue du jour](../2026/10/2026-10-29.md))
+- **2026-10-29** — Modern Warfare 4 utilise des images réelles du drame d'Itaewon — Les familles de victimes demandent le retrait d'un plan de l'introduction. ([revue du jour](../2026/10/2026-10-29.md))
+- **2026-10-29** — Epic développe désormais Unreal Engine avec l'IA — Des outils d'IA écrivent du code du moteur, changements possibles dès la version 5.9. ([revue du jour](../2026/10/2026-10-29.md))
+- **2026-10-29** — Athanasia, un immersive sim à dinosaures salué — Kotaku en fait son indé de la semaine, en accès anticipé sur Steam. ([revue du jour](../2026/10/2026-10-29.md))
 - **2026-10-28** — Street Fighter V retiré des boutiques à cause d'une faille PHP — Serveurs coupés sur Steam et PS4, jeu toujours jouable hors ligne. ([revue du jour](../2026/10/2026-10-28.md))
 - **2026-10-28** — Les messages de grands serveurs Discord bientôt visibles dans les moteurs de recherche — À partir de mi-décembre pour les serveurs de plus de 1 000 membres, avec option de refus. ([revue du jour](../2026/10/2026-10-28.md))
 - **2026-10-28** — Arc Raiders pourrait garder un mode PvE — Embark étudie un retour permanent du mode testé temporairement. ([revue du jour](../2026/10/2026-10-28.md))

@@ -2,6 +2,7 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-29** — Modern Warfare 4 utilise des images réelles du drame d'Itaewon — Polémique en Corée ; Push Square juge le multijoueur sans nouveauté. ([revue du jour](../2026/10/2026-10-29.md))
 - **2026-10-28** — Modern Warfare 4 : Asha Sharma jubile, les tests Xbox manquent — PC Gamer salue campagne et DMZ, regrette un multijoueur peu renouvelé. ([revue du jour](../2026/10/2026-10-28.md))
 - **2026-10-28** — Silver Pines, un metroidvania lynchien salué — Atmosphérique, stylé et exigeant selon Push Square. ([revue du jour](../2026/10/2026-10-28.md))
 - **2026-10-26** — Phantom Blade Zero : la critique conquise par ses combats — 88 sur Metacritic et 91 sur OpenCritic, scénario jugé faible. ([revue du jour](../2026/10/2026-10-26.md))

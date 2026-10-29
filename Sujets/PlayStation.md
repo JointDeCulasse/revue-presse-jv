@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-29** — Sony relance les accessoires transparents avec la Prism Collection — Manettes et coques translucides le 4 février 2027 ; PS Plus Essential de novembre dévoilé. ([revue du jour](../2026/10/2026-10-29.md))
+- **2026-10-29** — Rayman Legends : un costume Astro Bot exclusif à la PS5 — Bonus gratuit pour le remake d'Ubisoft attendu le 3 décembre. ([revue du jour](../2026/10/2026-10-29.md))
 - **2026-10-28** — GTA 6 pèserait 210 Go sur PS5 — Préchargement le 12 novembre, chiffre non confirmé par Rockstar. ([revue du jour](../2026/10/2026-10-28.md))
 - **2026-10-28** — Des classiques Capcom classés en Corée, Conan Exiles Enhanced gratuit — Rééditions rétro probables et refonte graphique PS5 début 2027. ([revue du jour](../2026/10/2026-10-28.md))
 - **2026-10-27** — Licenciements chez Sucker Punch malgré le succès de Ghost of Yōtei — Au moins 24 à 26 postes supprimés, alors que le jeu s'est vendu à 5,4 millions d'exemplaires. ([revue du jour](../2026/10/2026-10-27.md))

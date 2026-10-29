@@ -2,6 +2,7 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-29** — Roblox : un agent IA a aspiré 145 Go de modèles 3D, dont des contenus adultes — L'agent a été désactivé et les données n'auraient servi à aucun entraînement. ([revue du jour](../2026/10/2026-10-29.md))
 - **2026-10-28** — Valse des dirigeants chez Hasbro et Atari — Matt Hall, créateur de Crossy Road, prend la tête du mobile chez Atari. ([revue du jour](../2026/10/2026-10-28.md))
 - **2026-10-27** — Pokémon Unite fermera ses serveurs le 23 mars 2027 — Fin du MOBA gratuit sur Switch comme sur mobile. ([revue du jour](../2026/10/2026-10-27.md))
 - **2026-10-25** — Pokémon : un chercheur de Game Freak publie sur la simulation de l'eau — Pokémon TCG Pocket ajoute le 29 octobre une mécanique historique du jeu de cartes. ([revue du jour](../2026/10/2026-10-25.md))

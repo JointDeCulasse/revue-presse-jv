@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-29** — Xbox : cinquième trimestre de baisse consécutif — Chiffre d'affaires en recul de 2 % et matériel à -14 %, Microsoft compte sur MW4 et GTA 6 pour rebondir. ([revue du jour](../2026/10/2026-10-29.md))
+- **2026-10-29** — Xbox promet de simplifier l'envoi de codes aux critiques — Scott Van Vliet annonce des correctifs après l'absence de note Metacritic Xbox pour MW4 ; la mise à jour d'octobre ajoute les succès mythiques. ([revue du jour](../2026/10/2026-10-29.md))
 - **2026-10-28** — Xbox s'attaque aux jeux publiés en triple pour les succès — Les versions identiques devront désormais être liées entre elles. ([revue du jour](../2026/10/2026-10-28.md))
 - **2026-10-28** — Modern Warfare 4 : Asha Sharma jubile, les tests Xbox manquent — Deux tests Xbox sur Metacritic contre plus de 30 sur PS5 et PC. ([revue du jour](../2026/10/2026-10-28.md))
 - **2026-10-27** — Microsoft offre un départ volontaire à 60 000 salariés — Près de 27 % des effectifs éligibles, départs au 31 décembre, Xbox semble concernée. ([revue du jour](../2026/10/2026-10-27.md))

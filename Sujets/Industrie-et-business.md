@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-29** — Xbox : cinquième trimestre de baisse consécutif — Chiffre d'affaires Xbox à environ 5,4 milliards de dollars (-2 %), matériel à -14 %. ([revue du jour](../2026/10/2026-10-29.md))
+- **2026-10-29** — Epic développe désormais Unreal Engine avec l'IA — Claude et Codex auraient éliminé des bugs vieux de dix ans, changements possibles dès UE 5.9. ([revue du jour](../2026/10/2026-10-29.md))
+- **2026-10-29** — Roblox : un agent IA a aspiré 145 Go de modèles 3D, dont des contenus adultes — Roblox assure que ces données n'ont entraîné aucun modèle. ([revue du jour](../2026/10/2026-10-29.md))
 - **2026-10-28** — Rockstar : un vote syndical en plein lancement de GTA 6 — Les salariés voteront du 12 au 26 novembre sur la reconnaissance du syndicat IWGB. ([revue du jour](../2026/10/2026-10-28.md))
 - **2026-10-28** — Capcom : 92,4 % de ventes dématérialisées et une année 2026 solide — Resident Evil Requiem à 8,51 millions, Pragmata à 2,73 millions, Onimusha à 1,78 million. ([revue du jour](../2026/10/2026-10-28.md))
 - **2026-10-28** — Epic va autoriser l'entraînement d'IA sur les créations Unreal et MetaHuman — Les studios pourront l'interdire pour leur propre jeu. ([revue du jour](../2026/10/2026-10-28.md))
