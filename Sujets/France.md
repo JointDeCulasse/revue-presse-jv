@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-30** — Assassin's Creed a 20 ans : pas d'autre remake, Hexe en 2027 — Ubisoft fait le point et ajoute un New Game+ à Valhalla. ([revue du jour](../2026/10/2026-10-30.md))
+- **2026-10-30** — La musique de GTA 6 signée Justice sortira en décembre — CD, vinyle et streaming, précommandes ouvertes. ([revue du jour](../2026/10/2026-10-30.md))
 - **2026-10-29** — Rayman Legends : un costume Astro Bot exclusif à la PS5 — Le remake d'Ubisoft sort le 3 décembre ; un morceau de la BO de GTA 6 signée Justice a fuité. ([revue du jour](../2026/10/2026-10-29.md))
 - **2026-10-28** — Le CNC débloque 1,5 million d'euros pour les DLC et le live-ops — Appel à projets en plus du fonds annuel de 5 millions, dossiers avant le 14 décembre. ([revue du jour](../2026/10/2026-10-28.md))
 - **2026-10-27** — Arkane Lyon gagne un mois de sursis — À la demande des syndicats, la consultation est prolongée jusqu'au 13 décembre. ([revue du jour](../2026/10/2026-10-27.md))

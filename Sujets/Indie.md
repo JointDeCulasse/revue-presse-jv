@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-30** — Celeste et TowerFall retirés du Store Xbox — Maddy Thorson retire ses jeux en soutien au boycott BDS, après le refus de House House pour Big Walk. ([revue du jour](../2026/10/2026-10-30.md))
+- **2026-10-30** — Virtue and a Sledgehammer, la démolition comme thérapie — Le jeu de Deconstructeam chez Devolver séduit Kotaku par ses destructions et son récit. ([revue du jour](../2026/10/2026-10-30.md))
+- **2026-10-30** — Denis Dyack accuse les éditeurs AAA d'abuser de l'accès anticipé — Des accès anticipés trop aboutis fausseraient les attentes au détriment des petits studios. ([revue du jour](../2026/10/2026-10-30.md))
 - **2026-10-29** — Indie World : 23 jeux, Witchbrook enfin daté — Witchbrook sort le 28 janvier 2027, R.E.P.O. arrive sur Switch 2 en 2027. ([revue du jour](../2026/10/2026-10-29.md))
 - **2026-10-29** — Haunted Paws copié par un jeu IA sur l'eShop — Un clone non autorisé apparaît juste après l'Indie World. ([revue du jour](../2026/10/2026-10-29.md))
 - **2026-10-29** — Athanasia, un immersive sim à dinosaures salué — Sept heures de jeu en accès anticipé pour moins de 15 dollars ; Frog Sqwad sort sur PS5. ([revue du jour](../2026/10/2026-10-29.md))

@@ -2,6 +2,10 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-30** — Konami : bénéfices en hausse de 75 % et prévisions relevées — Semestre porté par Metal Gear Solid Master Collection Vol. 2 et Silent Hill: Townfall, chiffre d'affaires +44,3 %. ([revue du jour](../2026/10/2026-10-30.md))
+- **2026-10-30** — Suite : Xbox assure manquer de consoles, les chiffres disent l'inverse — Asha Sharma évoque une demande supérieure à l'offre malgré un matériel en baisse de 14 % et un Gears E-Day sans effet sur les ventes. ([revue du jour](../2026/10/2026-10-30.md))
+- **2026-10-30** — Netflix adapte PUBG en série, avec Donald Glover aux commandes — Glover écrira, réalisera, produira et jouera dans la série tirée du jeu de Krafton. ([revue du jour](../2026/10/2026-10-30.md))
+- **2026-10-30** — Disparition de Patrick Stewart — L'acteur de Star Trek, voix de l'empereur Uriel Septim dans Oblivion, est mort à 86 ans. ([revue du jour](../2026/10/2026-10-30.md))
 - **2026-10-29** — Xbox : cinquième trimestre de baisse consécutif — Chiffre d'affaires Xbox à environ 5,4 milliards de dollars (-2 %), matériel à -14 %. ([revue du jour](../2026/10/2026-10-29.md))
 - **2026-10-29** — Epic développe désormais Unreal Engine avec l'IA — Claude et Codex auraient éliminé des bugs vieux de dix ans, changements possibles dès UE 5.9. ([revue du jour](../2026/10/2026-10-29.md))
 - **2026-10-29** — Roblox : un agent IA a aspiré 145 Go de modèles 3D, dont des contenus adultes — Roblox assure que ces données n'ont entraîné aucun modèle. ([revue du jour](../2026/10/2026-10-29.md))

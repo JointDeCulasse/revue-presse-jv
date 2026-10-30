@@ -2,6 +2,11 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-30** — The Elder Scrolls VI s'appellerait Sentinel — Selon The Verge, le titre serait annoncé en novembre, avec un jeu situé à Lenclume. ([revue du jour](../2026/10/2026-10-30.md))
+- **2026-10-30** — Destiny 2 : le contenu retiré ne reviendra pas avant 2028 — Bungie prévoit un an de production après une préproduction jusqu'à début 2027. ([revue du jour](../2026/10/2026-10-30.md))
+- **2026-10-30** — GTA 6 s'invite dans South Park — Nouvelles images à trois semaines de la sortie, avec des nuits et couchers de soleil allongés. ([revue du jour](../2026/10/2026-10-30.md))
+- **2026-10-30** — The Duskbloods repoussé à 2027 — FromSoftware retravaille règles et équilibrage après le test réseau d'août. ([revue du jour](../2026/10/2026-10-30.md))
+- **2026-10-30** — Assassin's Creed a 20 ans : pas d'autre remake, Hexe en 2027 — Ubisoft fait le point et ajoute un New Game+ à Valhalla. ([revue du jour](../2026/10/2026-10-30.md))
 - **2026-10-29** — Indie World : 23 jeux, Witchbrook enfin daté — Witchbrook le 28 janvier 2027, Super Battle Golf le 25 mars, Spirit Crossing le 16 novembre. ([revue du jour](../2026/10/2026-10-29.md))
 - **2026-10-27** — Until Dawn 2 visé pour le 28 janvier sur PS5 — Sony présente le casting de la suite développée par Firesprite. ([revue du jour](../2026/10/2026-10-27.md))
 - **2026-10-27** — Rumeur : le remake de Silent Hill viserait 2027 — Selon MP1st, Bloober Team viserait 2027 pour le remake du premier épisode. ([revue du jour](../2026/10/2026-10-27.md))

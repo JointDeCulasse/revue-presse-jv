@@ -9,6 +9,7 @@ Archive quotidienne de l'actualité jeu vidéo, rédigée en français à partir
 
 ## Revues
 
+- [2026-10-30](2026/10/2026-10-30.md) — Phantom Blade Zero dépasse 700 000 joueurs simultanés sur Steam · Celeste et TowerFall retirés de l'Xbox (boycott BDS) · The Duskbloods repoussé à 2027
 - [2026-10-29](2026/10/2026-10-29.md) — Xbox recule pour le 5e trimestre d'affilée (-2 %, matériel -14 %) · Valve refuse de filtrer les jeux IA malgré les clones du Next Fest · Indie World : 23 jeux, Witchbrook daté au 28 janvier 2027
 - [2026-10-28](2026/10/2026-10-28.md) — Vote syndical chez Rockstar du 12 au 26 novembre, en plein lancement de GTA 6 (210 Go sur PS5) · Cyberattaque contre Warhorse et Street Fighter V retiré pour une faille PHP · Capcom à 92,4 % de ventes numériques, RE Requiem à 8,51 millions
 - [2026-10-27](2026/10/2026-10-27.md) — Microsoft propose un départ volontaire à 60 000 salariés, Xbox concernée · Licenciements chez Sucker Punch (Ghost of Yōtei) et Auroch Digital · Arkane Lyon obtient un sursis jusqu'au 13 décembre

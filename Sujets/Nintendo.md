@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-30** — The Duskbloods repoussé à 2027 — FromSoftware retravaille règles et équilibrage après le test réseau d'août. ([revue du jour](../2026/10/2026-10-30.md))
+- **2026-10-30** — Suite : la Switch 2 édition Zelda, ruptures et retards — Ventes retenues chez Walmart, précommandes Target repoussées à mi-novembre. ([revue du jour](../2026/10/2026-10-30.md))
 - **2026-10-29** — Walmart annule des précommandes de la Switch 2 édition Zelda — Console survendue ; rumeur de Switch 2 Lite et règle sur les Game-Key Cards. ([revue du jour](../2026/10/2026-10-29.md))
 - **2026-10-29** — Haunted Paws copié par un jeu IA sur l'eShop — Un clone aux visuels générés par IA s'affiche dans les recherches. ([revue du jour](../2026/10/2026-10-29.md))
 - **2026-10-28** — Un Indie World ce 28 octobre — Quinze minutes de jeux indépendants pour Switch et Switch 2 à 15 h. ([revue du jour](../2026/10/2026-10-28.md))

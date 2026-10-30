@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-30** — Suite : Xbox assure manquer de consoles, les chiffres disent l'inverse — Asha Sharma évoque une demande supérieure à l'offre malgré un matériel en baisse de 14 % et un Gears E-Day sans effet sur les ventes. ([revue du jour](../2026/10/2026-10-30.md))
+- **2026-10-30** — Celeste et TowerFall retirés du Store Xbox — Maddy Thorson retire ses jeux en soutien au boycott BDS, après le refus de House House pour Big Walk. ([revue du jour](../2026/10/2026-10-30.md))
+- **2026-10-30** — The Elder Scrolls VI s'appellerait Sentinel — Selon The Verge, le titre serait annoncé en novembre, avec un jeu situé à Lenclume. ([revue du jour](../2026/10/2026-10-30.md))
 - **2026-10-29** — Xbox : cinquième trimestre de baisse consécutif — Chiffre d'affaires en recul de 2 % et matériel à -14 %, Microsoft compte sur MW4 et GTA 6 pour rebondir. ([revue du jour](../2026/10/2026-10-29.md))
 - **2026-10-29** — Xbox promet de simplifier l'envoi de codes aux critiques — Scott Van Vliet annonce des correctifs après l'absence de note Metacritic Xbox pour MW4 ; la mise à jour d'octobre ajoute les succès mythiques. ([revue du jour](../2026/10/2026-10-29.md))
 - **2026-10-28** — Xbox s'attaque aux jeux publiés en triple pour les succès — Les versions identiques devront désormais être liées entre elles. ([revue du jour](../2026/10/2026-10-28.md))

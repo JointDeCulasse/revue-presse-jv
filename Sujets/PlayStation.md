@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-30** — GTA 6 s'invite dans South Park — Nouvelles images à trois semaines de la sortie, avec des nuits et couchers de soleil allongés. ([revue du jour](../2026/10/2026-10-30.md))
+- **2026-10-30** — Crimson Desert : l'extension Charting the Unknown est disponible — Navigation et construction de maison pour 24,99 $. ([revue du jour](../2026/10/2026-10-30.md))
 - **2026-10-29** — Sony relance les accessoires transparents avec la Prism Collection — Manettes et coques translucides le 4 février 2027 ; PS Plus Essential de novembre dévoilé. ([revue du jour](../2026/10/2026-10-29.md))
 - **2026-10-29** — Rayman Legends : un costume Astro Bot exclusif à la PS5 — Bonus gratuit pour le remake d'Ubisoft attendu le 3 décembre. ([revue du jour](../2026/10/2026-10-29.md))
 - **2026-10-28** — GTA 6 pèserait 210 Go sur PS5 — Préchargement le 12 novembre, chiffre non confirmé par Rockstar. ([revue du jour](../2026/10/2026-10-28.md))

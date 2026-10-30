@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-30** — Phantom Blade Zero décolle sur Steam — Plus de 700 000 joueurs simultanés, 15e plus gros lancement de l'histoire de Steam. ([revue du jour](../2026/10/2026-10-30.md))
+- **2026-10-30** — Crimson Desert : l'extension Charting the Unknown est disponible — Navigation et construction de maison pour 24,99 $. ([revue du jour](../2026/10/2026-10-30.md))
+- **2026-10-30** — Destiny 2 : le contenu retiré ne reviendra pas avant 2028 — Bungie prévoit un an de production après une préproduction jusqu'à début 2027. ([revue du jour](../2026/10/2026-10-30.md))
 - **2026-10-29** — Valve refuse de filtrer les jeux faits avec l'IA — Valve dit mobiliser de nombreux employés sur la visibilité après les plaintes sur les clones IA du Next Fest. ([revue du jour](../2026/10/2026-10-29.md))
 - **2026-10-29** — Modern Warfare 4 utilise des images réelles du drame d'Itaewon — Les familles de victimes demandent le retrait d'un plan de l'introduction. ([revue du jour](../2026/10/2026-10-29.md))
 - **2026-10-29** — Epic développe désormais Unreal Engine avec l'IA — Des outils d'IA écrivent du code du moteur, changements possibles dès la version 5.9. ([revue du jour](../2026/10/2026-10-29.md))
