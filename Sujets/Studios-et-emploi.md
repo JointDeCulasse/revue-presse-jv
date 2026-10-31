@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-31** — Suite : EA aurait sacrifié BioWare pour Star Wars Battlefront 3 — Selon Bloomberg, la dette du rachat a poussé EA à choisir Battlefront plutôt que Mass Effect. ([revue du jour](../2026/10/2026-10-31.md))
+- **2026-10-31** — Turn 10 absorbé par Playground Games, Dan Greenawalt s'en va — Le studio de Forza Motorsport devient Playground Games Redmond. ([revue du jour](../2026/10/2026-10-31.md))
+- **2026-10-31** — Le jeu de John Romero sauvé, mais avec 16 personnes au lieu de 110 — Nouvel éditeur anonyme et projet entièrement redimensionné après l'abandon d'Xbox. ([revue du jour](../2026/10/2026-10-31.md))
 - **2026-10-29** — Suite : Mass Effect, un drapeau retiré pour ne pas froisser EA — BFM Tech révèle une autocensure dans une démo, Greg Zeschuk accable le rachat d'EA. ([revue du jour](../2026/10/2026-10-29.md))
 - **2026-10-29** — Suite : Auroch Digital confirme sa restructuration — Environ un quart des effectifs de Bristol seraient concernés. ([revue du jour](../2026/10/2026-10-29.md))
 - **2026-10-28** — Rockstar : un vote syndical en plein lancement de GTA 6 — Scrutin du 12 au 26 novembre, en parallèle du procès sur les licenciements de 2025. ([revue du jour](../2026/10/2026-10-28.md))

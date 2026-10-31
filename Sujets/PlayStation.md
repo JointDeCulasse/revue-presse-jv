@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-31** — Une offre d'emploi de Sony ravive la crainte des prix dynamiques — Sony recrute pour une « tarification intelligente » du PlayStation Store. ([revue du jour](../2026/10/2026-10-31.md))
+- **2026-10-31** — Crimson Desert s'essaie cinq heures, Resonance of Fate remasterisé — Essai du jeu complet sur consoles et remaster du RPG de tri-Ace sur PS5. ([revue du jour](../2026/10/2026-10-31.md))
 - **2026-10-30** — GTA 6 s'invite dans South Park — Nouvelles images à trois semaines de la sortie, avec des nuits et couchers de soleil allongés. ([revue du jour](../2026/10/2026-10-30.md))
 - **2026-10-30** — Crimson Desert : l'extension Charting the Unknown est disponible — Navigation et construction de maison pour 24,99 $. ([revue du jour](../2026/10/2026-10-30.md))
 - **2026-10-29** — Sony relance les accessoires transparents avec la Prism Collection — Manettes et coques translucides le 4 février 2027 ; PS Plus Essential de novembre dévoilé. ([revue du jour](../2026/10/2026-10-29.md))

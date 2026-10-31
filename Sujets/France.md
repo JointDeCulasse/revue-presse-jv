@@ -2,6 +2,7 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-31** — Castlevania: Belmont's Curse presque au sommet pour Kotaku — Le jeu d'Evil Empire et Motion Twin séduit par son exploration malgré une plateforme lourde. ([revue du jour](../2026/10/2026-10-31.md))
 - **2026-10-30** — Assassin's Creed a 20 ans : pas d'autre remake, Hexe en 2027 — Ubisoft fait le point et ajoute un New Game+ à Valhalla. ([revue du jour](../2026/10/2026-10-30.md))
 - **2026-10-30** — La musique de GTA 6 signée Justice sortira en décembre — CD, vinyle et streaming, précommandes ouvertes. ([revue du jour](../2026/10/2026-10-30.md))
 - **2026-10-29** — Rayman Legends : un costume Astro Bot exclusif à la PS5 — Le remake d'Ubisoft sort le 3 décembre ; un morceau de la BO de GTA 6 signée Justice a fuité. ([revue du jour](../2026/10/2026-10-29.md))

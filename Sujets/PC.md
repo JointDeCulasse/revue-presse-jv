@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-31** — Soulframe ouvert à tous le 6 novembre — Le RPG de Digital Extremes s'ouvre avant la mise à jour Verse of the Veilands. ([revue du jour](../2026/10/2026-10-31.md))
+- **2026-10-31** — Probably Stolen, record pour tinyBuild — Plus de 86 000 joueurs simultanés sur Steam à la sortie. ([revue du jour](../2026/10/2026-10-31.md))
 - **2026-10-30** — Phantom Blade Zero décolle sur Steam — Plus de 700 000 joueurs simultanés, 15e plus gros lancement de l'histoire de Steam. ([revue du jour](../2026/10/2026-10-30.md))
 - **2026-10-30** — Crimson Desert : l'extension Charting the Unknown est disponible — Navigation et construction de maison pour 24,99 $. ([revue du jour](../2026/10/2026-10-30.md))
 - **2026-10-30** — Destiny 2 : le contenu retiré ne reviendra pas avant 2028 — Bungie prévoit un an de production après une préproduction jusqu'à début 2027. ([revue du jour](../2026/10/2026-10-30.md))

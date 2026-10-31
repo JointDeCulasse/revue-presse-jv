@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-31** — Turn 10 absorbé par Playground Games, Dan Greenawalt s'en va — Le studio de Forza Motorsport devient Playground Games Redmond. ([revue du jour](../2026/10/2026-10-31.md))
+- **2026-10-31** — Suite : les 500 millions de Gears of War: E-Day confirmés — Schreier et Dring valident le chiffre, Microsoft se tait. ([revue du jour](../2026/10/2026-10-31.md))
+- **2026-10-31** — Le jeu de John Romero sauvé, mais avec 16 personnes au lieu de 110 — Nouvel éditeur anonyme et projet entièrement redimensionné après l'abandon d'Xbox. ([revue du jour](../2026/10/2026-10-31.md))
 - **2026-10-30** — Suite : Xbox assure manquer de consoles, les chiffres disent l'inverse — Asha Sharma évoque une demande supérieure à l'offre malgré un matériel en baisse de 14 % et un Gears E-Day sans effet sur les ventes. ([revue du jour](../2026/10/2026-10-30.md))
 - **2026-10-30** — Celeste et TowerFall retirés du Store Xbox — Maddy Thorson retire ses jeux en soutien au boycott BDS, après le refus de House House pour Big Walk. ([revue du jour](../2026/10/2026-10-30.md))
 - **2026-10-30** — The Elder Scrolls VI s'appellerait Sentinel — Selon The Verge, le titre serait annoncé en novembre, avec un jeu situé à Lenclume. ([revue du jour](../2026/10/2026-10-30.md))

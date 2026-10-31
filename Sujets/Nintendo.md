@@ -2,6 +2,10 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-31** — Nintendo annule l'événement d'Halloween de Kirby Air Riders — Arrêté après des gels d'écran sur Switch 2. ([revue du jour](../2026/10/2026-10-31.md))
+- **2026-10-31** — Suite : Walmart rattrape les précommandes annulées de la Switch 2 Zelda — 48 heures pour revalider, parfois avec une carte cadeau de 519 dollars. ([revue du jour](../2026/10/2026-10-31.md))
+- **2026-10-31** — Modern Warfare 4 sur Switch 2 passé au crible — Digital Foundry mesure 30 à 60 images par seconde selon les modes. ([revue du jour](../2026/10/2026-10-31.md))
+- **2026-10-31** — Mina the Hollower : l'édition physique toujours prévue — Yacht Club cherche un partenaire de distribution. ([revue du jour](../2026/10/2026-10-31.md))
 - **2026-10-30** — The Duskbloods repoussé à 2027 — FromSoftware retravaille règles et équilibrage après le test réseau d'août. ([revue du jour](../2026/10/2026-10-30.md))
 - **2026-10-30** — Suite : la Switch 2 édition Zelda, ruptures et retards — Ventes retenues chez Walmart, précommandes Target repoussées à mi-novembre. ([revue du jour](../2026/10/2026-10-30.md))
 - **2026-10-29** — Walmart annule des précommandes de la Switch 2 édition Zelda — Console survendue ; rumeur de Switch 2 Lite et règle sur les Game-Key Cards. ([revue du jour](../2026/10/2026-10-29.md))

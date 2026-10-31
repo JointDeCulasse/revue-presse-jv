@@ -2,6 +2,10 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-31** — Suite : EA aurait sacrifié BioWare pour Star Wars Battlefront 3 — Selon Bloomberg, la dette du rachat a poussé EA à choisir Battlefront plutôt que Mass Effect. ([revue du jour](../2026/10/2026-10-31.md))
+- **2026-10-31** — Roblox recule et parie sur l'IA — 138 millions d'utilisateurs quotidiens (-9 %), et plus de 80 % des jeux phares faits avec l'IA. ([revue du jour](../2026/10/2026-10-31.md))
+- **2026-10-31** — Anthropic empêche Claude Code de recréer des jeux existants — Nouvelle consigne contre les clones, sur fond de multiplication des copies générées par IA. ([revue du jour](../2026/10/2026-10-31.md))
+- **2026-10-31** — Adaptations : Death Stranding en anime, Mouthwashing au cinéma — Bande-annonce de Death Stranding Isolations (2027) et Karyn Kusama pressentie pour Mouthwashing. ([revue du jour](../2026/10/2026-10-31.md))
 - **2026-10-30** — Konami : bénéfices en hausse de 75 % et prévisions relevées — Semestre porté par Metal Gear Solid Master Collection Vol. 2 et Silent Hill: Townfall, chiffre d'affaires +44,3 %. ([revue du jour](../2026/10/2026-10-30.md))
 - **2026-10-30** — Suite : Xbox assure manquer de consoles, les chiffres disent l'inverse — Asha Sharma évoque une demande supérieure à l'offre malgré un matériel en baisse de 14 % et un Gears E-Day sans effet sur les ventes. ([revue du jour](../2026/10/2026-10-30.md))
 - **2026-10-30** — Netflix adapte PUBG en série, avec Donald Glover aux commandes — Glover écrira, réalisera, produira et jouera dans la série tirée du jeu de Krafton. ([revue du jour](../2026/10/2026-10-30.md))

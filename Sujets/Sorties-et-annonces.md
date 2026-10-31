@@ -2,6 +2,10 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-31** — Suite : Modern Warfare 4 retirera les images du drame d'Itaewon — Activision s'excuse et supprimera les images dans la mise à jour du 12 novembre. ([revue du jour](../2026/10/2026-10-31.md))
+- **2026-10-31** — Final Fantasy XIV : Evercold repoussé au 23 février 2027 — Précommandes le 4 novembre, accès anticipé le 19 février. ([revue du jour](../2026/10/2026-10-31.md))
+- **2026-10-31** — Exodus montre 40 minutes de jeu, très Mass Effect — Archetype multiplie les clins d'œil à la série de BioWare. ([revue du jour](../2026/10/2026-10-31.md))
+- **2026-10-31** — Soulframe ouvert à tous le 6 novembre — Le RPG de Digital Extremes s'ouvre avant la mise à jour Verse of the Veilands. ([revue du jour](../2026/10/2026-10-31.md))
 - **2026-10-30** — The Elder Scrolls VI s'appellerait Sentinel — Selon The Verge, le titre serait annoncé en novembre, avec un jeu situé à Lenclume. ([revue du jour](../2026/10/2026-10-30.md))
 - **2026-10-30** — Destiny 2 : le contenu retiré ne reviendra pas avant 2028 — Bungie prévoit un an de production après une préproduction jusqu'à début 2027. ([revue du jour](../2026/10/2026-10-30.md))
 - **2026-10-30** — GTA 6 s'invite dans South Park — Nouvelles images à trois semaines de la sortie, avec des nuits et couchers de soleil allongés. ([revue du jour](../2026/10/2026-10-30.md))

@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-10-31** — Probably Stolen, record pour tinyBuild — Plus de 86 000 joueurs simultanés sur Steam à la sortie. ([revue du jour](../2026/10/2026-10-31.md))
+- **2026-10-31** — Queen's Domain fait revivre King's Field — Le RPG rétro de Freshly Baked Games sort sur PC et consoles. ([revue du jour](../2026/10/2026-10-31.md))
+- **2026-10-31** — Mina the Hollower : l'édition physique toujours prévue — Yacht Club cherche un partenaire de distribution. ([revue du jour](../2026/10/2026-10-31.md))
 - **2026-10-30** — Celeste et TowerFall retirés du Store Xbox — Maddy Thorson retire ses jeux en soutien au boycott BDS, après le refus de House House pour Big Walk. ([revue du jour](../2026/10/2026-10-30.md))
 - **2026-10-30** — Virtue and a Sledgehammer, la démolition comme thérapie — Le jeu de Deconstructeam chez Devolver séduit Kotaku par ses destructions et son récit. ([revue du jour](../2026/10/2026-10-30.md))
 - **2026-10-30** — Denis Dyack accuse les éditeurs AAA d'abuser de l'accès anticipé — Des accès anticipés trop aboutis fausseraient les attentes au détriment des petits studios. ([revue du jour](../2026/10/2026-10-30.md))
