@@ -2,6 +2,7 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-01** — Suite : « Save Mass Effect » tagué sur les bureaux madrilènes d'EA — Les fans multiplient les actions (tag, pub à Times Square, pétition) après la fermeture de BioWare. ([revue du jour](../2026/11/2026-11-01.md))
 - **2026-10-31** — Suite : EA aurait sacrifié BioWare pour Star Wars Battlefront 3 — Selon Bloomberg, la dette du rachat a poussé EA à choisir Battlefront plutôt que Mass Effect. ([revue du jour](../2026/10/2026-10-31.md))
 - **2026-10-31** — Roblox recule et parie sur l'IA — 138 millions d'utilisateurs quotidiens (-9 %), et plus de 80 % des jeux phares faits avec l'IA. ([revue du jour](../2026/10/2026-10-31.md))
 - **2026-10-31** — Anthropic empêche Claude Code de recréer des jeux existants — Nouvelle consigne contre les clones, sur fond de multiplication des copies générées par IA. ([revue du jour](../2026/10/2026-10-31.md))

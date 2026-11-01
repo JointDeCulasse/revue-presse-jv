@@ -2,6 +2,7 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-01** — Un Pikmin Direct surprise et une « journée Pikmin » chaque 1er novembre — Démo de Pikmin 4 édition Switch 2 le 2 novembre, jeu complet le 12. ([revue du jour](../2026/11/2026-11-01.md))
 - **2026-10-31** — Nintendo annule l'événement d'Halloween de Kirby Air Riders — Arrêté après des gels d'écran sur Switch 2. ([revue du jour](../2026/10/2026-10-31.md))
 - **2026-10-31** — Suite : Walmart rattrape les précommandes annulées de la Switch 2 Zelda — 48 heures pour revalider, parfois avec une carte cadeau de 519 dollars. ([revue du jour](../2026/10/2026-10-31.md))
 - **2026-10-31** — Modern Warfare 4 sur Switch 2 passé au crible — Digital Foundry mesure 30 à 60 images par seconde selon les modes. ([revue du jour](../2026/10/2026-10-31.md))

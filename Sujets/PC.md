@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-01** — Skyblivion visé par une plainte d'un ancien bénévole — L'équipe cherche une aide juridique gratuite et appelle au calme. ([revue du jour](../2026/11/2026-11-01.md))
+- **2026-11-01** — Alien: Isolation : les outils de mod OpenCAGE passent en version 1.0 — Près de neuf ans de travail pour créer cartes, missions et personnages sur mesure. ([revue du jour](../2026/11/2026-11-01.md))
+- **2026-11-01** — Le multijoueur de Dark Souls 2 et 3 coupé pour un « problème de serveur » — Invasions, coopération et messages désactivés sur toutes les plateformes, sans date de retour. ([revue du jour](../2026/11/2026-11-01.md))
 - **2026-10-31** — Soulframe ouvert à tous le 6 novembre — Le RPG de Digital Extremes s'ouvre avant la mise à jour Verse of the Veilands. ([revue du jour](../2026/10/2026-10-31.md))
 - **2026-10-31** — Probably Stolen, record pour tinyBuild — Plus de 86 000 joueurs simultanés sur Steam à la sortie. ([revue du jour](../2026/10/2026-10-31.md))
 - **2026-10-30** — Phantom Blade Zero décolle sur Steam — Plus de 700 000 joueurs simultanés, 15e plus gros lancement de l'histoire de Steam. ([revue du jour](../2026/10/2026-10-30.md))

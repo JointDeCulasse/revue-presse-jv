@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-01** — Dead of the Brain, culte de la PC-98, débarque sur Steam en anglais — Première traduction officielle du jeu gore de FairyTale, éditée par FAKKU. ([revue du jour](../2026/11/2026-11-01.md))
+- **2026-11-01** — Suite : Mina the Hollower a sauvé Yacht Club, « pour l'instant » — Le studio reste à flot grâce à plus de 500 000 ventes, sans garantie pour la suite. ([revue du jour](../2026/11/2026-11-01.md))
 - **2026-10-31** — Probably Stolen, record pour tinyBuild — Plus de 86 000 joueurs simultanés sur Steam à la sortie. ([revue du jour](../2026/10/2026-10-31.md))
 - **2026-10-31** — Queen's Domain fait revivre King's Field — Le RPG rétro de Freshly Baked Games sort sur PC et consoles. ([revue du jour](../2026/10/2026-10-31.md))
 - **2026-10-31** — Mina the Hollower : l'édition physique toujours prévue — Yacht Club cherche un partenaire de distribution. ([revue du jour](../2026/10/2026-10-31.md))

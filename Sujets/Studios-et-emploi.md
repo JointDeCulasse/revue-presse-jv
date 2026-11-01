@@ -2,6 +2,7 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-01** — id Software « va très bien » selon Marty Stratton — Le studio de Doom se dit viable malgré le départ de la moitié de ses effectifs cet été. ([revue du jour](../2026/11/2026-11-01.md))
 - **2026-10-31** — Suite : EA aurait sacrifié BioWare pour Star Wars Battlefront 3 — Selon Bloomberg, la dette du rachat a poussé EA à choisir Battlefront plutôt que Mass Effect. ([revue du jour](../2026/10/2026-10-31.md))
 - **2026-10-31** — Turn 10 absorbé par Playground Games, Dan Greenawalt s'en va — Le studio de Forza Motorsport devient Playground Games Redmond. ([revue du jour](../2026/10/2026-10-31.md))
 - **2026-10-31** — Le jeu de John Romero sauvé, mais avec 16 personnes au lieu de 110 — Nouvel éditeur anonyme et projet entièrement redimensionné après l'abandon d'Xbox. ([revue du jour](../2026/10/2026-10-31.md))

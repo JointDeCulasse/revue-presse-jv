@@ -2,6 +2,7 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-01** — L'Arduview, console portable entièrement transparente — Basée sur Arduboy, 400 jeux, financée sur Kickstarter dès 75 dollars. ([revue du jour](../2026/11/2026-11-01.md))
 - **2026-10-30** — Suite : la Switch 2 édition Zelda, ruptures et retards — Ventes retenues chez Walmart, précommandes Target repoussées à mi-novembre. ([revue du jour](../2026/10/2026-10-30.md))
 - **2026-10-29** — Sony relance les accessoires transparents avec la Prism Collection — DualSense à 84,99 € et coques PS5 à 74,99 €, précommandes le 10 novembre. ([revue du jour](../2026/10/2026-10-29.md))
 - **2026-10-27** — Suite : jailbreak PS5, des jeux Steam tournent sur la console et GTA 6 à l'abri — Une faille de l'hyperviseur signalée à Sony devrait empêcher le piratage de GTA 6. ([revue du jour](../2026/10/2026-10-27.md))

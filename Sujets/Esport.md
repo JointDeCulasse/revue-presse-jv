@@ -2,6 +2,7 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-01** — Worlds 2026 : Karmine Corp en quarts de finale contre T1 — Quarts du 3 au 6 novembre, finale le 14 au Barclays Center de Brooklyn. ([revue du jour](../2026/11/2026-11-01.md))
 - **2026-10-26** — Worlds 2026 : Gen.G et Dplus KIA premiers qualifiés pour les quarts — Deux 3-0 en phase suisse, quarts du 3 au 14 novembre. ([revue du jour](../2026/10/2026-10-26.md))
 - **2026-10-20** — Counter-Strike 2 : lourdes sanctions pour des matchs truqués — L'équipe NOMERCY visait environ 4,5 millions de dollars sur un site de paris. ([revue du jour](../2026/10/2026-10-20.md))
 - **2026-10-12** — EVO France 2026 : DualKevin et JeonDDing s'imposent à Nice — DualKevin se qualifie pour la Capcom Cup 13, JeonDDing pour les finales du Tekken World Tour. ([revue du jour](../2026/10/2026-10-12.md))

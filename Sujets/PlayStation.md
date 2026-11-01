@@ -2,6 +2,7 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-01** — Rumeur : le prochain jeu de Bend Studio annoncé et lancé en 2027 — Selon MP1st, un jeu coopératif PS5 bien plus avancé que prévu. ([revue du jour](../2026/11/2026-11-01.md))
 - **2026-10-31** — Une offre d'emploi de Sony ravive la crainte des prix dynamiques — Sony recrute pour une « tarification intelligente » du PlayStation Store. ([revue du jour](../2026/10/2026-10-31.md))
 - **2026-10-31** — Crimson Desert s'essaie cinq heures, Resonance of Fate remasterisé — Essai du jeu complet sur consoles et remaster du RPG de tri-Ace sur PS5. ([revue du jour](../2026/10/2026-10-31.md))
 - **2026-10-30** — GTA 6 s'invite dans South Park — Nouvelles images à trois semaines de la sortie, avec des nuits et couchers de soleil allongés. ([revue du jour](../2026/10/2026-10-30.md))

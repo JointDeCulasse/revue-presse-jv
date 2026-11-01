@@ -2,6 +2,10 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-01** — Fortnite passe à l'abordage avec la saison 5 du chapitre 7 — Nouvelle île pirate de 12 lieux, sur le thème de la chasse au trésor. ([revue du jour](../2026/11/2026-11-01.md))
+- **2026-11-01** — Silver Palace sortira le 14 décembre — Le gacha en monde ouvert d'Elementa arrive gratuitement sur PS5, PC et mobile. ([revue du jour](../2026/11/2026-11-01.md))
+- **2026-11-01** — Rumeur : des images d'un remake de Persona 1 fuitent — Séquence de combat probablement authentique selon Push Square, sans confirmation d'Atlus. ([revue du jour](../2026/11/2026-11-01.md))
+- **2026-11-01** — Rumeur : le prochain jeu de Bend Studio annoncé et lancé en 2027 — Un jeu coopératif à la troisième personne, ni jeu-service ni suite de Days Gone. ([revue du jour](../2026/11/2026-11-01.md))
 - **2026-10-31** — Suite : Modern Warfare 4 retirera les images du drame d'Itaewon — Activision s'excuse et supprimera les images dans la mise à jour du 12 novembre. ([revue du jour](../2026/10/2026-10-31.md))
 - **2026-10-31** — Final Fantasy XIV : Evercold repoussé au 23 février 2027 — Précommandes le 4 novembre, accès anticipé le 19 février. ([revue du jour](../2026/10/2026-10-31.md))
 - **2026-10-31** — Exodus montre 40 minutes de jeu, très Mass Effect — Archetype multiplie les clins d'œil à la série de BioWare. ([revue du jour](../2026/10/2026-10-31.md))
