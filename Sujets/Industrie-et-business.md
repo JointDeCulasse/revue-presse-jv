@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-02** — Itch.io submergé à son tour par les jeux générés par IA — Les nouvelles pages de jeux quotidiennes ont doublé en deux mois, sans hausse des achats. ([revue du jour](../2026/11/2026-11-02.md))
+- **2026-11-02** — GOG aimerait revenir aux jeux physiques — La boutique y réfléchit tout en jugeant le projet « très, très compliqué ». ([revue du jour](../2026/11/2026-11-02.md))
+- **2026-11-02** — Josh Sawyer : une ville coûte quatre fois plus cher qu'un donjon — Le directeur d'Obsidian explique le coût des zones urbaines dans les RPG. ([revue du jour](../2026/11/2026-11-02.md))
 - **2026-11-01** — Suite : « Save Mass Effect » tagué sur les bureaux madrilènes d'EA — Les fans multiplient les actions (tag, pub à Times Square, pétition) après la fermeture de BioWare. ([revue du jour](../2026/11/2026-11-01.md))
 - **2026-10-31** — Suite : EA aurait sacrifié BioWare pour Star Wars Battlefront 3 — Selon Bloomberg, la dette du rachat a poussé EA à choisir Battlefront plutôt que Mass Effect. ([revue du jour](../2026/10/2026-10-31.md))
 - **2026-10-31** — Roblox recule et parie sur l'IA — 138 millions d'utilisateurs quotidiens (-9 %), et plus de 80 % des jeux phares faits avec l'IA. ([revue du jour](../2026/10/2026-10-31.md))

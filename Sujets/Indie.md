@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-02** — Chronicles: Medieval menacé de fermeture à quelques mois de l'accès anticipé — Raw Power Games a perdu son financement. ([revue du jour](../2026/11/2026-11-02.md))
+- **2026-11-02** — Selaco double de volume le 13 novembre — Gros chapitre 2 gratuit pour le FPS rétro d'Altered Orbit. ([revue du jour](../2026/11/2026-11-02.md))
+- **2026-11-02** — Itch.io submergé à son tour par les jeux générés par IA — Les créations de pages ont doublé en deux mois. ([revue du jour](../2026/11/2026-11-02.md))
 - **2026-11-01** — Dead of the Brain, culte de la PC-98, débarque sur Steam en anglais — Première traduction officielle du jeu gore de FairyTale, éditée par FAKKU. ([revue du jour](../2026/11/2026-11-01.md))
 - **2026-11-01** — Suite : Mina the Hollower a sauvé Yacht Club, « pour l'instant » — Le studio reste à flot grâce à plus de 500 000 ventes, sans garantie pour la suite. ([revue du jour](../2026/11/2026-11-01.md))
 - **2026-10-31** — Probably Stolen, record pour tinyBuild — Plus de 86 000 joueurs simultanés sur Steam à la sortie. ([revue du jour](../2026/10/2026-10-31.md))

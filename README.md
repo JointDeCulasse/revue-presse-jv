@@ -9,6 +9,7 @@ Archive quotidienne de l'actualité jeu vidéo, rédigée en français à partir
 
 ## Revues
 
+- [2026-11-02](2026/11/2026-11-02.md) — Nagoshi Studio (créateur de Yakuza) dissous par NetEase · Phantom Blade Zero à 4 millions en 72 heures · F-Stop, préquelle annulée de Portal, a fuité
 - [2026-11-01](2026/11/2026-11-01.md) — Pikmin Direct surprise et « journée Pikmin », Pikmin 4 Switch 2 le 12 novembre · Karmine Corp en quarts des Worlds contre T1 · id Software « va très bien » malgré la moitié de ses effectifs partis
 - [2026-10-31](2026/10/2026-10-31.md) — EA aurait fermé BioWare pour financer Star Wars Battlefront 3 · Turn 10 fusionne dans Playground Games, départ de Dan Greenawalt · Roblox perd 9 % d'utilisateurs et mise sur l'IA
 - [2026-10-30](2026/10/2026-10-30.md) — Phantom Blade Zero dépasse 700 000 joueurs simultanés sur Steam · Celeste et TowerFall retirés de l'Xbox (boycott BDS) · The Duskbloods repoussé à 2027

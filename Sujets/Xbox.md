@@ -2,6 +2,7 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-02** — Warzone hors ligne sur Xbox One et PS4 le 6 novembre — Trois jeux ferment leurs serveurs d'ici fin décembre. ([revue du jour](../2026/11/2026-11-02.md))
 - **2026-11-01** — id Software « va très bien » selon Marty Stratton — Le studio collabore étroitement avec MachineGames ; d'autres coupes Xbox seraient prévues en novembre et janvier. ([revue du jour](../2026/11/2026-11-01.md))
 - **2026-10-31** — Turn 10 absorbé par Playground Games, Dan Greenawalt s'en va — Le studio de Forza Motorsport devient Playground Games Redmond. ([revue du jour](../2026/10/2026-10-31.md))
 - **2026-10-31** — Suite : les 500 millions de Gears of War: E-Day confirmés — Schreier et Dring valident le chiffre, Microsoft se tait. ([revue du jour](../2026/10/2026-10-31.md))

@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-02** — Nagoshi Studio est dissous — Le studio du créateur de Yakuza, financé par NetEase, ferme le 31 octobre avec son jeu Gang of Dragon. ([revue du jour](../2026/11/2026-11-02.md))
+- **2026-11-02** — Arc System Works ouvre son studio « Takumi » à Tokyo — Nouveau studio à Shinjuku, qui démarre sur un jeu de combat subventionné par le METI. ([revue du jour](../2026/11/2026-11-02.md))
+- **2026-11-02** — Chronicles: Medieval menacé de fermeture — Raw Power Games a perdu son financement à quelques mois de l'accès anticipé. ([revue du jour](../2026/11/2026-11-02.md))
 - **2026-11-01** — id Software « va très bien » selon Marty Stratton — Le studio de Doom se dit viable malgré le départ de la moitié de ses effectifs cet été. ([revue du jour](../2026/11/2026-11-01.md))
 - **2026-10-31** — Suite : EA aurait sacrifié BioWare pour Star Wars Battlefront 3 — Selon Bloomberg, la dette du rachat a poussé EA à choisir Battlefront plutôt que Mass Effect. ([revue du jour](../2026/10/2026-10-31.md))
 - **2026-10-31** — Turn 10 absorbé par Playground Games, Dan Greenawalt s'en va — Le studio de Forza Motorsport devient Playground Games Redmond. ([revue du jour](../2026/10/2026-10-31.md))

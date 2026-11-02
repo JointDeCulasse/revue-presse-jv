@@ -2,6 +2,10 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-02** — F-Stop, la préquelle perdue de Portal, a fuité — Le prototype Valve de 2007, reconstitué à partir de trois fuites, est jouable presque en entier. ([revue du jour](../2026/11/2026-11-02.md))
+- **2026-11-02** — Des moddeurs ramènent le multijoueur de Mass Effect 3 dans la Legendary Edition — ME3Tweaks remasterise le mode coopératif avec serveurs hébergés par les joueurs. ([revue du jour](../2026/11/2026-11-02.md))
+- **2026-11-02** — GOG aimerait revenir aux jeux physiques — Un projet jugé « très, très compliqué » par la boutique. ([revue du jour](../2026/11/2026-11-02.md))
+- **2026-11-02** — Selaco double de volume le 13 novembre — Le chapitre 2 ajoute 19 cartes, de nouvelles armes et une IA réécrite. ([revue du jour](../2026/11/2026-11-02.md))
 - **2026-11-01** — Skyblivion visé par une plainte d'un ancien bénévole — L'équipe cherche une aide juridique gratuite et appelle au calme. ([revue du jour](../2026/11/2026-11-01.md))
 - **2026-11-01** — Alien: Isolation : les outils de mod OpenCAGE passent en version 1.0 — Près de neuf ans de travail pour créer cartes, missions et personnages sur mesure. ([revue du jour](../2026/11/2026-11-01.md))
 - **2026-11-01** — Le multijoueur de Dark Souls 2 et 3 coupé pour un « problème de serveur » — Invasions, coopération et messages désactivés sur toutes les plateformes, sans date de retour. ([revue du jour](../2026/11/2026-11-01.md))

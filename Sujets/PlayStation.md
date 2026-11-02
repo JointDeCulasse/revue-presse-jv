@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-02** — Suite : Phantom Blade Zero passe les 4 millions en 72 heures — Édition physique PS5 prévue en 2027. ([revue du jour](../2026/11/2026-11-02.md))
+- **2026-11-02** — Warzone hors ligne sur Xbox One et PS4 le 6 novembre — Fin du battle royale sur l'ancienne génération. ([revue du jour](../2026/11/2026-11-02.md))
 - **2026-11-01** — Rumeur : le prochain jeu de Bend Studio annoncé et lancé en 2027 — Selon MP1st, un jeu coopératif PS5 bien plus avancé que prévu. ([revue du jour](../2026/11/2026-11-01.md))
 - **2026-10-31** — Une offre d'emploi de Sony ravive la crainte des prix dynamiques — Sony recrute pour une « tarification intelligente » du PlayStation Store. ([revue du jour](../2026/10/2026-10-31.md))
 - **2026-10-31** — Crimson Desert s'essaie cinq heures, Resonance of Fate remasterisé — Essai du jeu complet sur consoles et remaster du RPG de tri-Ace sur PS5. ([revue du jour](../2026/10/2026-10-31.md))

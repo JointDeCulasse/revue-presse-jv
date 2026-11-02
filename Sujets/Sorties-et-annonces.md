@@ -2,6 +2,10 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-02** — Suite : Phantom Blade Zero passe les 4 millions en 72 heures — Démarrage historique pour l'action-RPG wuxia de S-Game sur PS5 et PC. ([revue du jour](../2026/11/2026-11-02.md))
+- **2026-11-02** — Suite : P'tite Planète sur Switch 2 en 2027, pas sur PS5 — HoYoverse privilégie la console de Nintendo pour son jeu de vie cosy. ([revue du jour](../2026/11/2026-11-02.md))
+- **2026-11-02** — HeroQuest arrive sur Steam avec un éditeur de quêtes — Adaptation par Nomad Games prévue en 2027, avec multijoueur et mod.io. ([revue du jour](../2026/11/2026-11-02.md))
+- **2026-11-02** — Melvor Idle 2 devient un spin-off officiel de RuneScape — Le jeu idle prend le sous-titre « A RuneScape Adventure ». ([revue du jour](../2026/11/2026-11-02.md))
 - **2026-11-01** — Fortnite passe à l'abordage avec la saison 5 du chapitre 7 — Nouvelle île pirate de 12 lieux, sur le thème de la chasse au trésor. ([revue du jour](../2026/11/2026-11-01.md))
 - **2026-11-01** — Silver Palace sortira le 14 décembre — Le gacha en monde ouvert d'Elementa arrive gratuitement sur PS5, PC et mobile. ([revue du jour](../2026/11/2026-11-01.md))
 - **2026-11-01** — Rumeur : des images d'un remake de Persona 1 fuitent — Séquence de combat probablement authentique selon Push Square, sans confirmation d'Atlus. ([revue du jour](../2026/11/2026-11-01.md))
