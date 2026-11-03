@@ -2,6 +2,7 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-03** — Stellar Blade sur Switch 2 : un portage solide malgré des concessions — Aussi : Enshrouded 1.0 salué, Godzilla Melee Remastered jugé maigre. ([revue du jour](../2026/11/2026-11-03.md))
 - **2026-10-31** — Castlevania: Belmont's Curse presque au sommet pour Kotaku — Le jeu d'Evil Empire et Motion Twin séduit par son exploration malgré une plateforme lourde. ([revue du jour](../2026/10/2026-10-31.md))
 - **2026-10-30** — Ace Combat 8 : un retour en grande forme — Kotaku salue missions spectaculaires et mise en scène, malgré un scénario faible. ([revue du jour](../2026/10/2026-10-30.md))
 - **2026-10-30** — Virtue and a Sledgehammer, la démolition comme thérapie — Le jeu de Deconstructeam chez Devolver séduit Kotaku par ses destructions et son récit. ([revue du jour](../2026/10/2026-10-30.md))

@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-03** — Sony propose jusqu'à 400 dollars pour reprendre les PS5 inutilisées — Microsoft a fait de même avec les Xbox Series. ([revue du jour](../2026/11/2026-11-03.md))
+- **2026-11-03** — DirectX : jusqu'à 90 % de mémoire en moins pour le ray tracing — De 7,5 Go à 774 Mo dans la démo de Microsoft sur RX 9070. ([revue du jour](../2026/11/2026-11-03.md))
+- **2026-11-03** — Le Steam Frame entre dans le top 10 des casques VR sur Steam — Le casque de Valve progresse dans l'enquête matérielle. ([revue du jour](../2026/11/2026-11-03.md))
 - **2026-11-01** — L'Arduview, console portable entièrement transparente — Basée sur Arduboy, 400 jeux, financée sur Kickstarter dès 75 dollars. ([revue du jour](../2026/11/2026-11-01.md))
 - **2026-10-30** — Suite : la Switch 2 édition Zelda, ruptures et retards — Ventes retenues chez Walmart, précommandes Target repoussées à mi-novembre. ([revue du jour](../2026/10/2026-10-30.md))
 - **2026-10-29** — Sony relance les accessoires transparents avec la Prism Collection — DualSense à 84,99 € et coques PS5 à 74,99 €, précommandes le 10 novembre. ([revue du jour](../2026/10/2026-10-29.md))

@@ -2,6 +2,10 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-03** — Thief Remastered le 3 décembre, avec une extension signée par l'équipe de The Black Parade — Nightdive ajoute quatre missions inédites, The Tarnished Mirror. ([revue du jour](../2026/11/2026-11-03.md))
+- **2026-11-03** — Until Dawn 2 se montrera en décembre lors d'un événement en salle — Toujours attendu le 28 janvier 2027 sur PS5. ([revue du jour](../2026/11/2026-11-03.md))
+- **2026-11-03** — Rumeur : un compte à rebours de Nintendo pointerait vers Pokémon Vents et Vagues — Révélation possible le 30 novembre. ([revue du jour](../2026/11/2026-11-03.md))
+- **2026-11-03** — Final Fantasy Resonance a dû convaincre la direction de Square Enix — Les dirigeants voulaient d'abord un simple portage de Brave Exvius. ([revue du jour](../2026/11/2026-11-03.md))
 - **2026-11-02** — Suite : Phantom Blade Zero passe les 4 millions en 72 heures — Démarrage historique pour l'action-RPG wuxia de S-Game sur PS5 et PC. ([revue du jour](../2026/11/2026-11-02.md))
 - **2026-11-02** — Suite : P'tite Planète sur Switch 2 en 2027, pas sur PS5 — HoYoverse privilégie la console de Nintendo pour son jeu de vie cosy. ([revue du jour](../2026/11/2026-11-02.md))
 - **2026-11-02** — HeroQuest arrive sur Steam avec un éditeur de quêtes — Adaptation par Nomad Games prévue en 2027, avec multijoueur et mod.io. ([revue du jour](../2026/11/2026-11-02.md))

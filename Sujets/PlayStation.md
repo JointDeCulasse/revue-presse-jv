@@ -2,6 +2,10 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-03** — Sony propose jusqu'à 400 dollars pour reprendre les PS5 inutilisées — Offre de reprise via Back Market aux États-Unis. ([revue du jour](../2026/11/2026-11-03.md))
+- **2026-11-03** — Sony multiplie les mises à jour anti-piratage avant GTA 6 — Le firmware 14.22.00 serait requis pour lancer le jeu. ([revue du jour](../2026/11/2026-11-03.md))
+- **2026-11-03** — Until Dawn 2 se montrera en décembre lors d'un événement en salle — Nouvelles images prévues avant la sortie du 28 janvier 2027. ([revue du jour](../2026/11/2026-11-03.md))
+- **2026-11-03** — Final Fantasy Resonance a dû convaincre la direction de Square Enix — Une adaptation complète plutôt qu'un portage à bas coût. ([revue du jour](../2026/11/2026-11-03.md))
 - **2026-11-02** — Suite : Phantom Blade Zero passe les 4 millions en 72 heures — Édition physique PS5 prévue en 2027. ([revue du jour](../2026/11/2026-11-02.md))
 - **2026-11-02** — Warzone hors ligne sur Xbox One et PS4 le 6 novembre — Fin du battle royale sur l'ancienne génération. ([revue du jour](../2026/11/2026-11-02.md))
 - **2026-11-01** — Rumeur : le prochain jeu de Bend Studio annoncé et lancé en 2027 — Selon MP1st, un jeu coopératif PS5 bien plus avancé que prévu. ([revue du jour](../2026/11/2026-11-01.md))

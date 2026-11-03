@@ -2,6 +2,10 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-03** — Suite : Helen Chiang conteste la version d'un licenciement pour faute — L'ex-COO d'Xbox nie toute faute mais dénonce la façon dont Microsoft l'a traitée. ([revue du jour](../2026/11/2026-11-03.md))
+- **2026-11-03** — Le directeur de South of Midnight estime qu'Xbox n'aurait pas dû financer son jeu — David Sears (Compulsion) juge le modèle non viable avec le recul. ([revue du jour](../2026/11/2026-11-03.md))
+- **2026-11-03** — Dune II, le « Graal » des rééditions bloqué par les droits — GOG détaille une licence éclatée entre EA, Universal, la fondation Herbert et Legendary. ([revue du jour](../2026/11/2026-11-03.md))
+- **2026-11-03** — Arc Raiders : Embark reconnaît des critiques « justes » sur ses voix IA — Certaines répliques ont depuis été réenregistrées par de vrais comédiens. ([revue du jour](../2026/11/2026-11-03.md))
 - **2026-11-02** — Itch.io submergé à son tour par les jeux générés par IA — Les nouvelles pages de jeux quotidiennes ont doublé en deux mois, sans hausse des achats. ([revue du jour](../2026/11/2026-11-02.md))
 - **2026-11-02** — GOG aimerait revenir aux jeux physiques — La boutique y réfléchit tout en jugeant le projet « très, très compliqué ». ([revue du jour](../2026/11/2026-11-02.md))
 - **2026-11-02** — Josh Sawyer : une ville coûte quatre fois plus cher qu'un donjon — Le directeur d'Obsidian explique le coût des zones urbaines dans les RPG. ([revue du jour](../2026/11/2026-11-02.md))

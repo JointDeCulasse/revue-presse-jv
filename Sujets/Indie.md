@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-03** — Top Hat Studios dévoile une salve de jeux lors de son Fall Showcase — RGB: Execution, Ryn, Spooky Tales, Silly Polly Beast sur Switch 2… ([revue du jour](../2026/11/2026-11-03.md))
+- **2026-11-03** — Queen's Domain, la bonne surprise façon Metroid Prime — Exploration à la première personne à 20 dollars sur Steam. ([revue du jour](../2026/11/2026-11-03.md))
+- **2026-11-03** — Monster Train 2 : The Punished sera le dernier DLC — Dernière faction de Shiny Shoe le 10 novembre. ([revue du jour](../2026/11/2026-11-03.md))
 - **2026-11-02** — Chronicles: Medieval menacé de fermeture à quelques mois de l'accès anticipé — Raw Power Games a perdu son financement. ([revue du jour](../2026/11/2026-11-02.md))
 - **2026-11-02** — Selaco double de volume le 13 novembre — Gros chapitre 2 gratuit pour le FPS rétro d'Altered Orbit. ([revue du jour](../2026/11/2026-11-02.md))
 - **2026-11-02** — Itch.io submergé à son tour par les jeux générés par IA — Les créations de pages ont doublé en deux mois. ([revue du jour](../2026/11/2026-11-02.md))

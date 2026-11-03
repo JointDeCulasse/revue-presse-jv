@@ -2,6 +2,12 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-03** — Thief Remastered le 3 décembre, avec une extension signée par l'équipe de The Black Parade — 4K/120 i/s et quatre missions inédites. ([revue du jour](../2026/11/2026-11-03.md))
+- **2026-11-03** — Dune II, le « Graal » des rééditions bloqué par les droits — GOG estime une réédition à environ 100 000 ventes, trop peu pour démêler la licence. ([revue du jour](../2026/11/2026-11-03.md))
+- **2026-11-03** — DirectX : jusqu'à 90 % de mémoire en moins pour le ray tracing — Clustered Geometry et Partitioned TLAS en préversion. ([revue du jour](../2026/11/2026-11-03.md))
+- **2026-11-03** — Le Steam Frame entre dans le top 10 des casques VR sur Steam — Loin derrière le Quest 3. ([revue du jour](../2026/11/2026-11-03.md))
+- **2026-11-03** — Queen's Domain, la bonne surprise façon Metroid Prime — PC Gamer en fait un achat immédiat. ([revue du jour](../2026/11/2026-11-03.md))
+- **2026-11-03** — Monster Train 2 : The Punished sera le dernier DLC — Sortie le 10 novembre. ([revue du jour](../2026/11/2026-11-03.md))
 - **2026-11-02** — F-Stop, la préquelle perdue de Portal, a fuité — Le prototype Valve de 2007, reconstitué à partir de trois fuites, est jouable presque en entier. ([revue du jour](../2026/11/2026-11-02.md))
 - **2026-11-02** — Des moddeurs ramènent le multijoueur de Mass Effect 3 dans la Legendary Edition — ME3Tweaks remasterise le mode coopératif avec serveurs hébergés par les joueurs. ([revue du jour](../2026/11/2026-11-02.md))
 - **2026-11-02** — GOG aimerait revenir aux jeux physiques — Un projet jugé « très, très compliqué » par la boutique. ([revue du jour](../2026/11/2026-11-02.md))

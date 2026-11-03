@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-03** — Ocarina of Time : Aonuma voulait un remake pour former les jeunes équipes — Téléportations supplémentaires retirées, cartes cadeaux Walmart après des précommandes annulées. ([revue du jour](../2026/11/2026-11-03.md))
+- **2026-11-03** — Stellar Blade sur Switch 2 : un portage solide malgré des concessions — Accueil favorable avant la sortie du 5 novembre. ([revue du jour](../2026/11/2026-11-03.md))
+- **2026-11-03** — Rumeur : un compte à rebours de Nintendo pointerait vers Pokémon Vents et Vagues — Révélation possible le 30 novembre. ([revue du jour](../2026/11/2026-11-03.md))
 - **2026-11-02** — Suite : P'tite Planète sur Switch 2 en 2027, pas sur PS5 — HoYoverse choisit la Switch 2 pour son concurrent d'Animal Crossing. ([revue du jour](../2026/11/2026-11-02.md))
 - **2026-11-01** — Un Pikmin Direct surprise et une « journée Pikmin » chaque 1er novembre — Démo de Pikmin 4 édition Switch 2 le 2 novembre, jeu complet le 12. ([revue du jour](../2026/11/2026-11-01.md))
 - **2026-10-31** — Nintendo annule l'événement d'Halloween de Kirby Air Riders — Arrêté après des gels d'écran sur Switch 2. ([revue du jour](../2026/10/2026-10-31.md))

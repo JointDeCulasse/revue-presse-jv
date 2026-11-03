@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-03** — Suite : Helen Chiang conteste la version d'un licenciement pour faute — Sa déclaration sur LinkedIn évoque de « sérieuses inquiétudes ». ([revue du jour](../2026/11/2026-11-03.md))
+- **2026-11-03** — Le directeur de South of Midnight estime qu'Xbox n'aurait pas dû financer son jeu — Un ancien cadre relativise aussi les 500 millions prêtés à Gears of War: E-Day. ([revue du jour](../2026/11/2026-11-03.md))
 - **2026-11-02** — Warzone hors ligne sur Xbox One et PS4 le 6 novembre — Trois jeux ferment leurs serveurs d'ici fin décembre. ([revue du jour](../2026/11/2026-11-02.md))
 - **2026-11-01** — id Software « va très bien » selon Marty Stratton — Le studio collabore étroitement avec MachineGames ; d'autres coupes Xbox seraient prévues en novembre et janvier. ([revue du jour](../2026/11/2026-11-01.md))
 - **2026-10-31** — Turn 10 absorbé par Playground Games, Dan Greenawalt s'en va — Le studio de Forza Motorsport devient Playground Games Redmond. ([revue du jour](../2026/10/2026-10-31.md))
