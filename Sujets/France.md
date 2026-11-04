@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-04** — Suite : Ubisoft candidat au rachat d'Arkane Lyon — Selon Bloomberg, au moins trois sociétés ont fait une offre, sans accord à ce stade. ([revue du jour](../2026/11/2026-11-04.md))
+- **2026-11-04** — Un fan propose 5 millions d'euros à Ubisoft pour sauver le remake de Prince of Persia — L'offre n'est pas vérifiée et Ubisoft n'a pas réagi. ([revue du jour](../2026/11/2026-11-04.md))
 - **2026-11-01** — Worlds 2026 : Karmine Corp en quarts de finale contre T1 — Pour sa première participation, KC bat Movistar KOI et reste le seul club européen en lice. ([revue du jour](../2026/11/2026-11-01.md))
 - **2026-10-31** — Castlevania: Belmont's Curse presque au sommet pour Kotaku — Le jeu d'Evil Empire et Motion Twin séduit par son exploration malgré une plateforme lourde. ([revue du jour](../2026/10/2026-10-31.md))
 - **2026-10-30** — Assassin's Creed a 20 ans : pas d'autre remake, Hexe en 2027 — Ubisoft fait le point et ajoute un New Game+ à Valhalla. ([revue du jour](../2026/10/2026-10-30.md))

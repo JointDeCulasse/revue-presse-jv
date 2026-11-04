@@ -2,6 +2,7 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-04** — Le PSVR2 disparaît de la boutique américaine de Sony — Le casque reste vendu au Royaume-Uni et Sony n'a annoncé aucun arrêt. ([revue du jour](../2026/11/2026-11-04.md))
 - **2026-11-03** — Sony propose jusqu'à 400 dollars pour reprendre les PS5 inutilisées — Microsoft a fait de même avec les Xbox Series. ([revue du jour](../2026/11/2026-11-03.md))
 - **2026-11-03** — DirectX : jusqu'à 90 % de mémoire en moins pour le ray tracing — De 7,5 Go à 774 Mo dans la démo de Microsoft sur RX 9070. ([revue du jour](../2026/11/2026-11-03.md))
 - **2026-11-03** — Le Steam Frame entre dans le top 10 des casques VR sur Steam — Le casque de Valve progresse dans l'enquête matérielle. ([revue du jour](../2026/11/2026-11-03.md))

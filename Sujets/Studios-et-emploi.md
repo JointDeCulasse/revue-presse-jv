@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-04** — Suite : Ubisoft candidat au rachat d'Arkane Lyon — Xbox étudie aussi une vente à la direction du studio, avant une échéance en décembre. ([revue du jour](../2026/11/2026-11-04.md))
+- **2026-11-04** — Suite : un N7 Day sans BioWare — Kotaku estime qu'une grosse opération était prévue avant la fermeture du studio par EA. ([revue du jour](../2026/11/2026-11-04.md))
 - **2026-11-03** — Suda51 redimensionne Grasshopper après son départ de NetEase — Moins de grands projets, des travaux pour d'autres et le retour de Travis Touchdown en 2027. ([revue du jour](../2026/11/2026-11-03.md))
 - **2026-11-02** — Nagoshi Studio est dissous — Le studio du créateur de Yakuza, financé par NetEase, ferme le 31 octobre avec son jeu Gang of Dragon. ([revue du jour](../2026/11/2026-11-02.md))
 - **2026-11-02** — Arc System Works ouvre son studio « Takumi » à Tokyo — Nouveau studio à Shinjuku, qui démarre sur un jeu de combat subventionné par le METI. ([revue du jour](../2026/11/2026-11-02.md))

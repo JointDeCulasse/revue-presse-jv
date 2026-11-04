@@ -2,6 +2,10 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-04** — Valve admet un retard de validation sur Steam — Délais jusqu'à 12 jours ouvrés et liste de contrôle renforcée. ([revue du jour](../2026/11/2026-11-04.md))
+- **2026-11-04** — Suite : Itch.io fait le ménage, Nexus Mods choisit la transparence — Deux réponses différentes à l'afflux de contenus générés par IA. ([revue du jour](../2026/11/2026-11-04.md))
+- **2026-11-04** — Probably Stolen, succès surprise après un changement d'identité — De 28 joueurs simultanés à un pic de 112 000 après un remaniement de son éditeur. ([revue du jour](../2026/11/2026-11-04.md))
+- **2026-11-04** — Stronghold 4 repousse son accès anticipé à avril 2027 — Lancement décalé au 20 avril pour intégrer les retours de la démo. ([revue du jour](../2026/11/2026-11-04.md))
 - **2026-11-03** — Thief Remastered le 3 décembre, avec une extension signée par l'équipe de The Black Parade — 4K/120 i/s et quatre missions inédites. ([revue du jour](../2026/11/2026-11-03.md))
 - **2026-11-03** — Dune II, le « Graal » des rééditions bloqué par les droits — GOG estime une réédition à environ 100 000 ventes, trop peu pour démêler la licence. ([revue du jour](../2026/11/2026-11-03.md))
 - **2026-11-03** — DirectX : jusqu'à 90 % de mémoire en moins pour le ray tracing — Clustered Geometry et Partitioned TLAS en préversion. ([revue du jour](../2026/11/2026-11-03.md))

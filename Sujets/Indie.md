@@ -2,6 +2,10 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-04** — Probably Stolen, succès surprise après un changement d'identité — Plus de 350 000 exemplaires le jour de sa sortie selon Automaton. ([revue du jour](../2026/11/2026-11-04.md))
+- **2026-11-04** — Rami Ismail revient au développement après six ans — Il lance un jeu de stratégie financé par Mystic Forge et décrit un marché plus frileux. ([revue du jour](../2026/11/2026-11-04.md))
+- **2026-11-04** — Stronghold 4 repousse son accès anticipé à avril 2027 — Firefly veut proposer la campagne économique dès le lancement. ([revue du jour](../2026/11/2026-11-04.md))
+- **2026-11-04** — Witchbrook aura finalement le crossplay entre Switch et Switch 2 — Les développeurs reviennent sur leur message de fin octobre. ([revue du jour](../2026/11/2026-11-04.md))
 - **2026-11-03** — Top Hat Studios dévoile une salve de jeux lors de son Fall Showcase — RGB: Execution, Ryn, Spooky Tales, Silly Polly Beast sur Switch 2… ([revue du jour](../2026/11/2026-11-03.md))
 - **2026-11-03** — Queen's Domain, la bonne surprise façon Metroid Prime — Exploration à la première personne à 20 dollars sur Steam. ([revue du jour](../2026/11/2026-11-03.md))
 - **2026-11-03** — Monster Train 2 : The Punished sera le dernier DLC — Dernière faction de Shiny Shoe le 10 novembre. ([revue du jour](../2026/11/2026-11-03.md))

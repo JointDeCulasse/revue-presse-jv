@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-04** — Le PSVR2 disparaît de la boutique américaine de Sony — Seuls les accessoires restent sur PlayStation Direct aux États-Unis. ([revue du jour](../2026/11/2026-11-04.md))
+- **2026-11-04** — Sony remet au pot dans le China Hero Project — Quatrième phase lancée à Shanghai, avec EXILEDGE, DaBa et Unending Dawn. ([revue du jour](../2026/11/2026-11-04.md))
 - **2026-11-03** — Sony propose jusqu'à 400 dollars pour reprendre les PS5 inutilisées — Offre de reprise via Back Market aux États-Unis. ([revue du jour](../2026/11/2026-11-03.md))
 - **2026-11-03** — Sony multiplie les mises à jour anti-piratage avant GTA 6 — Le firmware 14.22.00 serait requis pour lancer le jeu. ([revue du jour](../2026/11/2026-11-03.md))
 - **2026-11-03** — Until Dawn 2 se montrera en décembre lors d'un événement en salle — Nouvelles images prévues avant la sortie du 28 janvier 2027. ([revue du jour](../2026/11/2026-11-03.md))

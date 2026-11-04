@@ -2,6 +2,7 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-04** — Pikmin Bloom signe sa meilleure année — 36,1 M$ sur sa cinquième année selon AppMagic, en hausse de 53 %. ([revue du jour](../2026/11/2026-11-04.md))
 - **2026-11-01** — Silver Palace sortira le 14 décembre — Le gacha d'Elementa sort aussi sur iOS et Android, avec récompenses de préinscription. ([revue du jour](../2026/11/2026-11-01.md))
 - **2026-10-31** — Roblox recule et parie sur l'IA — 138 millions d'utilisateurs quotidiens (-9 %), et plus de 80 % des jeux phares faits avec l'IA. ([revue du jour](../2026/10/2026-10-31.md))
 - **2026-10-29** — Roblox : un agent IA a aspiré 145 Go de modèles 3D, dont des contenus adultes — L'agent a été désactivé et les données n'auraient servi à aucun entraînement. ([revue du jour](../2026/10/2026-10-29.md))

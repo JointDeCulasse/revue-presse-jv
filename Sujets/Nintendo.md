@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-04** — Suite : Ocarina of Time reçoit 37/40 de Famitsu avant sa sortie — Aonuma revient aussi sur les retouches apportées au Temple de l'Eau. ([revue du jour](../2026/11/2026-11-04.md))
+- **2026-11-04** — Witchbrook aura finalement le crossplay entre Switch et Switch 2 — Confirmé au lancement, le 28 janvier 2027, après un message contraire. ([revue du jour](../2026/11/2026-11-04.md))
 - **2026-11-03** — Ocarina of Time : Aonuma voulait un remake pour former les jeunes équipes — Téléportations supplémentaires retirées, cartes cadeaux Walmart après des précommandes annulées. ([revue du jour](../2026/11/2026-11-03.md))
 - **2026-11-03** — Stellar Blade sur Switch 2 : un portage solide malgré des concessions — Accueil favorable avant la sortie du 5 novembre. ([revue du jour](../2026/11/2026-11-03.md))
 - **2026-11-03** — Rumeur : un compte à rebours de Nintendo pointerait vers Pokémon Vents et Vagues — Révélation possible le 30 novembre. ([revue du jour](../2026/11/2026-11-03.md))

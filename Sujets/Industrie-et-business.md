@@ -2,6 +2,13 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-04** — Suite : Itch.io fait le ménage, Nexus Mods choisit la transparence — Itch.io supprime des téraoctets de contenus IA et ajoute un filtre, Nexus Mods impose la déclaration sans interdire. ([revue du jour](../2026/11/2026-11-04.md))
+- **2026-11-04** — Valve admet un retard de validation sur Steam — Jusqu'à 12 jours ouvrés d'attente, les développeurs accusent l'afflux de jeux générés par IA. ([revue du jour](../2026/11/2026-11-04.md))
+- **2026-11-04** — Control Resonant triple le chiffre d'affaires trimestriel de Remedy — 39,6 M€ au T3, et la moitié des acheteurs découvrent la série. ([revue du jour](../2026/11/2026-11-04.md))
+- **2026-11-04** — Borderlands dépasse les 100 millions d'exemplaires — 2K célèbre le cap dix-sept ans après le premier jeu. ([revue du jour](../2026/11/2026-11-04.md))
+- **2026-11-04** — NIKKE et Sega touchés par des incidents de sécurité — Lanceur PC de NIKKE possiblement compromis, réseau d'arcade de Sega hors ligne. ([revue du jour](../2026/11/2026-11-04.md))
+- **2026-11-04** — Sony remet au pot dans le China Hero Project — Environ 1 million de dollars de plus pour trois jeux chinois. ([revue du jour](../2026/11/2026-11-04.md))
+- **2026-11-04** — Un fan propose 5 millions d'euros à Ubisoft pour sauver le remake de Prince of Persia — Une offre non vérifiée, restée sans réponse d'Ubisoft. ([revue du jour](../2026/11/2026-11-04.md))
 - **2026-11-03** — Suite : Helen Chiang conteste la version d'un licenciement pour faute — L'ex-COO d'Xbox nie toute faute mais dénonce la façon dont Microsoft l'a traitée. ([revue du jour](../2026/11/2026-11-03.md))
 - **2026-11-03** — Le directeur de South of Midnight estime qu'Xbox n'aurait pas dû financer son jeu — David Sears (Compulsion) juge le modèle non viable avec le recul. ([revue du jour](../2026/11/2026-11-03.md))
 - **2026-11-03** — Dune II, le « Graal » des rééditions bloqué par les droits — GOG détaille une licence éclatée entre EA, Universal, la fondation Herbert et Legendary. ([revue du jour](../2026/11/2026-11-03.md))

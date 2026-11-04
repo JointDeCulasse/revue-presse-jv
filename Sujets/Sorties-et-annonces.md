@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-04** — The Elder Scrolls VI s'appelle Sentinel — Titre révélé pour les 40 ans de Bethesda, sans date ni plateformes. ([revue du jour](../2026/11/2026-11-04.md))
+- **2026-11-04** — Suite : GTA 6 pèsera 212 Go, préchargement avancé au 10 novembre — Sortie maintenue au 19 novembre, carte absente des boîtes. ([revue du jour](../2026/11/2026-11-04.md))
+- **2026-11-04** — Bill & Ted reviennent en jeu d'arcade — Art of Play annonce un jeu à deux en défilement horizontal, sans date. ([revue du jour](../2026/11/2026-11-04.md))
 - **2026-11-03** — Thief Remastered le 3 décembre, avec une extension signée par l'équipe de The Black Parade — Nightdive ajoute quatre missions inédites, The Tarnished Mirror. ([revue du jour](../2026/11/2026-11-03.md))
 - **2026-11-03** — Until Dawn 2 se montrera en décembre lors d'un événement en salle — Toujours attendu le 28 janvier 2027 sur PS5. ([revue du jour](../2026/11/2026-11-03.md))
 - **2026-11-03** — Rumeur : un compte à rebours de Nintendo pointerait vers Pokémon Vents et Vagues — Révélation possible le 30 novembre. ([revue du jour](../2026/11/2026-11-03.md))

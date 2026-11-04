@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-04** — The Elder Scrolls VI s'appelle Sentinel — Le jeu resterait à plus de deux ans selon Jason Schreier. ([revue du jour](../2026/11/2026-11-04.md))
+- **2026-11-04** — Game Pass : huit classiques Xbox 360 pour les 25 ans de la marque — Banjo-Kazooie, Perfect Dark et Viva Piñata arrivent le 15 novembre. ([revue du jour](../2026/11/2026-11-04.md))
+- **2026-11-04** — Le pack « 25 Years of Xbox » affiché à 569,99 dollars — Ce lot de 25 jeux est normalement offert avec certains PC Windows 11. ([revue du jour](../2026/11/2026-11-04.md))
 - **2026-11-03** — Suite : Helen Chiang conteste la version d'un licenciement pour faute — Sa déclaration sur LinkedIn évoque de « sérieuses inquiétudes ». ([revue du jour](../2026/11/2026-11-03.md))
 - **2026-11-03** — Le directeur de South of Midnight estime qu'Xbox n'aurait pas dû financer son jeu — Un ancien cadre relativise aussi les 500 millions prêtés à Gears of War: E-Day. ([revue du jour](../2026/11/2026-11-03.md))
 - **2026-11-02** — Warzone hors ligne sur Xbox One et PS4 le 6 novembre — Trois jeux ferment leurs serveurs d'ici fin décembre. ([revue du jour](../2026/11/2026-11-02.md))
