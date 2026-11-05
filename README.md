@@ -9,6 +9,7 @@ Archive quotidienne de l'actualité jeu vidéo, rédigée en français à partir
 
 ## Revues
 
+- [2026-11-05](2026/11/2026-11-05.md) — Le STJV accuse Microsoft de saboter Blade chez Arkane Lyon · God of War Laufey repoussé au 20 mai 2027 · Ocarina of Time à 96 sur Metacritic, Switch 2 à 26,35 millions et PS5 à 97,9 millions
 - [2026-11-04](2026/11/2026-11-04.md) — The Elder Scrolls VI s'appelle Sentinel, encore à plus de deux ans selon Schreier · Ubisoft parmi les candidats au rachat d'Arkane Lyon · Itch.io purge l'IA, Steam en retard de validation, Nexus Mods impose la transparence
 - [2026-11-03](2026/11/2026-11-03.md) — Helen Chiang dément avoir été licenciée d'Xbox pour faute · Thief Remastered le 3 décembre avec une extension des auteurs de The Black Parade · Suda51 redimensionne Grasshopper, Travis Touchdown reviendra en 2027
 - [2026-11-02](2026/11/2026-11-02.md) — Nagoshi Studio (créateur de Yakuza) dissous par NetEase · Phantom Blade Zero à 4 millions en 72 heures · F-Stop, préquelle annulée de Portal, a fuité

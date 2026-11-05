@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-05** — Suite : le STJV accuse Microsoft de « saboter » Blade chez Arkane Lyon — 217 postes sont menacés, et le syndicat demande de meilleures indemnités faute de vente. ([revue du jour](../2026/11/2026-11-05.md))
+- **2026-11-05** — Suite : une pétition demande au Canada de financer l'indépendance de BioWare — Le texte e-7898 a réuni assez de signatures pour être présenté à la Chambre des communes. ([revue du jour](../2026/11/2026-11-05.md))
 - **2026-11-04** — Suite : Ubisoft candidat au rachat d'Arkane Lyon — Xbox étudie aussi une vente à la direction du studio, avant une échéance en décembre. ([revue du jour](../2026/11/2026-11-04.md))
 - **2026-11-04** — Suite : un N7 Day sans BioWare — Kotaku estime qu'une grosse opération était prévue avant la fermeture du studio par EA. ([revue du jour](../2026/11/2026-11-04.md))
 - **2026-11-03** — Suda51 redimensionne Grasshopper après son départ de NetEase — Moins de grands projets, des travaux pour d'autres et le retour de Travis Touchdown en 2027. ([revue du jour](../2026/11/2026-11-03.md))

@@ -2,6 +2,7 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-05** — Ocarina of Time sur Switch 2 : 96 sur Metacritic, mais pas de Master Quest — 9/10 chez Nintendo Life, qui regrette notamment l'absence de ce mode. ([revue du jour](../2026/11/2026-11-05.md))
 - **2026-11-04** — Ocarina of Time (remake) — 37/40 chez Famitsu, premier test publié avant la sortie. ([revue du jour](../2026/11/2026-11-04.md))
 - **2026-11-04** — Zero Parades séduit sur Switch 2, Modern Warfare 4 partage — 8/10 chez Nintendo Life pour le premier, 7,5/10 chez ActuGaming pour le second. ([revue du jour](../2026/11/2026-11-04.md))
 - **2026-11-03** — Stellar Blade sur Switch 2 : un portage solide malgré des concessions — Aussi : Enshrouded 1.0 salué, Godzilla Melee Remastered jugé maigre. ([revue du jour](../2026/11/2026-11-03.md))

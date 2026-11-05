@@ -2,6 +2,10 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-05** — God of War Laufey repoussé au 20 mai 2027 — Santa Monica Studio décale de trois mois l'exclusivité PS5, attendue le 16 février. ([revue du jour](../2026/11/2026-11-05.md))
+- **2026-11-05** — Suite : GTA 6 aurait déjà vendu 7,7 millions d'exemplaires en précommande — Une estimation de Sensor Tower, non confirmée par Rockstar ou Take-Two. ([revue du jour](../2026/11/2026-11-05.md))
+- **2026-11-05** — Tomb Raider: Legacy of Atlantis en couverture de Game Informer — Lara y parlera aussi français en version originale, à la suggestion de sa comédienne. ([revue du jour](../2026/11/2026-11-05.md))
+- **2026-11-05** — MMO : WoW Forever démarre bien, RuneScape adopte la mort définitive, Guild Wars revit — Afterlife, première extension de Guild Wars en près de 20 ans, arrive le 13 janvier 2027. ([revue du jour](../2026/11/2026-11-05.md))
 - **2026-11-04** — The Elder Scrolls VI s'appelle Sentinel — Titre révélé pour les 40 ans de Bethesda, sans date ni plateformes. ([revue du jour](../2026/11/2026-11-04.md))
 - **2026-11-04** — Suite : GTA 6 pèsera 212 Go, préchargement avancé au 10 novembre — Sortie maintenue au 19 novembre, carte absente des boîtes. ([revue du jour](../2026/11/2026-11-04.md))
 - **2026-11-04** — Bill & Ted reviennent en jeu d'arcade — Art of Play annonce un jeu à deux en défilement horizontal, sans date. ([revue du jour](../2026/11/2026-11-04.md))

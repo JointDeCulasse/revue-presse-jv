@@ -2,6 +2,10 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-05** — Sony : 97,9 millions de PS5 expédiées, Wolverine à 2,4 millions — La PS5 approche des 100 millions, avec 900 000 expéditions de moins sur un an au trimestre. ([revue du jour](../2026/11/2026-11-05.md))
+- **2026-11-05** — La Switch 2 à 26,35 millions, un rythme à surveiller — La console se vend à 2,67 millions sur le trimestre. ([revue du jour](../2026/11/2026-11-05.md))
+- **2026-11-05** — Macronix, fournisseur de cartouches, abandonne les puces ROM — Les informations divergent sur son rôle pour la Switch 2. ([revue du jour](../2026/11/2026-11-05.md))
+- **2026-11-05** — Xbox teste le téléphone comme manette et une connexion Wi-Fi directe au cloud — La manette Nano profite en premier de Cloud connect. ([revue du jour](../2026/11/2026-11-05.md))
 - **2026-11-04** — Le PSVR2 disparaît de la boutique américaine de Sony — Le casque reste vendu au Royaume-Uni et Sony n'a annoncé aucun arrêt. ([revue du jour](../2026/11/2026-11-04.md))
 - **2026-11-03** — Sony propose jusqu'à 400 dollars pour reprendre les PS5 inutilisées — Microsoft a fait de même avec les Xbox Series. ([revue du jour](../2026/11/2026-11-03.md))
 - **2026-11-03** — DirectX : jusqu'à 90 % de mémoire en moins pour le ray tracing — De 7,5 Go à 774 Mo dans la démo de Microsoft sur RX 9070. ([revue du jour](../2026/11/2026-11-03.md))

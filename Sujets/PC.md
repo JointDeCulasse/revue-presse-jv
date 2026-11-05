@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-05** — Pénurie de mémoire : Altman se défend, TeamGroup voit l'équilibre fin 2028 — Sam Altman dit avoir été sorti de son contexte après ses propos sur la mémoire des PC. ([revue du jour](../2026/11/2026-11-05.md))
+- **2026-11-05** — GOG tient ce soir sa toute première vitrine — Rendez-vous à 19 h pour ses 18 ans, Black & White en tête des demandes de la communauté. ([revue du jour](../2026/11/2026-11-05.md))
 - **2026-11-04** — Valve admet un retard de validation sur Steam — Délais jusqu'à 12 jours ouvrés et liste de contrôle renforcée. ([revue du jour](../2026/11/2026-11-04.md))
 - **2026-11-04** — Suite : Itch.io fait le ménage, Nexus Mods choisit la transparence — Deux réponses différentes à l'afflux de contenus générés par IA. ([revue du jour](../2026/11/2026-11-04.md))
 - **2026-11-04** — Probably Stolen, succès surprise après un changement d'identité — De 28 joueurs simultanés à un pic de 112 000 après un remaniement de son éditeur. ([revue du jour](../2026/11/2026-11-04.md))

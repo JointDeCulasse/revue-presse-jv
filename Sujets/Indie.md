@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-05** — Tripwire Presents s'ouvre aux petits studios — L'éditeur du groupe Embracer lance un accompagnement modulable et cinq premiers jeux. ([revue du jour](../2026/11/2026-11-05.md))
+- **2026-11-05** — Stardew Valley 1.7 s'annonce comme la plus grosse mise à jour du jeu — Sortie vraisemblable en 2027, sans date ferme. ([revue du jour](../2026/11/2026-11-05.md))
+- **2026-11-05** — Wonderfall, Everbrink, Enjoyn Games : les annonces indé du jour — Wonderfall sort le 9 décembre, et le retard de validation de Steam prive CRYMELIGHT de sa date sur PC. ([revue du jour](../2026/11/2026-11-05.md))
 - **2026-11-04** — Probably Stolen, succès surprise après un changement d'identité — Plus de 350 000 exemplaires le jour de sa sortie selon Automaton. ([revue du jour](../2026/11/2026-11-04.md))
 - **2026-11-04** — Rami Ismail revient au développement après six ans — Il lance un jeu de stratégie financé par Mystic Forge et décrit un marché plus frileux. ([revue du jour](../2026/11/2026-11-04.md))
 - **2026-11-04** — Stronghold 4 repousse son accès anticipé à avril 2027 — Firefly veut proposer la campagne économique dès le lancement. ([revue du jour](../2026/11/2026-11-04.md))

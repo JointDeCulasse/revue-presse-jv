@@ -2,6 +2,7 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-05** — Suite : le STJV accuse Microsoft de « saboter » Blade chez Arkane Lyon — Le syndicat dénonce un gel des embauches de 19 mois et réclame un droit de regard sur le repreneur. ([revue du jour](../2026/11/2026-11-05.md))
 - **2026-11-04** — Suite : Ubisoft candidat au rachat d'Arkane Lyon — Selon Bloomberg, au moins trois sociétés ont fait une offre, sans accord à ce stade. ([revue du jour](../2026/11/2026-11-04.md))
 - **2026-11-04** — Un fan propose 5 millions d'euros à Ubisoft pour sauver le remake de Prince of Persia — L'offre n'est pas vérifiée et Ubisoft n'a pas réagi. ([revue du jour](../2026/11/2026-11-04.md))
 - **2026-11-01** — Worlds 2026 : Karmine Corp en quarts de finale contre T1 — Pour sa première participation, KC bat Movistar KOI et reste le seul club européen en lice. ([revue du jour](../2026/11/2026-11-01.md))

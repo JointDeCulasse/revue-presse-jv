@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-05** — Nintendo, Xbox, Ubisoft et EA adoptent les étiquettes d'accessibilité communes — Riot Games et Google rejoignent aussi cette initiative de 25 mentions volontaires pilotée par l'ESA. ([revue du jour](../2026/11/2026-11-05.md))
+- **2026-11-05** — Modern Warfare 4 en tête du PS Store, mais moins suivi que Black Ops 7 sur console — Circana relève un engagement en baisse sur console, en hausse sur Steam aux États-Unis. ([revue du jour](../2026/11/2026-11-05.md))
+- **2026-11-05** — Suite : l'éditeur de NIKKE confirme la compromission de son lanceur PC — Les joueurs l'ayant ouvert depuis le 24 octobre ont pu être exposés à un logiciel malveillant. ([revue du jour](../2026/11/2026-11-05.md))
 - **2026-11-04** — Suite : Itch.io fait le ménage, Nexus Mods choisit la transparence — Itch.io supprime des téraoctets de contenus IA et ajoute un filtre, Nexus Mods impose la déclaration sans interdire. ([revue du jour](../2026/11/2026-11-04.md))
 - **2026-11-04** — Valve admet un retard de validation sur Steam — Jusqu'à 12 jours ouvrés d'attente, les développeurs accusent l'afflux de jeux générés par IA. ([revue du jour](../2026/11/2026-11-04.md))
 - **2026-11-04** — Control Resonant triple le chiffre d'affaires trimestriel de Remedy — 39,6 M€ au T3, et la moitié des acheteurs découvrent la série. ([revue du jour](../2026/11/2026-11-04.md))
