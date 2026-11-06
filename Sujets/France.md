@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-06** — Assassin's Creed Valhalla reçoit enfin un New Game+ — La mise à jour 1.8 d'Ubisoft ajoute aussi une progression étendue et le support de PSSR 2 sur PS5 Pro. ([revue du jour](../2026/11/2026-11-06.md))
+- **2026-11-06** — Worlds : BLG balaie Dplus KIA, Karmine Corp joue sa place ce vendredi — Le club français affronte T1 pour une place en demi-finale contre BLG. ([revue du jour](../2026/11/2026-11-06.md))
 - **2026-11-05** — Suite : le STJV accuse Microsoft de « saboter » Blade chez Arkane Lyon — Le syndicat dénonce un gel des embauches de 19 mois et réclame un droit de regard sur le repreneur. ([revue du jour](../2026/11/2026-11-05.md))
 - **2026-11-04** — Suite : Ubisoft candidat au rachat d'Arkane Lyon — Selon Bloomberg, au moins trois sociétés ont fait une offre, sans accord à ce stade. ([revue du jour](../2026/11/2026-11-04.md))
 - **2026-11-04** — Un fan propose 5 millions d'euros à Ubisoft pour sauver le remake de Prince of Persia — L'offre n'est pas vérifiée et Ubisoft n'a pas réagi. ([revue du jour](../2026/11/2026-11-04.md))

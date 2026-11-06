@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-06** — Final Fantasy : Square Enix misera sur du neuf après le remake de FFVII — Kitase reconnaît une demande pour un remake de FFVI, mais ne s'attend pas à y travailler prochainement. ([revue du jour](../2026/11/2026-11-06.md))
+- **2026-11-06** — Hard West II et Thrifty Business arrivent sur consoles — Hard West II sort le 10 novembre sur PS5 et Xbox Series, Thrifty Business sur Switch à une date à venir. ([revue du jour](../2026/11/2026-11-06.md))
 - **2026-11-05** — God of War Laufey repoussé au 20 mai 2027 — Santa Monica Studio décale de trois mois l'exclusivité PS5, attendue le 16 février. ([revue du jour](../2026/11/2026-11-05.md))
 - **2026-11-05** — Suite : GTA 6 aurait déjà vendu 7,7 millions d'exemplaires en précommande — Une estimation de Sensor Tower, non confirmée par Rockstar ou Take-Two. ([revue du jour](../2026/11/2026-11-05.md))
 - **2026-11-05** — Tomb Raider: Legacy of Atlantis en couverture de Game Informer — Lara y parlera aussi français en version originale, à la suggestion de sa comédienne. ([revue du jour](../2026/11/2026-11-05.md))

@@ -2,6 +2,7 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-06** — L'application Xbox sur PC accélère, FSR 4.1 arrive sur Series — Les Insiders testent une version jusqu'à 60 % plus rapide au lancement, d'après Microsoft. ([revue du jour](../2026/11/2026-11-06.md))
 - **2026-11-05** — Xbox teste le téléphone comme manette et une connexion Wi-Fi directe au cloud — Deux préversions du cloud, dont l'une réservée à la manette Nano aux États-Unis. ([revue du jour](../2026/11/2026-11-05.md))
 - **2026-11-04** — The Elder Scrolls VI s'appelle Sentinel — Le jeu resterait à plus de deux ans selon Jason Schreier. ([revue du jour](../2026/11/2026-11-04.md))
 - **2026-11-04** — Game Pass : huit classiques Xbox 360 pour les 25 ans de la marque — Banjo-Kazooie, Perfect Dark et Viva Piñata arrivent le 15 novembre. ([revue du jour](../2026/11/2026-11-04.md))

@@ -2,6 +2,7 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-06** — Worlds : BLG balaie Dplus KIA, Karmine Corp joue sa place ce vendredi — BLG attend en demi-finale le vainqueur de T1 – Karmine Corp. ([revue du jour](../2026/11/2026-11-06.md))
 - **2026-11-05** — Worlds : Gen.G écrase LYON 3-0, Karmine Corp attend T1 — Gen.G retrouvera Invictus Gaming en demi-finale le 7 novembre, d'après Strafe. ([revue du jour](../2026/11/2026-11-05.md))
 - **2026-11-01** — Worlds 2026 : Karmine Corp en quarts de finale contre T1 — Quarts du 3 au 6 novembre, finale le 14 au Barclays Center de Brooklyn. ([revue du jour](../2026/11/2026-11-01.md))
 - **2026-10-26** — Worlds 2026 : Gen.G et Dplus KIA premiers qualifiés pour les quarts — Deux 3-0 en phase suisse, quarts du 3 au 14 novembre. ([revue du jour](../2026/10/2026-10-26.md))

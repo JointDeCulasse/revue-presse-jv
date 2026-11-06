@@ -2,6 +2,10 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-06** — Woim, le casse-tête qui croise Snake et Sokoban — Un jeu conçu par une seule personne, choisi comme jeu indépendant de la semaine par Kotaku. ([revue du jour](../2026/11/2026-11-06.md))
+- **2026-11-06** — Tenebris Somnia, horreur en prises de vues réelles venue d'Argentine — Saibot Studios mêle gameplay et séquences filmées autour des souvenirs d'un ex. ([revue du jour](../2026/11/2026-11-06.md))
+- **2026-11-06** — Hard West II et Thrifty Business arrivent sur consoles — Sorties prévues le 10 novembre sur PS5 et Xbox Series pour le premier, sur Switch à une date à venir pour le second. ([revue du jour](../2026/11/2026-11-06.md))
+- **2026-11-06** — GOG : première vitrine centrée sur la plateforme et le rétro — Le nouveau label Retrovibe réunit des jeux comme Shardpunk 2 et Project Warlock: Lost Chapters. ([revue du jour](../2026/11/2026-11-06.md))
 - **2026-11-05** — Tripwire Presents s'ouvre aux petits studios — L'éditeur du groupe Embracer lance un accompagnement modulable et cinq premiers jeux. ([revue du jour](../2026/11/2026-11-05.md))
 - **2026-11-05** — Stardew Valley 1.7 s'annonce comme la plus grosse mise à jour du jeu — Sortie vraisemblable en 2027, sans date ferme. ([revue du jour](../2026/11/2026-11-05.md))
 - **2026-11-05** — Wonderfall, Everbrink, Enjoyn Games : les annonces indé du jour — Wonderfall sort le 9 décembre, et le retard de validation de Steam prive CRYMELIGHT de sa date sur PC. ([revue du jour](../2026/11/2026-11-05.md))

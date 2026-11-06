@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-06** — Suite : pas de nouvelle hausse de prix pour la Switch 2, malgré un trimestre en repli — Les ventes du trimestre reculent de plus de 37 % sur un an, sans changement de l'objectif annuel. ([revue du jour](../2026/11/2026-11-06.md))
+- **2026-11-06** — Remakes, jeux tiers et cinéma : le programme de Nintendo se précise — La présentation financière détaille les jeux tiers à venir sur Switch 2 et promet d'autres films après Zelda. ([revue du jour](../2026/11/2026-11-06.md))
 - **2026-11-05** — La Switch 2 à 26,35 millions, un rythme à surveiller — 6,49 millions sur le semestre, face à un objectif annuel de 16,5 millions fixé jusqu'ici. ([revue du jour](../2026/11/2026-11-05.md))
 - **2026-11-05** — Macronix, fournisseur de cartouches, abandonne les puces ROM — Nintendo dispose d'autres fournisseurs mais devra renégocier ses contrats. ([revue du jour](../2026/11/2026-11-05.md))
 - **2026-11-05** — Ocarina of Time sur Switch 2 : 96 sur Metacritic, mais pas de Master Quest — Le jeu le mieux noté de 2026 et de la console sort aujourd'hui. ([revue du jour](../2026/11/2026-11-05.md))

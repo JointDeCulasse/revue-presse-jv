@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-06** — Sony relève ses prévisions et assure sa mémoire jusqu'en mars 2028 — Le résultat opérationnel annuel attendu monte de 15 %, à 1 870 milliards de yens. ([revue du jour](../2026/11/2026-11-06.md))
+- **2026-11-06** — La première mission de 007 First Light devient gratuite — Le Starter Pack arrive pour tous sur PS5 le 10 novembre, avec conservation de la progression. ([revue du jour](../2026/11/2026-11-06.md))
 - **2026-11-05** — Sony : 97,9 millions de PS5 expédiées, Wolverine à 2,4 millions — Les expéditions du trimestre reculent à 2,6 millions, le logiciel et le PSN progressent. ([revue du jour](../2026/11/2026-11-05.md))
 - **2026-11-05** — God of War Laufey repoussé au 20 mai 2027 — Le jeu de Santa Monica Studio perd trois mois. ([revue du jour](../2026/11/2026-11-05.md))
 - **2026-11-04** — Le PSVR2 disparaît de la boutique américaine de Sony — Seuls les accessoires restent sur PlayStation Direct aux États-Unis. ([revue du jour](../2026/11/2026-11-04.md))

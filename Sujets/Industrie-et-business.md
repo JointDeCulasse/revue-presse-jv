@@ -2,6 +2,10 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-06** — Le PIF et Silver Lake s'intéressent à Unity — Reuters évoque une valorisation d'environ 25 milliards de dollars, dans des discussions encore préliminaires. ([revue du jour](../2026/11/2026-11-06.md))
+- **2026-11-06** — Take-Two : Zelnick défend son bilan à deux semaines de GTA 6 — Le PDG cite 15 licences à plus de 5 millions d'exemplaires et reconnaît le coût élevé de GTA 6. ([revue du jour](../2026/11/2026-11-06.md))
+- **2026-11-06** — IA : Sweeney juge le virage irréversible, Kojima veut préserver la part humaine — Unreal Engine 6 misera sur des outils d'IA en 2027, alors que Kojima défend la démarche créative humaine. ([revue du jour](../2026/11/2026-11-06.md))
+- **2026-11-06** — SAG-AFTRA ouvre un contrat pour les démos de présentation — Les développeurs pourront employer des comédiens syndiqués avant de démarcher un éditeur. ([revue du jour](../2026/11/2026-11-06.md))
 - **2026-11-05** — Nintendo, Xbox, Ubisoft et EA adoptent les étiquettes d'accessibilité communes — Riot Games et Google rejoignent aussi cette initiative de 25 mentions volontaires pilotée par l'ESA. ([revue du jour](../2026/11/2026-11-05.md))
 - **2026-11-05** — Modern Warfare 4 en tête du PS Store, mais moins suivi que Black Ops 7 sur console — Circana relève un engagement en baisse sur console, en hausse sur Steam aux États-Unis. ([revue du jour](../2026/11/2026-11-05.md))
 - **2026-11-05** — Suite : l'éditeur de NIKKE confirme la compromission de son lanceur PC — Les joueurs l'ayant ouvert depuis le 24 octobre ont pu être exposés à un logiciel malveillant. ([revue du jour](../2026/11/2026-11-05.md))
