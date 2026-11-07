@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-07** — Acornia: Mirror Worlds, le jeu de pâtisserie de Splashteam, attendu au printemps 2027 — Gestion de boutique entre deux dimensions sur PC, PS5, Xbox Series et Switch 2. ([revue du jour](../2026/11/2026-11-07.md))
+- **2026-11-07** — Jyoka et Psycho Sleuth, deux projets solitaires remarqués — Jyoka arrive sur Steam le 16 novembre, Psycho Sleuth démarre « Très positif ». ([revue du jour](../2026/11/2026-11-07.md))
+- **2026-11-07** — Hozy et MR. ELEVATOR datés sur consoles — Hozy le 9 novembre sur PS5 et Xbox Series, MR. ELEVATOR le 27 sur PS5. ([revue du jour](../2026/11/2026-11-07.md))
 - **2026-11-06** — Woim, le casse-tête qui croise Snake et Sokoban — Un jeu conçu par une seule personne, choisi comme jeu indépendant de la semaine par Kotaku. ([revue du jour](../2026/11/2026-11-06.md))
 - **2026-11-06** — Tenebris Somnia, horreur en prises de vues réelles venue d'Argentine — Saibot Studios mêle gameplay et séquences filmées autour des souvenirs d'un ex. ([revue du jour](../2026/11/2026-11-06.md))
 - **2026-11-06** — Hard West II et Thrifty Business arrivent sur consoles — Sorties prévues le 10 novembre sur PS5 et Xbox Series pour le premier, sur Switch à une date à venir pour le second. ([revue du jour](../2026/11/2026-11-06.md))

@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-07** — Path of Exile 2 sortira en version 1.0 le 11 décembre — Deux nouvelles classes, les actes 5 et 6 et un Atlas simplifié. ([revue du jour](../2026/11/2026-11-07.md))
+- **2026-11-07** — Battlefield 6 : les pelotons repoussés à 2027 — EA juge la fonction pas encore au niveau et promet une feuille de route après les fêtes. ([revue du jour](../2026/11/2026-11-07.md))
+- **2026-11-07** — Bloodborne 2 bloqué par des droits partagés, selon Shawn Layden — La licence est partagée entre Sony, FromSoftware et Kadokawa. ([revue du jour](../2026/11/2026-11-07.md))
 - **2026-11-06** — Final Fantasy : Square Enix misera sur du neuf après le remake de FFVII — Kitase reconnaît une demande pour un remake de FFVI, mais ne s'attend pas à y travailler prochainement. ([revue du jour](../2026/11/2026-11-06.md))
 - **2026-11-06** — Hard West II et Thrifty Business arrivent sur consoles — Hard West II sort le 10 novembre sur PS5 et Xbox Series, Thrifty Business sur Switch à une date à venir. ([revue du jour](../2026/11/2026-11-06.md))
 - **2026-11-05** — God of War Laufey repoussé au 20 mai 2027 — Santa Monica Studio décale de trois mois l'exclusivité PS5, attendue le 16 février. ([revue du jour](../2026/11/2026-11-05.md))

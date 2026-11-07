@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-07** — Le cloud du Game Pass passe au compteur, 11 bit signe trois jeux pour 2027 — Limite de 15, 10 ou 5 heures par mois selon l'offre, et trois jeux 11 bit dans le Game Pass dès leur sortie. ([revue du jour](../2026/11/2026-11-07.md))
+- **2026-11-07** — Une vague de retraits et de fermetures de serveurs d'ici fin 2026 — Quatre jeux GameMill quitteront aussi les boutiques d'ici le 31 décembre. ([revue du jour](../2026/11/2026-11-07.md))
 - **2026-11-06** — L'application Xbox sur PC accélère, FSR 4.1 arrive sur Series — Les Insiders testent une version jusqu'à 60 % plus rapide au lancement, d'après Microsoft. ([revue du jour](../2026/11/2026-11-06.md))
 - **2026-11-05** — Xbox teste le téléphone comme manette et une connexion Wi-Fi directe au cloud — Deux préversions du cloud, dont l'une réservée à la manette Nano aux États-Unis. ([revue du jour](../2026/11/2026-11-05.md))
 - **2026-11-04** — The Elder Scrolls VI s'appelle Sentinel — Le jeu resterait à plus de deux ans selon Jason Schreier. ([revue du jour](../2026/11/2026-11-04.md))

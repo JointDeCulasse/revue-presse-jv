@@ -2,6 +2,7 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-07** — Suite : le N7 Day sans BioWare, entre camion militant et produits dérivés — Les fans manifestent près du siège d'EA, tandis que David Gaider travaille sur The Expanse chez Owlcat. ([revue du jour](../2026/11/2026-11-07.md))
 - **2026-11-06** — Suite : un documentaire sur BioWare, la pétition en route vers le Parlement canadien — « Massive Effect: The BioWare Story » sortira en 2027, et la pétition dépasse 2 300 signatures. ([revue du jour](../2026/11/2026-11-06.md))
 - **2026-11-06** — Un studio racheté sur trois a fermé, selon une étude — Sur 283 développeurs recensés, 93 ont fermé, dont 33 depuis 2023. ([revue du jour](../2026/11/2026-11-06.md))
 - **2026-11-05** — Suite : le STJV accuse Microsoft de « saboter » Blade chez Arkane Lyon — 217 postes sont menacés, et le syndicat demande de meilleures indemnités faute de vente. ([revue du jour](../2026/11/2026-11-05.md))

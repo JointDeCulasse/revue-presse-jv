@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-07** — Civilization VII, porte d'entrée d'un piratage de la Switch 2 — Une faille de la cartouche Switch permet d'exécuter du code, et 2K aurait commencé un rappel. ([revue du jour](../2026/11/2026-11-07.md))
+- **2026-11-07** — Miyamoto absent de la présentation financière pour raison de santé — Son état est stable et il devrait se rétablir sous une semaine. ([revue du jour](../2026/11/2026-11-07.md))
 - **2026-11-06** — Suite : pas de nouvelle hausse de prix pour la Switch 2, malgré un trimestre en repli — Les ventes du trimestre reculent de plus de 37 % sur un an, sans changement de l'objectif annuel. ([revue du jour](../2026/11/2026-11-06.md))
 - **2026-11-06** — Remakes, jeux tiers et cinéma : le programme de Nintendo se précise — La présentation financière détaille les jeux tiers à venir sur Switch 2 et promet d'autres films après Zelda. ([revue du jour](../2026/11/2026-11-06.md))
 - **2026-11-05** — La Switch 2 à 26,35 millions, un rythme à surveiller — 6,49 millions sur le semestre, face à un objectif annuel de 16,5 millions fixé jusqu'ici. ([revue du jour](../2026/11/2026-11-05.md))

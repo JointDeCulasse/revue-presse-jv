@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-07** — Sega : Stranger Than Heaven attire un public neuf, les bornes d'arcade toujours coupées — La moitié des listes de souhaits viennent de joueurs extérieurs à RGG, et les services d'arcade restent hors ligne. ([revue du jour](../2026/11/2026-11-07.md))
+- **2026-11-07** — Valnet (Polygon, GameRant) paie 2 millions de dollars pour clore un recours collectif — Le groupe était accusé d'avoir sous-payé des pigistes classés comme indépendants. ([revue du jour](../2026/11/2026-11-07.md))
+- **2026-11-07** — DENMU boucle un premier fonds de plus de 50 millions de dollars — Le fonds de San Francisco dépasse son objectif et s'associe au China Hero Project. ([revue du jour](../2026/11/2026-11-07.md))
 - **2026-11-06** — Le PIF et Silver Lake s'intéressent à Unity — Reuters évoque une valorisation d'environ 25 milliards de dollars, dans des discussions encore préliminaires. ([revue du jour](../2026/11/2026-11-06.md))
 - **2026-11-06** — Take-Two : Zelnick défend son bilan à deux semaines de GTA 6 — Le PDG cite 15 licences à plus de 5 millions d'exemplaires et reconnaît le coût élevé de GTA 6. ([revue du jour](../2026/11/2026-11-06.md))
 - **2026-11-06** — IA : Sweeney juge le virage irréversible, Kojima veut préserver la part humaine — Unreal Engine 6 misera sur des outils d'IA en 2027, alors que Kojima défend la démarche créative humaine. ([revue du jour](../2026/11/2026-11-06.md))

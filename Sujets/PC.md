@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-07** — Path of Exile 2 sortira en version 1.0 le 11 décembre — Grinding Gear Games détaille classes, actes et refonte de l'Atlas. ([revue du jour](../2026/11/2026-11-07.md))
+- **2026-11-07** — Discord réécrit son client en Rust — Environ 290 Mo de mémoire et un démarrage en une seconde, contre plus de 500 Mo et six secondes. ([revue du jour](../2026/11/2026-11-07.md))
+- **2026-11-07** — Arc Raiders : près de la moitié des parties du test PvE jouées sans affrontement entre joueurs — Embark juge un mode PvE simple à ajouter, sans décision pour l'instant. ([revue du jour](../2026/11/2026-11-07.md))
 - **2026-11-06** — GOG : première vitrine centrée sur la plateforme et le rétro — Galaxy arrive en bêta sur Linux, avec le label Retrovibe et la collection EA Classics. ([revue du jour](../2026/11/2026-11-06.md))
 - **2026-11-06** — NieR: Automata passe par erreur de 50 à 366 Go sur Steam — Square Enix prépare un correctif après une mise à jour ratée. ([revue du jour](../2026/11/2026-11-06.md))
 - **2026-11-05** — Pénurie de mémoire : Altman se défend, TeamGroup voit l'équilibre fin 2028 — Sam Altman dit avoir été sorti de son contexte après ses propos sur la mémoire des PC. ([revue du jour](../2026/11/2026-11-05.md))

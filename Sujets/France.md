@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-07** — Worlds : T1 met fin à l'aventure de la Karmine Corp — Pour ses premiers Worlds, la KC tombe 3-1 en quart de finale, dernière équipe européenne en lice. ([revue du jour](../2026/11/2026-11-07.md))
+- **2026-11-07** — Sony enterre Ratchet & Clank: Ranger Rumble, le jeu mobile d'Oh BiBi — Le jeu du studio parisien quitte les boutiques le 21 novembre et ses serveurs fermeront le 1er mai 2027. ([revue du jour](../2026/11/2026-11-07.md))
+- **2026-11-07** — Acornia: Mirror Worlds, le jeu de pâtisserie de Splashteam, attendu au printemps 2027 — Le studio montpelliérain montre une nouvelle séquence de gameplay. ([revue du jour](../2026/11/2026-11-07.md))
 - **2026-11-06** — Assassin's Creed Valhalla reçoit enfin un New Game+ — La mise à jour 1.8 d'Ubisoft ajoute aussi une progression étendue et le support de PSSR 2 sur PS5 Pro. ([revue du jour](../2026/11/2026-11-06.md))
 - **2026-11-06** — Worlds : BLG balaie Dplus KIA, Karmine Corp joue sa place ce vendredi — Le club français affronte T1 pour une place en demi-finale contre BLG. ([revue du jour](../2026/11/2026-11-06.md))
 - **2026-11-05** — Suite : le STJV accuse Microsoft de « saboter » Blade chez Arkane Lyon — Le syndicat dénonce un gel des embauches de 19 mois et réclame un droit de regard sur le repreneur. ([revue du jour](../2026/11/2026-11-05.md))
