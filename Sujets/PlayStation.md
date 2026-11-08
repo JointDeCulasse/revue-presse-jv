@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-08** — Sony repousse sans date ses enceintes Pulse Elevate — Report pour problème de production à cinq jours de la sortie, après l'arcade stick FlexStrike. ([revue du jour](../2026/11/2026-11-08.md))
+- **2026-11-08** — Un label « PlayStation Exclusive » sur les pages des gros jeux PS5 — Ghost of Yotei et Until Dawn 2 affichent la mention, signe du retour de Sony à l'exclusivité. ([revue du jour](../2026/11/2026-11-08.md))
+- **2026-11-08** — GTA 6 : la boîte PS5 arrive sans disque — L'édition physique ne contient pas de disque, à onze jours de la sortie. ([revue du jour](../2026/11/2026-11-08.md))
 - **2026-11-07** — Sony enterre Ratchet & Clank: Ranger Rumble, le jeu mobile d'Oh BiBi — Retrait des boutiques le 21 novembre, sans jamais être sorti mondialement. ([revue du jour](../2026/11/2026-11-07.md))
 - **2026-11-07** — Une vague de retraits et de fermetures de serveurs d'ici fin 2026 — Destruction AllStars, Zenith: Nexus et plusieurs jeux GameMill sont concernés. ([revue du jour](../2026/11/2026-11-07.md))
 - **2026-11-06** — Sony relève ses prévisions et assure sa mémoire jusqu'en mars 2028 — Le résultat opérationnel annuel attendu monte de 15 %, à 1 870 milliards de yens. ([revue du jour](../2026/11/2026-11-06.md))

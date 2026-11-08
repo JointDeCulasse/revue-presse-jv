@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-08** — GTA 6 : la boîte PS5 arrive sans disque — Premières photos de l'édition physique vide de disque, et un ancien de Rockstar presse la version PC. ([revue du jour](../2026/11/2026-11-08.md))
+- **2026-11-08** — LunaReverse, visual novel de dark fantasy chez Aniplex — Annoncé sur Switch et PC par Aniplex et CYBIRD, sans date. ([revue du jour](../2026/11/2026-11-08.md))
 - **2026-11-07** — Path of Exile 2 sortira en version 1.0 le 11 décembre — Deux nouvelles classes, les actes 5 et 6 et un Atlas simplifié. ([revue du jour](../2026/11/2026-11-07.md))
 - **2026-11-07** — Battlefield 6 : les pelotons repoussés à 2027 — EA juge la fonction pas encore au niveau et promet une feuille de route après les fêtes. ([revue du jour](../2026/11/2026-11-07.md))
 - **2026-11-07** — Bloodborne 2 bloqué par des droits partagés, selon Shawn Layden — La licence est partagée entre Sony, FromSoftware et Kadokawa. ([revue du jour](../2026/11/2026-11-07.md))

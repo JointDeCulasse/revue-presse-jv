@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-08** — Suite : Bit Reactor licencie après le million de Star Wars Zero Company — Des départs non chiffrés, un mois après le rappel d'une partie des équipes mises en congé forcé. ([revue du jour](../2026/11/2026-11-08.md))
+- **2026-11-08** — Suite : un N7 Day d'adieu pour Mass Effect — Musique de Sam Hulick, multijoueur de ME3 remasterisé par les moddeurs et mobilisation des fans. ([revue du jour](../2026/11/2026-11-08.md))
 - **2026-11-07** — Suite : le N7 Day sans BioWare, entre camion militant et produits dérivés — Les fans manifestent près du siège d'EA, tandis que David Gaider travaille sur The Expanse chez Owlcat. ([revue du jour](../2026/11/2026-11-07.md))
 - **2026-11-06** — Suite : un documentaire sur BioWare, la pétition en route vers le Parlement canadien — « Massive Effect: The BioWare Story » sortira en 2027, et la pétition dépasse 2 300 signatures. ([revue du jour](../2026/11/2026-11-06.md))
 - **2026-11-06** — Un studio racheté sur trois a fermé, selon une étude — Sur 283 développeurs recensés, 93 ont fermé, dont 33 depuis 2023. ([revue du jour](../2026/11/2026-11-06.md))

@@ -2,6 +2,7 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-08** — Sony repousse sans date ses enceintes Pulse Elevate — Les enceintes à 220 dollars, attendues le 12 novembre, sont retardées pour un problème de production. ([revue du jour](../2026/11/2026-11-08.md))
 - **2026-11-06** — Sony relève ses prévisions et assure sa mémoire jusqu'en mars 2028 — Le groupe se dit couvert face à la pénurie et confirme l'avancée de sa prochaine plateforme. ([revue du jour](../2026/11/2026-11-06.md))
 - **2026-11-06** — Suite : pas de nouvelle hausse de prix pour la Switch 2, malgré un trimestre en repli — Nintendo se dit lui aussi assuré de disposer d'assez de mémoire. ([revue du jour](../2026/11/2026-11-06.md))
 - **2026-11-05** — Sony : 97,9 millions de PS5 expédiées, Wolverine à 2,4 millions — La PS5 approche des 100 millions, avec 900 000 expéditions de moins sur un an au trimestre. ([revue du jour](../2026/11/2026-11-05.md))

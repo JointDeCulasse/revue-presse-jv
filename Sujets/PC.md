@@ -2,6 +2,7 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-08** — Pool of Radiance: Ruins of Myth Drannor ressuscité, Path of Exile 2 ajoute un récapitulatif de mort — Le RPG D&D de 2001 sort en version restaurée sur Steam et GOG ; PoE 2 1.0 expliquera les morts. ([revue du jour](../2026/11/2026-11-08.md))
 - **2026-11-07** — Path of Exile 2 sortira en version 1.0 le 11 décembre — Grinding Gear Games détaille classes, actes et refonte de l'Atlas. ([revue du jour](../2026/11/2026-11-07.md))
 - **2026-11-07** — Discord réécrit son client en Rust — Environ 290 Mo de mémoire et un démarrage en une seconde, contre plus de 500 Mo et six secondes. ([revue du jour](../2026/11/2026-11-07.md))
 - **2026-11-07** — Arc Raiders : près de la moitié des parties du test PvE jouées sans affrontement entre joueurs — Embark juge un mode PvE simple à ajouter, sans décision pour l'instant. ([revue du jour](../2026/11/2026-11-07.md))

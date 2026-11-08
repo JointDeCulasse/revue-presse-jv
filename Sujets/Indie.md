@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-08** — Rulehouse réinvente les échecs façon Game Boy Advance — Démo sur Steam d'une aventure où chaque étape réécrit les règles, sortie visée en 2027. ([revue du jour](../2026/11/2026-11-08.md))
+- **2026-11-08** — Trois sorties indé sur Steam cette semaine et la suivante — DREADMOOR (9 novembre), Annihilated (10 novembre) et Littlelands (16 novembre). ([revue du jour](../2026/11/2026-11-08.md))
 - **2026-11-07** — Acornia: Mirror Worlds, le jeu de pâtisserie de Splashteam, attendu au printemps 2027 — Gestion de boutique entre deux dimensions sur PC, PS5, Xbox Series et Switch 2. ([revue du jour](../2026/11/2026-11-07.md))
 - **2026-11-07** — Jyoka et Psycho Sleuth, deux projets solitaires remarqués — Jyoka arrive sur Steam le 16 novembre, Psycho Sleuth démarre « Très positif ». ([revue du jour](../2026/11/2026-11-07.md))
 - **2026-11-07** — Hozy et MR. ELEVATOR datés sur consoles — Hozy le 9 novembre sur PS5 et Xbox Series, MR. ELEVATOR le 27 sur PS5. ([revue du jour](../2026/11/2026-11-07.md))

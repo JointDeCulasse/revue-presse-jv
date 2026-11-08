@@ -9,6 +9,7 @@ Archive quotidienne de l'actualité jeu vidéo, rédigée en français à partir
 
 ## Revues
 
+- [2026-11-08](2026/11/2026-11-08.md) — Gen.G balaie Invictus Gaming et file en finale des Worlds · Sony repousse sans date ses enceintes Pulse Elevate et affiche « PlayStation Exclusive » · Bit Reactor licencie après le million de Star Wars Zero Company
 - [2026-11-07](2026/11/2026-11-07.md) — T1 élimine la Karmine Corp 3-1 en quart des Worlds · Sony et Oh BiBi abandonnent Ratchet & Clank: Ranger Rumble · Une faille de Civilization VII ouvre la Switch 2, 2K rappellerait ses cartouches
 - [2026-11-06](2026/11/2026-11-06.md) — Le PIF et Silver Lake approchent Unity autour de 25 milliards de dollars · Sony relève ses prévisions et sécurise sa mémoire, Nintendo écarte une hausse de prix de la Switch 2 · Première vitrine GOG : Galaxy sur Linux, Retrovibe et Wing Commander
 - [2026-11-05](2026/11/2026-11-05.md) — Le STJV accuse Microsoft de saboter Blade chez Arkane Lyon · God of War Laufey repoussé au 20 mai 2027 · Ocarina of Time à 96 sur Metacritic, Switch 2 à 26,35 millions et PS5 à 97,9 millions

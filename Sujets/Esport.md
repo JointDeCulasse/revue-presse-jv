@@ -2,6 +2,7 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-08** — Worlds : Gen.G en finale après un 3-0 contre Invictus Gaming — Première finale mondiale sous le nom Gen.G, le 14 novembre à Brooklyn contre T1 ou BLG. ([revue du jour](../2026/11/2026-11-08.md))
 - **2026-11-07** — Worlds : T1 met fin à l'aventure de la Karmine Corp — Le club français s'incline 3-1 en quart de finale, T1 affrontera BLG en demi-finale. ([revue du jour](../2026/11/2026-11-07.md))
 - **2026-11-06** — Worlds : BLG balaie Dplus KIA, Karmine Corp joue sa place ce vendredi — BLG attend en demi-finale le vainqueur de T1 – Karmine Corp. ([revue du jour](../2026/11/2026-11-06.md))
 - **2026-11-05** — Worlds : Gen.G écrase LYON 3-0, Karmine Corp attend T1 — Gen.G retrouvera Invictus Gaming en demi-finale le 7 novembre, d'après Strafe. ([revue du jour](../2026/11/2026-11-05.md))
