@@ -2,6 +2,7 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-09** — God of War: Sons of Sparta en route vers la PS4, une PlayStation Portal noire au Japon — Le metroidvania de Mega Cat semble arriver sur PS4, et une Portal Midnight Black sort au Japon. ([revue du jour](../2026/11/2026-11-09.md))
 - **2026-11-08** — Sony repousse sans date ses enceintes Pulse Elevate — Report pour problème de production à cinq jours de la sortie, après l'arcade stick FlexStrike. ([revue du jour](../2026/11/2026-11-08.md))
 - **2026-11-08** — Un label « PlayStation Exclusive » sur les pages des gros jeux PS5 — Ghost of Yotei et Until Dawn 2 affichent la mention, signe du retour de Sony à l'exclusivité. ([revue du jour](../2026/11/2026-11-08.md))
 - **2026-11-08** — GTA 6 : la boîte PS5 arrive sans disque — L'édition physique ne contient pas de disque, à onze jours de la sortie. ([revue du jour](../2026/11/2026-11-08.md))

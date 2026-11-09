@@ -2,6 +2,7 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-09** — Warhammer Blood Bowl repoussé au début de 2027 — Slitherine décale la refonte gratuite de Blood Bowl 3 et ajoute un mode Arène. ([revue du jour](../2026/11/2026-11-09.md))
 - **2026-11-08** — GTA 6 : la boîte PS5 arrive sans disque — Premières photos de l'édition physique vide de disque, et un ancien de Rockstar presse la version PC. ([revue du jour](../2026/11/2026-11-08.md))
 - **2026-11-08** — LunaReverse, visual novel de dark fantasy chez Aniplex — Annoncé sur Switch et PC par Aniplex et CYBIRD, sans date. ([revue du jour](../2026/11/2026-11-08.md))
 - **2026-11-07** — Path of Exile 2 sortira en version 1.0 le 11 décembre — Deux nouvelles classes, les actes 5 et 6 et un Atlas simplifié. ([revue du jour](../2026/11/2026-11-07.md))

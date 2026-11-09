@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-09** — Stellar Blade sur Switch 2 : un portage « meilleur que prévu » selon Digital Foundry — Compromis modérés pour le jeu de Shift Up, et les speedrunners cassent déjà le remake d'Ocarina of Time. ([revue du jour](../2026/11/2026-11-09.md))
+- **2026-11-09** — IA générative : Sakurai prudent, Jackbox catégorique — Le créateur de Smash Bros. n'utilise pas l'IA mais craint qu'on prenne du retard à l'ignorer. ([revue du jour](../2026/11/2026-11-09.md))
 - **2026-11-08** — Warzone débarque sur Switch 2, Ocarina of Time déjà fouillé — Le battle royale gratuit est sorti le 6 novembre, et une rumeur évoque un DLC Master Quest pour Zelda. ([revue du jour](../2026/11/2026-11-08.md))
 - **2026-11-07** — Civilization VII, porte d'entrée d'un piratage de la Switch 2 — Une faille de la cartouche Switch permet d'exécuter du code, et 2K aurait commencé un rappel. ([revue du jour](../2026/11/2026-11-07.md))
 - **2026-11-07** — Miyamoto absent de la présentation financière pour raison de santé — Son état est stable et il devrait se rétablir sous une semaine. ([revue du jour](../2026/11/2026-11-07.md))

@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-09** — AMD se dit « data center d'abord » et anticipe un marché PC en recul en 2027 — Lisa Su prévoit une baisse à deux chiffres des livraisons de PC, liée au prix de la mémoire. ([revue du jour](../2026/11/2026-11-09.md))
+- **2026-11-09** — Nvidia : Jensen Huang reconnaît une liaison avec une dirigeante soupçonnée d'espionnage — Un comité indépendant du conseil enquête sur l'affaire Megaspeed. ([revue du jour](../2026/11/2026-11-09.md))
 - **2026-11-08** — Sony repousse sans date ses enceintes Pulse Elevate — Les enceintes à 220 dollars, attendues le 12 novembre, sont retardées pour un problème de production. ([revue du jour](../2026/11/2026-11-08.md))
 - **2026-11-06** — Sony relève ses prévisions et assure sa mémoire jusqu'en mars 2028 — Le groupe se dit couvert face à la pénurie et confirme l'avancée de sa prochaine plateforme. ([revue du jour](../2026/11/2026-11-06.md))
 - **2026-11-06** — Suite : pas de nouvelle hausse de prix pour la Switch 2, malgré un trimestre en repli — Nintendo se dit lui aussi assuré de disposer d'assez de mémoire. ([revue du jour](../2026/11/2026-11-06.md))

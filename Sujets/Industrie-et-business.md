@@ -2,6 +2,10 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-09** — Nvidia : Jensen Huang reconnaît une liaison avec une dirigeante soupçonnée d'espionnage — Le conseil ouvre une enquête interne, le PDG reste en poste. ([revue du jour](../2026/11/2026-11-09.md))
+- **2026-11-09** — IA générative : Sakurai prudent, Jackbox catégorique — Sakurai n'utilise pas l'IA mais juge risqué de l'ignorer, Jackbox refuse d'y toucher. ([revue du jour](../2026/11/2026-11-09.md))
+- **2026-11-09** — Suite : les bornes Sega toujours coupées au Japon, Bandai Namco redémarre — Les jeux Sega restent hors ligne une semaine après le piratage, nouveau point le 10 novembre. ([revue du jour](../2026/11/2026-11-09.md))
+- **2026-11-09** — AMD se dit « data center d'abord » et anticipe un marché PC en recul en 2027 — Baisse à deux chiffres attendue des ventes de PC, revenus jeu en recul de 40 %. ([revue du jour](../2026/11/2026-11-09.md))
 - **2026-11-07** — Sega : Stranger Than Heaven attire un public neuf, les bornes d'arcade toujours coupées — La moitié des listes de souhaits viennent de joueurs extérieurs à RGG, et les services d'arcade restent hors ligne. ([revue du jour](../2026/11/2026-11-07.md))
 - **2026-11-07** — Valnet (Polygon, GameRant) paie 2 millions de dollars pour clore un recours collectif — Le groupe était accusé d'avoir sous-payé des pigistes classés comme indépendants. ([revue du jour](../2026/11/2026-11-07.md))
 - **2026-11-07** — DENMU boucle un premier fonds de plus de 50 millions de dollars — Le fonds de San Francisco dépasse son objectif et s'associe au China Hero Project. ([revue du jour](../2026/11/2026-11-07.md))

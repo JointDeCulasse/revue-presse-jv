@@ -2,6 +2,7 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-09** — Plus de dix jeux dans le Game Pass pour les 25 ans de l'Xbox — Banjo, Viva Piñata, Perfect Dark et Gears of War: Judgment le 15 novembre, six autres jeux dans la semaine. ([revue du jour](../2026/11/2026-11-09.md))
 - **2026-11-07** — Le cloud du Game Pass passe au compteur, 11 bit signe trois jeux pour 2027 — Limite de 15, 10 ou 5 heures par mois selon l'offre, et trois jeux 11 bit dans le Game Pass dès leur sortie. ([revue du jour](../2026/11/2026-11-07.md))
 - **2026-11-07** — Une vague de retraits et de fermetures de serveurs d'ici fin 2026 — Quatre jeux GameMill quitteront aussi les boutiques d'ici le 31 décembre. ([revue du jour](../2026/11/2026-11-07.md))
 - **2026-11-06** — L'application Xbox sur PC accélère, FSR 4.1 arrive sur Series — Les Insiders testent une version jusqu'à 60 % plus rapide au lancement, d'après Microsoft. ([revue du jour](../2026/11/2026-11-06.md))

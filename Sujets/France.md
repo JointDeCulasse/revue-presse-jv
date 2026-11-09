@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-09** — Hot Wax : le Tetris à la bougie des Français de PUNKCAKE Délicieux — Le petit studio français de Shotgun King est mis en avant par Kotaku et prépare PUNKCAKE BUFFET pour 2027. ([revue du jour](../2026/11/2026-11-09.md))
+- **2026-11-09** — Warhammer Blood Bowl repoussé au début de 2027 — La licence, reprise à Nacon après l'insolvabilité de Cyanide, glisse chez Slitherine à l'an prochain. ([revue du jour](../2026/11/2026-11-09.md))
 - **2026-11-07** — Worlds : T1 met fin à l'aventure de la Karmine Corp — Pour ses premiers Worlds, la KC tombe 3-1 en quart de finale, dernière équipe européenne en lice. ([revue du jour](../2026/11/2026-11-07.md))
 - **2026-11-07** — Sony enterre Ratchet & Clank: Ranger Rumble, le jeu mobile d'Oh BiBi — Le jeu du studio parisien quitte les boutiques le 21 novembre et ses serveurs fermeront le 1er mai 2027. ([revue du jour](../2026/11/2026-11-07.md))
 - **2026-11-07** — Acornia: Mirror Worlds, le jeu de pâtisserie de Splashteam, attendu au printemps 2027 — Le studio montpelliérain montre une nouvelle séquence de gameplay. ([revue du jour](../2026/11/2026-11-07.md))

@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-09** — WoW: Forever attire les foules, Skyrim devient un MMO grâce à un mod — Un joueur atteint déjà le niveau maximum de WoW: Forever, le mod Aurbis rend Skyrim multijoueur et persistant. ([revue du jour](../2026/11/2026-11-09.md))
+- **2026-11-09** — Wardogs : 185 000 comptes bannis par un anti-triche assisté par IA — Bulkhead revendique 187 millions d'heures analysées avant la saison 3 du 12 novembre. ([revue du jour](../2026/11/2026-11-09.md))
 - **2026-11-08** — Pool of Radiance: Ruins of Myth Drannor ressuscité, Path of Exile 2 ajoute un récapitulatif de mort — Le RPG D&D de 2001 sort en version restaurée sur Steam et GOG ; PoE 2 1.0 expliquera les morts. ([revue du jour](../2026/11/2026-11-08.md))
 - **2026-11-07** — Path of Exile 2 sortira en version 1.0 le 11 décembre — Grinding Gear Games détaille classes, actes et refonte de l'Atlas. ([revue du jour](../2026/11/2026-11-07.md))
 - **2026-11-07** — Discord réécrit son client en Rust — Environ 290 Mo de mémoire et un démarrage en une seconde, contre plus de 500 Mo et six secondes. ([revue du jour](../2026/11/2026-11-07.md))

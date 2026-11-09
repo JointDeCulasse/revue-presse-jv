@@ -2,6 +2,7 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-09** — Un nouveau Dragon Quest et My Hero Ultra Rumble sur smartphones — Square Enix annonce Dragon Quest RPG: The Cursed Tree and the Chosen Isle, Bandai Namco tease My Hero Ultra Rumble Mobile. ([revue du jour](../2026/11/2026-11-09.md))
 - **2026-11-07** — Kabam réunit neuf licences Warner Bros. dans un RPG, Brawl Stars passe en mode GTA — WB All-Star Mayhem entre en test régional ce mois-ci, Supercell lance la saison Brawl Vice. ([revue du jour](../2026/11/2026-11-07.md))
 - **2026-11-06** — e2vc lance un fonds de 150 millions de dollars pour les jeux turcs — Le fonds vise les séries A à C, avec un premier ticket pouvant atteindre 10 millions de dollars. ([revue du jour](../2026/11/2026-11-06.md))
 - **2026-11-04** — Pikmin Bloom signe sa meilleure année — 36,1 M$ sur sa cinquième année selon AppMagic, en hausse de 53 %. ([revue du jour](../2026/11/2026-11-04.md))
