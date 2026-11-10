@@ -9,6 +9,7 @@ Archive quotidienne de l'actualité jeu vidéo, rédigée en français à partir
 
 ## Revues
 
+- [2026-11-10](2026/11/2026-11-10.md) — Take-Two en recul mais vise 3,5 milliards avec GTA 6, préchargement ouvert · Bandai Namco ferme Reflector Entertainment · Skydance Games licencie un mois après la fusion avec Warner Bros.
 - [2026-11-09](2026/11/2026-11-09.md) — Bilibili Gaming élimine T1 et affrontera Gen.G en finale des Worlds · Jensen Huang reconnaît une liaison avec une dirigeante soupçonnée d'espionnage, enquête chez Nvidia · AMD « data center d'abord » prévoit un marché PC en recul en 2027
 - [2026-11-08](2026/11/2026-11-08.md) — Gen.G balaie Invictus Gaming et file en finale des Worlds · Sony repousse sans date ses enceintes Pulse Elevate et affiche « PlayStation Exclusive » · Bit Reactor licencie après le million de Star Wars Zero Company
 - [2026-11-07](2026/11/2026-11-07.md) — T1 élimine la Karmine Corp 3-1 en quart des Worlds · Sony et Oh BiBi abandonnent Ratchet & Clank: Ranger Rumble · Une faille de Civilization VII ouvre la Switch 2, 2K rappellerait ses cartouches

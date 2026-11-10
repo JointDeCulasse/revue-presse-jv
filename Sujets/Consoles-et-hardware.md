@@ -2,6 +2,7 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-10** — Suite : l'action Nvidia chute après l'aveu de Jensen Huang — Le fournisseur de cartes graphiques perd des centaines de milliards de dollars en Bourse ([revue du jour](../2026/11/2026-11-10.md))
 - **2026-11-09** — AMD se dit « data center d'abord » et anticipe un marché PC en recul en 2027 — Lisa Su prévoit une baisse à deux chiffres des livraisons de PC, liée au prix de la mémoire. ([revue du jour](../2026/11/2026-11-09.md))
 - **2026-11-09** — Nvidia : Jensen Huang reconnaît une liaison avec une dirigeante soupçonnée d'espionnage — Un comité indépendant du conseil enquête sur l'affaire Megaspeed. ([revue du jour](../2026/11/2026-11-09.md))
 - **2026-11-08** — Sony repousse sans date ses enceintes Pulse Elevate — Les enceintes à 220 dollars, attendues le 12 novembre, sont retardées pour un problème de production. ([revue du jour](../2026/11/2026-11-08.md))

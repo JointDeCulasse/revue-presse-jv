@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-10** — Take-Two : trimestre en baisse, GTA 6 doit tout rattraper — Réservations nettes en recul de 18 %, objectif de 3,35 à 3,5 milliards de dollars sur le trimestre de GTA 6 et précommandes au-delà des attentes ([revue du jour](../2026/11/2026-11-10.md))
+- **2026-11-10** — Suite : l'action Nvidia chute après l'aveu de Jensen Huang — Des centaines de milliards de dollars de capitalisation envolés après l'affaire Megaspeed ([revue du jour](../2026/11/2026-11-10.md))
 - **2026-11-09** — Nvidia : Jensen Huang reconnaît une liaison avec une dirigeante soupçonnée d'espionnage — Le conseil ouvre une enquête interne, le PDG reste en poste. ([revue du jour](../2026/11/2026-11-09.md))
 - **2026-11-09** — IA générative : Sakurai prudent, Jackbox catégorique — Sakurai n'utilise pas l'IA mais juge risqué de l'ignorer, Jackbox refuse d'y toucher. ([revue du jour](../2026/11/2026-11-09.md))
 - **2026-11-09** — Suite : les bornes Sega toujours coupées au Japon, Bandai Namco redémarre — Les jeux Sega restent hors ligne une semaine après le piratage, nouveau point le 10 novembre. ([revue du jour](../2026/11/2026-11-09.md))

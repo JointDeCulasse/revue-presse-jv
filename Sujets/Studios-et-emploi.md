@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-10** — Bandai Namco ferme Reflector Entertainment — Le studio montréalais d'Unknown 9: Awakening est dissous, pour une perte exceptionnelle d'environ 21 millions d'euros ([revue du jour](../2026/11/2026-11-10.md))
+- **2026-11-10** — Skydance Games licencie un mois après la fusion avec Warner Bros. — Au moins 30 postes supprimés chez Paramount Games et Skydance Interactive, d'autres coupes attendues ([revue du jour](../2026/11/2026-11-10.md))
 - **2026-11-08** — Suite : Bit Reactor licencie après le million de Star Wars Zero Company — Des départs non chiffrés, un mois après le rappel d'une partie des équipes mises en congé forcé. ([revue du jour](../2026/11/2026-11-08.md))
 - **2026-11-08** — Suite : un N7 Day d'adieu pour Mass Effect — Musique de Sam Hulick, multijoueur de ME3 remasterisé par les moddeurs et mobilisation des fans. ([revue du jour](../2026/11/2026-11-08.md))
 - **2026-11-07** — Suite : le N7 Day sans BioWare, entre camion militant et produits dérivés — Les fans manifestent près du siège d'EA, tandis que David Gaider travaille sur The Expanse chez Owlcat. ([revue du jour](../2026/11/2026-11-07.md))

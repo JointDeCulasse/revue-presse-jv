@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-10** — EVE Online lance Fractured Skies — Campagnes militaires de deux mois avant les premières Conquêtes en février 2027 ([revue du jour](../2026/11/2026-11-10.md))
+- **2026-11-10** — Nier: Automata passe de 50 à 366 Go sur Steam — Un bug de mise à jour gonfle l'espace requis, Square Enix prépare un correctif ([revue du jour](../2026/11/2026-11-10.md))
+- **2026-11-10** — EA ressort 25 classiques PC — Road Rash et six Wing Commander restaurés, Ultima et Theme Hospital réédités sur Steam et GOG ([revue du jour](../2026/11/2026-11-10.md))
 - **2026-11-09** — WoW: Forever attire les foules, Skyrim devient un MMO grâce à un mod — Un joueur atteint déjà le niveau maximum de WoW: Forever, le mod Aurbis rend Skyrim multijoueur et persistant. ([revue du jour](../2026/11/2026-11-09.md))
 - **2026-11-09** — Wardogs : 185 000 comptes bannis par un anti-triche assisté par IA — Bulkhead revendique 187 millions d'heures analysées avant la saison 3 du 12 novembre. ([revue du jour](../2026/11/2026-11-09.md))
 - **2026-11-08** — Pool of Radiance: Ruins of Myth Drannor ressuscité, Path of Exile 2 ajoute un récapitulatif de mort — Le RPG D&D de 2001 sort en version restaurée sur Steam et GOG ; PoE 2 1.0 expliquera les morts. ([revue du jour](../2026/11/2026-11-08.md))

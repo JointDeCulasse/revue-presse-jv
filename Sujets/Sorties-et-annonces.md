@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-10** — GTA 6 : préchargement ouvert et un festival à Miami le 21 novembre — 212 Go à télécharger et un concert avec Travis Scott, Cardi B et Justice ([revue du jour](../2026/11/2026-11-10.md))
+- **2026-11-10** — Football Manager 27 sort aujourd'hui, Game Pass compris — Sur PC, consoles et mobile, avec des premiers avis plutôt positifs sur la tactique ([revue du jour](../2026/11/2026-11-10.md))
 - **2026-11-09** — Warhammer Blood Bowl repoussé au début de 2027 — Slitherine décale la refonte gratuite de Blood Bowl 3 et ajoute un mode Arène. ([revue du jour](../2026/11/2026-11-09.md))
 - **2026-11-08** — GTA 6 : la boîte PS5 arrive sans disque — Premières photos de l'édition physique vide de disque, et un ancien de Rockstar presse la version PC. ([revue du jour](../2026/11/2026-11-08.md))
 - **2026-11-08** — LunaReverse, visual novel de dark fantasy chez Aniplex — Annoncé sur Switch et PC par Aniplex et CYBIRD, sans date. ([revue du jour](../2026/11/2026-11-08.md))
