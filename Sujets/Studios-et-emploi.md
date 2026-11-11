@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-11** — Sony annule Fairgames, Haven Studios épargné — Le studio montréalais reste ouvert sans licenciement et devient une équipe de soutien des PlayStation Studios. ([revue du jour](../2026/11/2026-11-11.md))
+- **2026-11-11** — Tripwire licencie 36 personnes, son cofondateur accuse les « gauchistes woke » — Deuxième vague de l'année chez le studio de Killing Floor 3 (59 postes supprimés en 2026). ([revue du jour](../2026/11/2026-11-11.md))
+- **2026-11-11** — Suite : des anciens de BioWare veulent sauver Mass Effect et Dragon Age — Trent Oster étudie une reprise des licences, James Ohlen se dit partant. ([revue du jour](../2026/11/2026-11-11.md))
 - **2026-11-10** — Bandai Namco ferme Reflector Entertainment — Le studio montréalais d'Unknown 9: Awakening est dissous, pour une perte exceptionnelle d'environ 21 millions d'euros ([revue du jour](../2026/11/2026-11-10.md))
 - **2026-11-10** — Skydance Games licencie un mois après la fusion avec Warner Bros. — Au moins 30 postes supprimés chez Paramount Games et Skydance Interactive, d'autres coupes attendues ([revue du jour](../2026/11/2026-11-10.md))
 - **2026-11-08** — Suite : Bit Reactor licencie après le million de Star Wars Zero Company — Des départs non chiffrés, un mois après le rappel d'une partie des équipes mises en congé forcé. ([revue du jour](../2026/11/2026-11-08.md))

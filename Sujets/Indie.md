@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-11** — Big Walk rattrapé par la question de l'IA — House House reconnaît une dizaine de lignes de code suggérées par un LLM, révélées après sa candidature aux IGF. ([revue du jour](../2026/11/2026-11-11.md))
+- **2026-11-11** — Devolver annonce All Army Attack — Auto-battler roguelike de BlackLight Games, prévu en 2027 sur Steam, démo pendant le Steam Auto-Battler Fest. ([revue du jour](../2026/11/2026-11-11.md))
 - **2026-11-10** — Hillthorn, l'enquête sans dialogue de Raw Fury — Une enquête à base de cartes pour retrouver un enfant disparu, sur PC, Switch et mobile ([revue du jour](../2026/11/2026-11-10.md))
 - **2026-11-10** — Suite : un éditeur indé pénalisé par le retard de validation de Steam — Wheel Make It plafonne à 15 joueurs malgré 11 000 listes de souhaits ([revue du jour](../2026/11/2026-11-10.md))
 - **2026-11-09** — Hot Wax : le Tetris à la bougie des Français de PUNKCAKE Délicieux — Le jeu de blocs des auteurs de Shotgun King, né d'une game jam, est sorti sur Steam et itch.io. ([revue du jour](../2026/11/2026-11-09.md))

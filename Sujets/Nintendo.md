@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-11** — Ocarina of Time : 5,2 millions en quatre jours — Meilleur démarrage d'un jeu Nintendo sur Switch 2, Furukawa maintient l'objectif de 16 millions de consoles. ([revue du jour](../2026/11/2026-11-11.md))
+- **2026-11-11** — Switch 2 : le jailbreak colmaté, fin des connexions Google et Apple — Le firmware 23.5.0 ferme la faille SmileBASIC, et la connexion Google/Apple disparaît le 26 janvier 2027. ([revue du jour](../2026/11/2026-11-11.md))
+- **2026-11-11** — Ocarina of Time : 250 000 boîtes vendues en France en moins d'une semaine — Meilleur lancement physique en France depuis EA Sports FC 25. ([revue du jour](../2026/11/2026-11-11.md))
 - **2026-11-10** — Switch 2 : cadeaux sur l'eShop et un pack « au choix » au Japon — La mise à jour 23.5.0 prépare l'envoi de jeux en cadeau au 17 novembre ([revue du jour](../2026/11/2026-11-10.md))
 - **2026-11-09** — Stellar Blade sur Switch 2 : un portage « meilleur que prévu » selon Digital Foundry — Compromis modérés pour le jeu de Shift Up, et les speedrunners cassent déjà le remake d'Ocarina of Time. ([revue du jour](../2026/11/2026-11-09.md))
 - **2026-11-09** — IA générative : Sakurai prudent, Jackbox catégorique — Le créateur de Smash Bros. n'utilise pas l'IA mais craint qu'on prenne du retard à l'ignorer. ([revue du jour](../2026/11/2026-11-09.md))

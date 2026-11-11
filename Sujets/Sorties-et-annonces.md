@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-11** — Suite : GTA 6 passe gold, vise 30 images/s et scelle un pacte de dix ans avec Xbox — Pas de report avant le 19 novembre, PSSR sur PS5 Pro et version cloud pour Xbox One. ([revue du jour](../2026/11/2026-11-11.md))
+- **2026-11-11** — The Outer Worlds 2 : première extension le 2 décembre — Side Effects Guaranteed ajoute une zone et relève le niveau maximum, seconde partie au printemps 2027. ([revue du jour](../2026/11/2026-11-11.md))
+- **2026-11-11** — Marathon mise sur le JcE, Overwatch rouvre le 6v6 en file par rôle — Mise à jour Symbiosis et test 2-2-2, tous deux le 8 décembre. ([revue du jour](../2026/11/2026-11-11.md))
 - **2026-11-10** — GTA 6 : préchargement ouvert et un festival à Miami le 21 novembre — 212 Go à télécharger et un concert avec Travis Scott, Cardi B et Justice ([revue du jour](../2026/11/2026-11-10.md))
 - **2026-11-10** — Football Manager 27 sort aujourd'hui, Game Pass compris — Sur PC, consoles et mobile, avec des premiers avis plutôt positifs sur la tactique ([revue du jour](../2026/11/2026-11-10.md))
 - **2026-11-09** — Warhammer Blood Bowl repoussé au début de 2027 — Slitherine décale la refonte gratuite de Blood Bowl 3 et ajoute un mode Arène. ([revue du jour](../2026/11/2026-11-09.md))

@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-11** — Suite : GTA 6 passe gold, vise 30 images/s et scelle un pacte de dix ans avec Xbox — Plus gros record de précommandes chez Sony et Microsoft, jouable sur Xbox One via le cloud. ([revue du jour](../2026/11/2026-11-11.md))
+- **2026-11-11** — Suite : Nvidia visé par une action collective — Des actionnaires accusent Nvidia et Jensen Huang de déclarations trompeuses sur la liaison du PDG. ([revue du jour](../2026/11/2026-11-11.md))
+- **2026-11-11** — L'IA générative fait fermer un concours de jeux pour élèves — Le STEM Videogame Challenge australien s'arrête après douze ans, submergé par des jeux générés par IA. ([revue du jour](../2026/11/2026-11-11.md))
 - **2026-11-10** — Take-Two : trimestre en baisse, GTA 6 doit tout rattraper — Réservations nettes en recul de 18 %, objectif de 3,35 à 3,5 milliards de dollars sur le trimestre de GTA 6 et précommandes au-delà des attentes ([revue du jour](../2026/11/2026-11-10.md))
 - **2026-11-10** — Suite : l'action Nvidia chute après l'aveu de Jensen Huang — Des centaines de milliards de dollars de capitalisation envolés après l'affaire Megaspeed ([revue du jour](../2026/11/2026-11-10.md))
 - **2026-11-09** — Nvidia : Jensen Huang reconnaît une liaison avec une dirigeante soupçonnée d'espionnage — Le conseil ouvre une enquête interne, le PDG reste en poste. ([revue du jour](../2026/11/2026-11-09.md))

@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-11** — Steam affiche les performances réelles sur Steam Deck — Les pages du magasin montrent la fréquence d'images moyenne et les saccades mesurées chez les joueurs. ([revue du jour](../2026/11/2026-11-11.md))
+- **2026-11-11** — Sony ferme son application PS Plus sur PC — Fin du streaming PS Plus sur PC le 10 décembre faute d'utilisateurs. ([revue du jour](../2026/11/2026-11-11.md))
+- **2026-11-11** — Devolver annonce All Army Attack — Auto-battler roguelike à plusieurs centaines d'unités, prévu en 2027 sur Steam, démo du 16 au 23 novembre. ([revue du jour](../2026/11/2026-11-11.md))
 - **2026-11-10** — EVE Online lance Fractured Skies — Campagnes militaires de deux mois avant les premières Conquêtes en février 2027 ([revue du jour](../2026/11/2026-11-10.md))
 - **2026-11-10** — Nier: Automata passe de 50 à 366 Go sur Steam — Un bug de mise à jour gonfle l'espace requis, Square Enix prépare un correctif ([revue du jour](../2026/11/2026-11-10.md))
 - **2026-11-10** — EA ressort 25 classiques PC — Road Rash et six Wing Commander restaurés, Ultima et Theme Hospital réédités sur Steam et GOG ([revue du jour](../2026/11/2026-11-10.md))

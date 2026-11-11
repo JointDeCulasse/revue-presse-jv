@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-11** — La PS5 franchit les 100 millions — Plus de 100 millions d'unités livrées au 10 novembre, juste avant les six ans de la console. ([revue du jour](../2026/11/2026-11-11.md))
+- **2026-11-11** — Switch 2 : le jailbreak colmaté, fin des connexions Google et Apple — Le firmware 23.5.0 corrige la faille ns2jb, et les comptes Nintendo abandonnent Google et Apple le 26 janvier 2027. ([revue du jour](../2026/11/2026-11-11.md))
 - **2026-11-10** — Suite : l'action Nvidia chute après l'aveu de Jensen Huang — Le fournisseur de cartes graphiques perd des centaines de milliards de dollars en Bourse ([revue du jour](../2026/11/2026-11-10.md))
 - **2026-11-09** — AMD se dit « data center d'abord » et anticipe un marché PC en recul en 2027 — Lisa Su prévoit une baisse à deux chiffres des livraisons de PC, liée au prix de la mémoire. ([revue du jour](../2026/11/2026-11-09.md))
 - **2026-11-09** — Nvidia : Jensen Huang reconnaît une liaison avec une dirigeante soupçonnée d'espionnage — Un comité indépendant du conseil enquête sur l'affaire Megaspeed. ([revue du jour](../2026/11/2026-11-09.md))

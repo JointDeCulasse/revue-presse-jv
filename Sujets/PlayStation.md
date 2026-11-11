@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-11** — Sony annule Fairgames, Haven Studios épargné — Le jeu de braquage en ligne est arrêté après des tests décevants, le studio devient une équipe de soutien sans licenciement. ([revue du jour](../2026/11/2026-11-11.md))
+- **2026-11-11** — La PS5 franchit les 100 millions — Sony revendique plus de 100 millions de PS5 livrées au 10 novembre, contre 97,9 millions fin septembre. ([revue du jour](../2026/11/2026-11-11.md))
+- **2026-11-11** — Sony ferme son application PS Plus sur PC — Le streaming PS Plus sur PC s'arrête le 10 décembre, utilisé par moins de 0,4 % des abonnés éligibles. ([revue du jour](../2026/11/2026-11-11.md))
 - **2026-11-09** — God of War: Sons of Sparta en route vers la PS4, une PlayStation Portal noire au Japon — Le metroidvania de Mega Cat semble arriver sur PS4, et une Portal Midnight Black sort au Japon. ([revue du jour](../2026/11/2026-11-09.md))
 - **2026-11-08** — Sony repousse sans date ses enceintes Pulse Elevate — Report pour problème de production à cinq jours de la sortie, après l'arcade stick FlexStrike. ([revue du jour](../2026/11/2026-11-08.md))
 - **2026-11-08** — Un label « PlayStation Exclusive » sur les pages des gros jeux PS5 — Ghost of Yotei et Until Dawn 2 affichent la mention, signe du retour de Sony à l'exclusivité. ([revue du jour](../2026/11/2026-11-08.md))
