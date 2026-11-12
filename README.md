@@ -9,6 +9,7 @@ Archive quotidienne de l'actualité jeu vidéo, rédigée en français à partir
 
 ## Revues
 
+- [2026-11-12](2026/11/2026-11-12.md) — Resident Evil Requiem jeu de l'année aux Golden Joysticks, Meccha Chameleon aussi quatre fois primé · Xbox ouvre son cloud gratuit avec pub et plafonne le Game Pass · L'UE propose un Digital Fairness Act contre les dérives des loot boxes
 - [2026-11-11](2026/11/2026-11-11.md) — Sony annule Fairgames, Haven Studios conservé sans licenciement · La PS5 dépasse les 100 millions d'unités · Ocarina of Time à 5,2 millions en quatre jours, record Nintendo sur Switch 2
 - [2026-11-10](2026/11/2026-11-10.md) — Take-Two en recul mais vise 3,5 milliards avec GTA 6, préchargement ouvert · Bandai Namco ferme Reflector Entertainment · Skydance Games licencie un mois après la fusion avec Warner Bros.
 - [2026-11-09](2026/11/2026-11-09.md) — Bilibili Gaming élimine T1 et affrontera Gen.G en finale des Worlds · Jensen Huang reconnaît une liaison avec une dirigeante soupçonnée d'espionnage, enquête chez Nvidia · AMD « data center d'abord » prévoit un marché PC en recul en 2027

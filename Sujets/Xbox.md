@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-12** — Le cloud gaming gratuit avec pub ouvert à tous, le Game Pass plafonné — Sessions gratuites de 30 minutes avec publicité, heures de cloud vendues en supplément. ([revue du jour](../2026/11/2026-11-12.md))
+- **2026-11-12** — Harada fustige la Series S, Shift Up attend Helix — L'ex-patron de Tekken ne veut pas de « Helix S », Stellar Blade lorgne la prochaine Xbox. ([revue du jour](../2026/11/2026-11-12.md))
+- **2026-11-12** — Asobo offre le Pelican de Halo dans Flight Simulator 2024 — Cadeau temporaire pour les 25 ans de Halo. ([revue du jour](../2026/11/2026-11-12.md))
 - **2026-11-11** — The Outer Worlds 2 : première extension le 2 décembre — L'extension d'Obsidian sort en deux parties, la première à environ 15 €. ([revue du jour](../2026/11/2026-11-11.md))
 - **2026-11-11** — Nacon lance sa gamme de manettes REVO pour Xbox — REVO X et REVO X MAX disponibles, REVO X PRO en 2027. ([revue du jour](../2026/11/2026-11-11.md))
 - **2026-11-09** — Plus de dix jeux dans le Game Pass pour les 25 ans de l'Xbox — Banjo, Viva Piñata, Perfect Dark et Gears of War: Judgment le 15 novembre, six autres jeux dans la semaine. ([revue du jour](../2026/11/2026-11-09.md))

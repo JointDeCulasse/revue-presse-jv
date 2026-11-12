@@ -2,6 +2,10 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-12** — GTA 6 : expéditions lancées et pics de trafic en Europe — Les boîtes partent, le préchargement sature les réseaux, Logitech libère ses salariés le 19. ([revue du jour](../2026/11/2026-11-12.md))
+- **2026-11-12** — Marvel 1943 n'est pas annulé, mais inquiète — Skydance dément l'annulation d'un jeu visé pour 2027, hors budget et revu à la baisse. ([revue du jour](../2026/11/2026-11-12.md))
+- **2026-11-12** — Bethesda douche les espoirs, Mega Man Legends refait surface — Pas d'Elder Scrolls VI pour les 15 ans de Skyrim ; une fiche d'acteurs relance la piste d'un Mega Man Legends. ([revue du jour](../2026/11/2026-11-12.md))
+- **2026-11-12** — Calendrier : Romancing SaGa 3 avancé, Tomb Raider sur Switch 2, suite de Trails en 2027 — Plusieurs dates fixées pour début 2027. ([revue du jour](../2026/11/2026-11-12.md))
 - **2026-11-11** — Suite : GTA 6 passe gold, vise 30 images/s et scelle un pacte de dix ans avec Xbox — Pas de report avant le 19 novembre, PSSR sur PS5 Pro et version cloud pour Xbox One. ([revue du jour](../2026/11/2026-11-11.md))
 - **2026-11-11** — The Outer Worlds 2 : première extension le 2 décembre — Side Effects Guaranteed ajoute une zone et relève le niveau maximum, seconde partie au printemps 2027. ([revue du jour](../2026/11/2026-11-11.md))
 - **2026-11-11** — Marathon mise sur le JcE, Overwatch rouvre le 6v6 en file par rôle — Mise à jour Symbiosis et test 2-2-2, tous deux le 8 décembre. ([revue du jour](../2026/11/2026-11-11.md))

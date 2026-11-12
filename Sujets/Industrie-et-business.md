@@ -2,6 +2,11 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-12** — Golden Joysticks 2026 : Resident Evil Requiem jeu de l'année — Quatre prix pour Requiem, Crimson Desert jeu PC, Capcom studio de l'année. ([revue du jour](../2026/11/2026-11-12.md))
+- **2026-11-12** — L'Europe veut encadrer loot boxes et monnaies virtuelles — Le Digital Fairness Act proposé imposerait transparence, désactivation et protections pour les mineurs. ([revue du jour](../2026/11/2026-11-12.md))
+- **2026-11-12** — Square Enix relève ses prévisions grâce au numérique — 89 % des ventes en dématérialisé, objectif annuel porté à 310 milliards de yens. ([revue du jour](../2026/11/2026-11-12.md))
+- **2026-11-12** — Suite : Jensen Huang menacé de départ chez Nvidia — Une seconde liaison révélée, le conseil d'administration préparerait son éviction. ([revue du jour](../2026/11/2026-11-12.md))
+- **2026-11-12** — L'IA pour restaurer la voix polonaise de Geralt — CD Projekt utilise Respeecher, avec l'accord de l'acteur victime d'un AVC, pour Songs of the Past. ([revue du jour](../2026/11/2026-11-12.md))
 - **2026-11-11** — Suite : GTA 6 passe gold, vise 30 images/s et scelle un pacte de dix ans avec Xbox — Plus gros record de précommandes chez Sony et Microsoft, jouable sur Xbox One via le cloud. ([revue du jour](../2026/11/2026-11-11.md))
 - **2026-11-11** — Suite : Nvidia visé par une action collective — Des actionnaires accusent Nvidia et Jensen Huang de déclarations trompeuses sur la liaison du PDG. ([revue du jour](../2026/11/2026-11-11.md))
 - **2026-11-11** — L'IA générative fait fermer un concours de jeux pour élèves — Le STEM Videogame Challenge australien s'arrête après douze ans, submergé par des jeux générés par IA. ([revue du jour](../2026/11/2026-11-11.md))

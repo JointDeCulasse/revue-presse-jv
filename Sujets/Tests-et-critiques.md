@@ -2,6 +2,7 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-12** — Golden Joysticks 2026 : Resident Evil Requiem jeu de l'année — Requiem devance Phantom Blade Zero et Crimson Desert au vote du public. ([revue du jour](../2026/11/2026-11-12.md))
 - **2026-11-06** — Woim, le casse-tête qui croise Snake et Sokoban — Kotaku salue 50 énigmes exigeantes mais justes, à 10 dollars sur Steam. ([revue du jour](../2026/11/2026-11-06.md))
 - **2026-11-06** — Tenebris Somnia, horreur en prises de vues réelles venue d'Argentine — Kotaku en fait son nouveau jeu d'horreur préféré, malgré l'absence de sauvegarde automatique. ([revue du jour](../2026/11/2026-11-06.md))
 - **2026-11-05** — Ocarina of Time sur Switch 2 : 96 sur Metacritic, mais pas de Master Quest — 9/10 chez Nintendo Life, qui regrette notamment l'absence de ce mode. ([revue du jour](../2026/11/2026-11-05.md))

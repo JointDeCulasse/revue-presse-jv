@@ -2,6 +2,7 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-12** — Sony épinglé pour l'abandon des disques — L'association australienne Choice lui décerne un « Shonky Award » pour la fin des disques en 2028. ([revue du jour](../2026/11/2026-11-12.md))
 - **2026-11-11** — Sony annule Fairgames, Haven Studios épargné — Le jeu de braquage en ligne est arrêté après des tests décevants, le studio devient une équipe de soutien sans licenciement. ([revue du jour](../2026/11/2026-11-11.md))
 - **2026-11-11** — La PS5 franchit les 100 millions — Sony revendique plus de 100 millions de PS5 livrées au 10 novembre, contre 97,9 millions fin septembre. ([revue du jour](../2026/11/2026-11-11.md))
 - **2026-11-11** — Sony ferme son application PS Plus sur PC — Le streaming PS Plus sur PC s'arrête le 10 décembre, utilisé par moins de 0,4 % des abonnés éligibles. ([revue du jour](../2026/11/2026-11-11.md))

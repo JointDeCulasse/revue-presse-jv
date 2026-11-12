@@ -2,6 +2,7 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-12** — Black Forest Games quitte Embracer, d'ex-id Software fondent Hidden Horses — Rachat par la direction et création de Third Signal ; une vingtaine de licenciés d'id lancent un studio détenu par ses salariés. ([revue du jour](../2026/11/2026-11-12.md))
 - **2026-11-11** — Sony annule Fairgames, Haven Studios épargné — Le studio montréalais reste ouvert sans licenciement et devient une équipe de soutien des PlayStation Studios. ([revue du jour](../2026/11/2026-11-11.md))
 - **2026-11-11** — Tripwire licencie 36 personnes, son cofondateur accuse les « gauchistes woke » — Deuxième vague de l'année chez le studio de Killing Floor 3 (59 postes supprimés en 2026). ([revue du jour](../2026/11/2026-11-11.md))
 - **2026-11-11** — Suite : des anciens de BioWare veulent sauver Mass Effect et Dragon Age — Trent Oster étudie une reprise des licences, James Ohlen se dit partant. ([revue du jour](../2026/11/2026-11-11.md))
