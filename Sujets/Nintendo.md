@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-13** — Nintendo fait supprimer plus de 200 projets Switch de GitHub — Quatre demandes DMCA visant des dérivés de Yuzu et, pour la première fois, la modchip Picofly. ([revue du jour](../2026/11/2026-11-13.md))
+- **2026-11-13** — Ocarina of Time : le physique domine au Japon, Layton passe à 65 dollars — 537 000 boîtes sur 810 000 ventes au Japon ; le nouveau Layton à 64,99 dollars en décembre. ([revue du jour](../2026/11/2026-11-13.md))
+- **2026-11-13** — Les 40 ans de Zelda en concert à la Philharmonie de Paris — Trois représentations les 13 et 14 novembre, d'autres dates européennes en 2027. ([revue du jour](../2026/11/2026-11-13.md))
 - **2026-11-12** — Calendrier : Tomb Raider: Legacy of Atlantis confirmé sur Switch 2 — Sortie en février, avec Romancing SaGa 3 le 4 février 2027. ([revue du jour](../2026/11/2026-11-12.md))
 - **2026-11-12** — Deux Piece by Piece, un seul éditeur — Deux jeux homonymes sortent ensemble sur l'eShop le 25 novembre. ([revue du jour](../2026/11/2026-11-12.md))
 - **2026-11-11** — Ocarina of Time : 5,2 millions en quatre jours — Meilleur démarrage d'un jeu Nintendo sur Switch 2, Furukawa maintient l'objectif de 16 millions de consoles. ([revue du jour](../2026/11/2026-11-11.md))

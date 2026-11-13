@@ -2,6 +2,10 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-13** — Wolfenstein 3 en production, nouveau jeu d'id Software — Annonces des 25 ans de Xbox, sans date ni plateforme. ([revue du jour](../2026/11/2026-11-13.md))
+- **2026-11-13** — Intergalactic touche au but, Horizon Steel Frontiers presque terminé — Gameplay d'Intergalactic attendu en 2027. ([revue du jour](../2026/11/2026-11-13.md))
+- **2026-11-13** — GTA 6 a frôlé l'interdiction en Corée du Sud — Classé « adultes uniquement » par huit voix contre une après un premier vote à égalité. ([revue du jour](../2026/11/2026-11-13.md))
+- **2026-11-13** — Raw Fury pousse Dome Keeper et KuloNiku sur consoles — Dome Keeper le 14 décembre sur PS5 et Switch, KuloNiku le 25 novembre sur Switch. ([revue du jour](../2026/11/2026-11-13.md))
 - **2026-11-12** — GTA 6 : expéditions lancées et pics de trafic en Europe — Les boîtes partent, le préchargement sature les réseaux, Logitech libère ses salariés le 19. ([revue du jour](../2026/11/2026-11-12.md))
 - **2026-11-12** — Marvel 1943 n'est pas annulé, mais inquiète — Skydance dément l'annulation d'un jeu visé pour 2027, hors budget et revu à la baisse. ([revue du jour](../2026/11/2026-11-12.md))
 - **2026-11-12** — Bethesda douche les espoirs, Mega Man Legends refait surface — Pas d'Elder Scrolls VI pour les 15 ans de Skyrim ; une fiche d'acteurs relance la piste d'un Mega Man Legends. ([revue du jour](../2026/11/2026-11-12.md))

@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-13** — 25 ans de Xbox : Wolfenstein 3 en production, id Software prépare son prochain jeu — MachineGames officialise Wolfenstein 3, id confirme un projet dirigé par Hugo Martin. ([revue du jour](../2026/11/2026-11-13.md))
+- **2026-11-13** — Rétrocompatibilité sur PC, Firefight dans Halo et quatre minutes de Fable — 21 jeux de la première Xbox sur PC, mode coopératif gratuit cet hiver, Fable le 23 février 2027. ([revue du jour](../2026/11/2026-11-13.md))
 - **2026-11-12** — Le cloud gaming gratuit avec pub ouvert à tous, le Game Pass plafonné — Sessions gratuites de 30 minutes avec publicité, heures de cloud vendues en supplément. ([revue du jour](../2026/11/2026-11-12.md))
 - **2026-11-12** — Harada fustige la Series S, Shift Up attend Helix — L'ex-patron de Tekken ne veut pas de « Helix S », Stellar Blade lorgne la prochaine Xbox. ([revue du jour](../2026/11/2026-11-12.md))
 - **2026-11-12** — Asobo offre le Pelican de Halo dans Flight Simulator 2024 — Cadeau temporaire pour les 25 ans de Halo. ([revue du jour](../2026/11/2026-11-12.md))

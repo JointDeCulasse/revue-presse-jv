@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-13** — Rétrocompatibilité sur PC : 21 jeux de la première Xbox — Majorité de titres Star Wars, succès ajoutés à quatre d'entre eux. ([revue du jour](../2026/11/2026-11-13.md))
+- **2026-11-13** — Humble Bundle supprime la double authentification — La refonte du site affaiblit la sécurité des comptes, retrait des cartes enregistrées conseillé. ([revue du jour](../2026/11/2026-11-13.md))
+- **2026-11-13** — Slay the Spire 2 ajoute le Fou et deux modes — Sixième personnage et modes Blitz et Dread dans le patch bêta 0.113.0. ([revue du jour](../2026/11/2026-11-13.md))
 - **2026-11-12** — Helldivers 2 assouplit sa chasse aux mods, Dark Souls de retour en ligne — Correctif pour les mods cosmétiques, multijoueur de Dark Souls II et III rétabli. ([revue du jour](../2026/11/2026-11-12.md))
 - **2026-11-12** — Underkeep modernise le dungeon crawler — Un « blobber » indé à la Dungeon Master salué par Kotaku. ([revue du jour](../2026/11/2026-11-12.md))
 - **2026-11-11** — Steam affiche les performances réelles sur Steam Deck — Les pages du magasin montrent la fréquence d'images moyenne et les saccades mesurées chez les joueurs. ([revue du jour](../2026/11/2026-11-11.md))

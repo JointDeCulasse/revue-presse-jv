@@ -2,6 +2,7 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-13** — Les 40 ans de Zelda en concert à la Philharmonie de Paris — Trois représentations les 13 et 14 novembre. ([revue du jour](../2026/11/2026-11-13.md))
 - **2026-11-12** — Knightica, du Français Mad Mango, offert sur l'Epic Games Store — Gratuit du 12 au 19 novembre, avec l'extension Faraway Tales le même jour. ([revue du jour](../2026/11/2026-11-12.md))
 - **2026-11-12** — Asobo offre le Pelican de Halo dans Flight Simulator 2024 — Le studio bordelais célèbre les 25 ans de Halo. ([revue du jour](../2026/11/2026-11-12.md))
 - **2026-11-11** — Ocarina of Time : 250 000 boîtes vendues en France en moins d'une semaine — Environ trois fois le dernier Call of Duty, selon Oscar Lemaire. ([revue du jour](../2026/11/2026-11-11.md))

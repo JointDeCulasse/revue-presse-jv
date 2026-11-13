@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-13** — Slay the Spire 2 ajoute le Fou et deux modes — Sixième personnage, modes Blitz et Dread dans le dernier patch bêta. ([revue du jour](../2026/11/2026-11-13.md))
+- **2026-11-13** — Raw Fury pousse Dome Keeper et KuloNiku sur consoles — Dome Keeper le 14 décembre sur PS5 et Switch, KuloNiku le 25 novembre sur Switch. ([revue du jour](../2026/11/2026-11-13.md))
+- **2026-11-13** — Cook, Serve, Delicious revient le 18 janvier — Re-Mustard! sur PC en janvier 2027, consoles plus tard. ([revue du jour](../2026/11/2026-11-13.md))
 - **2026-11-12** — Meccha Chameleon, l'indé qui a fait jeu égal avec Capcom — Quatre Golden Joysticks pour le cache-cache japonais ; Valheim meilleur indé, Big Walk prix de la critique. ([revue du jour](../2026/11/2026-11-12.md))
 - **2026-11-12** — Deux Piece by Piece, un seul éditeur — No More Robots signe le jeu homonyme de son propre titre et sort les deux sur Switch le 25 novembre. ([revue du jour](../2026/11/2026-11-12.md))
 - **2026-11-12** — Underkeep modernise le dungeon crawler — Indé de la semaine de Kotaku, un « blobber » à la Dungeon Master sur PC. ([revue du jour](../2026/11/2026-11-12.md))
