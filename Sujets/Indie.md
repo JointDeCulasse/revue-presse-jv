@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-14** — Team Meat annonce Super Meat Boy Again+ — nouvelle version du jeu de 2010 avec plus de 300 niveaux et la musique de Danny B. ([revue du jour](../2026/11/2026-11-14.md))
+- **2026-11-14** — Kiln se réinvente après le départ de Double Fine de Xbox — la mise à jour Kiln: Reshaped marque la fin prévue du développement. ([revue du jour](../2026/11/2026-11-14.md))
+- **2026-11-14** — Warhammer Survivors dévoile sa feuille de route — Auroch Digital promet des mises à jour gratuites jusqu'au deuxième trimestre 2027. ([revue du jour](../2026/11/2026-11-14.md))
 - **2026-11-13** — Slay the Spire 2 ajoute le Fou et deux modes — Sixième personnage, modes Blitz et Dread dans le dernier patch bêta. ([revue du jour](../2026/11/2026-11-13.md))
 - **2026-11-13** — Raw Fury pousse Dome Keeper et KuloNiku sur consoles — Dome Keeper le 14 décembre sur PS5 et Switch, KuloNiku le 25 novembre sur Switch. ([revue du jour](../2026/11/2026-11-13.md))
 - **2026-11-13** — Cook, Serve, Delicious revient le 18 janvier — Re-Mustard! sur PC en janvier 2027, consoles plus tard. ([revue du jour](../2026/11/2026-11-13.md))

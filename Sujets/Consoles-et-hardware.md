@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-14** — La Series X des 25 ans revendue jusqu'à 5 000 dollars — GameStop l'affiche à 4 950 dollars, sans limite d'achat imposée par Microsoft. ([revue du jour](../2026/11/2026-11-14.md))
+- **2026-11-14** — Le QSSR s'étend à six jeux sur PS5 — Spider-Man 2 en profite déjà, Control Resonant suivra en décembre. ([revue du jour](../2026/11/2026-11-14.md))
+- **2026-11-14** — Suite : le Congrès hausse le ton contre Jensen Huang — de nouvelles lettres évoquent la sécurité nationale et menacent d'assignation l'ex-PDG de Nvidia. ([revue du jour](../2026/11/2026-11-14.md))
 - **2026-11-13** — Suite : Jensen Huang quitte Nvidia, Colette Kress PDG par intérim — Le fondateur du fabricant de GPU (et de la puce de la Switch 2) démissionne avec effet immédiat. ([revue du jour](../2026/11/2026-11-13.md))
 - **2026-11-12** — Harada fustige la Series S, Shift Up attend Helix — Débat sur le coût de développement des consoles d'entrée de gamme avant la prochaine génération Xbox. ([revue du jour](../2026/11/2026-11-12.md))
 - **2026-11-12** — Suite : Jensen Huang menacé de départ chez Nvidia — Le conseil d'administration préparerait l'éviction du PDG après une seconde liaison révélée. ([revue du jour](../2026/11/2026-11-12.md))

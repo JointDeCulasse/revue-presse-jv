@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-14** — Le QSSR s'étend, Sons of Sparta arrive sur PS4 lundi — l'upscaling de la PS5 standard gagne six jeux et le metroidvania sort sur PS4 le 16 novembre avec deux modes. ([revue du jour](../2026/11/2026-11-14.md))
+- **2026-11-14** — Sony veut créer le prochain One Piece — l'anime devient le fil conducteur du groupe, avec un onglet dédié sur la PS5 l'an prochain. ([revue du jour](../2026/11/2026-11-14.md))
 - **2026-11-13** — Intergalactic touche au but, Horizon Steel Frontiers presque terminé — Le jeu de Naughty Dog en finition, gameplay en 2027 ; NCSoft discute de la date de son MMO avec Sony. ([revue du jour](../2026/11/2026-11-13.md))
 - **2026-11-12** — Sony épinglé pour l'abandon des disques — L'association australienne Choice lui décerne un « Shonky Award » pour la fin des disques en 2028. ([revue du jour](../2026/11/2026-11-12.md))
 - **2026-11-11** — Sony annule Fairgames, Haven Studios épargné — Le jeu de braquage en ligne est arrêté après des tests décevants, le studio devient une équipe de soutien sans licenciement. ([revue du jour](../2026/11/2026-11-11.md))

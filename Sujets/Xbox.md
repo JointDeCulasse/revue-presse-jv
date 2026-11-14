@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-14** — La Series X des 25 ans revendue jusqu'à 5 000 dollars — l'édition X25 à 900 dollars, épuisée en un instant, fait le bonheur des revendeurs. ([revue du jour](../2026/11/2026-11-14.md))
+- **2026-11-14** — Microsoft s'excuse après une panne de près de 24 heures — Xbox Live a fait l'objet de nombreux signalements pendant la panne des services Microsoft. ([revue du jour](../2026/11/2026-11-14.md))
+- **2026-11-14** — Kiln se réinvente après le départ de Double Fine de Xbox — la mise à jour Kiln: Reshaped ajoute modes, multijoueur local et jeu hors ligne. ([revue du jour](../2026/11/2026-11-14.md))
 - **2026-11-13** — 25 ans de Xbox : Wolfenstein 3 en production, id Software prépare son prochain jeu — MachineGames officialise Wolfenstein 3, id confirme un projet dirigé par Hugo Martin. ([revue du jour](../2026/11/2026-11-13.md))
 - **2026-11-13** — Rétrocompatibilité sur PC, Firefight dans Halo et quatre minutes de Fable — 21 jeux de la première Xbox sur PC, mode coopératif gratuit cet hiver, Fable le 23 février 2027. ([revue du jour](../2026/11/2026-11-13.md))
 - **2026-11-12** — Le cloud gaming gratuit avec pub ouvert à tous, le Game Pass plafonné — Sessions gratuites de 30 minutes avec publicité, heures de cloud vendues en supplément. ([revue du jour](../2026/11/2026-11-12.md))

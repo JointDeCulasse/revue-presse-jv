@@ -2,6 +2,11 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-14** — Pearl Abyss mise sur l'IA et repousse DokeV à 2028 — DokeV vise le second semestre 2028, avec des démos jouables fin 2027. ([revue du jour](../2026/11/2026-11-14.md))
+- **2026-11-14** — GTA 6 : pas de multijoueur au lancement, des codes lisibles à la lampe — le jeu sera solo le 19 novembre et des codes PS5 seraient lisibles à travers la boîte. ([revue du jour](../2026/11/2026-11-14.md))
+- **2026-11-14** — The Game Awards : les nominations le 17 novembre — annonce à 18 h (heure de Paris), GTA 6 et le remake d'Ocarina of Time éligibles. ([revue du jour](../2026/11/2026-11-14.md))
+- **2026-11-14** — Star Wars: Galactic Racer passe 1,5 million de joueurs — un mois après sa sortie, Fuse Games promet des nouveautés. ([revue du jour](../2026/11/2026-11-14.md))
+- **2026-11-14** — Lucky Luke revient dans une compilation rétro — six jeux de 1996 à 2001 réunis par Atari/Infogrames le 13 janvier 2027. ([revue du jour](../2026/11/2026-11-14.md))
 - **2026-11-13** — Wolfenstein 3 en production, nouveau jeu d'id Software — Annonces des 25 ans de Xbox, sans date ni plateforme. ([revue du jour](../2026/11/2026-11-13.md))
 - **2026-11-13** — Intergalactic touche au but, Horizon Steel Frontiers presque terminé — Gameplay d'Intergalactic attendu en 2027. ([revue du jour](../2026/11/2026-11-13.md))
 - **2026-11-13** — GTA 6 a frôlé l'interdiction en Corée du Sud — Classé « adultes uniquement » par huit voix contre une après un premier vote à égalité. ([revue du jour](../2026/11/2026-11-13.md))

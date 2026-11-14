@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-14** — Pioner ferme moins d'un an après son lancement — le jeu de survie de GFA Games n'a pas survécu à ses serveurs instables ; AMD corrige son bug de pilote. ([revue du jour](../2026/11/2026-11-14.md))
+- **2026-11-14** — Team Meat annonce Super Meat Boy Again+ — nouvelle version du jeu de 2010 sur Steam, plus de 300 niveaux. ([revue du jour](../2026/11/2026-11-14.md))
 - **2026-11-13** — Rétrocompatibilité sur PC : 21 jeux de la première Xbox — Majorité de titres Star Wars, succès ajoutés à quatre d'entre eux. ([revue du jour](../2026/11/2026-11-13.md))
 - **2026-11-13** — Humble Bundle supprime la double authentification — La refonte du site affaiblit la sécurité des comptes, retrait des cartes enregistrées conseillé. ([revue du jour](../2026/11/2026-11-13.md))
 - **2026-11-13** — Slay the Spire 2 ajoute le Fou et deux modes — Sixième personnage et modes Blitz et Dread dans le patch bêta 0.113.0. ([revue du jour](../2026/11/2026-11-13.md))

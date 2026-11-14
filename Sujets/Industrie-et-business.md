@@ -2,6 +2,11 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-14** — Suite : l'industrie européenne s'insurge contre le Digital Fairness Act — l'EGDF et Video Games Europe parlent de « game over » face aux restrictions sur loot boxes et monnaies virtuelles pour les mineurs. ([revue du jour](../2026/11/2026-11-14.md))
+- **2026-11-14** — Microsoft s'excuse après une panne de près de 24 heures — Outlook, Teams, Copilot et OneDrive touchés, signalements sur Xbox Live, ni IA ni piratage en cause selon Microsoft. ([revue du jour](../2026/11/2026-11-14.md))
+- **2026-11-14** — Sony veut créer le prochain One Piece — l'anime devient le fil conducteur du groupe, avec un onglet dédié sur la PS5 l'an prochain. ([revue du jour](../2026/11/2026-11-14.md))
+- **2026-11-14** — Suite : le Congrès hausse le ton contre Jensen Huang — de nouvelles lettres évoquent la sécurité nationale et menacent d'assignation l'ex-PDG de Nvidia. ([revue du jour](../2026/11/2026-11-14.md))
+- **2026-11-14** — Pearl Abyss mise sur l'IA et repousse DokeV à 2028 — le studio de Crimson Desert étend l'IA à toute sa production. ([revue du jour](../2026/11/2026-11-14.md))
 - **2026-11-13** — Suite : Jensen Huang quitte Nvidia, Colette Kress PDG par intérim — Démission immédiate après les révélations sur ses liaisons, la directrice financière assure l'intérim. ([revue du jour](../2026/11/2026-11-13.md))
 - **2026-11-13** — GDC : un professionnel sur trois licencié en deux ans — 34 % des 2 600 répondants ont perdu leur emploi en deux ans, contre 28 % en janvier. ([revue du jour](../2026/11/2026-11-13.md))
 - **2026-11-13** — Zelnick : le disque deviendra le vinyle du jeu vidéo — Le patron de Take-Two prédit un physique marginal. ([revue du jour](../2026/11/2026-11-13.md))

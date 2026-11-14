@@ -9,6 +9,7 @@ Archive quotidienne de l'actualité jeu vidéo, rédigée en français à partir
 
 ## Revues
 
+- [2026-11-14](2026/11/2026-11-14.md) — Les fédérations européennes dénoncent un « game over » face au Digital Fairness Act · Panne Microsoft de près de 24 heures, Xbox Live perturbé · Pearl Abyss étend l'IA à toute sa production et repousse DokeV à 2028
 - [2026-11-13](2026/11/2026-11-13.md) — Jensen Huang démissionne de Nvidia, Colette Kress PDG par intérim · 25 ans de Xbox : Wolfenstein 3 en production, nouveau jeu d'id Software, rétrocompatibilité sur PC · GDC : 34 % des professionnels licenciés en deux ans
 - [2026-11-12](2026/11/2026-11-12.md) — Resident Evil Requiem jeu de l'année aux Golden Joysticks, Meccha Chameleon aussi quatre fois primé · Xbox ouvre son cloud gratuit avec pub et plafonne le Game Pass · L'UE propose un Digital Fairness Act contre les dérives des loot boxes
 - [2026-11-11](2026/11/2026-11-11.md) — Sony annule Fairgames, Haven Studios conservé sans licenciement · La PS5 dépasse les 100 millions d'unités · Ocarina of Time à 5,2 millions en quatre jours, record Nintendo sur Switch 2
