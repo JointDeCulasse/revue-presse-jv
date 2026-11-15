@@ -9,6 +9,7 @@ Archive quotidienne de l'actualité jeu vidéo, rédigée en français à partir
 
 ## Revues
 
+- [2026-11-15](2026/11/2026-11-15.md) — Bilibili Gaming champion du monde de League of Legends face à Gen.G · GTA 6 à J-4 : codes défaillants, 212 Go sur PS5 et bande-son dévoilée · Des tirs visent l'immeuble d'inXile, aucun blessé
 - [2026-11-14](2026/11/2026-11-14.md) — Les fédérations européennes dénoncent un « game over » face au Digital Fairness Act · Panne Microsoft de près de 24 heures, Xbox Live perturbé · Pearl Abyss étend l'IA à toute sa production et repousse DokeV à 2028
 - [2026-11-13](2026/11/2026-11-13.md) — Jensen Huang démissionne de Nvidia, Colette Kress PDG par intérim · 25 ans de Xbox : Wolfenstein 3 en production, nouveau jeu d'id Software, rétrocompatibilité sur PC · GDC : 34 % des professionnels licenciés en deux ans
 - [2026-11-12](2026/11/2026-11-12.md) — Resident Evil Requiem jeu de l'année aux Golden Joysticks, Meccha Chameleon aussi quatre fois primé · Xbox ouvre son cloud gratuit avec pub et plafonne le Game Pass · L'UE propose un Digital Fairness Act contre les dérives des loot boxes

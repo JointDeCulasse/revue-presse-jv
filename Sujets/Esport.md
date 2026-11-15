@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-15** — Bilibili Gaming champion du monde de League of Legends — BLG bat Gen.G 3-1 à Brooklyn, premier titre chinois depuis 2021, Knight élu MVP. ([revue du jour](../2026/11/2026-11-15.md))
+- **2026-11-15** — Riot annonce « New Dawn », la modernisation de League of Legends — une refonte du jeu et de son client prévue en 2027. ([revue du jour](../2026/11/2026-11-15.md))
 - **2026-11-09** — Worlds : Bilibili Gaming sort T1 et rejoint Gen.G en finale — BLG gagne 3-1, première victoire d'une équipe LPL sur T1 en BO5 aux Worlds ; finale le 14 novembre à Brooklyn. ([revue du jour](../2026/11/2026-11-09.md))
 - **2026-11-08** — Worlds : Gen.G en finale après un 3-0 contre Invictus Gaming — Première finale mondiale sous le nom Gen.G, le 14 novembre à Brooklyn contre T1 ou BLG. ([revue du jour](../2026/11/2026-11-08.md))
 - **2026-11-07** — Worlds : T1 met fin à l'aventure de la Karmine Corp — Le club français s'incline 3-1 en quart de finale, T1 affrontera BLG en demi-finale. ([revue du jour](../2026/11/2026-11-07.md))

@@ -2,6 +2,7 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-15** — Minecraft aura le contrôle souris des Joy-Con 2 — une mise à jour l'ajoutera sur Switch 2, déjà testable en bêta fermée ; un jeu Pokémon DS perdu refait surface. ([revue du jour](../2026/11/2026-11-15.md))
 - **2026-11-14** — Nintendo recrute un archiviste numérique — un contrat d'un an à Redmond pour préserver l'histoire de ses consoles et de ses jeux. ([revue du jour](../2026/11/2026-11-14.md))
 - **2026-11-14** — Rectificatif : les concerts Zelda à Paris auront lieu en 2027 — les trois concerts de la Philharmonie sont prévus les 13 et 14 novembre 2027. ([revue du jour](../2026/11/2026-11-14.md))
 - **2026-11-13** — Nintendo fait supprimer plus de 200 projets Switch de GitHub — Quatre demandes DMCA visant des dérivés de Yuzu et, pour la première fois, la modchip Picofly. ([revue du jour](../2026/11/2026-11-13.md))

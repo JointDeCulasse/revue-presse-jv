@@ -2,6 +2,7 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-15** — GTA 6 : codes défaillants, 212 Go et bande-son dévoilée — le jeu pèse 212 Go sur PS5 et des boîtes sans disque ont des codes inutilisables. ([revue du jour](../2026/11/2026-11-15.md))
 - **2026-11-14** — Le QSSR s'étend, Sons of Sparta arrive sur PS4 lundi — l'upscaling de la PS5 standard gagne six jeux et le metroidvania sort sur PS4 le 16 novembre avec deux modes. ([revue du jour](../2026/11/2026-11-14.md))
 - **2026-11-14** — Sony veut créer le prochain One Piece — l'anime devient le fil conducteur du groupe, avec un onglet dédié sur la PS5 l'an prochain. ([revue du jour](../2026/11/2026-11-14.md))
 - **2026-11-13** — Intergalactic touche au but, Horizon Steel Frontiers presque terminé — Le jeu de Naughty Dog en finition, gameplay en 2027 ; NCSoft discute de la date de son MMO avec Sony. ([revue du jour](../2026/11/2026-11-13.md))

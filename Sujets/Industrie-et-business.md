@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-15** — Suite : 40 % des développeurs utilisent l'IA générative, mais la majorité la juge néfaste — selon l'enquête de la GDC, environ 55 % y voient un effet négatif sur l'industrie. ([revue du jour](../2026/11/2026-11-15.md))
+- **2026-11-15** — Strauss Zelnick relativise la menace des clones générés par IA — le PDG de Take-Two y voit un enjeu créatif plutôt que financier. ([revue du jour](../2026/11/2026-11-15.md))
+- **2026-11-15** — Umamusume devient partenaire du Grand Prix du Japon de F1 — un virage de Suzuka portera le nom du gacha de Cygames pendant un an. ([revue du jour](../2026/11/2026-11-15.md))
 - **2026-11-14** — Suite : l'industrie européenne s'insurge contre le Digital Fairness Act — l'EGDF et Video Games Europe parlent de « game over » face aux restrictions sur loot boxes et monnaies virtuelles pour les mineurs. ([revue du jour](../2026/11/2026-11-14.md))
 - **2026-11-14** — Microsoft s'excuse après une panne de près de 24 heures — Outlook, Teams, Copilot et OneDrive touchés, signalements sur Xbox Live, ni IA ni piratage en cause selon Microsoft. ([revue du jour](../2026/11/2026-11-14.md))
 - **2026-11-14** — Sony veut créer le prochain One Piece — l'anime devient le fil conducteur du groupe, avec un onglet dédié sur la PS5 l'an prochain. ([revue du jour](../2026/11/2026-11-14.md))

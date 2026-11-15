@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-15** — Escape from Tarkov aura un jeu mobile en vue du dessus — un shooter d'extraction présenté l'an prochain, selon Nikita Buyanov. ([revue du jour](../2026/11/2026-11-15.md))
+- **2026-11-15** — Umamusume devient partenaire du Grand Prix du Japon de F1 — Cygames s'offre un virage de Suzuka, un stand et un concert. ([revue du jour](../2026/11/2026-11-15.md))
 - **2026-11-12** — L'Europe veut encadrer loot boxes et monnaies virtuelles — Le Digital Fairness Act proposé viserait loot boxes, monnaies virtuelles, pay-to-win et récompenses quotidiennes. ([revue du jour](../2026/11/2026-11-12.md))
 - **2026-11-09** — Un nouveau Dragon Quest et My Hero Ultra Rumble sur smartphones — Square Enix annonce Dragon Quest RPG: The Cursed Tree and the Chosen Isle, Bandai Namco tease My Hero Ultra Rumble Mobile. ([revue du jour](../2026/11/2026-11-09.md))
 - **2026-11-07** — Kabam réunit neuf licences Warner Bros. dans un RPG, Brawl Stars passe en mode GTA — WB All-Star Mayhem entre en test régional ce mois-ci, Supercell lance la saison Brawl Vice. ([revue du jour](../2026/11/2026-11-07.md))

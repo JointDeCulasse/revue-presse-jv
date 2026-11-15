@@ -2,6 +2,10 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-15** — GTA 6 : codes défaillants, 212 Go et bande-son dévoilée — à quatre jours de la sortie, codes déjà utilisés, installation massive et album officiel confirmé par une fuite. ([revue du jour](../2026/11/2026-11-15.md))
+- **2026-11-15** — Escape from Tarkov aura un jeu mobile en vue du dessus — présentation prévue l'an prochain. ([revue du jour](../2026/11/2026-11-15.md))
+- **2026-11-15** — Crazy Taxi: World Tour termine son tour du monde en Inde — cinquième et dernière destination du reboot de Sega. ([revue du jour](../2026/11/2026-11-15.md))
+- **2026-11-15** — Rumeur : Ubisoft relancerait Rainbow Six Vegas — un troisième épisode serait en début de production à Montréal. ([revue du jour](../2026/11/2026-11-15.md))
 - **2026-11-14** — Pearl Abyss mise sur l'IA et repousse DokeV à 2028 — DokeV vise le second semestre 2028, avec des démos jouables fin 2027. ([revue du jour](../2026/11/2026-11-14.md))
 - **2026-11-14** — GTA 6 : pas de multijoueur au lancement, des codes lisibles à la lampe — le jeu sera solo le 19 novembre et des codes PS5 seraient lisibles à travers la boîte. ([revue du jour](../2026/11/2026-11-14.md))
 - **2026-11-14** — The Game Awards : les nominations le 17 novembre — annonce à 18 h (heure de Paris), GTA 6 et le remake d'Ocarina of Time éligibles. ([revue du jour](../2026/11/2026-11-14.md))

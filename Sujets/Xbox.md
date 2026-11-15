@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-15** — Des tirs visent l'immeuble d'inXile Entertainment — le studio Xbox de Tustin s'en sort sans blessé. ([revue du jour](../2026/11/2026-11-15.md))
+- **2026-11-15** — A Game About Digging A Hole Together en tête du Game Pass de décembre — cinq jeux déjà confirmés pour le mois. ([revue du jour](../2026/11/2026-11-15.md))
 - **2026-11-14** — La Series X des 25 ans revendue jusqu'à 5 000 dollars — l'édition X25 à 900 dollars, épuisée en un instant, fait le bonheur des revendeurs. ([revue du jour](../2026/11/2026-11-14.md))
 - **2026-11-14** — Microsoft s'excuse après une panne de près de 24 heures — Xbox Live a fait l'objet de nombreux signalements pendant la panne des services Microsoft. ([revue du jour](../2026/11/2026-11-14.md))
 - **2026-11-14** — Kiln se réinvente après le départ de Double Fine de Xbox — la mise à jour Kiln: Reshaped ajoute modes, multijoueur local et jeu hors ligne. ([revue du jour](../2026/11/2026-11-14.md))

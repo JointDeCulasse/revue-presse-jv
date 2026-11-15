@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-15** — WoW: Forever retire l'expérience des monstres trop faibles en donjon — un correctif qui divise les joueurs. ([revue du jour](../2026/11/2026-11-15.md))
+- **2026-11-15** — CultGame, un simulateur de secte dans l'esprit de Dwarf Fortress — gestion textuelle et simulation émergente sur PC. ([revue du jour](../2026/11/2026-11-15.md))
 - **2026-11-14** — Pioner ferme moins d'un an après son lancement — le jeu de survie de GFA Games n'a pas survécu à ses serveurs instables ; AMD corrige son bug de pilote. ([revue du jour](../2026/11/2026-11-14.md))
 - **2026-11-14** — Team Meat annonce Super Meat Boy Again+ — nouvelle version du jeu de 2010 sur Steam, plus de 300 niveaux. ([revue du jour](../2026/11/2026-11-14.md))
 - **2026-11-13** — Rétrocompatibilité sur PC : 21 jeux de la première Xbox — Majorité de titres Star Wars, succès ajoutés à quatre d'entre eux. ([revue du jour](../2026/11/2026-11-13.md))

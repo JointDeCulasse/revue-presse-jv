@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-15** — CultGame, un simulateur de secte dans l'esprit de Dwarf Fortress — un jeu de gestion textuel à la simulation émergente, salué par PC Gamer. ([revue du jour](../2026/11/2026-11-15.md))
+- **2026-11-15** — Tape to Tape, le roguelite de hockey salué sur Switch — un hockey arcade façon NHL Hitz développé avec sa communauté. ([revue du jour](../2026/11/2026-11-15.md))
+- **2026-11-15** — A Game About Digging A Hole Together en tête du Game Pass de décembre — la version coopérative du succès indé fait partie des cinq jeux confirmés. ([revue du jour](../2026/11/2026-11-15.md))
 - **2026-11-14** — Team Meat annonce Super Meat Boy Again+ — nouvelle version du jeu de 2010 avec plus de 300 niveaux et la musique de Danny B. ([revue du jour](../2026/11/2026-11-14.md))
 - **2026-11-14** — Kiln se réinvente après le départ de Double Fine de Xbox — la mise à jour Kiln: Reshaped marque la fin prévue du développement. ([revue du jour](../2026/11/2026-11-14.md))
 - **2026-11-14** — Warhammer Survivors dévoile sa feuille de route — Auroch Digital promet des mises à jour gratuites jusqu'au deuxième trimestre 2027. ([revue du jour](../2026/11/2026-11-14.md))
