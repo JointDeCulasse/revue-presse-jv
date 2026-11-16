@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-16** — Suite : League of Legends « New Dawn » refait la Faille de l'invocateur — nouveau client et première refonte graphique depuis 2014, en 2027. ([revue du jour](../2026/11/2026-11-16.md))
+- **2026-11-16** — Dune: Awakening jouable totalement hors ligne — Funcom active le solo sans connexion, extension en décembre. ([revue du jour](../2026/11/2026-11-16.md))
 - **2026-11-15** — WoW: Forever retire l'expérience des monstres trop faibles en donjon — un correctif qui divise les joueurs. ([revue du jour](../2026/11/2026-11-15.md))
 - **2026-11-15** — CultGame, un simulateur de secte dans l'esprit de Dwarf Fortress — gestion textuelle et simulation émergente sur PC. ([revue du jour](../2026/11/2026-11-15.md))
 - **2026-11-14** — Pioner ferme moins d'un an après son lancement — le jeu de survie de GFA Games n'a pas survécu à ses serveurs instables ; AMD corrige son bug de pilote. ([revue du jour](../2026/11/2026-11-14.md))

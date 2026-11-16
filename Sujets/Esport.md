@@ -2,6 +2,7 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-16** — Suite : League of Legends « New Dawn » refait la Faille de l'invocateur — Riot détaille la refonte annoncée pendant la finale des Worlds. ([revue du jour](../2026/11/2026-11-16.md))
 - **2026-11-15** — Bilibili Gaming champion du monde de League of Legends — BLG bat Gen.G 3-1 à Brooklyn, premier titre chinois depuis 2021, Knight élu MVP. ([revue du jour](../2026/11/2026-11-15.md))
 - **2026-11-15** — Riot annonce « New Dawn », la modernisation de League of Legends — une refonte du jeu et de son client prévue en 2027. ([revue du jour](../2026/11/2026-11-15.md))
 - **2026-11-09** — Worlds : Bilibili Gaming sort T1 et rejoint Gen.G en finale — BLG gagne 3-1, première victoire d'une équipe LPL sur T1 en BO5 aux Worlds ; finale le 14 novembre à Brooklyn. ([revue du jour](../2026/11/2026-11-09.md))

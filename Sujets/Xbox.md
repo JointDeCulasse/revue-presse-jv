@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-16** — Project Helix sera « une console qui joue aussi aux jeux PC » — Jason Ronald promet quatre générations de rétrocompatibilité et mise sur le rendu neuronal pour le prix. ([revue du jour](../2026/11/2026-11-16.md))
+- **2026-11-16** — 25 ans de Xbox : animations de démarrage d'époque et classiques dans le Game Pass Essential — trois anciennes animations et huit jeux dont les Banjo-Kazooie et Perfect Dark. ([revue du jour](../2026/11/2026-11-16.md))
+- **2026-11-16** — Treyarch se sépare du scénariste historique du mode Zombies — Craig Houston licencié après une vingtaine d'années. ([revue du jour](../2026/11/2026-11-16.md))
 - **2026-11-15** — Des tirs visent l'immeuble d'inXile Entertainment — le studio Xbox de Tustin s'en sort sans blessé. ([revue du jour](../2026/11/2026-11-15.md))
 - **2026-11-15** — A Game About Digging A Hole Together en tête du Game Pass de décembre — cinq jeux déjà confirmés pour le mois. ([revue du jour](../2026/11/2026-11-15.md))
 - **2026-11-14** — La Series X des 25 ans revendue jusqu'à 5 000 dollars — l'édition X25 à 900 dollars, épuisée en un instant, fait le bonheur des revendeurs. ([revue du jour](../2026/11/2026-11-14.md))

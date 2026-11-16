@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-16** — Coffee Stain sauve Chronicles: Medieval après la faillite de Raw Power Games — licence rachetée 36,75 M DKK (environ 5,4 M$) à la liquidation. ([revue du jour](../2026/11/2026-11-16.md))
+- **2026-11-16** — Treyarch se sépare du scénariste historique du mode Zombies — Craig Houston licencié après une vingtaine d'années. ([revue du jour](../2026/11/2026-11-16.md))
 - **2026-11-15** — Des tirs visent l'immeuble d'inXile Entertainment — aucun blessé à Tustin, un suspect arrêté, mobile inconnu. ([revue du jour](../2026/11/2026-11-15.md))
 - **2026-11-14** — Pioner ferme moins d'un an après son lancement — le jeu de survie de GFA Games ferme après des mois de serveurs instables et une fréquentation en chute. ([revue du jour](../2026/11/2026-11-14.md))
 - **2026-11-13** — GDC : un professionnel sur trois licencié en deux ans — 54 % des licenciés toujours sans emploi, 81 % des sondés inquiets pour leur avenir. ([revue du jour](../2026/11/2026-11-13.md))

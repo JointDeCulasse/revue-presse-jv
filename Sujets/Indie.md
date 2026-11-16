@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-16** — Coffee Stain sauve Chronicles: Medieval après la faillite de Raw Power Games — nouvelle société à 75 % Coffee Stain, accès anticipé 2027 à revoir. ([revue du jour](../2026/11/2026-11-16.md))
+- **2026-11-16** — Towers of Babble, le jeu de mots stratégique du créateur d'Universal Paperclips — Frank Lantz mêle Scrabble, tower defense et roguelite. ([revue du jour](../2026/11/2026-11-16.md))
+- **2026-11-16** — Horu, un RTS spatial solo dans l'esprit d'Empire at War — des centaines de milliers d'unités promises, Kickstarter et sortie fin 2027. ([revue du jour](../2026/11/2026-11-16.md))
 - **2026-11-15** — CultGame, un simulateur de secte dans l'esprit de Dwarf Fortress — un jeu de gestion textuel à la simulation émergente, salué par PC Gamer. ([revue du jour](../2026/11/2026-11-15.md))
 - **2026-11-15** — Tape to Tape, le roguelite de hockey salué sur Switch — un hockey arcade façon NHL Hitz développé avec sa communauté. ([revue du jour](../2026/11/2026-11-15.md))
 - **2026-11-15** — A Game About Digging A Hole Together en tête du Game Pass de décembre — la version coopérative du succès indé fait partie des cinq jeux confirmés. ([revue du jour](../2026/11/2026-11-15.md))

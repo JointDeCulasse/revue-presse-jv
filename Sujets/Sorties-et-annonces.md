@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-16** — Minecraft Dungeons II : premier DLC le 1er décembre — The Humblers Awaken ajoute quêtes, environnements et équipements. ([revue du jour](../2026/11/2026-11-16.md))
+- **2026-11-16** — Combat : Laocorn dans Fatal Fury, Burnette dans Rivals of Aether II — nouveaux personnages les 19 novembre et 1er décembre. ([revue du jour](../2026/11/2026-11-16.md))
+- **2026-11-16** — Suite : Tarkov pourrait revenir 200 ans plus tard avec Fragmentary Order — Nikita Buyanov évoque un saut de deux siècles. ([revue du jour](../2026/11/2026-11-16.md))
 - **2026-11-15** — GTA 6 : codes défaillants, 212 Go et bande-son dévoilée — à quatre jours de la sortie, codes déjà utilisés, installation massive et album officiel confirmé par une fuite. ([revue du jour](../2026/11/2026-11-15.md))
 - **2026-11-15** — Escape from Tarkov aura un jeu mobile en vue du dessus — présentation prévue l'an prochain. ([revue du jour](../2026/11/2026-11-15.md))
 - **2026-11-15** — Crazy Taxi: World Tour termine son tour du monde en Inde — cinquième et dernière destination du reboot de Sega. ([revue du jour](../2026/11/2026-11-15.md))
