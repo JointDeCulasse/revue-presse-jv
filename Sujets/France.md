@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-17** — Six syndicats européens publient un manifeste contre l'IA générative — le STJV cosigne un texte qui réclame que les salariés décident de l'usage de l'IA. ([revue du jour](../2026/11/2026-11-17.md))
+- **2026-11-17** — Bad House, édité par The Arcade Crew (Dotemu), sort le 11 janvier 2027 — un auto-battler d'exploration de sous-sol sur PC. ([revue du jour](../2026/11/2026-11-17.md))
 - **2026-11-15** — Rumeur : Ubisoft relancerait Rainbow Six Vegas — un troisième épisode serait entré en production à Ubisoft Montréal selon Insider Gaming. ([revue du jour](../2026/11/2026-11-15.md))
 - **2026-11-14** — Rectificatif : les concerts Zelda à Paris auront lieu en 2027 — trois concerts de l'Orchestre Colonne à la Philharmonie les 13 et 14 novembre 2027. ([revue du jour](../2026/11/2026-11-14.md))
 - **2026-11-14** — Lucky Luke revient dans une compilation rétro — Atari/Infogrames réunit six jeux du cow-boy de BD, le 13 janvier 2027. ([revue du jour](../2026/11/2026-11-14.md))

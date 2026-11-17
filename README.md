@@ -9,6 +9,7 @@ Archive quotidienne de l'actualité jeu vidéo, rédigée en français à partir
 
 ## Revues
 
+- [2026-11-17](2026/11/2026-11-17.md) — Le pirate de GTA 6 plaide coupable à trois jours de la sortie · Ocarina of Time, jeu physique le plus vendu de 2026 aux États-Unis en une semaine · Six syndicats européens, dont le STJV, publient un manifeste contre l'IA générative
 - [2026-11-16](2026/11/2026-11-16.md) — Xbox a 25 ans : Project Helix sera « une console d'abord » qui joue aussi aux jeux PC · Coffee Stain rachète Chronicles: Medieval après la faillite de Raw Power Games · Black Friday : Sony brade les accessoires mais pas la PS5
 - [2026-11-15](2026/11/2026-11-15.md) — Bilibili Gaming champion du monde de League of Legends face à Gen.G · GTA 6 à J-4 : codes défaillants, 212 Go sur PS5 et bande-son dévoilée · Des tirs visent l'immeuble d'inXile, aucun blessé
 - [2026-11-14](2026/11/2026-11-14.md) — Les fédérations européennes dénoncent un « game over » face au Digital Fairness Act · Panne Microsoft de près de 24 heures, Xbox Live perturbé · Pearl Abyss étend l'IA à toute sa production et repousse DokeV à 2028

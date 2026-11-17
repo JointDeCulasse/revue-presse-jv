@@ -2,6 +2,10 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-17** — Le pirate de GTA 6 plaide coupable — Arion Kurtaj reconnaît le piratage de Rockstar et d'autres attaques de Lapsus$, peine à venir. ([revue du jour](../2026/11/2026-11-17.md))
+- **2026-11-17** — Six syndicats européens publient un manifeste contre l'IA générative — IWGB, STJV et quatre autres appellent à soutenir les jeux faits sans IA. ([revue du jour](../2026/11/2026-11-17.md))
+- **2026-11-17** — Suite : Trump favorable au retour de Jensen Huang, le conseil de Nvidia beaucoup moins — le conseil enquête sur un éventuel risque pour la sécurité nationale. ([revue du jour](../2026/11/2026-11-17.md))
+- **2026-11-17** — Bandai Namco présente son moteur maison taillé pour le jeu de combat — déjà utilisé pour Kirby Air Riders selon Kotaku. ([revue du jour](../2026/11/2026-11-17.md))
 - **2026-11-15** — Suite : 40 % des développeurs utilisent l'IA générative, mais la majorité la juge néfaste — selon l'enquête de la GDC, environ 55 % y voient un effet négatif sur l'industrie. ([revue du jour](../2026/11/2026-11-15.md))
 - **2026-11-15** — Strauss Zelnick relativise la menace des clones générés par IA — le PDG de Take-Two y voit un enjeu créatif plutôt que financier. ([revue du jour](../2026/11/2026-11-15.md))
 - **2026-11-15** — Umamusume devient partenaire du Grand Prix du Japon de F1 — un virage de Suzuka portera le nom du gacha de Cygames pendant un an. ([revue du jour](../2026/11/2026-11-15.md))

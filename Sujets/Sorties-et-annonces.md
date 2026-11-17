@@ -2,6 +2,10 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-17** — NBA 2K27 s'invite à Vice City pour la sortie de GTA 6 — saison 3 thématique et Vice City Edition du 27 novembre au 15 janvier. ([revue du jour](../2026/11/2026-11-17.md))
+- **2026-11-17** — Star Wars: Galactic Racer ajoutera l'écran partagé début 2027 — un mode Free Play en local très demandé. ([revue du jour](../2026/11/2026-11-17.md))
+- **2026-11-17** — Grammy du meilleur score de jeu vidéo : cinq nommés — 007 First Light, Ghost of Yōtei, Wolverine, Zero Company et Avatar, cérémonie le 7 février. ([revue du jour](../2026/11/2026-11-17.md))
+- **2026-11-17** — Persona 6, Fate of the Old Republic, Blade Runner : les projets en gestation — rumeur Persona 6 aux Game Awards, pas de KOTOR avant 2027. ([revue du jour](../2026/11/2026-11-17.md))
 - **2026-11-16** — Minecraft Dungeons II : premier DLC le 1er décembre — The Humblers Awaken ajoute quêtes, environnements et équipements. ([revue du jour](../2026/11/2026-11-16.md))
 - **2026-11-16** — Combat : Laocorn dans Fatal Fury, Burnette dans Rivals of Aether II — nouveaux personnages les 19 novembre et 1er décembre. ([revue du jour](../2026/11/2026-11-16.md))
 - **2026-11-16** — Suite : Tarkov pourrait revenir 200 ans plus tard avec Fragmentary Order — Nikita Buyanov évoque un saut de deux siècles. ([revue du jour](../2026/11/2026-11-16.md))

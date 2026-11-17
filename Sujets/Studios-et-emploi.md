@@ -2,6 +2,7 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-17** — Décès d'Akira Kurabayashi, directeur d'Arika — il dirigeait le développement logiciel du studio de Street Fighter EX et Tetris 99. ([revue du jour](../2026/11/2026-11-17.md))
 - **2026-11-16** — Coffee Stain sauve Chronicles: Medieval après la faillite de Raw Power Games — licence rachetée 36,75 M DKK (environ 5,4 M$) à la liquidation. ([revue du jour](../2026/11/2026-11-16.md))
 - **2026-11-16** — Treyarch se sépare du scénariste historique du mode Zombies — Craig Houston licencié après une vingtaine d'années. ([revue du jour](../2026/11/2026-11-16.md))
 - **2026-11-15** — Des tirs visent l'immeuble d'inXile Entertainment — aucun blessé à Tustin, un suspect arrêté, mobile inconnu. ([revue du jour](../2026/11/2026-11-15.md))

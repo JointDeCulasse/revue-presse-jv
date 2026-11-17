@@ -2,6 +2,7 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-17** — League of Legends confirmé à l'Esports World Cup 2027, OpTic revient en LCS — OpTic reprend la place de Dignitas, New Dawn gardera les runes. ([revue du jour](../2026/11/2026-11-17.md))
 - **2026-11-16** — Suite : League of Legends « New Dawn » refait la Faille de l'invocateur — Riot détaille la refonte annoncée pendant la finale des Worlds. ([revue du jour](../2026/11/2026-11-16.md))
 - **2026-11-15** — Bilibili Gaming champion du monde de League of Legends — BLG bat Gen.G 3-1 à Brooklyn, premier titre chinois depuis 2021, Knight élu MVP. ([revue du jour](../2026/11/2026-11-15.md))
 - **2026-11-15** — Riot annonce « New Dawn », la modernisation de League of Legends — une refonte du jeu et de son client prévue en 2027. ([revue du jour](../2026/11/2026-11-15.md))

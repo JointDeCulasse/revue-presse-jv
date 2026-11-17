@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-17** — Unity lance une bourse de 50 000 dollars pour dix développeurs indé — argent et accompagnement pour la fin de production. ([revue du jour](../2026/11/2026-11-17.md))
+- **2026-11-17** — Dave the Diver et Core Keeper échangent leurs univers le 30 novembre — un croisement optionnel et permanent dans les deux jeux. ([revue du jour](../2026/11/2026-11-17.md))
+- **2026-11-17** — Dates en pagaille : Bad House, High Roller Penny, Machine Party, Book Nook — sorties entre le 26 novembre et le 12 janvier. ([revue du jour](../2026/11/2026-11-17.md))
 - **2026-11-16** — Coffee Stain sauve Chronicles: Medieval après la faillite de Raw Power Games — nouvelle société à 75 % Coffee Stain, accès anticipé 2027 à revoir. ([revue du jour](../2026/11/2026-11-16.md))
 - **2026-11-16** — Towers of Babble, le jeu de mots stratégique du créateur d'Universal Paperclips — Frank Lantz mêle Scrabble, tower defense et roguelite. ([revue du jour](../2026/11/2026-11-16.md))
 - **2026-11-16** — Horu, un RTS spatial solo dans l'esprit d'Empire at War — des centaines de milliers d'unités promises, Kickstarter et sortie fin 2027. ([revue du jour](../2026/11/2026-11-16.md))

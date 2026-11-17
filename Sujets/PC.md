@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-17** — Overwatch : le héros de la saison 6 sera un DPS, la communauté proteste — Hudson remplace le soigneur espéré. ([revue du jour](../2026/11/2026-11-17.md))
+- **2026-11-17** — SteamOS gère mieux les PC équipés de cartes Nvidia — installer l'OS de Valve sur un PC maison devient plus simple. ([revue du jour](../2026/11/2026-11-17.md))
 - **2026-11-16** — Suite : League of Legends « New Dawn » refait la Faille de l'invocateur — nouveau client et première refonte graphique depuis 2014, en 2027. ([revue du jour](../2026/11/2026-11-16.md))
 - **2026-11-16** — Dune: Awakening jouable totalement hors ligne — Funcom active le solo sans connexion, extension en décembre. ([revue du jour](../2026/11/2026-11-16.md))
 - **2026-11-15** — WoW: Forever retire l'expérience des monstres trop faibles en donjon — un correctif qui divise les joueurs. ([revue du jour](../2026/11/2026-11-15.md))
