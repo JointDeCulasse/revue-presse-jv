@@ -2,6 +2,10 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-18** — Game Awards 2026 : GTA 6, Control Resonant et Resident Evil Requiem en tête — huit nominations chacun, six jeux en lice pour le GOTY, Nintendo premier éditeur avec 12 nominations. ([revue du jour](../2026/11/2026-11-18.md))
+- **2026-11-18** — Sony gagne face à l'action collective britannique sur les prix du PS Store — le tribunal ne voit ni monopole ni prix excessifs, appel envisagé. ([revue du jour](../2026/11/2026-11-18.md))
+- **2026-11-18** — Newzoo : sans GTA 6, le marché console reculerait en 2026 — le jeu de Rockstar sauverait l'année des dépenses console. ([revue du jour](../2026/11/2026-11-18.md))
+- **2026-11-18** — Suite : le conseil de Nvidia ferme la porte à Jensen Huang — pas de retour malgré sa disponibilité affichée. ([revue du jour](../2026/11/2026-11-18.md))
 - **2026-11-17** — Le pirate de GTA 6 plaide coupable — Arion Kurtaj reconnaît le piratage de Rockstar et d'autres attaques de Lapsus$, peine à venir. ([revue du jour](../2026/11/2026-11-17.md))
 - **2026-11-17** — Six syndicats européens publient un manifeste contre l'IA générative — IWGB, STJV et quatre autres appellent à soutenir les jeux faits sans IA. ([revue du jour](../2026/11/2026-11-17.md))
 - **2026-11-17** — Suite : Trump favorable au retour de Jensen Huang, le conseil de Nvidia beaucoup moins — le conseil enquête sur un éventuel risque pour la sécurité nationale. ([revue du jour](../2026/11/2026-11-17.md))

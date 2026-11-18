@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-18** — Firaxis perd un tiers de ses effectifs, le nouveau XCOM en difficulté — environ 60 licenciements et départ de la directrice Heather Hazen. ([revue du jour](../2026/11/2026-11-18.md))
+- **2026-11-18** — Cinquième vague de licenciements chez Crystal Dynamics — huit départs alors que deux Tomb Raider sont en chantier. ([revue du jour](../2026/11/2026-11-18.md))
 - **2026-11-17** — Décès d'Akira Kurabayashi, directeur d'Arika — il dirigeait le développement logiciel du studio de Street Fighter EX et Tetris 99. ([revue du jour](../2026/11/2026-11-17.md))
 - **2026-11-16** — Coffee Stain sauve Chronicles: Medieval après la faillite de Raw Power Games — licence rachetée 36,75 M DKK (environ 5,4 M$) à la liquidation. ([revue du jour](../2026/11/2026-11-16.md))
 - **2026-11-16** — Treyarch se sépare du scénariste historique du mode Zombies — Craig Houston licencié après une vingtaine d'années. ([revue du jour](../2026/11/2026-11-16.md))

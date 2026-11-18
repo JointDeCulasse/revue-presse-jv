@@ -2,6 +2,7 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-18** — The Wolf Among Us Remastered et Tanuki: Pon's Summer bien accueillis — remaster jugé indispensable par ActuGaming. ([revue du jour](../2026/11/2026-11-18.md))
 - **2026-11-17** — Ashes of the Singularity 2 déçoit, notamment pour son IA générative — campagne courte et ratée selon PC Gamer. ([revue du jour](../2026/11/2026-11-17.md))
 - **2026-11-15** — Tape to Tape, le roguelite de hockey salué sur Switch — Nintendo Life apprécie ce hockey arcade sans hors-jeu ni pénalités. ([revue du jour](../2026/11/2026-11-15.md))
 - **2026-11-12** — Golden Joysticks 2026 : Resident Evil Requiem jeu de l'année — Requiem devance Phantom Blade Zero et Crimson Desert au vote du public. ([revue du jour](../2026/11/2026-11-12.md))

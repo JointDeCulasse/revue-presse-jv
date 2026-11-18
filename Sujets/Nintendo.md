@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-18** — La Switch 2 séduit les développeurs, derrière le PC — 46 % d'intérêt dans l'enquête GDC, XSEED défend les game-key cards. ([revue du jour](../2026/11/2026-11-18.md))
+- **2026-11-18** — Suite : Pikmin 4 sur Switch 2 visé par un « review bombing » — pas de souris ni de 60 images par seconde. ([revue du jour](../2026/11/2026-11-18.md))
 - **2026-11-17** — Ocarina of Time, meilleure vente physique de l'année aux États-Unis — plus d'un million d'unités physiques en semaine de lancement, environ 5,2 millions dans le monde en quatre jours. ([revue du jour](../2026/11/2026-11-17.md))
 - **2026-11-17** — Shigeru Miyamoto, premier lauréat du « Legend Award » des D.I.C.E. — remise le 18 février 2027 à Las Vegas. ([revue du jour](../2026/11/2026-11-17.md))
 - **2026-11-17** — Pikmin 4 sur Switch 2 : la mise à niveau payante fâche — démo de Splatoon Raiders et Splatoon 3 v12 le même jour. ([revue du jour](../2026/11/2026-11-17.md))

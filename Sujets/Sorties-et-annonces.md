@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-18** — GTA 6 à J-1 : Lucia a enfin une actrice, mise à jour PS5 obligatoire — Manni L. Perez confirmée, firmware 14.23.00 requis, astuce néo-zélandaise sur Xbox. ([revue du jour](../2026/11/2026-11-18.md))
+- **2026-11-18** — Exodus dévoile sa version féminine de Jun — romances indépendantes du genre choisi. ([revue du jour](../2026/11/2026-11-18.md))
+- **2026-11-18** — MLB The Show 27 annoncé, Spyro attendu aux Game Awards — retour du test technique, Spyro: A Realm Beyond teasé. ([revue du jour](../2026/11/2026-11-18.md))
 - **2026-11-17** — NBA 2K27 s'invite à Vice City pour la sortie de GTA 6 — saison 3 thématique et Vice City Edition du 27 novembre au 15 janvier. ([revue du jour](../2026/11/2026-11-17.md))
 - **2026-11-17** — Star Wars: Galactic Racer ajoutera l'écran partagé début 2027 — un mode Free Play en local très demandé. ([revue du jour](../2026/11/2026-11-17.md))
 - **2026-11-17** — Grammy du meilleur score de jeu vidéo : cinq nommés — 007 First Light, Ghost of Yōtei, Wolverine, Zero Company et Avatar, cérémonie le 7 février. ([revue du jour](../2026/11/2026-11-17.md))

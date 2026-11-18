@@ -2,6 +2,7 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-18** — Cairn, de The Game Bakers, doublement nommé aux Game Awards — meilleur jeu indé et Games for Impact ; Ubisoft et ZywOo aussi en lice. ([revue du jour](../2026/11/2026-11-18.md))
 - **2026-11-17** — Six syndicats européens publient un manifeste contre l'IA générative — le STJV cosigne un texte qui réclame que les salariés décident de l'usage de l'IA. ([revue du jour](../2026/11/2026-11-17.md))
 - **2026-11-17** — Bad House, édité par The Arcade Crew (Dotemu), sort le 11 janvier 2027 — un auto-battler d'exploration de sous-sol sur PC. ([revue du jour](../2026/11/2026-11-17.md))
 - **2026-11-15** — Rumeur : Ubisoft relancerait Rainbow Six Vegas — un troisième épisode serait entré en production à Ubisoft Montréal selon Insider Gaming. ([revue du jour](../2026/11/2026-11-15.md))

@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-18** — Big Walk, Cairn et Mewgenics parmi les indés nommés aux Game Awards — cinq nommés au meilleur jeu indé et cinq au meilleur premier jeu. ([revue du jour](../2026/11/2026-11-18.md))
+- **2026-11-18** — Devolver offre un jeu à qui supprime GTA 6 — Volvy's Adventure: Reslimed à gagner contre une vidéo d'effacement. ([revue du jour](../2026/11/2026-11-18.md))
+- **2026-11-18** — Sea of Stars tire sa révérence, nouvelles dates indé — Sunset Edition le 2 avril 2027, Hakoniwa Electric le 30 novembre, Calame en février. ([revue du jour](../2026/11/2026-11-18.md))
 - **2026-11-17** — Unity lance une bourse de 50 000 dollars pour dix développeurs indé — argent et accompagnement pour la fin de production. ([revue du jour](../2026/11/2026-11-17.md))
 - **2026-11-17** — Dave the Diver et Core Keeper échangent leurs univers le 30 novembre — un croisement optionnel et permanent dans les deux jeux. ([revue du jour](../2026/11/2026-11-17.md))
 - **2026-11-17** — Dates en pagaille : Bad House, High Roller Penny, Machine Party, Book Nook — sorties entre le 26 novembre et le 12 janvier. ([revue du jour](../2026/11/2026-11-17.md))
