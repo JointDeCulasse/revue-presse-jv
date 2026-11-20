@@ -2,6 +2,7 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-20** — Valve pourrait encore augmenter le prix de la Steam Machine — coût de la mémoire « sans précédent », liste d'attente 2 To fermée. ([revue du jour](../2026/11/2026-11-20.md))
 - **2026-11-17** — Le procès pour entente sur la mémoire vive ira à son terme — un juge refuse de classer l'action contre Samsung, Micron et SK Hynix. ([revue du jour](../2026/11/2026-11-17.md))
 - **2026-11-16** — Project Helix sera « une console qui joue aussi aux jeux PC » — Xbox détaille sa prochaine console sans prix ni date. ([revue du jour](../2026/11/2026-11-16.md))
 - **2026-11-16** — Black Friday : Sony baisse les accessoires, pas la PS5 — la PS5 slim reste à 649 $ aux États-Unis. ([revue du jour](../2026/11/2026-11-16.md))

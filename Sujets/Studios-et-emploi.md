@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-20** — Ubisoft licencie 166 personnes au Québec et lance Motherbrain — suppressions à Montréal et Québec, nouvelle filiale d'IA générative pour le gameplay. ([revue du jour](../2026/11/2026-11-20.md))
+- **2026-11-20** — Le studio de MindsEye veut attaquer ses « saboteurs » pour éponger 62 millions de livres — Build A Rocket Boy, en administration, mise sur des poursuites contre une prétendue campagne d'avis négatifs. ([revue du jour](../2026/11/2026-11-20.md))
+- **2026-11-20** — Rockstar : le procès pour entrave syndicale s'achève, verdict attendu — jugement attendu sous quelques semaines à quelques mois. ([revue du jour](../2026/11/2026-11-20.md))
 - **2026-11-18** — Firaxis perd un tiers de ses effectifs, le nouveau XCOM en difficulté — environ 60 licenciements et départ de la directrice Heather Hazen. ([revue du jour](../2026/11/2026-11-18.md))
 - **2026-11-18** — Cinquième vague de licenciements chez Crystal Dynamics — huit départs alors que deux Tomb Raider sont en chantier. ([revue du jour](../2026/11/2026-11-18.md))
 - **2026-11-17** — Décès d'Akira Kurabayashi, directeur d'Arika — il dirigeait le développement logiciel du studio de Street Fighter EX et Tetris 99. ([revue du jour](../2026/11/2026-11-17.md))

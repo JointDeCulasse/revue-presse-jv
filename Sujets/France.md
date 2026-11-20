@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-20** — Ubisoft licencie 166 personnes au Québec et lance Motherbrain — nouvelle réduction d'effectifs et filiale d'IA générative. ([revue du jour](../2026/11/2026-11-20.md))
+- **2026-11-20** — Assassin's Creed porté par Black Flag Resynced et le film de Nolan — Ubisoft active aussi le cross-play de The Division 2. ([revue du jour](../2026/11/2026-11-20.md))
+- **2026-11-20** — L'ancienne scénariste de Clair Obscur lance un fonds pour la narration — Jennifer Svedberg-Yen veut changer le financement de l'écriture. ([revue du jour](../2026/11/2026-11-20.md))
 - **2026-11-18** — Cairn, de The Game Bakers, doublement nommé aux Game Awards — meilleur jeu indé et Games for Impact ; Ubisoft et ZywOo aussi en lice. ([revue du jour](../2026/11/2026-11-18.md))
 - **2026-11-17** — Six syndicats européens publient un manifeste contre l'IA générative — le STJV cosigne un texte qui réclame que les salariés décident de l'usage de l'IA. ([revue du jour](../2026/11/2026-11-17.md))
 - **2026-11-17** — Bad House, édité par The Arcade Crew (Dotemu), sort le 11 janvier 2027 — un auto-battler d'exploration de sous-sol sur PC. ([revue du jour](../2026/11/2026-11-17.md))

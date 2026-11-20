@@ -2,6 +2,7 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-20** — Valve pourrait encore augmenter le prix de la Steam Machine — production et prix incertains face à la flambée de la mémoire. ([revue du jour](../2026/11/2026-11-20.md))
 - **2026-11-18** — Darktide accueille la Sororité novice le 7 décembre — arbalète, grenade sanctifiée et fuseur pour la nouvelle classe. ([revue du jour](../2026/11/2026-11-18.md))
 - **2026-11-17** — Overwatch : le héros de la saison 6 sera un DPS, la communauté proteste — Hudson remplace le soigneur espéré. ([revue du jour](../2026/11/2026-11-17.md))
 - **2026-11-17** — SteamOS gère mieux les PC équipés de cartes Nvidia — installer l'OS de Valve sur un PC maison devient plus simple. ([revue du jour](../2026/11/2026-11-17.md))

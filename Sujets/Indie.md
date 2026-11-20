@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-20** — Dressmaker : un succès qui n'était pas gagné d'avance — prototype peu téléchargé, nouvelle campagne puis périmètre réduit avant le feu vert. ([revue du jour](../2026/11/2026-11-20.md))
+- **2026-11-20** — Deltarune : le chapitre 6 jouable de bout en bout — brouillon complet, chapitre 7 à peine commencé. ([revue du jour](../2026/11/2026-11-20.md))
+- **2026-11-20** — Tanuki: Pon's Summer s'était préparé à GTA 6, pas à Zelda — le remake d'Ocarina of Time a surpris ses développeurs. ([revue du jour](../2026/11/2026-11-20.md))
 - **2026-11-18** — Big Walk, Cairn et Mewgenics parmi les indés nommés aux Game Awards — cinq nommés au meilleur jeu indé et cinq au meilleur premier jeu. ([revue du jour](../2026/11/2026-11-18.md))
 - **2026-11-18** — Devolver offre un jeu à qui supprime GTA 6 — Volvy's Adventure: Reslimed à gagner contre une vidéo d'effacement. ([revue du jour](../2026/11/2026-11-18.md))
 - **2026-11-18** — Sea of Stars tire sa révérence, nouvelles dates indé — Sunset Edition le 2 avril 2027, Hakoniwa Electric le 30 novembre, Calame en février. ([revue du jour](../2026/11/2026-11-18.md))

@@ -2,6 +2,7 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-20** — Circana octobre : le matériel Xbox bondit de 42 % aux États-Unis — porté par Gears of War: E-Day et l'approche de GTA 6. ([revue du jour](../2026/11/2026-11-20.md))
 - **2026-11-18** — Les Xbox Series estimées à 38 millions, Sea of Thieves fond de moitié — estimation de Niko Partners, neuf arrivées et huit départs au Game Pass. ([revue du jour](../2026/11/2026-11-18.md))
 - **2026-11-17** — Asha Sharma ne veut pas que la Xbox reste « prisonnière » de son passé — éditorial des 25 ans et carte de Bowerstone pour Fable. ([revue du jour](../2026/11/2026-11-17.md))
 - **2026-11-16** — Project Helix sera « une console qui joue aussi aux jeux PC » — Jason Ronald promet quatre générations de rétrocompatibilité et mise sur le rendu neuronal pour le prix. ([revue du jour](../2026/11/2026-11-16.md))

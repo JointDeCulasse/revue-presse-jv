@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-20** — GTA 6 est sorti : abonnement GTA+, censure au Japon et premiers constats techniques — GTA+ à 7,99 $ par mois, version japonaise retouchée, FSR 4.1 sur Series S. ([revue du jour](../2026/11/2026-11-20.md))
+- **2026-11-20** — Suite : Cyberleek revendique la fuite d'une version Xbox de GTA 6 — build non authentifié, exécutable retenu contre une rançon en cryptomonnaie. ([revue du jour](../2026/11/2026-11-20.md))
+- **2026-11-20** — Mega Man Dual Override présente Boat Man, Coral Island arrive sur Switch 2 — Mega Man attendu en 2027, Coral Island en décembre. ([revue du jour](../2026/11/2026-11-20.md))
 - **2026-11-18** — GTA 6 à J-1 : Lucia a enfin une actrice, mise à jour PS5 obligatoire — Manni L. Perez confirmée, firmware 14.23.00 requis, astuce néo-zélandaise sur Xbox. ([revue du jour](../2026/11/2026-11-18.md))
 - **2026-11-18** — Exodus dévoile sa version féminine de Jun — romances indépendantes du genre choisi. ([revue du jour](../2026/11/2026-11-18.md))
 - **2026-11-18** — MLB The Show 27 annoncé, Spyro attendu aux Game Awards — retour du test technique, Spyro: A Realm Beyond teasé. ([revue du jour](../2026/11/2026-11-18.md))

@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-20** — GTA 6 pulvérise les records de lancement (selon les estimations) — plus de 2,36 milliards de dollars et 24,6 millions de copies numériques le jour J selon Sensor Tower, sans chiffre officiel de Take-Two. ([revue du jour](../2026/11/2026-11-20.md))
+- **2026-11-20** — Circana octobre : Modern Warfare 4 en tête, marché américain en baisse de 12 % — matériel +2 %, Xbox +42 %, PS5 +20 %, Switch 2 -11 % en valeur. ([revue du jour](../2026/11/2026-11-20.md))
 - **2026-11-18** — Game Awards 2026 : GTA 6, Control Resonant et Resident Evil Requiem en tête — huit nominations chacun, six jeux en lice pour le GOTY, Nintendo premier éditeur avec 12 nominations. ([revue du jour](../2026/11/2026-11-18.md))
 - **2026-11-18** — Sony gagne face à l'action collective britannique sur les prix du PS Store — le tribunal ne voit ni monopole ni prix excessifs, appel envisagé. ([revue du jour](../2026/11/2026-11-18.md))
 - **2026-11-18** — Newzoo : sans GTA 6, le marché console reculerait en 2026 — le jeu de Rockstar sauverait l'année des dépenses console. ([revue du jour](../2026/11/2026-11-18.md))
