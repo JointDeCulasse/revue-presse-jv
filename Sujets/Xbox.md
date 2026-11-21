@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-21** — GTA 6 : des bannissements automatiques sur Xbox à cause des captures — L'analyse automatique des captures envoyées par défaut vaut des suspensions de deux jours à des joueurs. ([revue du jour](../2026/11/2026-11-21.md))
+- **2026-11-21** — Fallout s'offre un jeu d'objets cachés avec les créateurs de A Building Full of Cats — A Wasteland Full of Cats, signé DEVCATS avec Bethesda, sans date ni prix. ([revue du jour](../2026/11/2026-11-21.md))
 - **2026-11-20** — Circana octobre : le matériel Xbox bondit de 42 % aux États-Unis — porté par Gears of War: E-Day et l'approche de GTA 6. ([revue du jour](../2026/11/2026-11-20.md))
 - **2026-11-18** — Les Xbox Series estimées à 38 millions, Sea of Thieves fond de moitié — estimation de Niko Partners, neuf arrivées et huit départs au Game Pass. ([revue du jour](../2026/11/2026-11-18.md))
 - **2026-11-17** — Asha Sharma ne veut pas que la Xbox reste « prisonnière » de son passé — éditorial des 25 ans et carte de Bowerstone pour Fable. ([revue du jour](../2026/11/2026-11-17.md))

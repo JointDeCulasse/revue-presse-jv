@@ -2,6 +2,7 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-21** — Suite : Ubisoft recule de 16,5 % au premier semestre, l'action chute — Réservations à 644,7 M€, pertes creusées, fusion des Creative Houses 3 et 5 et action en baisse de 11 %. ([revue du jour](../2026/11/2026-11-21.md))
 - **2026-11-20** — Ubisoft licencie 166 personnes au Québec et lance Motherbrain — nouvelle réduction d'effectifs et filiale d'IA générative. ([revue du jour](../2026/11/2026-11-20.md))
 - **2026-11-20** — Assassin's Creed porté par Black Flag Resynced et le film de Nolan — Ubisoft active aussi le cross-play de The Division 2. ([revue du jour](../2026/11/2026-11-20.md))
 - **2026-11-20** — L'ancienne scénariste de Clair Obscur lance un fonds pour la narration — Jennifer Svedberg-Yen veut changer le financement de l'écriture. ([revue du jour](../2026/11/2026-11-20.md))

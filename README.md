@@ -9,6 +9,7 @@ Archive quotidienne de l'actualité jeu vidéo, rédigée en français à partir
 
 ## Revues
 
+- [2026-11-21](2026/11/2026-11-21.md) — GTA 6 : 32,5 millions de copies et 3,79 milliards de dollars le premier jour selon Take-Two · Ubisoft recule de 16,5 % au premier semestre et son action chute de 11 % · 1 600 salariés de Rockstar UK votent jusqu'au 26 novembre sur la reconnaissance syndicale
 - [2026-11-20](2026/11/2026-11-20.md) — GTA 6 sort avec 99 sur Metacritic et plus de 2,3 milliards de dollars estimés le jour J · Ubisoft licencie 166 personnes au Québec et crée Motherbrain, filiale d'IA générative · Circana : Modern Warfare 4 en tête en octobre, marché américain en baisse de 12 %
 - [2026-11-18](2026/11/2026-11-18.md) — Game Awards 2026 : GTA 6, Control Resonant et Resident Evil Requiem en tête, aucun jeu Sony au GOTY · Take-Two supprime un tiers des effectifs de Firaxis · Sony gagne l'action collective britannique sur les prix du PS Store
 - [2026-11-17](2026/11/2026-11-17.md) — Le pirate de GTA 6 plaide coupable à trois jours de la sortie · Ocarina of Time, jeu physique le plus vendu de 2026 aux États-Unis en une semaine · Six syndicats européens, dont le STJV, publient un manifeste contre l'IA générative

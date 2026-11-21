@@ -2,6 +2,7 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-21** — Rockstar UK : 1 600 salariés votent sur la reconnaissance de leur syndicat — Scrutin jusqu'au 26 novembre ; un « oui » créerait le plus grand syndicat reconnu du jeu vidéo britannique selon l'IWGB. ([revue du jour](../2026/11/2026-11-21.md))
 - **2026-11-20** — Ubisoft licencie 166 personnes au Québec et lance Motherbrain — suppressions à Montréal et Québec, nouvelle filiale d'IA générative pour le gameplay. ([revue du jour](../2026/11/2026-11-20.md))
 - **2026-11-20** — Le studio de MindsEye veut attaquer ses « saboteurs » pour éponger 62 millions de livres — Build A Rocket Boy, en administration, mise sur des poursuites contre une prétendue campagne d'avis négatifs. ([revue du jour](../2026/11/2026-11-20.md))
 - **2026-11-20** — Rockstar : le procès pour entrave syndicale s'achève, verdict attendu — jugement attendu sous quelques semaines à quelques mois. ([revue du jour](../2026/11/2026-11-20.md))

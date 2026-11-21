@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-21** — Suite : GTA 6, 3,79 milliards de dollars le premier jour selon Take-Two — 32,5 millions de copies vendues avant la sortie et plus gros lancement de l'histoire du divertissement selon l'éditeur. ([revue du jour](../2026/11/2026-11-21.md))
+- **2026-11-21** — GTA 6 monopolise les consoles et les plateformes de streaming — 61 % des joueurs PS5 actifs aux États-Unis y ont joué le jour J (Circana) et 125 millions d'heures regardées en 24 heures. ([revue du jour](../2026/11/2026-11-21.md))
+- **2026-11-21** — Suite : Ubisoft recule de 16,5 % au premier semestre, l'action chute — 644,7 M€ de réservations, perte opérationnelle de 155,9 M€ et prévision de T3 à 250 M€. ([revue du jour](../2026/11/2026-11-21.md))
 - **2026-11-20** — GTA 6 pulvérise les records de lancement (selon les estimations) — plus de 2,36 milliards de dollars et 24,6 millions de copies numériques le jour J selon Sensor Tower, sans chiffre officiel de Take-Two. ([revue du jour](../2026/11/2026-11-20.md))
 - **2026-11-20** — Circana octobre : Modern Warfare 4 en tête, marché américain en baisse de 12 % — matériel +2 %, Xbox +42 %, PS5 +20 %, Switch 2 -11 % en valeur. ([revue du jour](../2026/11/2026-11-20.md))
 - **2026-11-18** — Game Awards 2026 : GTA 6, Control Resonant et Resident Evil Requiem en tête — huit nominations chacun, six jeux en lice pour le GOTY, Nintendo premier éditeur avec 12 nominations. ([revue du jour](../2026/11/2026-11-18.md))

@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-21** — Ocarines Zelda sur invitation en Europe, Melee fête ses 25 ans — Vente sur inscription pour les ocarines de Nintendo et HORI ; réassort de la Switch 2 Zelda aux États-Unis. ([revue du jour](../2026/11/2026-11-21.md))
+- **2026-11-21** — The Wolf Among Us Remastered retardé sur Switch, LEGO City Undercover de retour ? — Version Switch estimée à fin novembre ; TT Games publie une grande carte en guise de teasing. ([revue du jour](../2026/11/2026-11-21.md))
+- **2026-11-21** — Temtem: Swarm sur Switch en janvier, Deltarune garde son secret — Le spin-off de Temtem sort le 21 janvier 2027 sur Switch. ([revue du jour](../2026/11/2026-11-21.md))
 - **2026-11-20** — Japon : Pikmin 4 démarre timidement sur Switch 2, Ocarina of Time domine — 9e place pour Pikmin 4, plus de 86 000 ventes hebdomadaires pour Zelda. ([revue du jour](../2026/11/2026-11-20.md))
 - **2026-11-18** — La Switch 2 séduit les développeurs, derrière le PC — 46 % d'intérêt dans l'enquête GDC, XSEED défend les game-key cards. ([revue du jour](../2026/11/2026-11-18.md))
 - **2026-11-18** — Suite : Pikmin 4 sur Switch 2 visé par un « review bombing » — pas de souris ni de 60 images par seconde. ([revue du jour](../2026/11/2026-11-18.md))

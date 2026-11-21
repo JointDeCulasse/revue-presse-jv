@@ -2,6 +2,10 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-21** — Fallout s'offre un jeu d'objets cachés avec les créateurs de A Building Full of Cats — A Wasteland Full of Cats, signé DEVCATS avec Bethesda, sans date ni prix. ([revue du jour](../2026/11/2026-11-21.md))
+- **2026-11-21** — Hack 42, le jeu de frappe incrémental élu indé de la semaine par Kotaku — Environ trois heures de piratage au clavier pour 4 dollars sur Steam. ([revue du jour](../2026/11/2026-11-21.md))
+- **2026-11-21** — 1666: Amsterdam double sa carte en décembre — Panache Digital Games ajoute la région d'Ouderkerk à son jeu en accès anticipé, sans hausse de prix. ([revue du jour](../2026/11/2026-11-21.md))
+- **2026-11-21** — Temtem: Swarm sur Switch en janvier, Deltarune garde son secret — Temtem: Swarm le 21 janvier 2027 ; Toby Fox cache encore la fin de Deltarune à son équipe. ([revue du jour](../2026/11/2026-11-21.md))
 - **2026-11-20** — Dressmaker : un succès qui n'était pas gagné d'avance — prototype peu téléchargé, nouvelle campagne puis périmètre réduit avant le feu vert. ([revue du jour](../2026/11/2026-11-20.md))
 - **2026-11-20** — Deltarune : le chapitre 6 jouable de bout en bout — brouillon complet, chapitre 7 à peine commencé. ([revue du jour](../2026/11/2026-11-20.md))
 - **2026-11-20** — Tanuki: Pon's Summer s'était préparé à GTA 6, pas à Zelda — le remake d'Ocarina of Time a surpris ses développeurs. ([revue du jour](../2026/11/2026-11-20.md))

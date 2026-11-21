@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-21** — Hack 42, le jeu de frappe incrémental élu indé de la semaine par Kotaku — Environ trois heures de piratage au clavier pour 4 dollars sur Steam. ([revue du jour](../2026/11/2026-11-21.md))
+- **2026-11-21** — 1666: Amsterdam double sa carte en décembre — Première grosse mise à jour de l'accès anticipé sur Steam et l'Epic Games Store. ([revue du jour](../2026/11/2026-11-21.md))
 - **2026-11-20** — Valve pourrait encore augmenter le prix de la Steam Machine — production et prix incertains face à la flambée de la mémoire. ([revue du jour](../2026/11/2026-11-20.md))
 - **2026-11-18** — Darktide accueille la Sororité novice le 7 décembre — arbalète, grenade sanctifiée et fuseur pour la nouvelle classe. ([revue du jour](../2026/11/2026-11-18.md))
 - **2026-11-17** — Overwatch : le héros de la saison 6 sera un DPS, la communauté proteste — Hudson remplace le soigneur espéré. ([revue du jour](../2026/11/2026-11-17.md))

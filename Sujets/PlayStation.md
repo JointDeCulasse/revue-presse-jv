@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-21** — GTA 6 victime d'un « review bombing » sur Metacritic — Note utilisateurs PS5 tombée à 5,4 malgré 99 côté presse. ([revue du jour](../2026/11/2026-11-21.md))
+- **2026-11-21** — GTA 6 monopolise les consoles et les plateformes de streaming — 61 % des joueurs PS5 actifs aux États-Unis y ont joué le 19 novembre, plus de huit heures en moyenne. ([revue du jour](../2026/11/2026-11-21.md))
 - **2026-11-20** — Marvel's Wolverine dégringole à la 14e place aux États-Unis — premier en septembre, 14e en octobre selon Circana. ([revue du jour](../2026/11/2026-11-20.md))
 - **2026-11-18** — Aucun jeu Sony en lice pour le jeu de l'année, une première depuis 2015 — PlayStation garde neuf nominations au total. ([revue du jour](../2026/11/2026-11-18.md))
 - **2026-11-18** — Sony gagne face à l'action collective britannique sur les prix du PS Store — plainte d'Alex Neill rejetée par le tribunal de la concurrence. ([revue du jour](../2026/11/2026-11-18.md))
