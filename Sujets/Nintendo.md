@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-22** — Kirby Air Riders a un an, Sakurai s'interroge sur son avenir — Le créateur se demande combien de jeux il pourra encore faire ; Build-A-Bear tease une peluche Donkey Kong. ([revue du jour](../2026/11/2026-11-22.md))
+- **2026-11-22** — Suite : le « review bombing » de GTA 6 contamine Zelda — Note utilisateurs d'Ocarina of Time sur Switch 2 ramenée de 9,6 à 8,9. ([revue du jour](../2026/11/2026-11-22.md))
 - **2026-11-21** — Ocarines Zelda sur invitation en Europe, Melee fête ses 25 ans — Vente sur inscription pour les ocarines de Nintendo et HORI ; réassort de la Switch 2 Zelda aux États-Unis. ([revue du jour](../2026/11/2026-11-21.md))
 - **2026-11-21** — The Wolf Among Us Remastered retardé sur Switch, LEGO City Undercover de retour ? — Version Switch estimée à fin novembre ; TT Games publie une grande carte en guise de teasing. ([revue du jour](../2026/11/2026-11-21.md))
 - **2026-11-21** — Temtem: Swarm sur Switch en janvier, Deltarune garde son secret — Le spin-off de Temtem sort le 21 janvier 2027 sur Switch. ([revue du jour](../2026/11/2026-11-21.md))

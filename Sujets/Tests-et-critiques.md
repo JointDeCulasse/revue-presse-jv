@@ -2,6 +2,7 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-22** — Suite : le « review bombing » de GTA 6 contamine Zelda — Des fans de GTA 6 font chuter la note utilisateurs d'Ocarina of Time de 9,6 à 8,9. ([revue du jour](../2026/11/2026-11-22.md))
 - **2026-11-21** — GTA 6 victime d'un « review bombing » sur Metacritic — Note utilisateurs PS5 tombée à 5,4 malgré 99 côté presse, quand le PS Store affiche plus de 4,8 sur 5. ([revue du jour](../2026/11/2026-11-21.md))
 - **2026-11-20** — GTA 6 devient le jeu le mieux noté de l'histoire de Metacritic — 99 sur Metacritic et OpenCritic, devant Ocarina of Time, malgré des performances inégales. ([revue du jour](../2026/11/2026-11-20.md))
 - **2026-11-18** — The Wolf Among Us Remastered et Tanuki: Pon's Summer bien accueillis — remaster jugé indispensable par ActuGaming. ([revue du jour](../2026/11/2026-11-18.md))

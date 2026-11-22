@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-22** — The Binding of Isaac : des musiques IA font plonger Repentance+ sur Steam — 9 % d'avis positifs après la découverte de morceaux Suno dans le mode Vice City, retirés en urgence. ([revue du jour](../2026/11/2026-11-22.md))
+- **2026-11-22** — Tinker Islands entre en accès anticipé le 10 décembre — Bac à sable coopératif de Goon Squad édité par Headup, démo disponible. ([revue du jour](../2026/11/2026-11-22.md))
 - **2026-11-21** — Fallout s'offre un jeu d'objets cachés avec les créateurs de A Building Full of Cats — A Wasteland Full of Cats, signé DEVCATS avec Bethesda, sans date ni prix. ([revue du jour](../2026/11/2026-11-21.md))
 - **2026-11-21** — Hack 42, le jeu de frappe incrémental élu indé de la semaine par Kotaku — Environ trois heures de piratage au clavier pour 4 dollars sur Steam. ([revue du jour](../2026/11/2026-11-21.md))
 - **2026-11-21** — 1666: Amsterdam double sa carte en décembre — Panache Digital Games ajoute la région d'Ouderkerk à son jeu en accès anticipé, sans hausse de prix. ([revue du jour](../2026/11/2026-11-21.md))

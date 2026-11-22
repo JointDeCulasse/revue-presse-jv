@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-22** — The Binding of Isaac : des musiques IA font plonger Repentance+ sur Steam — Review bombing après la découverte de morceaux générés par IA ; Nicalis retire la musique. ([revue du jour](../2026/11/2026-11-22.md))
+- **2026-11-22** — Tinker Islands entre en accès anticipé le 10 décembre — Sortie sur Steam, démo déjà disponible. ([revue du jour](../2026/11/2026-11-22.md))
 - **2026-11-21** — Hack 42, le jeu de frappe incrémental élu indé de la semaine par Kotaku — Environ trois heures de piratage au clavier pour 4 dollars sur Steam. ([revue du jour](../2026/11/2026-11-21.md))
 - **2026-11-21** — 1666: Amsterdam double sa carte en décembre — Première grosse mise à jour de l'accès anticipé sur Steam et l'Epic Games Store. ([revue du jour](../2026/11/2026-11-21.md))
 - **2026-11-20** — Valve pourrait encore augmenter le prix de la Steam Machine — production et prix incertains face à la flambée de la mémoire. ([revue du jour](../2026/11/2026-11-20.md))

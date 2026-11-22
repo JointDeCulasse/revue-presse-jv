@@ -2,6 +2,10 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-22** — Suite : GTA 6 sature les réseaux, la PS5 tient le choc — Près d'un quart du trafic de Comcast au pic, plus gros jour de l'opérateur ; PSN sans incident majeur. ([revue du jour](../2026/11/2026-11-22.md))
+- **2026-11-22** — Pas de film GTA en vue, mais Red Dead Redemption se négocierait à 100 millions — Rockstar ouvert à une adaptation de Red Dead selon The Ankler, à prix fort. ([revue du jour](../2026/11/2026-11-22.md))
+- **2026-11-22** — Shanghai démantèle un réseau de fausses figurines Final Fantasy — 13 arrestations pour environ 300 000 dollars de contrefaçons de Tifa. ([revue du jour](../2026/11/2026-11-22.md))
+- **2026-11-22** — Wizards of the Coast reverse aux auteurs de D&D l'intégralité d'une indemnité liée à l'IA — Toute la somme d'un règlement sur le droit d'auteur ira aux rédacteurs. ([revue du jour](../2026/11/2026-11-22.md))
 - **2026-11-21** — Suite : GTA 6, 3,79 milliards de dollars le premier jour selon Take-Two — 32,5 millions de copies vendues avant la sortie et plus gros lancement de l'histoire du divertissement selon l'éditeur. ([revue du jour](../2026/11/2026-11-21.md))
 - **2026-11-21** — GTA 6 monopolise les consoles et les plateformes de streaming — 61 % des joueurs PS5 actifs aux États-Unis y ont joué le jour J (Circana) et 125 millions d'heures regardées en 24 heures. ([revue du jour](../2026/11/2026-11-21.md))
 - **2026-11-21** — Suite : Ubisoft recule de 16,5 % au premier semestre, l'action chute — 644,7 M€ de réservations, perte opérationnelle de 155,9 M€ et prévision de T3 à 250 M€. ([revue du jour](../2026/11/2026-11-21.md))
