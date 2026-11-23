@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-23** — Magic Caves, un jeu d'aventure textuel de 1977, ressuscité — Retrouvé sur un disque dur, le jeu de John Burgess Trenholme est de nouveau jouable. ([revue du jour](../2026/11/2026-11-23.md))
+- **2026-11-23** — SNEG ressort trois vieux jeux de stratégie PC, dont Warlords 4 — L'éditeur poursuit ses rééditions de classiques PC. ([revue du jour](../2026/11/2026-11-23.md))
 - **2026-11-22** — The Binding of Isaac : des musiques IA font plonger Repentance+ sur Steam — 9 % d'avis positifs après la découverte de morceaux Suno dans le mode Vice City, retirés en urgence. ([revue du jour](../2026/11/2026-11-22.md))
 - **2026-11-22** — Tinker Islands entre en accès anticipé le 10 décembre — Bac à sable coopératif de Goon Squad édité par Headup, démo disponible. ([revue du jour](../2026/11/2026-11-22.md))
 - **2026-11-21** — Fallout s'offre un jeu d'objets cachés avec les créateurs de A Building Full of Cats — A Wasteland Full of Cats, signé DEVCATS avec Bethesda, sans date ni prix. ([revue du jour](../2026/11/2026-11-21.md))

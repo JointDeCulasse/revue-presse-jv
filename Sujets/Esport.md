@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-23** — Mercato LoL : Deft chez Nongshim, Doran et Kanavi chez Dplus KIA — Deft revient du service militaire ; Paper Rex remanie aussi son effectif Valorant. ([revue du jour](../2026/11/2026-11-23.md))
+- **2026-11-23** — Dota 2 : un patch pour raccourcir les parties — Nouvel objet invoquant des super-creeps dans toutes les voies. ([revue du jour](../2026/11/2026-11-23.md))
 - **2026-11-22** — Counter-Strike 2 : le PGL Major de Singapour démarre cette semaine — 32 équipes, 1,25 million de dollars, playoffs du 10 au 13 décembre. ([revue du jour](../2026/11/2026-11-22.md))
 - **2026-11-21** — T1 se sépare de Doran, Zeus pourrait revenir — Départ officialisé le 19 novembre ; Zeus aurait signé pour trois ans selon Sheep Esports, sans confirmation. ([revue du jour](../2026/11/2026-11-21.md))
 - **2026-11-20** — The Finals : des commentateurs IA remplacent les casters, Embark s'excuse — vidéo du Grand Major supprimée après la polémique. ([revue du jour](../2026/11/2026-11-20.md))

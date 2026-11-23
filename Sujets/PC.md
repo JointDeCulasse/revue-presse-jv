@@ -2,6 +2,10 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-23** — Unreal Engine 6 : les Blueprints partiraient plus tôt que prévu — Epic accélère le passage à Verse et au code assisté par IA. ([revue du jour](../2026/11/2026-11-23.md))
+- **2026-11-23** — Nvidia : le correctif pour les écritures SSD ne règle rien — Les pilotes 621.14 et 621.24 écrivent jusqu'à 30 Go par heure, le hotfix est inefficace. ([revue du jour](../2026/11/2026-11-23.md))
+- **2026-11-23** — Magic Caves, un jeu d'aventure textuel de 1977, ressuscité — Le jeu du physicien John Burgess Trenholme est de nouveau jouable. ([revue du jour](../2026/11/2026-11-23.md))
+- **2026-11-23** — SNEG ressort trois vieux jeux de stratégie PC, dont Warlords 4 — Nouvelle vague de rééditions de classiques. ([revue du jour](../2026/11/2026-11-23.md))
 - **2026-11-22** — The Binding of Isaac : des musiques IA font plonger Repentance+ sur Steam — Review bombing après la découverte de morceaux générés par IA ; Nicalis retire la musique. ([revue du jour](../2026/11/2026-11-22.md))
 - **2026-11-22** — Tinker Islands entre en accès anticipé le 10 décembre — Sortie sur Steam, démo déjà disponible. ([revue du jour](../2026/11/2026-11-22.md))
 - **2026-11-21** — Hack 42, le jeu de frappe incrémental élu indé de la semaine par Kotaku — Environ trois heures de piratage au clavier pour 4 dollars sur Steam. ([revue du jour](../2026/11/2026-11-21.md))

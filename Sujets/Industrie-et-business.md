@@ -2,6 +2,10 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-23** — Suite : Cyberleek promet l'exécutable de GTA 6 pour ce 23 novembre — Version Xbox d'environ 209 Go diffusée sans exécutable, Rockstar ne confirme pas. ([revue du jour](../2026/11/2026-11-23.md))
+- **2026-11-23** — Unreal Engine 6 : les Blueprints partiraient plus tôt que prévu — Epic accélère le passage à Verse et au code assisté par IA, inquiétude des développeurs. ([revue du jour](../2026/11/2026-11-23.md))
+- **2026-11-23** — Le créateur d'E.T. compare la vague de jeux IA au krach de 1983 — Howard Scott Warshaw craint une saturation de jeux médiocres, tout en voyant un potentiel positif. ([revue du jour](../2026/11/2026-11-23.md))
+- **2026-11-23** — GTA 7 ? Strauss Zelnick botte en touche, la bande-son de GTA 6 bat un record — Le PDG de Take-Two esquive, l'album fait environ 29,85 millions d'écoutes Spotify le premier jour. ([revue du jour](../2026/11/2026-11-23.md))
 - **2026-11-22** — Suite : GTA 6 sature les réseaux, la PS5 tient le choc — Près d'un quart du trafic de Comcast au pic, plus gros jour de l'opérateur ; PSN sans incident majeur. ([revue du jour](../2026/11/2026-11-22.md))
 - **2026-11-22** — Pas de film GTA en vue, mais Red Dead Redemption se négocierait à 100 millions — Rockstar ouvert à une adaptation de Red Dead selon The Ankler, à prix fort. ([revue du jour](../2026/11/2026-11-22.md))
 - **2026-11-22** — Shanghai démantèle un réseau de fausses figurines Final Fantasy — 13 arrestations pour environ 300 000 dollars de contrefaçons de Tifa. ([revue du jour](../2026/11/2026-11-22.md))
