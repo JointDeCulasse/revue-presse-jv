@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-24** — Doom: The Dark Ages devait être exclusif à l'Xbox, et autres coulisses — Témoignage d'anciens d'id Software, plan initial de Project Helix, Activision « maison de Banjo-Kazooie ». ([revue du jour](../2026/11/2026-11-24.md))
+- **2026-11-24** — Sovereign Tower sur Switch en janvier, Nubby's Number Factory dans le Game Pass — Le roguelike façon plinko arrive dans le Game Pass début 2027. ([revue du jour](../2026/11/2026-11-24.md))
 - **2026-11-23** — Game Pass : trois jeux pour finir novembre, GTA 6 débridé par un bug — Sniper Ghost Warrior Contracts 2 et MOTORSLICE le 24, Arkheron le 27 ; un bug de Quick Resume lève le plafond de 30 i/s. ([revue du jour](../2026/11/2026-11-23.md))
 - **2026-11-21** — GTA 6 : des bannissements automatiques sur Xbox à cause des captures — L'analyse automatique des captures envoyées par défaut vaut des suspensions de deux jours à des joueurs. ([revue du jour](../2026/11/2026-11-21.md))
 - **2026-11-21** — Fallout s'offre un jeu d'objets cachés avec les créateurs de A Building Full of Cats — A Wasteland Full of Cats, signé DEVCATS avec Bethesda, sans date ni prix. ([revue du jour](../2026/11/2026-11-21.md))

@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-24** — Steam Awards 2026 : les GOTY de dix ans s'affrontent — Nouvelle catégorie Hall of Fame, nominations jusqu'au 30 novembre. ([revue du jour](../2026/11/2026-11-24.md))
+- **2026-11-24** — Suite : Cyberleek publie l'exécutable de GTA 6, les moddeurs s'activent — Premiers démarrages sur PC grâce à l'architecture GDK, sans zone jouable. ([revue du jour](../2026/11/2026-11-24.md))
 - **2026-11-23** — Unreal Engine 6 : les Blueprints partiraient plus tôt que prévu — Epic accélère le passage à Verse et au code assisté par IA. ([revue du jour](../2026/11/2026-11-23.md))
 - **2026-11-23** — Nvidia : le correctif pour les écritures SSD ne règle rien — Les pilotes 621.14 et 621.24 écrivent jusqu'à 30 Go par heure, le hotfix est inefficace. ([revue du jour](../2026/11/2026-11-23.md))
 - **2026-11-23** — Magic Caves, un jeu d'aventure textuel de 1977, ressuscité — Le jeu du physicien John Burgess Trenholme est de nouveau jouable. ([revue du jour](../2026/11/2026-11-23.md))

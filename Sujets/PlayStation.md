@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-24** — GTA 6, plus gros lancement de l'histoire de PlayStation — Plus de 39 millions de joueurs uniques sur PS5 en cinq jours, streaming PS Plus Premium et premier patch. ([revue du jour](../2026/11/2026-11-24.md))
+- **2026-11-24** — Série God of War : Deborah Ann Woll reprend le rôle de Faye — L'actrice des jeux rejoint la série d'Amazon face à Dave Bautista. ([revue du jour](../2026/11/2026-11-24.md))
 - **2026-11-22** — Suite : GTA 6 sature les réseaux, la PS5 tient le choc — PlayStation Network a encaissé le lancement sans incident majeur. ([revue du jour](../2026/11/2026-11-22.md))
 - **2026-11-21** — GTA 6 victime d'un « review bombing » sur Metacritic — Note utilisateurs PS5 tombée à 5,4 malgré 99 côté presse. ([revue du jour](../2026/11/2026-11-21.md))
 - **2026-11-21** — GTA 6 monopolise les consoles et les plateformes de streaming — 61 % des joueurs PS5 actifs aux États-Unis y ont joué le 19 novembre, plus de huit heures en moyenne. ([revue du jour](../2026/11/2026-11-21.md))

@@ -9,6 +9,7 @@ Archive quotidienne de l'actualité jeu vidéo, rédigée en français à partir
 
 ## Revues
 
+- [2026-11-24](2026/11/2026-11-24.md) — Jensen Huang réintégré comme PDG de Nvidia, Trump s'en attribue le mérite · Cyberleek publie l'exécutable de GTA 6, premiers démarrages sur PC · GTA 6, plus gros lancement PlayStation avec 39 millions de joueurs
 - [2026-11-23](2026/11/2026-11-23.md) — Cyberleek promet l'exécutable de la version fuitée de GTA 6 pour ce 23 novembre · Epic retirerait les Blueprints d'Unreal Engine 6 plus tôt que prévu au profit du code IA · Deft rejoint Nongshim, Doran et Kanavi signent chez Dplus KIA
 - [2026-11-22](2026/11/2026-11-22.md) — Le review bombing de GTA 6 s'étend à Ocarina of Time · The Binding of Isaac à 9 % d'avis positifs après des musiques IA dans son mode Vice City · GTA 6 a pesé près d'un quart du trafic de Comcast au pic
 - [2026-11-21](2026/11/2026-11-21.md) — GTA 6 : 32,5 millions de copies et 3,79 milliards de dollars le premier jour selon Take-Two · Ubisoft recule de 16,5 % au premier semestre et son action chute de 11 % · 1 600 salariés de Rockstar UK votent jusqu'au 26 novembre sur la reconnaissance syndicale

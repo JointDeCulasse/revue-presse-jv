@@ -2,6 +2,7 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-24** — Suite : Jensen Huang réintégré à la tête de Nvidia — Retour au poste de PDG quelques semaines après sa démission, un comité indépendant enquête. ([revue du jour](../2026/11/2026-11-24.md))
 - **2026-11-23** — Nvidia : le correctif pour les écritures SSD ne règle rien — Jusqu'à 30 Go écrits par heure au repos ; retour au pilote 621.01 conseillé. ([revue du jour](../2026/11/2026-11-23.md))
 - **2026-11-22** — Nvidia : un rapport accuse Jensen Huang d'avoir menacé ses employés — Enquête du New York Times ; son porte-parole parle de « fabrications ». ([revue du jour](../2026/11/2026-11-22.md))
 - **2026-11-20** — Valve pourrait encore augmenter le prix de la Steam Machine — coût de la mémoire « sans précédent », liste d'attente 2 To fermée. ([revue du jour](../2026/11/2026-11-20.md))

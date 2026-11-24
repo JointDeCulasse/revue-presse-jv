@@ -2,6 +2,7 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-24** — Wave Race: Blue Storm sur Switch 2, Kirby and the World Beyond se dévoile — Nouveau jeu GameCube dans le NSO, détails de Kirby, FFVII Revelation classé, amiibo Ocarina en 2027. ([revue du jour](../2026/11/2026-11-24.md))
 - **2026-11-22** — Kirby Air Riders a un an, Sakurai s'interroge sur son avenir — Le créateur se demande combien de jeux il pourra encore faire ; Build-A-Bear tease une peluche Donkey Kong. ([revue du jour](../2026/11/2026-11-22.md))
 - **2026-11-22** — Suite : le « review bombing » de GTA 6 contamine Zelda — Note utilisateurs d'Ocarina of Time sur Switch 2 ramenée de 9,6 à 8,9. ([revue du jour](../2026/11/2026-11-22.md))
 - **2026-11-21** — Ocarines Zelda sur invitation en Europe, Melee fête ses 25 ans — Vente sur inscription pour les ocarines de Nintendo et HORI ; réassort de la Switch 2 Zelda aux États-Unis. ([revue du jour](../2026/11/2026-11-21.md))

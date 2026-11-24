@@ -2,6 +2,11 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-24** — Suite : Cyberleek publie l'exécutable de GTA 6, les moddeurs s'activent — Le jeu démarrerait sur PC jusqu'aux écrans de réglages, Rockstar viserait des communautés Discord. ([revue du jour](../2026/11/2026-11-24.md))
+- **2026-11-24** — Suite : le pirate de la fuite de 2022 libéré sous conditions — Arion Kurtaj libéré sous licence avec des restrictions en ligne. ([revue du jour](../2026/11/2026-11-24.md))
+- **2026-11-24** — Shinji Mikami aimerait voir l'IA disparaître, mais s'en sert quand même — Au G-STAR, le créateur de Resident Evil défend une création faite main. ([revue du jour](../2026/11/2026-11-24.md))
+- **2026-11-24** — Le directeur créatif de Cyberpunk 2 sonné par GTA 6 — Igor Sarzyński plaisante sur une « déprime » et une fausse annulation. ([revue du jour](../2026/11/2026-11-24.md))
+- **2026-11-24** — Suite : Jensen Huang réintégré à la tête de Nvidia — Le conseil le rappelle et confie l'enquête à un comité indépendant ; Trump s'en attribue le mérite. ([revue du jour](../2026/11/2026-11-24.md))
 - **2026-11-23** — Suite : Cyberleek promet l'exécutable de GTA 6 pour ce 23 novembre — Version Xbox d'environ 209 Go diffusée sans exécutable, Rockstar ne confirme pas. ([revue du jour](../2026/11/2026-11-23.md))
 - **2026-11-23** — Unreal Engine 6 : les Blueprints partiraient plus tôt que prévu — Epic accélère le passage à Verse et au code assisté par IA, inquiétude des développeurs. ([revue du jour](../2026/11/2026-11-23.md))
 - **2026-11-23** — Le créateur d'E.T. compare la vague de jeux IA au krach de 1983 — Howard Scott Warshaw craint une saturation de jeux médiocres, tout en voyant un potentiel positif. ([revue du jour](../2026/11/2026-11-23.md))

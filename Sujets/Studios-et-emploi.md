@@ -2,6 +2,7 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-24** — Mark Darrah : sous EA, BioWare n'avait plus que de mauvaises options — L'ancien patron de Dragon Age accuse la pression financière d'EA. ([revue du jour](../2026/11/2026-11-24.md))
 - **2026-11-22** — Suite : GTA 6 se moque des syndicats en plein vote chez Rockstar — Une fausse pub du jeu raille la syndicalisation pendant le scrutin de Rockstar UK. ([revue du jour](../2026/11/2026-11-22.md))
 - **2026-11-22** — Mass Effect : Jennifer Hale rêve d'un rachat de la licence par les fans — Souhait d'une vente des droits à un collectif financé par les fans ; EA n'a rien annoncé. ([revue du jour](../2026/11/2026-11-22.md))
 - **2026-11-21** — Rockstar UK : 1 600 salariés votent sur la reconnaissance de leur syndicat — Scrutin jusqu'au 26 novembre ; un « oui » créerait le plus grand syndicat reconnu du jeu vidéo britannique selon l'IWGB. ([revue du jour](../2026/11/2026-11-21.md))
