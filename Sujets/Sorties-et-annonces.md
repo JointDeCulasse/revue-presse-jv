@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-25** — Exoprimal fermera le 29 septembre 2027 — Capcom retire le jeu de la vente numérique le 30 mars 2027. ([revue du jour](../2026/11/2026-11-25.md))
+- **2026-11-25** — Lords of the Fallen II en avril, Showa American Story repoussé à fin octobre 2027 — Nioh 3 Complete Edition arrive aussi sur Xbox Series le 28 janvier. ([revue du jour](../2026/11/2026-11-25.md))
+- **2026-11-25** — Final Fantasy XIV rapproche l'Europe et l'Amérique, Fortnite prépare « Requiem » — Voyage entre régions dès le 1er décembre, fin du chapitre 7 de Fortnite le 5. ([revue du jour](../2026/11/2026-11-25.md))
 - **2026-11-21** — Persona 6 toujours sans date, Atlus promet d'accélérer pour Persona 7 — Le studio veut éviter une nouvelle attente de dix ans entre deux épisodes principaux. ([revue du jour](../2026/11/2026-11-21.md))
 - **2026-11-21** — The Wolf Among Us Remastered retardé sur Switch, LEGO City Undercover de retour ? — Version Switch estimée à fin novembre ; TT Games publie une grande carte en guise de teasing. ([revue du jour](../2026/11/2026-11-21.md))
 - **2026-11-20** — GTA 6 est sorti : abonnement GTA+, censure au Japon et premiers constats techniques — GTA+ à 7,99 $ par mois, version japonaise retouchée, FSR 4.1 sur Series S. ([revue du jour](../2026/11/2026-11-20.md))

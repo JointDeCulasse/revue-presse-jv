@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-25** — PGL Major Singapore : FaZe battu d'entrée, Liquid et NiP à 2-0 — Imperial et FlyQuest également invaincus après la première journée. ([revue du jour](../2026/11/2026-11-25.md))
+- **2026-11-25** — EVO Japan 2027 : sept jeux, dont Marvel Tokon — Du 29 avril au 1er mai 2027 au Tokyo Big Sight. ([revue du jour](../2026/11/2026-11-25.md))
 - **2026-11-23** — Mercato LoL : Deft chez Nongshim, Doran et Kanavi chez Dplus KIA — Deft revient du service militaire ; Paper Rex remanie aussi son effectif Valorant. ([revue du jour](../2026/11/2026-11-23.md))
 - **2026-11-23** — Dota 2 : un patch pour raccourcir les parties — Nouvel objet invoquant des super-creeps dans toutes les voies. ([revue du jour](../2026/11/2026-11-23.md))
 - **2026-11-22** — Counter-Strike 2 : le PGL Major de Singapour démarre cette semaine — 32 équipes, 1,25 million de dollars, playoffs du 10 au 13 décembre. ([revue du jour](../2026/11/2026-11-22.md))

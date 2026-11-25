@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-25** — Suite : Nvidia corrige enfin le bug d'écritures SSD avec le pilote 621.40 — Premiers retours positifs, confirmation indépendante encore attendue. ([revue du jour](../2026/11/2026-11-25.md))
+- **2026-11-25** — GTA 6 : la Xbox Series X devance la PS5 selon Digital Foundry — Moins de chutes de fréquence d'images et VRR à 120 Hz, la PS5 Pro reste en tête. ([revue du jour](../2026/11/2026-11-25.md))
 - **2026-11-24** — Suite : Jensen Huang réintégré à la tête de Nvidia — Retour au poste de PDG quelques semaines après sa démission, un comité indépendant enquête. ([revue du jour](../2026/11/2026-11-24.md))
 - **2026-11-23** — Nvidia : le correctif pour les écritures SSD ne règle rien — Jusqu'à 30 Go écrits par heure au repos ; retour au pilote 621.01 conseillé. ([revue du jour](../2026/11/2026-11-23.md))
 - **2026-11-22** — Nvidia : un rapport accuse Jensen Huang d'avoir menacé ses employés — Enquête du New York Times ; son porte-parole parle de « fabrications ». ([revue du jour](../2026/11/2026-11-22.md))

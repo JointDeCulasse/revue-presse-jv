@@ -2,6 +2,10 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-25** — Suite : le projet Leonida, plus gros portage pirate de GTA 6, mis hors ligne — GitHub et Discord disparus, son créateur se retire, d'autres groupes continuent. ([revue du jour](../2026/11/2026-11-25.md))
+- **2026-11-25** — CD Projekt : bénéfice en baisse, accord avec Sony pour The Witcher 4 — 109 millions de zlotys de bénéfice trimestriel, The Witcher 4 toujours visé pour 2028. ([revue du jour](../2026/11/2026-11-25.md))
+- **2026-11-25** — GTA 6 aurait privé Call of Duty de 42 % de ses joueurs quotidiens — Estimation d'Alinea Analytics ; Fortnite perd 28 % et EA Sports FC 27 environ 27 %. ([revue du jour](../2026/11/2026-11-25.md))
+- **2026-11-25** — Suite : Epic confirme l'abandon des Blueprints dès Unreal Engine 6 — La cohabitation promise en juin est abandonnée, l'IA doit aider à convertir les projets UE5. ([revue du jour](../2026/11/2026-11-25.md))
 - **2026-11-24** — Suite : Cyberleek publie l'exécutable de GTA 6, les moddeurs s'activent — Le jeu démarrerait sur PC jusqu'aux écrans de réglages, Rockstar viserait des communautés Discord. ([revue du jour](../2026/11/2026-11-24.md))
 - **2026-11-24** — Suite : le pirate de la fuite de 2022 libéré sous conditions — Arion Kurtaj libéré sous licence avec des restrictions en ligne. ([revue du jour](../2026/11/2026-11-24.md))
 - **2026-11-24** — Shinji Mikami aimerait voir l'IA disparaître, mais s'en sert quand même — Au G-STAR, le créateur de Resident Evil défend une création faite main. ([revue du jour](../2026/11/2026-11-24.md))

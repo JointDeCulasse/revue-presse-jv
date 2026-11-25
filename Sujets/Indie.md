@@ -2,6 +2,11 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-25** — Tiny Bookshop passe le million de ventes et annonce une extension — Le DLC Arts & Crafts sort le 5 décembre. ([revue du jour](../2026/11/2026-11-25.md))
+- **2026-11-25** — Les Atari Homebrew Awards annulés face au flot de jeux IA — L'usage de l'IA est jugé impossible à encadrer et à vérifier. ([revue du jour](../2026/11/2026-11-25.md))
+- **2026-11-25** — Suite : Queen's Domain en est à 300 000 ventes — Rectification du chiffre de 200 000 donné la veille. ([revue du jour](../2026/11/2026-11-25.md))
+- **2026-11-25** — Demon Tides sur consoles, Witchbrook terminé, Symphony of War 2 annoncé — Demon Tides le 21 janvier, Witchbrook le 28, Symphony of War 2 en 2027. ([revue du jour](../2026/11/2026-11-25.md))
+- **2026-11-25** — The Witch's Bakery bien accueilli, Appulse sort demain — Deux jeux indépendants français, de Sunny Lab et Le Rado. ([revue du jour](../2026/11/2026-11-25.md))
 - **2026-11-24** — Suite : Queen's Domain dépasse les 200 000 ventes — Le RPG de Freshly Baked Games double son score en moins de deux semaines. ([revue du jour](../2026/11/2026-11-24.md))
 - **2026-11-24** — Ugly Within, un survival horror entre Silent Hill et Fatal Frame — Annoncé sur PC, PS5, Xbox Series et Switch 2, sans date. ([revue du jour](../2026/11/2026-11-24.md))
 - **2026-11-24** — Sovereign Tower sur Switch en janvier, Nubby's Number Factory dans le Game Pass — Sortie Switch le 14 janvier 2027 pour le RPG de Wild Wits et Curve Games. ([revue du jour](../2026/11/2026-11-24.md))

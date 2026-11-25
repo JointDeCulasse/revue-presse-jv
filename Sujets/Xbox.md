@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-25** — GTA 6 : la Xbox Series X devance la PS5 selon Digital Foundry — La Series X tient mieux les 30 images par seconde. ([revue du jour](../2026/11/2026-11-25.md))
+- **2026-11-25** — Quantum Break : Remedy renvoie la balle à Microsoft — Toute suite dépend de l'éditeur, qui détient la licence. ([revue du jour](../2026/11/2026-11-25.md))
+- **2026-11-25** — Lords of the Fallen II en avril, Showa American Story repoussé à fin octobre 2027 — Nioh 3 arrive sur Xbox Series le 28 janvier 2027. ([revue du jour](../2026/11/2026-11-25.md))
 - **2026-11-24** — Doom: The Dark Ages devait être exclusif à l'Xbox, et autres coulisses — Témoignage d'anciens d'id Software, plan initial de Project Helix, Activision « maison de Banjo-Kazooie ». ([revue du jour](../2026/11/2026-11-24.md))
 - **2026-11-24** — Sovereign Tower sur Switch en janvier, Nubby's Number Factory dans le Game Pass — Le roguelike façon plinko arrive dans le Game Pass début 2027. ([revue du jour](../2026/11/2026-11-24.md))
 - **2026-11-23** — Game Pass : trois jeux pour finir novembre, GTA 6 débridé par un bug — Sniper Ghost Warrior Contracts 2 et MOTORSLICE le 24, Arkheron le 27 ; un bug de Quick Resume lève le plafond de 30 i/s. ([revue du jour](../2026/11/2026-11-23.md))

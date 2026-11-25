@@ -2,6 +2,10 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-25** — Suite : le projet Leonida, plus gros portage pirate de GTA 6, mis hors ligne — Aucun portage PC jouable à ce jour, de faux téléchargements piégés circulent. ([revue du jour](../2026/11/2026-11-25.md))
+- **2026-11-25** — Suite : Nvidia corrige enfin le bug d'écritures SSD avec le pilote 621.40 — Le correctif précédent, 621.35, était inefficace. ([revue du jour](../2026/11/2026-11-25.md))
+- **2026-11-25** — Suite : Epic confirme l'abandon des Blueprints dès Unreal Engine 6 — Ni Blueprints ni Actor Gameplay Framework dans UE6. ([revue du jour](../2026/11/2026-11-25.md))
+- **2026-11-25** — Valve refond le marché Steam — Nouvelle page d'accueil, suivi multi-jeux et prix modifiables sans remise en vente. ([revue du jour](../2026/11/2026-11-25.md))
 - **2026-11-24** — Steam Awards 2026 : les GOTY de dix ans s'affrontent — Nouvelle catégorie Hall of Fame, nominations jusqu'au 30 novembre. ([revue du jour](../2026/11/2026-11-24.md))
 - **2026-11-24** — Suite : Cyberleek publie l'exécutable de GTA 6, les moddeurs s'activent — Premiers démarrages sur PC grâce à l'architecture GDK, sans zone jouable. ([revue du jour](../2026/11/2026-11-24.md))
 - **2026-11-23** — Unreal Engine 6 : les Blueprints partiraient plus tôt que prévu — Epic accélère le passage à Verse et au code assisté par IA. ([revue du jour](../2026/11/2026-11-23.md))
