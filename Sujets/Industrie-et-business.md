@@ -2,6 +2,10 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-26** — Ubisoft demanderait de justifier le refus de l'IA générative — Selon Vertical Slice, chaque nouveau projet doit préciser son usage de l'IA ou expliquer pourquoi il s'en passe. ([revue du jour](../2026/11/2026-11-26.md))
+- **2026-11-26** — EA Sports FC 27 fait revenir John Motson grâce à l'IA — Voix recréée avec l'accord rémunéré de la famille, polémique chez les fans. ([revue du jour](../2026/11/2026-11-26.md))
+- **2026-11-26** — Suite : The Witcher 4 sortira le même jour sur toutes les plateformes — L'accord avec Sony est purement marketing, sortie simultanée PS5, Xbox Series et PC. ([revue du jour](../2026/11/2026-11-26.md))
+- **2026-11-26** — GTA 6 : une scénariste quitte X après une campagne de harcèlement — Alexa D'Agostino visée pour son travail sur Lucia. ([revue du jour](../2026/11/2026-11-26.md))
 - **2026-11-25** — Suite : le projet Leonida, plus gros portage pirate de GTA 6, mis hors ligne — GitHub et Discord disparus, son créateur se retire, d'autres groupes continuent. ([revue du jour](../2026/11/2026-11-25.md))
 - **2026-11-25** — CD Projekt : bénéfice en baisse, accord avec Sony pour The Witcher 4 — 109 millions de zlotys de bénéfice trimestriel, The Witcher 4 toujours visé pour 2028. ([revue du jour](../2026/11/2026-11-25.md))
 - **2026-11-25** — GTA 6 aurait privé Call of Duty de 42 % de ses joueurs quotidiens — Estimation d'Alinea Analytics ; Fortnite perd 28 % et EA Sports FC 27 environ 27 %. ([revue du jour](../2026/11/2026-11-25.md))

@@ -9,6 +9,7 @@ Archive quotidienne de l'actualité jeu vidéo, rédigée en français à partir
 
 ## Revues
 
+- [2026-11-26](2026/11/2026-11-26.md) — Ubisoft demanderait de justifier le refus de l'IA générative · EA Sports FC 27 fait revenir John Motson par IA · The Witcher 4 sortira le même jour sur PS5, Xbox Series et PC
 - [2026-11-25](2026/11/2026-11-25.md) — Le projet Leonida, plus gros portage pirate de GTA 6 sur PC, mis hors ligne · CD Projekt s'allie à Sony pour The Witcher 4, bénéfice en baisse d'environ 44 % · Call of Duty aurait perdu 42 % de ses joueurs quotidiens face à GTA 6
 - [2026-11-24](2026/11/2026-11-24.md) — Jensen Huang réintégré comme PDG de Nvidia, Trump s'en attribue le mérite · Cyberleek publie l'exécutable de GTA 6, premiers démarrages sur PC · GTA 6, plus gros lancement PlayStation avec 39 millions de joueurs
 - [2026-11-23](2026/11/2026-11-23.md) — Cyberleek promet l'exécutable de la version fuitée de GTA 6 pour ce 23 novembre · Epic retirerait les Blueprints d'Unreal Engine 6 plus tôt que prévu au profit du code IA · Deft rejoint Nongshim, Doran et Kanavi signent chez Dplus KIA

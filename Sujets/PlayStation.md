@@ -2,6 +2,7 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-26** — GTA 6 vide les rayons de PS5 aux États-Unis, PS Plus de décembre dévoilé — Ventes multipliées par 2,4 selon Circana ; Tony Hawk's Pro Skater 3 + 4 en tête du PS Plus. ([revue du jour](../2026/11/2026-11-26.md))
 - **2026-11-25** — CD Projekt : bénéfice en baisse, accord avec Sony pour The Witcher 4 — Sony participera à la campagne du jeu, la présence d'un disque n'est pas garantie. ([revue du jour](../2026/11/2026-11-25.md))
 - **2026-11-24** — GTA 6, plus gros lancement de l'histoire de PlayStation — Plus de 39 millions de joueurs uniques sur PS5 en cinq jours, streaming PS Plus Premium et premier patch. ([revue du jour](../2026/11/2026-11-24.md))
 - **2026-11-24** — Série God of War : Deborah Ann Woll reprend le rôle de Faye — L'actrice des jeux rejoint la série d'Amazon face à Dave Bautista. ([revue du jour](../2026/11/2026-11-24.md))

@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-26** — Hollow Knight: Silksong : Team Cherry s'exprime demain sur Sea of Sorrow — Présentation Cherry Time! le 27 novembre à 16 h. ([revue du jour](../2026/11/2026-11-26.md))
+- **2026-11-26** — Yooka-Laylee and the Impossible Lair revient en Definitive Edition — Le 15 décembre sur PS5, Switch 2 et PC, mise à niveau gratuite. ([revue du jour](../2026/11/2026-11-26.md))
+- **2026-11-26** — Mello & Omega annoncé, Mouse: P.I. For Hire tease un DLC — Jeu incrémental de Secret Character au printemps 2027. ([revue du jour](../2026/11/2026-11-26.md))
 - **2026-11-25** — Tiny Bookshop passe le million de ventes et annonce une extension — Le DLC Arts & Crafts sort le 5 décembre. ([revue du jour](../2026/11/2026-11-25.md))
 - **2026-11-25** — Les Atari Homebrew Awards annulés face au flot de jeux IA — L'usage de l'IA est jugé impossible à encadrer et à vérifier. ([revue du jour](../2026/11/2026-11-25.md))
 - **2026-11-25** — Suite : Queen's Domain en est à 300 000 ventes — Rectification du chiffre de 200 000 donné la veille. ([revue du jour](../2026/11/2026-11-25.md))

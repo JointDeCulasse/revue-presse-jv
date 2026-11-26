@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-26** — Metroid Dread réassorti, Metroid Ravenous daté au 28 janvier — Ocarina of Time en 1.1.2, Xenoblade 3 Switch 2 Edition détaillé. ([revue du jour](../2026/11/2026-11-26.md))
+- **2026-11-26** — Le 8-Bit Big Band retire 37 reprises de Nintendo — Des arrangements primés aux Grammy n'étaient pas correctement licenciés. ([revue du jour](../2026/11/2026-11-26.md))
 - **2026-11-25** — Mario Kart World passe en 1.9.0, Pokémon Champions gagne quatre Méga-Évolutions — Deux rallyes et huit variantes de circuits ; GTA 6 en tête des ventes physiques britanniques. ([revue du jour](../2026/11/2026-11-25.md))
 - **2026-11-24** — Wave Race: Blue Storm sur Switch 2, Kirby and the World Beyond se dévoile — Nouveau jeu GameCube dans le NSO, détails de Kirby, FFVII Revelation classé, amiibo Ocarina en 2027. ([revue du jour](../2026/11/2026-11-24.md))
 - **2026-11-22** — Kirby Air Riders a un an, Sakurai s'interroge sur son avenir — Le créateur se demande combien de jeux il pourra encore faire ; Build-A-Bear tease une peluche Donkey Kong. ([revue du jour](../2026/11/2026-11-22.md))

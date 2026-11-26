@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-26** — Suite : The Witcher 4 sortira le même jour sur toutes les plateformes — Pas d'exclusivité temporaire PlayStation malgré l'accord avec Sony. ([revue du jour](../2026/11/2026-11-26.md))
+- **2026-11-26** — Skate abandonne les saisons, Arizona Sunshine arrive sur Xbox — La version non-VR sort le 21 janvier 2027 sur Xbox Series. ([revue du jour](../2026/11/2026-11-26.md))
 - **2026-11-25** — GTA 6 : la Xbox Series X devance la PS5 selon Digital Foundry — La Series X tient mieux les 30 images par seconde. ([revue du jour](../2026/11/2026-11-25.md))
 - **2026-11-25** — Quantum Break : Remedy renvoie la balle à Microsoft — Toute suite dépend de l'éditeur, qui détient la licence. ([revue du jour](../2026/11/2026-11-25.md))
 - **2026-11-25** — Lords of the Fallen II en avril, Showa American Story repoussé à fin octobre 2027 — Nioh 3 arrive sur Xbox Series le 28 janvier 2027. ([revue du jour](../2026/11/2026-11-25.md))

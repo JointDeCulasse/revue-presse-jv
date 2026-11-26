@@ -2,6 +2,7 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-26** — GTA 6 vide les rayons de PS5 aux États-Unis — Ruptures avant le Black Friday, record de nouvelles PS5 connectées le 19 novembre. ([revue du jour](../2026/11/2026-11-26.md))
 - **2026-11-25** — Suite : Nvidia corrige enfin le bug d'écritures SSD avec le pilote 621.40 — Premiers retours positifs, confirmation indépendante encore attendue. ([revue du jour](../2026/11/2026-11-25.md))
 - **2026-11-25** — GTA 6 : la Xbox Series X devance la PS5 selon Digital Foundry — Moins de chutes de fréquence d'images et VRR à 120 Hz, la PS5 Pro reste en tête. ([revue du jour](../2026/11/2026-11-25.md))
 - **2026-11-24** — Suite : Jensen Huang réintégré à la tête de Nvidia — Retour au poste de PDG quelques semaines après sa démission, un comité indépendant enquête. ([revue du jour](../2026/11/2026-11-24.md))

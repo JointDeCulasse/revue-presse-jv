@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-26** — Ubisoft demanderait de justifier le refus de l'IA générative — L'éditeur jugerait l'IA « inévitable » dans le développement. ([revue du jour](../2026/11/2026-11-26.md))
+- **2026-11-26** — Rayman Legends Retold se raconte avant sa sortie du 3 décembre — Bande-annonce « histoire » du remake d'Ubisoft Montpellier, sorti le même jour qu'Edge of Memories. ([revue du jour](../2026/11/2026-11-26.md))
 - **2026-11-25** — The Witch's Bakery bien accueilli, Appulse sort demain — 7,5 chez ActuGaming pour Sunny Lab, le roguelite nantais de Le Rado arrive sur Steam. ([revue du jour](../2026/11/2026-11-25.md))
 - **2026-11-21** — Suite : Ubisoft recule de 16,5 % au premier semestre, l'action chute — Réservations à 644,7 M€, pertes creusées, fusion des Creative Houses 3 et 5 et action en baisse de 11 %. ([revue du jour](../2026/11/2026-11-21.md))
 - **2026-11-20** — Ubisoft licencie 166 personnes au Québec et lance Motherbrain — nouvelle réduction d'effectifs et filiale d'IA générative. ([revue du jour](../2026/11/2026-11-20.md))

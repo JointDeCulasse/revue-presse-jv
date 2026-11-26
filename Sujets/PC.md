@@ -2,6 +2,7 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-26** — Un Muv-Luv pour adultes plombé par sa traduction IA — Avis Steam tombés à « plutôt négatif ». ([revue du jour](../2026/11/2026-11-26.md))
 - **2026-11-25** — Suite : le projet Leonida, plus gros portage pirate de GTA 6, mis hors ligne — Aucun portage PC jouable à ce jour, de faux téléchargements piégés circulent. ([revue du jour](../2026/11/2026-11-25.md))
 - **2026-11-25** — Suite : Nvidia corrige enfin le bug d'écritures SSD avec le pilote 621.40 — Le correctif précédent, 621.35, était inefficace. ([revue du jour](../2026/11/2026-11-25.md))
 - **2026-11-25** — Suite : Epic confirme l'abandon des Blueprints dès Unreal Engine 6 — Ni Blueprints ni Actor Gameplay Framework dans UE6. ([revue du jour](../2026/11/2026-11-25.md))

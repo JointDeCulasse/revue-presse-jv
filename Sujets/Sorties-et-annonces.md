@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-26** — Skate abandonne les saisons, Arizona Sunshine arrive sur Xbox — Mise à jour 0.33 de Skate le 1er décembre, Dragon Quest Monsters le 3 décembre, Stage Tour le 10. ([revue du jour](../2026/11/2026-11-26.md))
+- **2026-11-26** — Rayman Legends Retold se raconte avant sa sortie du 3 décembre — Sixième monde et niveaux musicaux inédits. ([revue du jour](../2026/11/2026-11-26.md))
 - **2026-11-25** — Exoprimal fermera le 29 septembre 2027 — Capcom retire le jeu de la vente numérique le 30 mars 2027. ([revue du jour](../2026/11/2026-11-25.md))
 - **2026-11-25** — Lords of the Fallen II en avril, Showa American Story repoussé à fin octobre 2027 — Nioh 3 Complete Edition arrive aussi sur Xbox Series le 28 janvier. ([revue du jour](../2026/11/2026-11-25.md))
 - **2026-11-25** — Final Fantasy XIV rapproche l'Europe et l'Amérique, Fortnite prépare « Requiem » — Voyage entre régions dès le 1er décembre, fin du chapitre 7 de Fortnite le 5. ([revue du jour](../2026/11/2026-11-25.md))
