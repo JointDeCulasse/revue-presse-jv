@@ -2,6 +2,10 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-27** — Chez Rockstar UK, 75 % des votants refusent le syndicat — Le vote sur la reconnaissance du syndicat IWGB, mené pendant la sortie de GTA 6, échoue nettement. ([revue du jour](../2026/11/2026-11-27.md))
+- **2026-11-27** — GTA 6 : record physique au Royaume-Uni sans aucun disque — 32 millions de livres en trois jours, plus d'un million de boîtes en France et ventes de Xbox Series en hausse de 75 % au Royaume-Uni. ([revue du jour](../2026/11/2026-11-27.md))
+- **2026-11-27** — Japon : GTA 6 offre à la PS5 une rare victoire sur la Switch 2 — 200 759 exemplaires au lancement selon Famitsu, PS5 à 41 472 unités contre 36 817 pour la Switch 2. ([revue du jour](../2026/11/2026-11-27.md))
+- **2026-11-27** — GitHub salue un portage pirate de GTA 6, puis se ravise — Le compte de la filiale de Microsoft supprime vite un message enthousiaste sur les portages PC non officiels. ([revue du jour](../2026/11/2026-11-27.md))
 - **2026-11-26** — Ubisoft demanderait de justifier le refus de l'IA générative — Selon Vertical Slice, chaque nouveau projet doit préciser son usage de l'IA ou expliquer pourquoi il s'en passe. ([revue du jour](../2026/11/2026-11-26.md))
 - **2026-11-26** — EA Sports FC 27 fait revenir John Motson grâce à l'IA — Voix recréée avec l'accord rémunéré de la famille, polémique chez les fans. ([revue du jour](../2026/11/2026-11-26.md))
 - **2026-11-26** — Suite : The Witcher 4 sortira le même jour sur toutes les plateformes — L'accord avec Sony est purement marketing, sortie simultanée PS5, Xbox Series et PC. ([revue du jour](../2026/11/2026-11-26.md))

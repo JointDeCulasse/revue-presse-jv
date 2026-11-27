@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-27** — Ubisoft veut faire de Rayman une star transmédia, la France part à la Gamescom Latam — Ambition transmédia avant Rayman Legends Retold, et délégation de studios français à São Paulo en avril 2027. ([revue du jour](../2026/11/2026-11-27.md))
+- **2026-11-27** — GTA 6 dépasse le million de boîtes en France — Plus d'un million d'exemplaires physiques (codes sans disque) vendus en trois jours. ([revue du jour](../2026/11/2026-11-27.md))
 - **2026-11-26** — Ubisoft demanderait de justifier le refus de l'IA générative — L'éditeur jugerait l'IA « inévitable » dans le développement. ([revue du jour](../2026/11/2026-11-26.md))
 - **2026-11-26** — Rayman Legends Retold se raconte avant sa sortie du 3 décembre — Bande-annonce « histoire » du remake d'Ubisoft Montpellier, sorti le même jour qu'Edge of Memories. ([revue du jour](../2026/11/2026-11-26.md))
 - **2026-11-25** — The Witch's Bakery bien accueilli, Appulse sort demain — 7,5 chez ActuGaming pour Sunny Lab, le roguelite nantais de Le Rado arrive sur Steam. ([revue du jour](../2026/11/2026-11-25.md))

@@ -2,6 +2,7 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-27** — Chez Rockstar UK, 75 % des votants refusent le syndicat — Environ 1 600 salariés étaient appelés à voter ; Rockstar salue un attachement aux relations directes. ([revue du jour](../2026/11/2026-11-27.md))
 - **2026-11-26** — Après 21 ans sur Call of Duty, il déconseille de travailler dans le jeu vidéo — Gavin Goslin, ex-Treyarch, invoque l'instabilité de l'emploi. ([revue du jour](../2026/11/2026-11-26.md))
 - **2026-11-25** — Gravity Well, fondé par des anciens d'Apex Legends, se met en sommeil — Aucun jeu sorti, plus de 40 licenciements en octobre après la perte du financement. ([revue du jour](../2026/11/2026-11-25.md))
 - **2026-11-25** — Suite : ce que Mass Effect: Universe réservait aux anciens personnages — La scénariste Catherynne M. Valente évoque leur sort et les fins de Mass Effect 3. ([revue du jour](../2026/11/2026-11-25.md))

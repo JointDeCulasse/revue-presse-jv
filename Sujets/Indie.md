@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-27** — Silksong : Aeterna Lucis ne reculera plus face à Team Cherry — Le metroidvania d'Aeternum garde sa sortie du 3 décembre, le jour de la présentation Cherry Time!. ([revue du jour](../2026/11/2026-11-27.md))
+- **2026-11-27** — Les Picross de Jupiter passent le million, Hark the Ghoul daté — Plus d'un million de ventes sur Switch pour Picross ; Hark the Ghoul le 21 janvier 2027 sur PC et consoles. ([revue du jour](../2026/11/2026-11-27.md))
 - **2026-11-26** — Hollow Knight: Silksong : Team Cherry s'exprime demain sur Sea of Sorrow — Présentation Cherry Time! le 27 novembre à 16 h. ([revue du jour](../2026/11/2026-11-26.md))
 - **2026-11-26** — Yooka-Laylee and the Impossible Lair revient en Definitive Edition — Le 15 décembre sur PS5, Switch 2 et PC, mise à niveau gratuite. ([revue du jour](../2026/11/2026-11-26.md))
 - **2026-11-26** — Mello & Omega annoncé, Mouse: P.I. For Hire tease un DLC — Jeu incrémental de Secret Character au printemps 2027. ([revue du jour](../2026/11/2026-11-26.md))

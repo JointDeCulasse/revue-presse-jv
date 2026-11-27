@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-27** — Vermintide 2 ouvre ses outils de mod, le patron de Path of Exile 2 tacle Blizzard — Fatshark publie ses outils de mod ; Jonathan Rogers critique les annonces qui gardent le meilleur pour la fin. ([revue du jour](../2026/11/2026-11-27.md))
+- **2026-11-27** — GitHub salue un portage pirate de GTA 6, puis se ravise — Message vite supprimé sur les tentatives de faire tourner la version console fuitée sur PC. ([revue du jour](../2026/11/2026-11-27.md))
 - **2026-11-26** — Un Muv-Luv pour adultes plombé par sa traduction IA — Avis Steam tombés à « plutôt négatif ». ([revue du jour](../2026/11/2026-11-26.md))
 - **2026-11-25** — Suite : le projet Leonida, plus gros portage pirate de GTA 6, mis hors ligne — Aucun portage PC jouable à ce jour, de faux téléchargements piégés circulent. ([revue du jour](../2026/11/2026-11-25.md))
 - **2026-11-25** — Suite : Nvidia corrige enfin le bug d'écritures SSD avec le pilote 621.40 — Le correctif précédent, 621.35, était inefficace. ([revue du jour](../2026/11/2026-11-25.md))

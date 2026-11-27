@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-27** — Phantom Blade Zero se met à jour samedi, Hitman accueille Lenny Kravitz — Patch de 7 Go le 28 novembre et croisement Hitman x 007 First Light jusqu'au 24 décembre. ([revue du jour](../2026/11/2026-11-27.md))
+- **2026-11-27** — Japon : la PS5 devance la Switch 2 grâce à GTA 6 — 41 472 PS5 contre 36 817 Switch 2 sur la semaine selon Famitsu. ([revue du jour](../2026/11/2026-11-27.md))
 - **2026-11-26** — GTA 6 vide les rayons de PS5 aux États-Unis, PS Plus de décembre dévoilé — Ventes multipliées par 2,4 selon Circana ; Tony Hawk's Pro Skater 3 + 4 en tête du PS Plus. ([revue du jour](../2026/11/2026-11-26.md))
 - **2026-11-25** — CD Projekt : bénéfice en baisse, accord avec Sony pour The Witcher 4 — Sony participera à la campagne du jeu, la présence d'un disque n'est pas garantie. ([revue du jour](../2026/11/2026-11-25.md))
 - **2026-11-24** — GTA 6, plus gros lancement de l'histoire de PlayStation — Plus de 39 millions de joueurs uniques sur PS5 en cinq jours, streaming PS Plus Premium et premier patch. ([revue du jour](../2026/11/2026-11-24.md))
