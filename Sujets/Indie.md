@@ -2,6 +2,10 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-28** — Silksong : Sea of Sorrow sort le 11 décembre, gratuitement — Nouvelles zones océaniques, boss, outils et pêche, sur toutes les plateformes. ([revue du jour](../2026/11/2026-11-28.md))
+- **2026-11-28** — Team Cherry devient éditeur avec trois jeux australiens — Le label Team Cherry Presents accompagne Blokkan, Radio Rain et The Botanist and the Translator sur PC. ([revue du jour](../2026/11/2026-11-28.md))
+- **2026-11-28** — Indé en bref : The Streamer's Alt Account Labyrinth daté, sélection Thanksgaming — Sortie PC le 29 janvier 2027 et douze indés méconnus mis en avant par Kotaku. ([revue du jour](../2026/11/2026-11-28.md))
+- **2026-11-28** — Suite : Playtonic explique pourquoi Yooka-Laylee boude l'Xbox — Le studio invoque coûts et contraintes techniques pour sa Definitive Edition. ([revue du jour](../2026/11/2026-11-28.md))
 - **2026-11-27** — Silksong : Aeterna Lucis ne reculera plus face à Team Cherry — Le metroidvania d'Aeternum garde sa sortie du 3 décembre, le jour de la présentation Cherry Time!. ([revue du jour](../2026/11/2026-11-27.md))
 - **2026-11-27** — Les Picross de Jupiter passent le million, Hark the Ghoul daté — Plus d'un million de ventes sur Switch pour Picross ; Hark the Ghoul le 21 janvier 2027 sur PC et consoles. ([revue du jour](../2026/11/2026-11-27.md))
 - **2026-11-26** — Hollow Knight: Silksong : Team Cherry s'exprime demain sur Sea of Sorrow — Présentation Cherry Time! le 27 novembre à 16 h. ([revue du jour](../2026/11/2026-11-26.md))

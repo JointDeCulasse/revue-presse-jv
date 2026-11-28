@@ -9,6 +9,7 @@ Archive quotidienne de l'actualité jeu vidéo, rédigée en français à partir
 
 ## Revues
 
+- [2026-11-28](2026/11/2026-11-28.md) — Silksong : l'extension gratuite Sea of Sorrow sort le 11 décembre · Marvelous cherche 65 départs volontaires · Ubisoft dément imposer l'IA générative et défend le « quadruple A » de Skull and Bones
 - [2026-11-27](2026/11/2026-11-27.md) — Rockstar UK : 75 % des votants refusent le syndicat · GTA 6 bat des records physiques sans disque au Royaume-Uni et en France · Au Japon, GTA 6 fait passer la PS5 devant la Switch 2
 - [2026-11-26](2026/11/2026-11-26.md) — Ubisoft demanderait de justifier le refus de l'IA générative · EA Sports FC 27 fait revenir John Motson par IA · The Witcher 4 sortira le même jour sur PS5, Xbox Series et PC
 - [2026-11-25](2026/11/2026-11-25.md) — Le projet Leonida, plus gros portage pirate de GTA 6 sur PC, mis hors ligne · CD Projekt s'allie à Sony pour The Witcher 4, bénéfice en baisse d'environ 44 % · Call of Duty aurait perdu 42 % de ses joueurs quotidiens face à GTA 6

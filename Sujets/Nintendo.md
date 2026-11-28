@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-28** — Conker 64 ressurgit, Doug Bowser se moque des critiques de son image IA — Tim Stamper dévoile des archives du Conker 64 annulé ; l'ex-patron de Nintendo of America assume son image générée par IA. ([revue du jour](../2026/11/2026-11-28.md))
+- **2026-11-28** — Square Enix attribue en partie ses bons résultats à la Switch 2 — Le soutien à la console de Nintendo est cité parmi les moteurs de la hausse. ([revue du jour](../2026/11/2026-11-28.md))
 - **2026-11-27** — Pikmin 4 sur Switch 2 sera corrigé, Pokémon Champions s'associe à Pokémon GO — Patch promis contre les chargements, collaboration du 8 au 18 décembre et Splatoon 3 en 12.0.1. ([revue du jour](../2026/11/2026-11-27.md))
 - **2026-11-26** — Metroid Dread réassorti, Metroid Ravenous daté au 28 janvier — Ocarina of Time en 1.1.2, Xenoblade 3 Switch 2 Edition détaillé. ([revue du jour](../2026/11/2026-11-26.md))
 - **2026-11-26** — Le 8-Bit Big Band retire 37 reprises de Nintendo — Des arrangements primés aux Grammy n'étaient pas correctement licenciés. ([revue du jour](../2026/11/2026-11-26.md))

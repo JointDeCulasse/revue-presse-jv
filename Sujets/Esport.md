@@ -2,6 +2,7 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-28** — Suite : PGL Major Singapore, FaZe et HEROIC sortent dès la phase 1 — Lynn Vision, 100 Thieves et Imperial arrachent les dernières places, Liquid reste seule équipe nord-américaine. ([revue du jour](../2026/11/2026-11-28.md))
 - **2026-11-25** — PGL Major Singapore : FaZe battu d'entrée, Liquid et NiP à 2-0 — Imperial et FlyQuest également invaincus après la première journée. ([revue du jour](../2026/11/2026-11-25.md))
 - **2026-11-25** — EVO Japan 2027 : sept jeux, dont Marvel Tokon — Du 29 avril au 1er mai 2027 au Tokyo Big Sight. ([revue du jour](../2026/11/2026-11-25.md))
 - **2026-11-23** — Mercato LoL : Deft chez Nongshim, Doran et Kanavi chez Dplus KIA — Deft revient du service militaire ; Paper Rex remanie aussi son effectif Valorant. ([revue du jour](../2026/11/2026-11-23.md))

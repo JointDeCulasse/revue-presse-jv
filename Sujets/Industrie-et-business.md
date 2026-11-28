@@ -2,6 +2,9 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-28** — Suite : Ubisoft dément imposer l'IA générative à ses équipes — L'éditeur dit encourager ses développeurs à explorer l'IA sans obligation à l'échelle du groupe, malgré les témoignages de pression. ([revue du jour](../2026/11/2026-11-28.md))
+- **2026-11-28** — Ubisoft plaide la « vantardise commerciale » pour le « quadruple A » de Skull and Bones — Poursuivi au Kansas par un acheteur, l'éditeur estime que la formule d'Yves Guillemot relève de l'exagération publicitaire. ([revue du jour](../2026/11/2026-11-28.md))
+- **2026-11-28** — Square Enix attribue en partie ses bons résultats à la Switch 2 — Le président Takashi Kiryu crédite les portages Switch 2 dans la hausse des ventes et du résultat. ([revue du jour](../2026/11/2026-11-28.md))
 - **2026-11-27** — Chez Rockstar UK, 75 % des votants refusent le syndicat — Le vote sur la reconnaissance du syndicat IWGB, mené pendant la sortie de GTA 6, échoue nettement. ([revue du jour](../2026/11/2026-11-27.md))
 - **2026-11-27** — GTA 6 : record physique au Royaume-Uni sans aucun disque — 32 millions de livres en trois jours, plus d'un million de boîtes en France et ventes de Xbox Series en hausse de 75 % au Royaume-Uni. ([revue du jour](../2026/11/2026-11-27.md))
 - **2026-11-27** — Japon : GTA 6 offre à la PS5 une rare victoire sur la Switch 2 — 200 759 exemplaires au lancement selon Famitsu, PS5 à 41 472 unités contre 36 817 pour la Switch 2. ([revue du jour](../2026/11/2026-11-27.md))

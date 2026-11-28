@@ -2,6 +2,7 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-28** — Suite : Playtonic explique pourquoi Yooka-Laylee boude l'Xbox — Pas de Definitive Edition sur Xbox Series pour des raisons de coût et de technique. ([revue du jour](../2026/11/2026-11-28.md))
 - **2026-11-27** — Xbox promet de mieux signer ses jeux en 2027, Yooka-Laylee l'oublie — Matthew Ball annonce un correctif de marque en 2027 ; la Definitive Edition de Playtonic fait l'impasse sur Xbox. ([revue du jour](../2026/11/2026-11-27.md))
 - **2026-11-26** — Suite : The Witcher 4 sortira le même jour sur toutes les plateformes — Pas d'exclusivité temporaire PlayStation malgré l'accord avec Sony. ([revue du jour](../2026/11/2026-11-26.md))
 - **2026-11-26** — Skate abandonne les saisons, Arizona Sunshine arrive sur Xbox — La version non-VR sort le 21 janvier 2027 sur Xbox Series. ([revue du jour](../2026/11/2026-11-26.md))

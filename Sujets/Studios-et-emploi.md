@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-28** — Marvelous veut 65 départs volontaires et mise sur la sous-traitance — L'éditeur de Story of Seasons ouvre un appel à départs dans sa division console et PC, pour un coût d'environ 220 millions de yens. ([revue du jour](../2026/11/2026-11-28.md))
+- **2026-11-28** — Le remake de The Simpsons: Hit & Run aurait été annulé — Un designer de New Radical Games évoque sur LinkedIn l'annulation du projet non annoncé du studio. ([revue du jour](../2026/11/2026-11-28.md))
 - **2026-11-27** — Chez Rockstar UK, 75 % des votants refusent le syndicat — Environ 1 600 salariés étaient appelés à voter ; Rockstar salue un attachement aux relations directes. ([revue du jour](../2026/11/2026-11-27.md))
 - **2026-11-26** — Après 21 ans sur Call of Duty, il déconseille de travailler dans le jeu vidéo — Gavin Goslin, ex-Treyarch, invoque l'instabilité de l'emploi. ([revue du jour](../2026/11/2026-11-26.md))
 - **2026-11-25** — Gravity Well, fondé par des anciens d'Apex Legends, se met en sommeil — Aucun jeu sorti, plus de 40 licenciements en octobre après la perte du financement. ([revue du jour](../2026/11/2026-11-25.md))

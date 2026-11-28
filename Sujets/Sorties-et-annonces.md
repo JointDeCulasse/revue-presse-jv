@@ -2,6 +2,8 @@
 
 Fil thématique cumulatif, l'entrée la plus récente en haut.
 
+- **2026-11-28** — Silksong : Sea of Sorrow sort le 11 décembre, gratuitement — La première grosse extension de Hollow Knight: Silksong est enfin datée. ([revue du jour](../2026/11/2026-11-28.md))
+- **2026-11-28** — Indé en bref : The Streamer's Alt Account Labyrinth daté, sélection Thanksgaming — Le dungeon-RPG sort le 29 janvier 2027 sur PC, sur Switch plus tard. ([revue du jour](../2026/11/2026-11-28.md))
 - **2026-11-27** — The Witcher 3 Remastered corrige un bug de loup-garou et rééquilibre les Signes — Le patch 5.02 corrige éclairage et saccades sur PS5 et affaiblit certains Signes. ([revue du jour](../2026/11/2026-11-27.md))
 - **2026-11-26** — Skate abandonne les saisons, Arizona Sunshine arrive sur Xbox — Mise à jour 0.33 de Skate le 1er décembre, Dragon Quest Monsters le 3 décembre, Stage Tour le 10. ([revue du jour](../2026/11/2026-11-26.md))
 - **2026-11-26** — Rayman Legends Retold se raconte avant sa sortie du 3 décembre — Sixième monde et niveaux musicaux inédits. ([revue du jour](../2026/11/2026-11-26.md))
